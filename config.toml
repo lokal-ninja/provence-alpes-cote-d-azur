@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/provence-alpes-cote-d-azur"
+languageCode = "fr"
+title = "Provence Alpes-Cote-d'Azur"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "provence-alpes-cote-d-azur"
+
+[taxonomies]
+  shop = "shops"
