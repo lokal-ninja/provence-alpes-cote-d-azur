@@ -1,5 +1,5 @@
 ---
 title: "Tissus choc"
 url: /orange/tissus-choc/
-shop: shop
+shop: tissu
 ---
