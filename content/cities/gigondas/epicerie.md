@@ -1,5 +1,5 @@
 ---
-title: "Epicerie"
+title: "Épicerie"
 url: /gigondas/epicerie/
-shop: supermarché
+shop: commodité
 ---

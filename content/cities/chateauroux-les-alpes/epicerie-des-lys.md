@@ -1,5 +1,5 @@
 ---
-title: "Epicerie des Lys"
+title: "Épicerie des Lys"
 url: /chateauroux-les-alpes/epicerie-des-lys/
 shop: commodité
 ---

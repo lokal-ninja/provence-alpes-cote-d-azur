@@ -1,5 +1,5 @@
 ---
-title: "Epicerie Sociale"
+title: "Épicerie sociale"
 url: /orange/epicerie-sociale/
 shop: commodité
 ---

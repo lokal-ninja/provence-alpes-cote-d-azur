@@ -1,5 +1,5 @@
 ---
-title: "Epicerie Mellone Etienne"
+title: "Épicerie Mellone Étienne"
 url: /enchastrayes/epicerie-mellone-etienne/
 shop: commodité
 ---
