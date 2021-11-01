@@ -1,6 +1,6 @@
 ---
 title: Auron
 url: /auron/
-latitude: 43.831485300000004
-longitude: 5.353550800000001
+latitude: 44.2262702
+longitude: 6.9309839
 ---
