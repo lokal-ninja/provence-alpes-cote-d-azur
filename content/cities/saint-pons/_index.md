@@ -1,6 +1,6 @@
 ---
 title: Saint-Pons
 url: /saint-pons/
-latitude: 43.6950261
-longitude: 6.8459617
+latitude: 43.571731
+longitude: 6.488308
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bleu libellule"
+title: "Bleu Libellule"
 url: /orange/bleu-libellule/
-shop: beauté
+shop: fournitures pour coiffeurs
 ---

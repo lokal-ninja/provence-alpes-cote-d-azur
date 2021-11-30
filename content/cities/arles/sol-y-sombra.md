@@ -1,5 +1,5 @@
 ---
 title: "Sol Y Sombra"
 url: /arles/sol-y-sombra/
-shop: shop
+shop: vêtements
 ---
