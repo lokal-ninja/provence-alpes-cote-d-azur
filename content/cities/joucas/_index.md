@@ -1,6 +1,6 @@
 ---
 title: Joucas
 url: /joucas/
-latitude: 43.9258948
-longitude: 5.2528118
+latitude: 43.926
+longitude: 5.253
 ---

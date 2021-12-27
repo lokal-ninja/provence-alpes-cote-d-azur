@@ -1,6 +1,6 @@
 ---
 title: Orcières
 url: /orcieres/
-latitude: 44.683320300000005
-longitude: 6.326747500000001
+latitude: 44.695
+longitude: 6.321
 ---

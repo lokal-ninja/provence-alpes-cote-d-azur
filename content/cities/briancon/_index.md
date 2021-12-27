@@ -1,6 +1,6 @@
 ---
 title: Briançon
 url: /briancon/
-latitude: 44.2478709
-longitude: 6.107112000000001
+latitude: 44.896
+longitude: 6.637
 ---

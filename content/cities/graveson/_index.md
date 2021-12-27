@@ -1,6 +1,6 @@
 ---
 title: Graveson
 url: /graveson/
-latitude: 43.8516775
-longitude: 4.7729441
+latitude: 43.885
+longitude: 4.779
 ---

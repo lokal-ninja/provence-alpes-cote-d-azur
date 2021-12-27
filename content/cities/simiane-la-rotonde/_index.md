@@ -1,6 +1,6 @@
 ---
 title: simiane la rotonde
 url: /simiane-la-rotonde/
-latitude: 
-longitude: 
+latitude: 43.958
+longitude: 5.591
 ---

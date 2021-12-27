@@ -1,6 +1,6 @@
 ---
 title: Pierrefeu
 url: /pierrefeu/
-latitude: 43.8755187
-longitude: 7.0814224
+latitude: 43.863
+longitude: 7.089
 ---

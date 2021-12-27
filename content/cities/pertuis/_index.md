@@ -1,6 +1,6 @@
 ---
 title: Pertuis
 url: /pertuis/
-latitude: 43.6951468
-longitude: 5.5032671
+latitude: 43.695
+longitude: 5.492
 ---

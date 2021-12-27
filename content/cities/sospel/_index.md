@@ -1,6 +1,6 @@
 ---
 title: Sospel
 url: /sospel/
-latitude: 43.878564700000005
-longitude: 7.449823500000001
+latitude: 43.878
+longitude: 7.446
 ---

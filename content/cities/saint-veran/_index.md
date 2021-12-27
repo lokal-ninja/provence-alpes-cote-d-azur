@@ -1,6 +1,6 @@
 ---
 title: Saint-Véran
 url: /saint-veran/
-latitude: 43.8417741
-longitude: 5.251776
+latitude: 44.702
+longitude: 6.867
 ---

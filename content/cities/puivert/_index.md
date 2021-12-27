@@ -1,6 +1,6 @@
 ---
 title: Puivert
 url: /puivert/
-latitude: 
-longitude: 
+latitude: 43.747
+longitude: 5.337
 ---

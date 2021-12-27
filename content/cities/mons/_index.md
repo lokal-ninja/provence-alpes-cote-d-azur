@@ -1,6 +1,6 @@
 ---
 title: Mons
 url: /mons/
-latitude: 43.689695300000004
-longitude: 6.713687200000001
+latitude: 43.69
+longitude: 6.713
 ---

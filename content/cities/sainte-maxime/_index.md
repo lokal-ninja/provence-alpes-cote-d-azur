@@ -1,6 +1,6 @@
 ---
 title: Sainte-Maxime
 url: /sainte-maxime/
-latitude: 43.308710000000005
-longitude: 6.637714000000001
+latitude: 43.31
+longitude: 6.638
 ---

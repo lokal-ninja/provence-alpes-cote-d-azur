@@ -1,6 +1,6 @@
 ---
 title: Draguignan
 url: /draguignan/
-latitude: 43.537466200000004
-longitude: 6.4627333
+latitude: 43.536
+longitude: 6.464
 ---

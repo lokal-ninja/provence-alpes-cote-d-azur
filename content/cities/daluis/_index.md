@@ -1,6 +1,6 @@
 ---
 title: DALUIS
 url: /daluis/
-latitude: 
-longitude: 
+latitude: 44.028
+longitude: 6.811
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rue Jean-Jaurès
 url: /rue-jean-jaures/
-latitude: 
-longitude: 
+latitude: 43.433
+longitude: 6.735
 ---

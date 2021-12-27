@@ -1,6 +1,6 @@
 ---
 title: Le Pontet
 url: /le-pontet/
-latitude: 43.9621858
-longitude: 4.8602588
+latitude: 43.983
+longitude: 4.881
 ---

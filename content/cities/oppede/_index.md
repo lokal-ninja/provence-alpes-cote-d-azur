@@ -1,6 +1,6 @@
 ---
 title: Oppède
 url: /oppede/
-latitude: 43.8451144
-longitude: 5.168989000000001
+latitude: 43.867
+longitude: 5.15
 ---

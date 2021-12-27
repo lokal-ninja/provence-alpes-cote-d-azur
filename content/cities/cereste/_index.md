@@ -1,6 +1,6 @@
 ---
 title: Céreste
 url: /cereste/
-latitude: 43.8559446
-longitude: 5.5895866000000005
+latitude: 43.856
+longitude: 5.592
 ---

@@ -1,6 +1,6 @@
 ---
 title: Savines-le-lac
 url: /savines-le-lac/
-latitude: 
-longitude: 
+latitude: 44.526
+longitude: 6.409
 ---

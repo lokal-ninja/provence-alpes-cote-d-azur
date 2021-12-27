@@ -1,5 +1,5 @@
 ---
-title: "/perene"
+title: "/ perene"
 url: /gap/perene/
-shop: meubles
+shop: décoration intérieure
 ---

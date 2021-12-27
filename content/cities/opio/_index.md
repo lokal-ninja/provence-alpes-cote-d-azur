@@ -1,6 +1,6 @@
 ---
 title: Opio
 url: /opio/
-latitude: 43.6684761
-longitude: 6.9820279
+latitude: 43.668
+longitude: 6.986
 ---

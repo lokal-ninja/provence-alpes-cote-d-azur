@@ -1,6 +1,6 @@
 ---
 title: Cuges les Pins
 url: /cuges-les-pins/
-latitude: 
-longitude: 
+latitude: 43.276
+longitude: 5.716
 ---

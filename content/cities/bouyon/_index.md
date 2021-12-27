@@ -1,6 +1,6 @@
 ---
 title: Bouyon
 url: /bouyon/
-latitude: 43.825307200000005
-longitude: 7.123215900000001
+latitude: 43.817
+longitude: 7.164
 ---

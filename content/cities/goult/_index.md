@@ -1,6 +1,6 @@
 ---
 title: Goult
 url: /goult/
-latitude: 43.8635553
-longitude: 5.2434868
+latitude: 43.863
+longitude: 5.287
 ---

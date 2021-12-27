@@ -1,6 +1,6 @@
 ---
 title: Rognac
 url: /rognac/
-latitude: 43.4872341
-longitude: 5.2342903000000005
+latitude: 43.486
+longitude: 5.222
 ---

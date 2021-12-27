@@ -1,6 +1,6 @@
 ---
 title: Aiguines
 url: /aiguines/
-latitude: 43.7757324
-longitude: 6.2434829
+latitude: 43.775
+longitude: 6.243
 ---

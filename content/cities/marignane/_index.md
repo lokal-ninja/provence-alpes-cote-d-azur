@@ -1,6 +1,6 @@
 ---
 title: Marignane
 url: /marignane/
-latitude: 43.4162729
-longitude: 5.214627500000001
+latitude: 43.412
+longitude: 5.219
 ---

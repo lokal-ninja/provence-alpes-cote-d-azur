@@ -1,6 +1,6 @@
 ---
 title: ROBION
 url: /robion/
-latitude: 
-longitude: 
+latitude: 43.848
+longitude: 5.11
 ---

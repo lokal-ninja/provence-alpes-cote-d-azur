@@ -1,6 +1,6 @@
 ---
 title: Valberg
 url: /valberg/
-latitude: 44.0956228
-longitude: 6.930138400000001
+latitude: 44.09
+longitude: 6.939
 ---

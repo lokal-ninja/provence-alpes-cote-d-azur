@@ -1,6 +1,6 @@
 ---
 title: Raphele
 url: /raphele/
-latitude: 
-longitude: 
+latitude: 43.645
+longitude: 4.718
 ---

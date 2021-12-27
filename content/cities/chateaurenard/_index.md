@@ -1,6 +1,6 @@
 ---
 title: Châteaurenard
 url: /chateaurenard/
-latitude: 43.8820448
-longitude: 4.85568
+latitude: 43.886
+longitude: 4.857
 ---

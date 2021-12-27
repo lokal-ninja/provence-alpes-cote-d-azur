@@ -1,6 +1,6 @@
 ---
 title: Villefranche-sur-Mer
 url: /villefranche-sur-mer/
-latitude: 
-longitude: 
+latitude: 43.705
+longitude: 7.31
 ---

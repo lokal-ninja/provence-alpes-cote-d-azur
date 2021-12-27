@@ -1,6 +1,6 @@
 ---
 title: Collongues
 url: /collongues/
-latitude: 43.8885251
-longitude: 6.8630222000000005
+latitude: 43.902
+longitude: 6.857
 ---

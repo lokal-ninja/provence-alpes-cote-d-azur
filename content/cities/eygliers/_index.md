@@ -1,6 +1,6 @@
 ---
 title: Eygliers
 url: /eygliers/
-latitude: 44.6763196
-longitude: 6.6341909
+latitude: 44.667
+longitude: 6.618
 ---

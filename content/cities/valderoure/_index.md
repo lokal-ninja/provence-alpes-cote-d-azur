@@ -1,6 +1,6 @@
 ---
 title: Valderoure
 url: /valderoure/
-latitude: 43.7970759
-longitude: 6.709446000000001
+latitude: 43.798
+longitude: 6.738
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Gaude
 url: /la-gaude/
-latitude: 43.7228225
-longitude: 7.1503312
+latitude: 43.732
+longitude: 7.164
 ---

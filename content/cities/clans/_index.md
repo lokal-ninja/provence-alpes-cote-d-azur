@@ -1,6 +1,6 @@
 ---
 title: Clans
 url: /clans/
-latitude: 43.994937
-longitude: 7.14749
+latitude: 43.977
+longitude: 7.14
 ---

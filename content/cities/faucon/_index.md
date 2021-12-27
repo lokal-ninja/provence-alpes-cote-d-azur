@@ -1,6 +1,6 @@
 ---
 title: Faucon
 url: /faucon/
-latitude: 43.797136
-longitude: 5.7893925
+latitude: 44.259
+longitude: 5.146
 ---

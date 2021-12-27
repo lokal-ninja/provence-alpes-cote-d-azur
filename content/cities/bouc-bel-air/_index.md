@@ -1,6 +1,6 @@
 ---
 title: Bouc-Bel-Air
 url: /bouc-bel-air/
-latitude: 43.4511819
-longitude: 5.412784800000001
+latitude: 43.461
+longitude: 5.414
 ---

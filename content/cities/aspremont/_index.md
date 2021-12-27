@@ -1,6 +1,6 @@
 ---
 title: Aspremont
 url: /aspremont/
-latitude: 43.7832717
-longitude: 7.2440882
+latitude: 44.488
+longitude: 5.729
 ---

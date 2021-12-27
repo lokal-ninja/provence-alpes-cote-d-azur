@@ -1,6 +1,6 @@
 ---
 title: Montbrand
 url: /montbrand/
-latitude: 44.589625600000005
-longitude: 5.6821089
+latitude: 44.591
+longitude: 5.683
 ---

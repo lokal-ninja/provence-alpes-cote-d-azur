@@ -1,6 +1,6 @@
 ---
 title: Mérindol
 url: /merindol/
-latitude: 43.7556722
-longitude: 5.2025695
+latitude: 43.755
+longitude: 5.203
 ---

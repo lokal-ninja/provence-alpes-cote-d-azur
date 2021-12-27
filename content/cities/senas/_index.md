@@ -1,6 +1,6 @@
 ---
 title: Sénas
 url: /senas/
-latitude: 43.744668600000004
-longitude: 5.0786240000000005
+latitude: 43.74
+longitude: 5.097
 ---

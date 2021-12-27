@@ -1,6 +1,6 @@
 ---
 title: Ceillac
 url: /ceillac/
-latitude: 44.668328200000005
-longitude: 6.778012400000001
+latitude: 44.667
+longitude: 6.778
 ---

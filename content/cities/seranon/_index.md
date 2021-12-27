@@ -1,6 +1,6 @@
 ---
 title: Séranon
 url: /seranon/
-latitude: 43.7742384
-longitude: 6.7041357
+latitude: 43.766
+longitude: 6.652
 ---

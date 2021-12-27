@@ -1,6 +1,6 @@
 ---
 title: Isola
 url: /isola/
-latitude: 43.8260336
-longitude: 7.489883300000001
+latitude: 44.186
+longitude: 7.158
 ---

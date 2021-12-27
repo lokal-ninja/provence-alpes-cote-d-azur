@@ -1,6 +1,6 @@
 ---
 title: Fontvieille
 url: /fontvieille/
-latitude: 43.7277586
-longitude: 7.4182820000000005
+latitude: 43.736
+longitude: 4.742
 ---

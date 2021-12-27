@@ -1,6 +1,6 @@
 ---
 title: Trgance
 url: /trgance/
-latitude: 
-longitude: 
+latitude: 43.76
+longitude: 6.457
 ---

@@ -1,6 +1,6 @@
 ---
 title: St Cézaire
 url: /st-cezaire/
-latitude: 
-longitude: 
+latitude: 43.647
+longitude: 6.795
 ---

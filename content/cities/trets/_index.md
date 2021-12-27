@@ -1,6 +1,6 @@
 ---
 title: trets
 url: /trets/
-latitude: 
-longitude: 
+latitude: 43.451
+longitude: 5.683
 ---

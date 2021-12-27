@@ -1,6 +1,6 @@
 ---
 title: Gréolières
 url: /greolieres/
-latitude: 43.795180900000005
-longitude: 6.9435947
+latitude: 43.793
+longitude: 6.952
 ---

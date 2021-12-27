@@ -1,6 +1,6 @@
 ---
 title: Sigale
 url: /sigale/
-latitude: 
-longitude: 
+latitude: 43.867
+longitude: 6.955
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flayosc
 url: /flayosc/
-latitude: 
-longitude: 
+latitude: 43.535
+longitude: 6.394
 ---

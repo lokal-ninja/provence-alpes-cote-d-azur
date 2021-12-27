@@ -1,6 +1,6 @@
 ---
 title: Maubec
 url: /maubec/
-latitude: 43.8414834
-longitude: 5.1344205
+latitude: 43.868
+longitude: 5.146
 ---

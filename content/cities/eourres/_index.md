@@ -1,6 +1,6 @@
 ---
 title: Éourres
 url: /eourres/
-latitude: 44.212851900000004
-longitude: 5.6989888
+latitude: 44.213
+longitude: 5.699
 ---

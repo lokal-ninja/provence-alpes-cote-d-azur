@@ -1,6 +1,6 @@
 ---
 title: Vedène
 url: /vedene/
-latitude: 43.9787328
-longitude: 4.9035659
+latitude: 43.964
+longitude: 4.893
 ---

@@ -1,6 +1,6 @@
 ---
 title: Moulès
 url: /moules/
-latitude: 44.067835900000006
-longitude: 5.972401100000001
+latitude: 43.641
+longitude: 4.742
 ---

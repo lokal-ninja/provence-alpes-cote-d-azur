@@ -1,6 +1,6 @@
 ---
 title: Correns
 url: /correns/
-latitude: 43.4876955
-longitude: 6.0809313000000005
+latitude: 43.486
+longitude: 6.08
 ---

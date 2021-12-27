@@ -1,6 +1,6 @@
 ---
 title: Le Muy
 url: /le-muy/
-latitude: 43.4713932
-longitude: 6.566111
+latitude: 43.476
+longitude: 6.569
 ---

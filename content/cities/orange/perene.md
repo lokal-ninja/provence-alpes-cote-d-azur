@@ -1,5 +1,5 @@
 ---
-title: "/perene"
+title: "/ perene"
 url: /orange/perene/
 shop: décoration intérieure
 ---

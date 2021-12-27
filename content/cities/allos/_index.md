@@ -1,6 +1,6 @@
 ---
 title: Allos
 url: /allos/
-latitude: 44.240931700000004
-longitude: 6.6288511
+latitude: 44.29
+longitude: 6.569
 ---

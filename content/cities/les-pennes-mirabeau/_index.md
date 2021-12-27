@@ -1,6 +1,6 @@
 ---
 title: Les Pennes-Mirabeau
 url: /les-pennes-mirabeau/
-latitude: 43.409882200000006
-longitude: 5.3090324
+latitude: 43.415
+longitude: 5.362
 ---

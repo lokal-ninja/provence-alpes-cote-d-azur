@@ -1,6 +1,6 @@
 ---
 title: Le Plan du Castellet
 url: /le-plan-du-castellet/
-latitude: 43.1773516
-longitude: 5.7732108
+latitude: 43.181
+longitude: 5.775
 ---

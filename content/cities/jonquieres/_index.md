@@ -1,6 +1,6 @@
 ---
 title: Jonquières
 url: /jonquieres/
-latitude: 
-longitude: 
+latitude: 44.115
+longitude: 4.9
 ---

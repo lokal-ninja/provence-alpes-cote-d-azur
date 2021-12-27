@@ -1,6 +1,6 @@
 ---
 title: Allemagne en Provence
 url: /allemagne-en-provence/
-latitude: 
-longitude: 
+latitude: 43.794
+longitude: 6.034
 ---

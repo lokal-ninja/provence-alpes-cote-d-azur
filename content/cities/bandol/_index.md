@@ -1,6 +1,6 @@
 ---
 title: Bandol
 url: /bandol/
-latitude: 43.1357717
-longitude: 5.7523647
+latitude: 43.136
+longitude: 5.753
 ---

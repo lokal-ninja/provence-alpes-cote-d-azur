@@ -1,6 +1,6 @@
 ---
 title: Mandelieu-la-Napoule
 url: /mandelieu-la-napoule/
-latitude: 43.5439153
-longitude: 6.935913500000001
+latitude: 43.556
+longitude: 6.956
 ---

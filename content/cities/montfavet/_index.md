@@ -1,6 +1,6 @@
 ---
 title: Montfavet
 url: /montfavet/
-latitude: 
-longitude: 
+latitude: 43.922
+longitude: 4.864
 ---

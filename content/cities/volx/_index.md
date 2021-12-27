@@ -1,6 +1,6 @@
 ---
 title: Volx
 url: /volx/
-latitude: 43.8782761
-longitude: 5.8411569000000005
+latitude: 43.864
+longitude: 5.839
 ---

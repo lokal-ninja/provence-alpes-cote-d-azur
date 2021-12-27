@@ -1,6 +1,6 @@
 ---
 title: Saint-Sauveur
 url: /saint-sauveur/
-latitude: 
-longitude: 
+latitude: 44.534
+longitude: 6.526
 ---

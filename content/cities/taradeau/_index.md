@@ -1,6 +1,6 @@
 ---
 title: Taradeau
 url: /taradeau/
-latitude: 43.454110400000005
-longitude: 6.4271313
+latitude: 43.454
+longitude: 6.427
 ---

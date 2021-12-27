@@ -1,6 +1,6 @@
 ---
 title: Port-de-Bouc
 url: /port-de-bouc/
-latitude: 43.403098
-longitude: 4.9806998
+latitude: 43.413
+longitude: 5.002
 ---

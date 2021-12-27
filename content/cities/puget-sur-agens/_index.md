@@ -1,6 +1,6 @@
 ---
 title: Puget-sur-Agens
 url: /puget-sur-agens/
-latitude: 
-longitude: 
+latitude: 43.449
+longitude: 6.691
 ---

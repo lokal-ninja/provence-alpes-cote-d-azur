@@ -1,6 +1,6 @@
 ---
 title: Gigondas
 url: /gigondas/
-latitude: 44.164112700000004
-longitude: 5.0051053
+latitude: 44.164
+longitude: 5.005
 ---

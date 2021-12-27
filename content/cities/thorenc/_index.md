@@ -1,6 +1,6 @@
 ---
 title: Thorenc
 url: /thorenc/
-latitude: 43.804843600000005
-longitude: 6.804866100000001
+latitude: 43.799
+longitude: 6.791
 ---

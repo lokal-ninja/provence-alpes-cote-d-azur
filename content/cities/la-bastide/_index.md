@@ -1,6 +1,6 @@
 ---
 title: la bastide
 url: /la-bastide/
-latitude: 
-longitude: 
+latitude: 43.737
+longitude: 6.625
 ---

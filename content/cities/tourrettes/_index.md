@@ -1,6 +1,6 @@
 ---
 title: Tourrettes
 url: /tourrettes/
-latitude: 43.6236134
-longitude: 6.7015297
+latitude: 43.615
+longitude: 6.708
 ---

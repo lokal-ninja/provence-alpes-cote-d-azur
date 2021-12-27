@@ -1,6 +1,6 @@
 ---
 title: Signes
 url: /signes/
-latitude: 43.290859700000006
-longitude: 5.863670300000001
+latitude: 43.281
+longitude: 5.852
 ---

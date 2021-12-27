@@ -1,6 +1,6 @@
 ---
 title: Trigance
 url: /trigance/
-latitude: 43.7612898
-longitude: 6.4454259
+latitude: 43.761
+longitude: 6.445
 ---

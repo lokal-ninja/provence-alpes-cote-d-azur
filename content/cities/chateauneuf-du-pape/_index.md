@@ -1,6 +1,6 @@
 ---
 title: Châteauneuf-du-Pape
 url: /chateauneuf-du-pape/
-latitude: 44.055333600000004
-longitude: 4.8312888
+latitude: 44.056
+longitude: 4.832
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tende
 url: /tende/
-latitude: 44.088941600000005
-longitude: 7.5933916
+latitude: 44.089
+longitude: 7.593
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flassans
 url: /flassans/
-latitude: 
-longitude: 
+latitude: 43.371
+longitude: 6.2
 ---

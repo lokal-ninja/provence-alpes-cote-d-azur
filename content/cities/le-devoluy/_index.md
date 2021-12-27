@@ -1,6 +1,6 @@
 ---
 title: Le Dévoluy
 url: /le-devoluy/
-latitude: 
-longitude: 
+latitude: 44.687
+longitude: 5.947
 ---

@@ -1,6 +1,6 @@
 ---
 title: Giens, Hyères
 url: /giens-hyeres/
-latitude: 
-longitude: 
+latitude: 43.041
+longitude: 6.143
 ---

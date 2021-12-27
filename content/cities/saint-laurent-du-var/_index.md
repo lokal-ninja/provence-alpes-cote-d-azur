@@ -1,6 +1,6 @@
 ---
 title: Saint Laurent du Var
 url: /saint-laurent-du-var/
-latitude: 
-longitude: 
+latitude: 43.659
+longitude: 7.194
 ---

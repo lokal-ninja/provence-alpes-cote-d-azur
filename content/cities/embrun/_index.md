@@ -1,6 +1,6 @@
 ---
 title: Embrun
 url: /embrun/
-latitude: 44.5641764
-longitude: 6.495818900000001
+latitude: 44.552
+longitude: 6.485
 ---

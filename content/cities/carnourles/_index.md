@@ -1,6 +1,6 @@
 ---
 title: Carnourles
 url: /carnourles/
-latitude: 
-longitude: 
+latitude: 43.3
+longitude: 6.185
 ---

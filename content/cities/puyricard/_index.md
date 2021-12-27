@@ -1,6 +1,6 @@
 ---
 title: Puyricard
 url: /puyricard/
-latitude: 43.582678300000005
-longitude: 5.4206091
+latitude: 43.581
+longitude: 5.423
 ---

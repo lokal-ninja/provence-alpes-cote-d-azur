@@ -1,6 +1,6 @@
 ---
 title: Puy-Saint-Vincent
 url: /puy-saint-vincent/
-latitude: 44.8279543
-longitude: 6.4926273000000005
+latitude: 44.819
+longitude: 6.486
 ---

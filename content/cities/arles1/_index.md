@@ -1,6 +1,6 @@
 ---
 title: Arles1
 url: /arles1/
-latitude: 
-longitude: 
+latitude: 43.68
+longitude: 4.631
 ---

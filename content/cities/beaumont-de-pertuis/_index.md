@@ -1,6 +1,6 @@
 ---
 title: Beaumont-de-Pertuis
 url: /beaumont-de-pertuis/
-latitude: 43.7373472
-longitude: 5.6893982
+latitude: 43.737
+longitude: 5.689
 ---

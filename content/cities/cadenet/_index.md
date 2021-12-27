@@ -1,6 +1,6 @@
 ---
 title: Cadenet
 url: /cadenet/
-latitude: 43.734678200000005
-longitude: 5.3737893
+latitude: 43.729
+longitude: 5.368
 ---

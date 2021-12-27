@@ -1,6 +1,6 @@
 ---
 title: Toulon
 url: /toulon/
-latitude: 43.1257311
-longitude: 5.930491900000001
+latitude: 43.115
+longitude: 5.972
 ---

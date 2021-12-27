@@ -1,6 +1,6 @@
 ---
 title: Saint-Auban
 url: /saint-auban/
-latitude: 44.0708731
-longitude: 5.9920226
+latitude: 43.844
+longitude: 6.744
 ---

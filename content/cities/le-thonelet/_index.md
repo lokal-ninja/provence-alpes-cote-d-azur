@@ -1,6 +1,6 @@
 ---
 title: Le Thonelet
 url: /le-thonelet/
-latitude: 
-longitude: 
+latitude: 43.51
+longitude: 5.492
 ---

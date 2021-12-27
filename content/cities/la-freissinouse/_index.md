@@ -1,6 +1,6 @@
 ---
 title: La Freissinouse
 url: /la-freissinouse/
-latitude: 44.542009300000004
-longitude: 6.012948300000001
+latitude: 44.548
+longitude: 6.013
 ---

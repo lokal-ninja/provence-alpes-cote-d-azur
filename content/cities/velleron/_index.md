@@ -1,6 +1,6 @@
 ---
 title: Velleron
 url: /velleron/
-latitude: 43.956275700000006
-longitude: 5.0292193
+latitude: 43.957
+longitude: 5.03
 ---
