@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie Patisserie Dutto"
+title: "Boulangerie Pâtisserie Dutto"
 url: /opio/boulangerie-patisserie-dutto/
 shop: boulangerie
 ---
