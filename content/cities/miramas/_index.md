@@ -1,6 +1,6 @@
 ---
-title: Miramas
+title: MIRAMAS
 url: /miramas/
-latitude: 43.594
-longitude: 4.991
+latitude: 43.6
+longitude: 5.006
 ---
