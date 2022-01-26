@@ -1,6 +1,6 @@
 ---
 title: La Ciotat
 url: /la-ciotat/
-latitude: 43.176
-longitude: 5.605
+latitude: 43.189
+longitude: 5.603
 ---
