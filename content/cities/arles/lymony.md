@@ -1,5 +1,5 @@
 ---
 title: "Lymony"
 url: /arles/lymony/
-shop: shop
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GAEC LA TAPY"
+title: "GAEC La Tapy"
 url: /saint-andiol/gaec-la-tapy/
 shop: agraire
 ---
