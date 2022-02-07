@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Loto La Colline"
 url: /velaux/tabac-presse-loto-la-colline/
-shop: livres
+shop: marchand de journaux
 ---
