@@ -1,5 +1,5 @@
 ---
 title: "Dafy Moto"
-url: /septemes-les-vallons/dafy-moto/
+url: /les-pennes-mirabeau/dafy-moto/
 shop: moto
 ---
