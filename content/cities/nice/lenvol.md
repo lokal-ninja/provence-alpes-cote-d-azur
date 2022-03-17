@@ -1,5 +1,5 @@
 ---
 title: "L'Envol"
 url: /nice/lenvol/
-shop: boutique
+shop: vêtements
 ---
