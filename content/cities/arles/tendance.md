@@ -1,5 +1,5 @@
 ---
 title: "Tendance"
 url: /arles/tendance/
-shop: vêtements
+shop: bijoux
 ---

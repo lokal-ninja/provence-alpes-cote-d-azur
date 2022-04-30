@@ -1,5 +1,5 @@
 ---
 title: "Thiriet"
 url: /orange/thiriet/
-shop: commodité
+shop: aliments surgelés
 ---
