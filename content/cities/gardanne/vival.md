@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /gardanne-biber/vival/
+url: /gardanne/vival/
 shop: commodité
 ---
