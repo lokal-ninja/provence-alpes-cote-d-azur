@@ -1,5 +1,5 @@
 ---
 title: "Bio C' Bon"
 url: /nice/bio-c-bon/
-shop: vacant
+shop: supermarché
 ---
