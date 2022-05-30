@@ -1,5 +1,5 @@
 ---
-title: "Nike factory store"
+title: "Nike Factory Store"
 url: /vedene/nike-factory-store/
-shop: sports
+shop: vêtements
 ---
