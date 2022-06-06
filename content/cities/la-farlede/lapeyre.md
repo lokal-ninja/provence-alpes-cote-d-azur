@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /la-farlede/lapeyre/
-shop: shop
+shop: à faire soi-même
 ---
