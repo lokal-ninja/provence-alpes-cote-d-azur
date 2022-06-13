@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /giens-hyeres/vival/
+url: /hyeres/vival-2/
 shop: commodité
 ---

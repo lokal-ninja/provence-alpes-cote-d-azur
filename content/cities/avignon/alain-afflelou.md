@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
-url: /montfavet/alain-afflelou/
+url: /avignon/alain-afflelou/
 shop: opticien
 ---
