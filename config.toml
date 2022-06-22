@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/provence-alpes-cote-d-azur"
+baseURL = "https://fr.shoogle.net/provence-alpes-cote-d-azur/"
 languageCode = "fr"
 title = "Provence Alpes-Cote-d'Azur"
 theme = "ln-base"
