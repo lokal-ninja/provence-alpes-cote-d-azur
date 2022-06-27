@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie L'Epi d'Or"
+title: "Boulangerie L'Épi d'Or"
 url: /serres/boulangerie-lepi-dor/
 shop: boulangerie
 ---
