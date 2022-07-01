@@ -1,5 +1,5 @@
 ---
-title: "DAFY MOTO BRIANCON"
+title: "Dafy Moto Briançon"
 url: /briancon/dafy-moto-briancon/
 shop: sports
 ---
