@@ -1,6 +1,6 @@
 ---
 title: Castellane
 url: /castellane/
-latitude: 43.847
-longitude: 6.512
+latitude: 43.846
+longitude: 6.514
 ---
