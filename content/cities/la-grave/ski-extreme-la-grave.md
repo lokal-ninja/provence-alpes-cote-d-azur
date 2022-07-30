@@ -1,5 +1,5 @@
 ---
-title: "SKI EXTREME LA GRAVE"
+title: "Ski Extrême La Grave"
 url: /la-grave/ski-extreme-la-grave/
 shop: sports
 ---

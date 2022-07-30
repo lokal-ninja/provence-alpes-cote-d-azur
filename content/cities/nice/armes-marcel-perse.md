@@ -1,5 +1,5 @@
 ---
 title: "Armes Marcel Perse"
 url: /nice/armes-marcel-perse/
-shop: shop
+shop: armes
 ---
