@@ -1,6 +1,6 @@
 ---
-title: BEDOIN
+title: Bédoin
 url: /bedoin/
-latitude: 44.121
-longitude: 5.179
+latitude: 44.126
+longitude: 5.181
 ---

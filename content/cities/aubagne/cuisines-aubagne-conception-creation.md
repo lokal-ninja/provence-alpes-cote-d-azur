@@ -1,5 +1,5 @@
 ---
-title: "CUISINES AUBAGNE CONCEPTION CREATION"
+title: "Cuisines Aubagne Conception Création"
 url: /aubagne/cuisines-aubagne-conception-creation/
-shop: meubles
+shop: cuisine
 ---
