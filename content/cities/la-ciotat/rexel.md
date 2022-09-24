@@ -1,5 +1,5 @@
 ---
-title: "REXEL"
+title: "Rexel"
 url: /la-ciotat/rexel/
-shop: électronique
+shop: électrique
 ---
