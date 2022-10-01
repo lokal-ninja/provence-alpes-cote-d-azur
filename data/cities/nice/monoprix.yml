@@ -1,11 +1,11 @@
-id: 137240953
-type: way
-latitude: 43.70084
-longitude: 7.27929
-postcode: "06300"
+id: 440122312
+type: node
+latitude: 43.70243
+longitude: 7.26719
+postcode: ""
 city: Nice
-street: "Place Garibaldi"
-housenumber: 3
-phone: "+33 4 93 55 52 50"
-opening_hours: "Mo-Sa 08:30-20:45; Su 09:00-20:30"
+street: ""
+housenumber: 
+phone: ""
+opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-20:00"
 website: ""

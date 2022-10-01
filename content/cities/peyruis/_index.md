@@ -1,6 +1,6 @@
 ---
 title: Peyruis
 url: /peyruis/
-latitude: 44.027
-longitude: 5.938
+latitude: 44.026
+longitude: 5.936
 ---

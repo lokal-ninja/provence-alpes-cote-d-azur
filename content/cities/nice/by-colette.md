@@ -1,5 +1,5 @@
 ---
-title: "BY COLETTE"
+title: "By Colette"
 url: /nice/by-colette/
-shop: magasin de campagne
+shop: vêtements
 ---
