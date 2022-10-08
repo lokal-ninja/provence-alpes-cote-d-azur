@@ -1,6 +1,6 @@
 ---
 title: Fréjus
 url: /frejus/
-latitude: 43.472
-longitude: 6.74
+latitude: 43.442
+longitude: 6.707
 ---
