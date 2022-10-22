@@ -1,5 +1,5 @@
 ---
-title: "CGED MOUGINS"
+title: "CGED Mougins"
 url: /mougins/cged-mougins/
-shop: supermarché
+shop: électrique
 ---
