@@ -2,10 +2,10 @@ id: 5348051024
 type: node
 latitude: 43.70732
 longitude: 7.25622
-postcode: ""
+postcode: "06000"
 city: Nice
 street: "Boulevard Gambetta"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 120
+phone: "+33 6 22 74 53 30"
+opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
+website: "https://magasins.picard.fr/678-picard-nice-vernier"

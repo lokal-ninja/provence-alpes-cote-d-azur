@@ -1,6 +1,6 @@
 ---
 title: Mougins
 url: /mougins/
-latitude: 43.588
-longitude: 7.04
+latitude: 43.613
+longitude: 6.976
 ---
