@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /nice/carrefour/
-shop: supermarché
+shop: gaz
 ---

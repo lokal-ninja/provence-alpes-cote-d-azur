@@ -1,5 +1,5 @@
 ---
 title: "Boutique OGC Nice"
 url: /nice/boutique-ogc-nice/
-shop: billet
+shop: cadeau
 ---

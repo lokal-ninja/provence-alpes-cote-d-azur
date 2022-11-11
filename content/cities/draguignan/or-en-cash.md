@@ -1,5 +1,5 @@
 ---
-title: "Or en cash"
+title: "Or en Cash"
 url: /draguignan/or-en-cash/
-shop: shop
+shop: bijoux
 ---

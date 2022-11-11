@@ -1,5 +1,5 @@
 ---
 title: "Balitrand Cannes"
 url: /cannes/balitrand-cannes/
-shop: supermarché
+shop: matériel informatique
 ---
