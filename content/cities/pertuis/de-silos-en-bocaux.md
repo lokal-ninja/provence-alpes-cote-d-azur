@@ -1,5 +1,5 @@
 ---
-title: "De Silos en Bocaux"
+title: "De silos en bocaux"
 url: /pertuis/de-silos-en-bocaux/
 shop: supermarché
 ---
