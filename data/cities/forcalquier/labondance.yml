@@ -7,5 +7,5 @@ city: Forcalquier
 street: "Place du Bourguet"
 housenumber: 8
 phone: "+33486566145"
-opening_hours: "Mo 09:30-19:30; Tu-Sa 09:30-13:00,15:00-19:30; We off"
+opening_hours: "Mo,Tu,Th-Sa 09:30-13:00,15:00-19:30"
 website: "https://labondance.net/"

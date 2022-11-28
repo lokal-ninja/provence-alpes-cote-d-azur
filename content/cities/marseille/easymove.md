@@ -1,5 +1,5 @@
 ---
-title: "EASYMOVE"
+title: "Easymove"
 url: /marseille/easymove/
 shop: vélo
 ---
