@@ -1,11 +1,11 @@
-id: 140218174
-type: way
-latitude: 43.69498
-longitude: 7.25319
-postcode: ""
+id: 9730212425
+type: node
+latitude: 43.70935
+longitude: 7.28689
+postcode: "06300"
 city: Nice
-street: "Rue Dante"
-housenumber: 21
+street: "Avenue François Mitterrand"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: ""
 website: ""
