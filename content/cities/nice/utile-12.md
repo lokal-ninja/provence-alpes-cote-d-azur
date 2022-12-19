@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /nice/utile-12/
-shop: supermarché
+shop: commodité
 ---
