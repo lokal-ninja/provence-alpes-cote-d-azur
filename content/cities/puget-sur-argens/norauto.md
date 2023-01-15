@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /puget-sur-argens/norauto/
-shop: pièces de voitures
+shop: réparation de voitures
 ---

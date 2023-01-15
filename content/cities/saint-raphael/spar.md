@@ -1,5 +1,5 @@
 ---
-title: "SPAR"
+title: "Spar"
 url: /saint-raphael/spar/
 shop: supermarché
 ---
