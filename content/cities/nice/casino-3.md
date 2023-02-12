@@ -1,5 +1,5 @@
 ---
 title: "Casino"
-url: /nice/casino-3/
+url: /nice/casino/
 shop: supermarché
 ---

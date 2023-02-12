@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil d'Antoine"
-url: /nice/le-fournil-dantoine-2/
+url: /nice/le-fournil-dantoine/
 shop: boulangerie
 ---

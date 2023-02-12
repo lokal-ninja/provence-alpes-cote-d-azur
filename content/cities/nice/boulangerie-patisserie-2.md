@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie Patisserie"
-url: /nice/boulangerie-patisserie-2/
+title: "Boulangerie-Pâtisserie"
+url: /nice/boulangerie-patisserie/
 shop: boulangerie
 ---

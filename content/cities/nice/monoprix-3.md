@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
-url: /nice/monoprix-3/
+url: /nice/monoprix/
 shop: supermarché
 ---

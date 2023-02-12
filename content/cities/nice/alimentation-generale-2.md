@@ -1,5 +1,5 @@
 ---
 title: "Alimentation générale"
-url: /nice/alimentation-generale-2/
+url: /nice/alimentation-generale/
 shop: commodité
 ---

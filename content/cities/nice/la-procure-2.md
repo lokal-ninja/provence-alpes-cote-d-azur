@@ -1,5 +1,5 @@
 ---
 title: "La Procure"
-url: /nice/la-procure-2/
+url: /nice/la-procure/
 shop: livres
 ---

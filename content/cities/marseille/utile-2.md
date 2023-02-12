@@ -1,5 +1,5 @@
 ---
 title: "Utile"
-url: /marseille/utile-2/
+url: /marseille/utile/
 shop: commodité
 ---

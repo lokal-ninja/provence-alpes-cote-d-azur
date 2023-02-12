@@ -1,5 +1,5 @@
 ---
 title: "Les Halles de Carras"
-url: /nice/les-halles-de-carras-2/
+url: /nice/les-halles-de-carras/
 shop: commodité
 ---

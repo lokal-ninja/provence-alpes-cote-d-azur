@@ -1,5 +1,5 @@
 ---
 title: "Clean"
-url: /nice/clean-2/
+url: /nice/clean/
 shop: blanchisserie
 ---

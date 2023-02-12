@@ -1,5 +1,5 @@
 ---
 title: "U Express"
-url: /marseille/u-express-3/
+url: /marseille/u-express/
 shop: commodité
 ---

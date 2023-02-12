@@ -1,5 +1,5 @@
 ---
 title: "Patrick Coiffure"
-url: /nice/patrick-coiffure-2/
+url: /nice/patrick-coiffure/
 shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
-url: /marseille/mr-bricolage-2/
+url: /marseille/mr-bricolage/
 shop: à faire soi-même
 ---

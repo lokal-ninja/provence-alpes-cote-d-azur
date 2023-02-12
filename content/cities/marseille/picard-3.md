@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /marseille/picard-3/
+url: /marseille/picard/
 shop: aliments surgelés
 ---

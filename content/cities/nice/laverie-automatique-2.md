@@ -1,5 +1,5 @@
 ---
 title: "Laverie Automatique"
-url: /nice/laverie-automatique-2/
+url: /nice/laverie-automatique/
 shop: blanchisserie
 ---

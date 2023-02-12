@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
-url: /marseille/carrefour-express-2/
+url: /marseille/carrefour-express/
 shop: supermarché
 ---

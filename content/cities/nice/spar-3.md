@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /nice/spar-3/
+url: /nice/spar/
 shop: commodité
 ---

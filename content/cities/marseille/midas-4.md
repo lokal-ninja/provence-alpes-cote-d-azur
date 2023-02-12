@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /marseille/midas-4/
+url: /marseille/midas/
 shop: réparation de voitures
 ---

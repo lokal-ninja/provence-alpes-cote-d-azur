@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
-url: /nice/leroy-merlin-2/
+url: /nice/leroy-merlin/
 shop: à faire soi-même
 ---

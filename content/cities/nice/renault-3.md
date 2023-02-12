@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /nice/renault-3/
+url: /nice/renault/
 shop: voiture
 ---

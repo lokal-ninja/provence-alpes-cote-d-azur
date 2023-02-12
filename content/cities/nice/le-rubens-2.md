@@ -1,5 +1,5 @@
 ---
 title: "Le Rubens"
-url: /nice/le-rubens-2/
+url: /nice/le-rubens/
 shop: boulangerie
 ---

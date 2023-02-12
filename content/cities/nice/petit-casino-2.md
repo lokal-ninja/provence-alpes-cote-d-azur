@@ -1,5 +1,5 @@
 ---
 title: "Petit Casino"
-url: /nice/petit-casino-2/
+url: /nice/petit-casino/
 shop: commodité
 ---

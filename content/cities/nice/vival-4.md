@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /nice/vival-4/
+url: /nice/vival/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pascal Coste"
-url: /nice/pascal-coste-4/
+url: /nice/pascal-coste/
 shop: coiffeur
 ---

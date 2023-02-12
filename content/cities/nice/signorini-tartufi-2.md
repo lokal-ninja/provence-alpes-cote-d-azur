@@ -1,5 +1,5 @@
 ---
 title: "Signorini Tartufi"
-url: /nice/signorini-tartufi-2/
+url: /nice/signorini-tartufi/
 shop: commodité
 ---

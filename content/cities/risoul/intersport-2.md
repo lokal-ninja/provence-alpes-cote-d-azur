@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /risoul/intersport-2/
+url: /risoul/intersport/
 shop: sports
 ---

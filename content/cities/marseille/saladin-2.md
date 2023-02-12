@@ -1,5 +1,5 @@
 ---
 title: "Saladin"
-url: /marseille/saladin-2/
+url: /marseille/saladin/
 shop: commodité
 ---

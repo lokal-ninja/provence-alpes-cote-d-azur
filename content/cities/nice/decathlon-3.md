@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /nice/decathlon-3/
+url: /nice/decathlon/
 shop: sports
 ---

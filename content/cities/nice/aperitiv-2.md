@@ -1,5 +1,5 @@
 ---
 title: "Aperitiv"
-url: /nice/aperitiv-2/
+url: /nice/aperitiv/
 shop: charcuterie
 ---
