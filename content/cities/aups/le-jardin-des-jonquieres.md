@@ -1,5 +1,5 @@
 ---
-title: "Le jardin des Jonquières"
+title: "Le Jardin des Jonquières"
 url: /aups/le-jardin-des-jonquieres/
-shop: shop
+shop: ferme
 ---
