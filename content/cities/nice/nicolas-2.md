@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
 url: /nice/nicolas/
-shop: boissons
+shop: alcool
 ---
