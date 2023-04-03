@@ -1,6 +1,6 @@
 ---
 title: Barcelonnette
 url: /barcelonnette/
-latitude: 44.386
-longitude: 6.652
+latitude: 44.387
+longitude: 6.65
 ---
