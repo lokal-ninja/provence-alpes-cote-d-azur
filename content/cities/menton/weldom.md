@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /menton/weldom/
-shop: extérieur
+shop: à faire soi-même
 ---
