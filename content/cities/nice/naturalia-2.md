@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /nice/naturalia/
-shop: commodité
+shop: supermarché
 ---
