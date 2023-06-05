@@ -4,8 +4,8 @@ latitude: 43.72924
 longitude: 5.17708
 postcode: "13370"
 city: Mallemort
-street: "Place Louis Usclat"
+street: ""
 housenumber: 44
 phone: "+33 4 42 05 58 16"
-opening_hours: "Tu-Sa 09:00-12:15 15:00-18:30 Sun 09:00-12:15"
+opening_hours: "Tu-Sa 09:00-12:15,15:00-18:30;Su 09:00-12:15"
 website: ""
