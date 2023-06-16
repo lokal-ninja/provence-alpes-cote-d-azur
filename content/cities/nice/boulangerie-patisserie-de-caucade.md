@@ -1,5 +1,5 @@
 ---
-title: "boulangerie patisserie de caucade"
+title: "Boulangerie Patisserie de Caucade"
 url: /nice/boulangerie-patisserie-de-caucade/
 shop: boulangerie
 ---

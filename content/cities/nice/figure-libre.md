@@ -1,5 +1,5 @@
 ---
-title: "figure Libre"
+title: "Figure Libre"
 url: /nice/figure-libre/
 shop: coiffeur
 ---
