@@ -4,8 +4,8 @@ latitude: 43.71748
 longitude: 7.25675
 postcode: ""
 city: Nice
-street: ""
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+street: "Boulevard de Gorbella"
+housenumber: 5
+phone: "04 93 84 12 33"
+opening_hours: "Mo-Th 07:30-12:00,13:30-18:15; Fr 07:30-12:00,13:30-17:15; Sa off; Su off"
+website: "https://www.garagegorbella.fr/"

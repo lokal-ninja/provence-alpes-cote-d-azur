@@ -1,5 +1,5 @@
 ---
-title: "La casa portuguesa"
+title: "La Casa Portuguesa"
 url: /nice/la-casa-portuguesa/
 shop: commodité
 ---
