@@ -1,5 +1,5 @@
 ---
 title: "Vivason"
 url: /nice/vivason/
-shop: shop
+shop: les appareils auditifs
 ---

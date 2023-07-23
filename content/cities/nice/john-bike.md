@@ -1,5 +1,5 @@
 ---
-title: "John bike"
+title: "John Bike"
 url: /nice/john-bike/
 shop: moto
 ---
