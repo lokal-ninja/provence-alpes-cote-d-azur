@@ -1,5 +1,5 @@
 ---
-title: "L'Arlesienne"
+title: "L'Arlésienne"
 url: /arles/larlesienne/
 shop: vêtements
 ---
