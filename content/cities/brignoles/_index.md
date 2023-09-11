@@ -1,6 +1,6 @@
 ---
 title: Brignoles
 url: /brignoles/
-latitude: 43.406
-longitude: 6.063
+latitude: 43.409
+longitude: 6.045
 ---
