@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /nice/spar/
+url: /nice/spar-avenue-saint-lambert/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
-url: /nice/zeeman/
+url: /nice/zeeman-boulevard-comte-de-falicon/
 shop: vêtements
 ---

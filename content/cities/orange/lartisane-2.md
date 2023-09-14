@@ -1,5 +1,5 @@
 ---
 title: "L’artisane"
-url: /orange/lartisane/
+url: /orange/lartisane-2/
 shop: boulangerie
 ---

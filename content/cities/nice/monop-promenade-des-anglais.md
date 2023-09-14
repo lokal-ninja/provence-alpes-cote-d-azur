@@ -1,5 +1,5 @@
 ---
 title: "Monop'"
-url: /nice/monop/
+url: /nice/monop-promenade-des-anglais/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AVIA"
-url: /nice/avia/
+url: /nice/avia-corniche-andre-de-joly/
 shop: commodité
 ---

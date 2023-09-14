@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /hyeres/vival/
+url: /hyeres/vival-avenue-alphonse-denis/
 shop: commodité
 ---

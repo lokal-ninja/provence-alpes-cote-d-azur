@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /grasse/picard/
+url: /grasse/picard-rue-de-cannes/
 shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
-url: /nice/nicolas/
+url: /nice/nicolas-avenue-borriglione/
 shop: boissons
 ---

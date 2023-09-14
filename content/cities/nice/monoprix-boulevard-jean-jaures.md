@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
-url: /nice/monoprix/
+url: /nice/monoprix-boulevard-jean-jaures/
 shop: supermarché
 ---

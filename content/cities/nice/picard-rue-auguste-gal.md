@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /nice/picard/
+url: /nice/picard-rue-auguste-gal/
 shop: aliments surgelés
 ---

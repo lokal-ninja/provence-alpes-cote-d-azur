@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
-url: /cannes/monoprix/
+url: /cannes/monoprix-rue-du-marche-forville/
 shop: supermarché
 ---

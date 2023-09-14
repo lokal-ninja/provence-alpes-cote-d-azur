@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /nice/carrefour-city/
+url: /nice/carrefour-city-boulevard-rene-cassin/
 shop: supermarché
 ---

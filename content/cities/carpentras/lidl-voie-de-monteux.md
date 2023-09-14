@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /carpentras/lidl/
+url: /carpentras/lidl-voie-de-monteux/
 shop: supermarché
 ---

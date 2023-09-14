@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Ange"
-url: /aix-en-provence/boulangerie-ange/
+url: /aix-en-provence/boulangerie-ange-rue-emilien-gautier/
 shop: boulangerie
 ---

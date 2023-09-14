@@ -1,5 +1,5 @@
 ---
 title: "Celio"
-url: /marseille/celio/
+url: /marseille/celio-route-de-la-sabliere/
 shop: vêtements
 ---

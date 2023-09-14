@@ -1,5 +1,5 @@
 ---
 title: "Hat's"
-url: /marseille/hats/
+url: /marseille/hats-avenue-jules-cantini/
 shop: boulangerie
 ---

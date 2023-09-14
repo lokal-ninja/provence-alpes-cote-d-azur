@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /nice/picard/
+url: /cannes/picard-avenue-du-marechal-juin/
 shop: aliments surgelés
 ---

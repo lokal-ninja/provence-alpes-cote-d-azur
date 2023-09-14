@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /nice/spar/
+url: /nice/spar-rue-de-lhotel-des-postes/
 shop: supermarché
 ---

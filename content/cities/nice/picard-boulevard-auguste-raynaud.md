@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /cannes/picard/
+url: /nice/picard-boulevard-auguste-raynaud/
 shop: aliments surgelés
 ---

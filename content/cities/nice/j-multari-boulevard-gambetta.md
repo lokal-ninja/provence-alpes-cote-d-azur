@@ -1,5 +1,5 @@
 ---
 title: "J. Multari"
-url: /nice/j-multari/
+url: /nice/j-multari-boulevard-gambetta/
 shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /peipin/intermarche/
+url: /peipin/intermarche-n-85/
 shop: supermarché
 ---

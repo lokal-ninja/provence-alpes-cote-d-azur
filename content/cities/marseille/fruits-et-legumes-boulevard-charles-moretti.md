@@ -1,5 +1,5 @@
 ---
 title: "Fruits et légumes"
-url: /marseille/fruits-et-legumes/
+url: /marseille/fruits-et-legumes-boulevard-charles-moretti/
 shop: légumes
 ---

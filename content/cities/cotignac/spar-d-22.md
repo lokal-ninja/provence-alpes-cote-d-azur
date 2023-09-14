@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /cotignac/spar/
+url: /cotignac/spar-d-22/
 shop: supermarché
 ---

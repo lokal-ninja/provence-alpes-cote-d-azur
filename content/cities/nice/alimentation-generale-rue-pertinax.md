@@ -1,5 +1,5 @@
 ---
 title: "Alimentation générale"
-url: /nice/alimentation-generale/
+url: /nice/alimentation-generale-rue-pertinax/
 shop: commodité
 ---

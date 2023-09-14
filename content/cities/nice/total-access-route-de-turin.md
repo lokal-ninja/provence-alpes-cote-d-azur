@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
-url: /nice/total-access/
+url: /nice/total-access-route-de-turin/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multari"
-url: /nice/multari/
+url: /nice/multari-avenue-de-la-californie/
 shop: boulangerie
 ---

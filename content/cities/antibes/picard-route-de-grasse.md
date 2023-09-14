@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /antibes/picard/
+url: /antibes/picard-route-de-grasse/
 shop: aliments surgelés
 ---

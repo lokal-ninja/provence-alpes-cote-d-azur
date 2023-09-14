@@ -1,5 +1,5 @@
 ---
 title: "Utile"
-url: /nice/utile/
+url: /nice/utile-rue-du-professeur-maurice-sureau/
 shop: commodité
 ---

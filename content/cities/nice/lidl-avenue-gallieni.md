@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /nice/lidl/
+url: /nice/lidl-avenue-gallieni/
 shop: supermarché
 ---

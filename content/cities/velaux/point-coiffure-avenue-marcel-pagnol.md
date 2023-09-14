@@ -1,5 +1,5 @@
 ---
 title: "Point coiffure"
-url: /velaux/point-coiffure/
+url: /velaux/point-coiffure-avenue-marcel-pagnol/
 shop: beauté
 ---

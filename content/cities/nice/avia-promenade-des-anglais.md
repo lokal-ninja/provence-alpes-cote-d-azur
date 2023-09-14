@@ -1,5 +1,5 @@
 ---
 title: "Avia"
-url: /nice/avia/
+url: /nice/avia-promenade-des-anglais/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MaLaverie"
-url: /nice/malaverie/
+url: /nice/malaverie-rue-de-france/
 shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dafy Moto"
-url: /manosque/dafy-moto/
+url: /manosque/dafy-moto-chemin-des-blanquettes/
 shop: moto
 ---

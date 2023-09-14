@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /nice/total/
+url: /nice/total-avenue-joseph-raybaud/
 shop: commodité
 ---

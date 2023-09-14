@@ -1,5 +1,5 @@
 ---
 title: "Alticoop"
-url: /nice/alticoop/
+url: /nice/alticoop-rue-caroline/
 shop: extérieur
 ---

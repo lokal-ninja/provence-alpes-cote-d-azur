@@ -1,5 +1,5 @@
 ---
 title: "Dou Bochi"
-url: /arles/dou-bochi/
+url: /arles/dou-bochi-rue-des-suisses/
 shop: vêtements
 ---

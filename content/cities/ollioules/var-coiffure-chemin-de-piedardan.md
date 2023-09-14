@@ -1,5 +1,5 @@
 ---
 title: "Var Coiffure"
-url: /ollioules/var-coiffure/
+url: /ollioules/var-coiffure-chemin-de-piedardan/
 shop: coiffeur
 ---

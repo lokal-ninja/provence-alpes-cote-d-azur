@@ -1,5 +1,5 @@
 ---
 title: "Utile"
-url: /nice/utile/
+url: /nice/utile-boulevard-de-la-madeleine/
 shop: commodité
 ---

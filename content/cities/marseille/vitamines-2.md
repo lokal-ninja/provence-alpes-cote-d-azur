@@ -1,5 +1,5 @@
 ---
 title: "Vitamines"
-url: /marseille/vitamines/
+url: /marseille/vitamines-2/
 shop: boucherie
 ---

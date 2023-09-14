@@ -1,5 +1,5 @@
 ---
 title: "Laverie Automatique"
-url: /nice/laverie-automatique/
+url: /nice/laverie-automatique-avenue-saint-augustin/
 shop: blanchisserie
 ---

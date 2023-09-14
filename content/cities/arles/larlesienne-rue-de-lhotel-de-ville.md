@@ -1,5 +1,5 @@
 ---
 title: "L'Arlésienne"
-url: /arles/larlesienne/
+url: /arles/larlesienne-rue-de-lhotel-de-ville/
 shop: vêtements
 ---

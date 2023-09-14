@@ -1,5 +1,5 @@
 ---
 title: "Rosantine"
-url: /marseille/rosantine/
+url: /marseille/rosantine-rue-de-marseille/
 shop: bijoux
 ---

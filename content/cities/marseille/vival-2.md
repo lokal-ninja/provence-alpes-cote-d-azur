@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /marseille/vival/
+url: /marseille/vival-2/
 shop: commodité
 ---

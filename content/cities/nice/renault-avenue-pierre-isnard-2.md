@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /nice/renault/
+url: /nice/renault-avenue-pierre-isnard-2/
 shop: voiture
 ---

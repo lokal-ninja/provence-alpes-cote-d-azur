@@ -1,5 +1,5 @@
 ---
 title: "Casino"
-url: /nice/casino/
+url: /nice/casino-boulevard-de-cessole/
 shop: supermarché
 ---

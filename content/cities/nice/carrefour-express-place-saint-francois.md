@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
-url: /nice/carrefour-express/
+url: /nice/carrefour-express-place-saint-francois/
 shop: supermarché
 ---

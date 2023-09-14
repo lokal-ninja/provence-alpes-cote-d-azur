@@ -1,5 +1,5 @@
 ---
 title: "Pascal Coste"
-url: /nice/pascal-coste/
+url: /nice/pascal-coste-avenue-de-la-republique/
 shop: coiffeur
 ---

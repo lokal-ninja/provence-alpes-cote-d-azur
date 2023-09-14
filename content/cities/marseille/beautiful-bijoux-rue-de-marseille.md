@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Bijoux"
-url: /marseille/beautiful-bijoux/
+url: /marseille/beautiful-bijoux-rue-de-marseille/
 shop: vêtements
 ---

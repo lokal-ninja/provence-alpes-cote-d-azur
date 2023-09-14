@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /draguignan/marionnaud/
+url: /draguignan/marionnaud-place-jacques-resplandin/
 shop: parfumerie
 ---

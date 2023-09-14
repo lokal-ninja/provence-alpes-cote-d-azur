@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /nice/vival/
+url: /nice/vival-boulevard-de-cessole/
 shop: commodité
 ---
