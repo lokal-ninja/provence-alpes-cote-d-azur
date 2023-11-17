@@ -1,5 +1,5 @@
 ---
-title: "Nice ink Tattoo"
+title: "Nice Ink Tattoo"
 url: /nice/nice-ink-tattoo/
 shop: tatouage
 ---
