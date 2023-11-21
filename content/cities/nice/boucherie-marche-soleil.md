@@ -1,5 +1,5 @@
 ---
-title: "Boucherie MARCHE SOLEIL"
+title: "Boucherie Marché Soleil"
 url: /nice/boucherie-marche-soleil/
 shop: boucherie
 ---
