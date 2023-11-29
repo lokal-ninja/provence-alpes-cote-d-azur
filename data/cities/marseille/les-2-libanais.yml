@@ -1,11 +1,11 @@
 id: 2012629945
 type: node
-latitude: 43.29333
-longitude: 5.38557
+latitude: 43.29329
+longitude: 5.38558
 postcode: "13006"
 city: Marseille
 street: "Rue Saint-Michel"
 housenumber: 26
 phone: "+33 4 96 12 04 26"
-opening_hours: "Mon: Closed; Tu-Sa 09:00-13:00, 15:00-20:00; Su 09:00-12:30"
+opening_hours: "Mo:closed; Tu-Sa 09:00-13:00,15:00-20:00; Su 09:00-12:30"
 website: "http://www.les2libanais.fr/"
