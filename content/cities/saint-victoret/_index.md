@@ -1,6 +1,6 @@
 ---
 title: Saint-Victoret
 url: /saint-victoret/
-latitude: 43.419
+latitude: 43.418
 longitude: 5.233
 ---

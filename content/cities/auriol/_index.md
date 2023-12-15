@@ -1,6 +1,6 @@
 ---
 title: Auriol
 url: /auriol/
-latitude: 43.378
-longitude: 5.681
+latitude: 43.381
+longitude: 5.68
 ---

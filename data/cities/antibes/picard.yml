@@ -7,5 +7,5 @@ city: Antibes
 street: "Avenue Philippe Rochat"
 housenumber: 4
 phone: "+33 4 93 95 19 10"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
+opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
 website: "https://magasins.picard.fr/39-picard-antibes"
