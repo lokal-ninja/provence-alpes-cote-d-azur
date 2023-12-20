@@ -1,5 +1,5 @@
 ---
-title: "Esprit cycles COGOLIN"
+title: "Esprit cycles Cogolin"
 url: /cogolin/esprit-cycles-cogolin/
 shop: vélo
 ---
