@@ -1,6 +1,6 @@
 ---
 title: Éguilles
 url: /eguilles/
-latitude: 43.543
-longitude: 5.369
+latitude: 43.571
+longitude: 5.358
 ---
