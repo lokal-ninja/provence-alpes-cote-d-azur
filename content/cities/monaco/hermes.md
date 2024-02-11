@@ -1,5 +1,5 @@
 ---
 title: "Hermès"
 url: /monaco/hermes/
-shop: sac
+shop: vêtements
 ---
