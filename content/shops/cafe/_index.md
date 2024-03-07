@@ -1,5 +1,5 @@
 ---
 title: café
 url: /cafe/
-icon: other
+icon: coffee
 ---

@@ -1,6 +1,6 @@
 ---
 title: Veynes
 url: /veynes/
-latitude: 44.534
-longitude: 5.825
+latitude: 44.536
+longitude: 5.832
 ---
