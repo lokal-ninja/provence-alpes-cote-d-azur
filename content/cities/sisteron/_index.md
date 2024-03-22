@@ -1,6 +1,6 @@
 ---
 title: Sisteron
 url: /sisteron/
-latitude: 44.235
-longitude: 5.911
+latitude: 44.191
+longitude: 5.945
 ---
