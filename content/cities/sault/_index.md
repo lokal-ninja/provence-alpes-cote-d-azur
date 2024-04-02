@@ -2,5 +2,5 @@
 title: Sault
 url: /sault/
 latitude: 44.097
-longitude: 5.414
+longitude: 5.413
 ---
