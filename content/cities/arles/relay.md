@@ -1,5 +1,5 @@
 ---
-title: "Hubiz"
-url: /arles/hubiz/
+title: "Relay"
+url: /arles/relay/
 shop: marchand de journaux
 ---
