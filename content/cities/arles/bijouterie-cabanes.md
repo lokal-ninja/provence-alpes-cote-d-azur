@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Cabanes"
-url: /arles1/bijouterie-cabanes/
+url: /arles/bijouterie-cabanes/
 shop: bijoux
 ---
