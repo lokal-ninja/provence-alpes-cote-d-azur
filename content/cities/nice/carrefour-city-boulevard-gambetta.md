@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /nice/carrefour-city-avenue-villermont/
+url: /nice/carrefour-city-boulevard-gambetta/
 shop: supermarché
 ---
