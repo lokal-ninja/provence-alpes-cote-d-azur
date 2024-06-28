@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /nice/leroy-merlin/
-shop: salle de bains
+shop: à faire soi-même
 ---
