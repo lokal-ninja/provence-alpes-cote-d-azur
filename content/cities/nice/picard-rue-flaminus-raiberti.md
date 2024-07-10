@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /grasse/picard-rue-de-cannes/
+url: /nice/picard-rue-flaminus-raiberti/
 shop: aliments surgelés
 ---
