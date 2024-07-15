@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /marseille/micromania/
-shop: ordinateur
+shop: jeux vidéo
 ---

@@ -1,5 +1,5 @@
 ---
-title: "La Coupe d'Or"
+title: "La coupe d'or"
 url: /avignon/la-coupe-dor/
-shop: vin
+shop: alcool
 ---
