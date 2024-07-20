@@ -1,5 +1,5 @@
 ---
 title: "Boucherie charcuterie Brunet"
-url: /seyne/boucherie-charcuterie-brunet/
+url: /seyne-les-alpes/boucherie-charcuterie-brunet/
 shop: boucherie
 ---
