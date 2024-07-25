@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse L'Edelweiss"
 url: /seyne-les-alpes/tabac-presse-ledelweiss/
-shop: tabac
+shop: marchand de journaux
 ---

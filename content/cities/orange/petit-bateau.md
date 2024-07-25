@@ -1,5 +1,5 @@
 ---
-title: "Petit bateau"
+title: "Petit Bateau"
 url: /orange/petit-bateau/
 shop: vêtements
 ---
