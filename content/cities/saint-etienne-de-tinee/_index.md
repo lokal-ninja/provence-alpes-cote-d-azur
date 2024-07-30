@@ -1,6 +1,6 @@
 ---
-title: Saint etienne de tinee
+title: Saint-Étienne-de-Tinée
 url: /saint-etienne-de-tinee/
-latitude: 44.225
-longitude: 6.933
+latitude: 44.256
+longitude: 6.926
 ---
