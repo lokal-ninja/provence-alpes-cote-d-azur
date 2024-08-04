@@ -1,6 +1,6 @@
 ---
 title: Tourtour
 url: /tourtour/
-latitude: 43.59
-longitude: 6.301
+latitude: 43.589
+longitude: 6.303
 ---
