@@ -1,6 +1,6 @@
 ---
 title: Ventabren
 url: /ventabren/
-latitude: 43.547
-longitude: 5.294
+latitude: 43.541
+longitude: 5.271
 ---
