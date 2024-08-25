@@ -1,6 +1,6 @@
 ---
 title: Antibes
 url: /antibes/
-latitude: 43.601
-longitude: 7.123
+latitude: 43.585
+longitude: 7.117
 ---

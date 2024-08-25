@@ -1,5 +1,5 @@
 ---
-title: "Fruits et légumes"
+title: "Fruits et Legumes"
 url: /marseille/fruits-et-legumes/
-shop: légumes
+shop: commodité
 ---
