@@ -1,5 +1,5 @@
 ---
 title: "Révélation"
 url: /orange/revelation/
-shop: vêtements
+shop: Kleidung
 ---

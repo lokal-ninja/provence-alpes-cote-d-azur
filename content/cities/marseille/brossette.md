@@ -1,5 +1,5 @@
 ---
 title: "Brossette"
 url: /marseille/brossette/
-shop: commerce
+shop: Baustoffe
 ---

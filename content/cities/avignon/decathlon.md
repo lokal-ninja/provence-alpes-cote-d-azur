@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /avignon/decathlon/
-shop: sports
+shop: Sport
 ---

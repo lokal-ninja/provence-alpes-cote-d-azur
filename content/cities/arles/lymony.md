@@ -1,5 +1,5 @@
 ---
 title: "Lymony"
 url: /arles/lymony/
-shop: sac
+shop: Taschen & Koffer
 ---

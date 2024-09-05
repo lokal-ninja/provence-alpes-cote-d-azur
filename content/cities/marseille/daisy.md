@@ -1,5 +1,5 @@
 ---
 title: "Daisy"
 url: /marseille/daisy/
-shop: vêtements
+shop: Kleidung
 ---

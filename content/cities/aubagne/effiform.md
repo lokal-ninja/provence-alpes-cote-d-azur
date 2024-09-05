@@ -1,5 +1,5 @@
 ---
 title: "Effiform"
 url: /aubagne/effiform/
-shop: beauté
+shop: Kosmetik
 ---

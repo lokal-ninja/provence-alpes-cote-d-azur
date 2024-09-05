@@ -1,5 +1,5 @@
 ---
 title: "Souleiado"
 url: /arles/souleiado/
-shop: vêtements
+shop: Kleidung
 ---

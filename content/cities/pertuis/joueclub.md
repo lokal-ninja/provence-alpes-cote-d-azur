@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /pertuis/joueclub/
-shop: jouets
+shop: Spielzeug
 ---

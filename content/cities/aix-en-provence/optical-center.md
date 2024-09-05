@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /aix-en-provence/optical-center/
-shop: opticien
+shop: Optiker
 ---

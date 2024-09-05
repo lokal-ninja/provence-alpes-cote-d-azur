@@ -1,5 +1,5 @@
 ---
 title: "BloomRoom"
 url: /nice/bloomroom/
-shop: fleuriste
+shop: Blumen
 ---

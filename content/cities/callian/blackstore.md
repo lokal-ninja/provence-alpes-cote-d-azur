@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /callian/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

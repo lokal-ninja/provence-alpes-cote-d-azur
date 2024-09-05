@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /sorgues/citroen/
-shop: voiture
+shop: Autohaus
 ---

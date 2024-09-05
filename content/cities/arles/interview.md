@@ -1,5 +1,5 @@
 ---
 title: "Interview"
 url: /arles/interview/
-shop: coiffeur
+shop: Friseur
 ---

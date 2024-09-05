@@ -1,5 +1,5 @@
 ---
 title: "Distribution Provençale - Hydro Sud Avignon"
 url: /graveson/distribution-provencale-hydro-sud-avignon/
-shop: sports
+shop: Sport
 ---

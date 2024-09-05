@@ -1,5 +1,5 @@
 ---
 title: "HD Print"
 url: /raphele/hd-print/
-shop: copyshop
+shop: Kopieren
 ---

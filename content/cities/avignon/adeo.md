@@ -1,5 +1,5 @@
 ---
 title: "ADEO"
 url: /avignon/adeo/
-shop: charité
+shop: Gebrauchtwaren
 ---

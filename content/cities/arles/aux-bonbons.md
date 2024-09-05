@@ -1,5 +1,5 @@
 ---
 title: "Aux Bonbons"
 url: /arles/aux-bonbons/
-shop: confiserie
+shop: Süßwaren
 ---

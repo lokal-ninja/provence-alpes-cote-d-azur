@@ -1,5 +1,5 @@
 ---
 title: "Fresh"
 url: /draguignan/fresh/
-shop: légumes
+shop: Gemüse & Obst
 ---

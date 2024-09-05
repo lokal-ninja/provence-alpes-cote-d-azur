@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /sisteron/zeeman/
-shop: vêtements
+shop: Kleidung
 ---

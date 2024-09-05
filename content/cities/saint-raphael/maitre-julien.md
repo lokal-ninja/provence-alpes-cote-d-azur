@@ -1,5 +1,5 @@
 ---
 title: "Maître Julien"
 url: /saint-raphael/maitre-julien/
-shop: boulangerie
+shop: Bäckerei
 ---

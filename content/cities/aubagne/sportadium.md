@@ -1,5 +1,5 @@
 ---
 title: "Sportadium"
 url: /aubagne/sportadium/
-shop: vêtements
+shop: Kleidung
 ---

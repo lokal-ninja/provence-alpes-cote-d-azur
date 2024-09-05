@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /saint-tropez/chanel/
-shop: vêtements
+shop: Kleidung
 ---

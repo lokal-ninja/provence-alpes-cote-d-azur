@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /roquebilliere/vival/
-shop: commodité
+shop: Lebensmittel
 ---

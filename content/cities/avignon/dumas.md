@@ -1,5 +1,5 @@
 ---
 title: "Dumas"
 url: /avignon/dumas/
-shop: bijoux
+shop: Schmuck
 ---

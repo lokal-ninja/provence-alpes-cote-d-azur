@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Ange"
 url: /aix-en-provence/boulangerie-ange/
-shop: boulangerie
+shop: Bäckerei
 ---

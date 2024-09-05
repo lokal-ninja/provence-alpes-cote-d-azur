@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /orange/honda/
-shop: voiture
+shop: Autohaus
 ---

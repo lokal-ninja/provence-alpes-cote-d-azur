@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
 url: /marseille/loxam/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gricelle Beauté"
 url: /velaux/gricelle-beaute/
-shop: beauté
+shop: Kosmetik
 ---

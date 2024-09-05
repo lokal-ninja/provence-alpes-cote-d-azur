@@ -1,5 +1,5 @@
 ---
 title: "U Express"
 url: /cannes/u-express/
-shop: supermarché
+shop: Supermarkt
 ---

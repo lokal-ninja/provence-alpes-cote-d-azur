@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /saint-martin-de-crau/citroen/
-shop: voiture
+shop: Autohaus
 ---

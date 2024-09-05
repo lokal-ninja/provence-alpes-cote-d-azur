@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /gap/relay/
-shop: centre commercial
+shop: Einkaufszentrum
 ---

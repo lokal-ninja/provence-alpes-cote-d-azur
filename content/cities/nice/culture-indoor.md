@@ -1,5 +1,5 @@
 ---
 title: "Culture Indoor"
 url: /nice/culture-indoor/
-shop: centre de jardinage
+shop: Garten-Center
 ---

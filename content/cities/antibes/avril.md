@@ -1,5 +1,5 @@
 ---
 title: "Avril"
 url: /antibes/avril/
-shop: beauté
+shop: Kosmetik
 ---

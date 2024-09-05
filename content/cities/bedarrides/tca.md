@@ -1,5 +1,5 @@
 ---
 title: "TCA"
 url: /bedarrides/tca/
-shop: armes
+shop: Waffen
 ---

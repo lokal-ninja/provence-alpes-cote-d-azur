@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /antibes/decathlon/
-shop: sports
+shop: Sport
 ---

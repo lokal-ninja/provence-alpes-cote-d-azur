@@ -1,5 +1,5 @@
 ---
 title: "Azenaïs"
 url: /draguignan/azenais/
-shop: beauté
+shop: Kosmetik
 ---

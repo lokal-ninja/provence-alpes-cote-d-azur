@@ -1,5 +1,5 @@
 ---
 title: "Générale d'Optique"
 url: /trans-en-provence/generale-doptique/
-shop: opticien
+shop: Optiker
 ---

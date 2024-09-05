@@ -1,5 +1,5 @@
 ---
 title: "BioDici"
 url: /aix-en-provence/biodici/
-shop: commodité
+shop: Lebensmittel
 ---

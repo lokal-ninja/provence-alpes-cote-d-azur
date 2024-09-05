@@ -1,5 +1,5 @@
 ---
 title: "Ciboulette"
 url: /lambesc/ciboulette/
-shop: légumes
+shop: Gemüse & Obst
 ---

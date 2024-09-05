@@ -1,5 +1,5 @@
 ---
 title: "Zaïzaï"
 url: /lambesc/zaizai/
-shop: livres
+shop: Bücher
 ---

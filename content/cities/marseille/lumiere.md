@@ -1,5 +1,5 @@
 ---
 title: "Lumière"
 url: /marseille/lumiere/
-shop: boutique
+shop: Modehaus
 ---

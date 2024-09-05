@@ -1,5 +1,5 @@
 ---
 title: "Disproquima"
 url: /aubagne/disproquima/
-shop: commerce
+shop: Baustoffe
 ---

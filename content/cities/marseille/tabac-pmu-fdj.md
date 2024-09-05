@@ -1,5 +1,5 @@
 ---
 title: "Tabac Pmu Fdj"
 url: /marseille/tabac-pmu-fdj/
-shop: tabac
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /draguignan/boulanger/
-shop: électronique
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vapconcept"
 url: /orange/vapconcept/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

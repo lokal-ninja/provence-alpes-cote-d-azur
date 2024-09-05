@@ -1,5 +1,5 @@
 ---
 title: "Vintage"
 url: /cavaillon/vintage/
-shop: vêtements
+shop: Kleidung
 ---

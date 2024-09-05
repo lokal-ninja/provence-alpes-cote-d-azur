@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /marseille/celio/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ldlc"
 url: /aubagne/ldlc/
-shop: ordinateur
+shop: Computer
 ---

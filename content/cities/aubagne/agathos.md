@@ -1,5 +1,5 @@
 ---
 title: "Agathos"
 url: /aubagne/agathos/
-shop: blanchisserie
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mauboussin"
 url: /avignon/mauboussin/
-shop: bijoux
+shop: Schmuck
 ---

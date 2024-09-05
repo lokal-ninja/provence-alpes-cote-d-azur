@@ -1,5 +1,5 @@
 ---
 title: "Mangeons Frais"
 url: /orange/mangeons-frais/
-shop: légumes
+shop: Gemüse & Obst
 ---

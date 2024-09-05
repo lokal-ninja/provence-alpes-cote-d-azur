@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /robion/utile/
-shop: commodité
+shop: Lebensmittel
 ---

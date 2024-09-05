@@ -1,5 +1,5 @@
 ---
 title: "Le Temps"
 url: /antibes/le-temps/
-shop: coiffeur
+shop: Friseur
 ---

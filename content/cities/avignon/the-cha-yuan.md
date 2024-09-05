@@ -1,5 +1,5 @@
 ---
 title: "The Cha Yuan"
 url: /avignon/the-cha-yuan/
-shop: thé
+shop: Tee
 ---

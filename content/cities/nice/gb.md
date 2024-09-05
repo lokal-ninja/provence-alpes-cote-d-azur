@@ -1,5 +1,5 @@
 ---
 title: "GB"
 url: /nice/gb/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pinus"
 url: /arles/pinus/
-shop: bijoux
+shop: Schmuck
 ---

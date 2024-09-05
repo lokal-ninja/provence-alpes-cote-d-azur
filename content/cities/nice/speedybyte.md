@@ -1,5 +1,5 @@
 ---
 title: "SpeedyByte"
 url: /nice/speedybyte/
-shop: ordinateur
+shop: Computer
 ---

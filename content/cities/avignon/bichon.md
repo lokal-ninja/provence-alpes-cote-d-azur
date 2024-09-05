@@ -1,5 +1,5 @@
 ---
 title: "Bichon"
 url: /avignon/bichon/
-shop: bijoux
+shop: Schmuck
 ---

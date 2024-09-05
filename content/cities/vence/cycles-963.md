@@ -1,5 +1,5 @@
 ---
 title: "Cycles 963"
 url: /vence/cycles-963/
-shop: vélo
+shop: Fahrrad
 ---

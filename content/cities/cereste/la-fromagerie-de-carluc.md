@@ -1,5 +1,5 @@
 ---
 title: "La Fromagerie de Carluc"
 url: /cereste/la-fromagerie-de-carluc/
-shop: fromage
+shop: Käse
 ---

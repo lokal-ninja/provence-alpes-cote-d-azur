@@ -1,5 +1,5 @@
 ---
 title: "Sunset"
 url: /bandol/sunset/
-shop: vêtements
+shop: Kleidung
 ---

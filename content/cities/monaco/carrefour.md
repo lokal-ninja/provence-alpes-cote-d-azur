@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /monaco/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

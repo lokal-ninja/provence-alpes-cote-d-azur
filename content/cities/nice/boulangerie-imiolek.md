@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Imiolek"
 url: /nice/boulangerie-imiolek/
-shop: boulangerie
+shop: Bäckerei
 ---

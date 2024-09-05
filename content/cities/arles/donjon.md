@@ -1,5 +1,5 @@
 ---
 title: "Donjon"
 url: /arles/donjon/
-shop: bijoux
+shop: Schmuck
 ---

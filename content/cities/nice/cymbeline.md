@@ -1,5 +1,5 @@
 ---
 title: "Cymbeline"
 url: /nice/cymbeline/
-shop: vêtements
+shop: Kleidung
 ---

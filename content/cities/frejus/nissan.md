@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /frejus/nissan/
-shop: voiture
+shop: Autohaus
 ---

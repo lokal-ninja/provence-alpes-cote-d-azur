@@ -1,5 +1,5 @@
 ---
 title: "Ekimia"
 url: /aubagne/ekimia/
-shop: ordinateur
+shop: Computer
 ---

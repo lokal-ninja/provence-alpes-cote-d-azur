@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /lapalud/utile/
-shop: commodité
+shop: Lebensmittel
 ---

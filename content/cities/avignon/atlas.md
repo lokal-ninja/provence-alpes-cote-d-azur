@@ -1,5 +1,5 @@
 ---
 title: "Atlas"
 url: /avignon/atlas/
-shop: boucherie
+shop: Metzgerei
 ---

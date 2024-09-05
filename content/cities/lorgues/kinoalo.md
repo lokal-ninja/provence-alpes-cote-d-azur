@@ -1,5 +1,5 @@
 ---
 title: "Kinoalo"
 url: /lorgues/kinoalo/
-shop: vêtements
+shop: Kleidung
 ---

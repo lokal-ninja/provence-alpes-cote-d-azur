@@ -1,5 +1,5 @@
 ---
 title: "Scheim's"
 url: /aubagne/scheims/
-shop: chaussures
+shop: Schuhe
 ---

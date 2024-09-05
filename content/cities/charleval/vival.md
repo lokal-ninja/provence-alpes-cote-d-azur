@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /charleval/vival/
-shop: commodité
+shop: Lebensmittel
 ---

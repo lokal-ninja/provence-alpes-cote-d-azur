@@ -1,5 +1,5 @@
 ---
 title: "Ophelia"
 url: /orange/ophelia/
-shop: bijoux
+shop: Schmuck
 ---

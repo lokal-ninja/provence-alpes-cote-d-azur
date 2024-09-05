@@ -1,5 +1,5 @@
 ---
 title: "Natives"
 url: /aubagne/natives/
-shop: commerce
+shop: Baustoffe
 ---

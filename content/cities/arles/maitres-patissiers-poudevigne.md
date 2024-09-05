@@ -1,5 +1,5 @@
 ---
 title: "Maitres Patissiers Poudevigne"
 url: /arles/maitres-patissiers-poudevigne/
-shop: boulangerie
+shop: Bäckerei
 ---

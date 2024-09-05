@@ -1,5 +1,5 @@
 ---
 title: "bla-bla"
 url: /avignon/bla-bla/
-shop: cuir
+shop: Leder
 ---

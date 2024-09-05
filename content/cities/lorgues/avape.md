@@ -1,5 +1,5 @@
 ---
 title: "Avape"
 url: /lorgues/avape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

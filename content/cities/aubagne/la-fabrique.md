@@ -1,5 +1,5 @@
 ---
 title: "La fabrique"
 url: /aubagne/la-fabrique/
-shop: boulangerie
+shop: Bäckerei
 ---

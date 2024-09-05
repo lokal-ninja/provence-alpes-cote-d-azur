@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /orange/rougegorge/
-shop: vêtements
+shop: Kleidung
 ---

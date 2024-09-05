@@ -1,5 +1,5 @@
 ---
 title: "Issartel"
 url: /arles/issartel/
-shop: légumes
+shop: Gemüse & Obst
 ---

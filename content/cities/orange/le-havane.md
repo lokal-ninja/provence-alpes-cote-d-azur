@@ -1,5 +1,5 @@
 ---
 title: "Le Havane"
 url: /orange/le-havane/
-shop: tabac
+shop: Tabak
 ---

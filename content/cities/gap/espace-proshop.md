@@ -1,5 +1,5 @@
 ---
 title: "Espace Proshop"
 url: /gap/espace-proshop/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richard Mille"
 url: /monaco/richard-mille/
-shop: montres
+shop: Uhren
 ---

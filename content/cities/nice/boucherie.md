@@ -1,5 +1,5 @@
 ---
 title: "Boucherie"
 url: /nice/boucherie/
-shop: boucherie
+shop: Metzgerei
 ---

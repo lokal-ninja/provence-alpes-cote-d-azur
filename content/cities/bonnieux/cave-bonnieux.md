@@ -1,5 +1,5 @@
 ---
 title: "Cave Bonnieux"
 url: /bonnieux/cave-bonnieux/
-shop: vin
+shop: Wein
 ---

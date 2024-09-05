@@ -1,5 +1,5 @@
 ---
 title: "Évidence Coiffure"
 url: /mallemort/evidence-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

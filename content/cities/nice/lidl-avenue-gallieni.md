@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /nice/lidl-avenue-gallieni/
-shop: supermarché
+shop: Supermarkt
 ---

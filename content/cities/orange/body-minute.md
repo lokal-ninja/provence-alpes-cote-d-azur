@@ -1,5 +1,5 @@
 ---
 title: "Body Minute"
 url: /orange/body-minute/
-shop: beauté
+shop: Kosmetik
 ---

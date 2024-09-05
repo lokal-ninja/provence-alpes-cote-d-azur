@@ -1,5 +1,5 @@
 ---
 title: "Malvé Coiffure"
 url: /nice/malve-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

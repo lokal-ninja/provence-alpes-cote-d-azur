@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /nice/avia/
-shop: commodité
+shop: Lebensmittel
 ---

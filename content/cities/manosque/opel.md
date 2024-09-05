@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /manosque/opel/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agnès coiffure"
 url: /gap/agnes-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

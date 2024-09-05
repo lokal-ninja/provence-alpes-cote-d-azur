@@ -1,5 +1,5 @@
 ---
 title: "Moulin de Flor"
 url: /nice/moulin-de-flor/
-shop: boulangerie
+shop: Bäckerei
 ---

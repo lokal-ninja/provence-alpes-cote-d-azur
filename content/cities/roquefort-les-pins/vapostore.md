@@ -1,5 +1,5 @@
 ---
 title: "Vapostore"
 url: /roquefort-les-pins/vapostore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

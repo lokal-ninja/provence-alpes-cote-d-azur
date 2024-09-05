@@ -1,5 +1,5 @@
 ---
 title: "Fleuriste"
 url: /lambesc/fleuriste/
-shop: fleuriste
+shop: Blumen
 ---

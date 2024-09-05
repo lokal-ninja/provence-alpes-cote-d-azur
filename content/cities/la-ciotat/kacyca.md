@@ -1,5 +1,5 @@
 ---
 title: "KACYCA"
 url: /la-ciotat/kacyca/
-shop: boutique
+shop: Modehaus
 ---

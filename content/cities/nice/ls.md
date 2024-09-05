@@ -1,5 +1,5 @@
 ---
 title: "LS"
 url: /nice/ls/
-shop: beauté
+shop: Kosmetik
 ---

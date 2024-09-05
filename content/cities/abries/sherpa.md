@@ -1,5 +1,5 @@
 ---
 title: "Sherpa"
 url: /abries/sherpa/
-shop: commodité
+shop: Lebensmittel
 ---

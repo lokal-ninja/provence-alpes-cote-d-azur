@@ -1,5 +1,5 @@
 ---
 title: "Albalat"
 url: /nice/albalat/
-shop: cuisine
+shop: Küchen
 ---

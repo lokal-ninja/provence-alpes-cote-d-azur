@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
 url: /aubagne/boconcept/
-shop: meubles
+shop: Möbel
 ---

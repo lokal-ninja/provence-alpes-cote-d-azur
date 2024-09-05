@@ -1,5 +1,5 @@
 ---
 title: "Fany Guerrault"
 url: /le-bar-sur-loup/fany-guerrault/
-shop: ferme
+shop: Hofladen
 ---

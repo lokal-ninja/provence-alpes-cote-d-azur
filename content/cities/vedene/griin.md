@@ -1,5 +1,5 @@
 ---
 title: "Griin"
 url: /vedene/griin/
-shop: centre de jardinage
+shop: Garten-Center
 ---

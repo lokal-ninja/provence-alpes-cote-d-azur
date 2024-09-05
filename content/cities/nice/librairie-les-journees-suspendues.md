@@ -1,5 +1,5 @@
 ---
 title: "Librairie Les Journées Suspendues"
 url: /nice/librairie-les-journees-suspendues/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /sainte-maxime/intersport/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Essentiel"
 url: /mouans-sartoux/lessentiel/
-shop: commodité
+shop: Lebensmittel
 ---

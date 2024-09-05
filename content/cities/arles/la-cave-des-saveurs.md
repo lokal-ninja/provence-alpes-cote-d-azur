@@ -1,5 +1,5 @@
 ---
 title: "La Cave des Saveurs"
 url: /arles/la-cave-des-saveurs/
-shop: alcool
+shop: Spirituosen
 ---

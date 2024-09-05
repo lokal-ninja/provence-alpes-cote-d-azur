@@ -1,5 +1,5 @@
 ---
 title: "Atlas"
 url: /nice/atlas/
-shop: meubles
+shop: Möbel
 ---

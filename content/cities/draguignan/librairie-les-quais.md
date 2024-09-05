@@ -1,5 +1,5 @@
 ---
 title: "Librairie Les Quais"
 url: /draguignan/librairie-les-quais/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L’art Dit Vin"
 url: /orange/lart-dit-vin/
-shop: vin
+shop: Wein
 ---

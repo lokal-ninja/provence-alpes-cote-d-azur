@@ -1,5 +1,5 @@
 ---
 title: "Novatech"
 url: /la-ciotat/novatech/
-shop: approvisionnement médical
+shop: Sanitätshaus
 ---

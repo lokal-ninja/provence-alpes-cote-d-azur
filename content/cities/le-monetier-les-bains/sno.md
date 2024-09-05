@@ -1,5 +1,5 @@
 ---
 title: "SNØ"
 url: /le-monetier-les-bains/sno/
-shop: sports
+shop: Sport
 ---

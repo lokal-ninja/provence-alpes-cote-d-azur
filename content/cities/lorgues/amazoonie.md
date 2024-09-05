@@ -1,5 +1,5 @@
 ---
 title: "Amazoonie"
 url: /lorgues/amazoonie/
-shop: centre de jardinage
+shop: Garten-Center
 ---

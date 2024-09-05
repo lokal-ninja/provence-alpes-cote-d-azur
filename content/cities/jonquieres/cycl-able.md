@@ -1,5 +1,5 @@
 ---
 title: "Cycl-able"
 url: /jonquieres/cycl-able/
-shop: vélo
+shop: Fahrrad
 ---

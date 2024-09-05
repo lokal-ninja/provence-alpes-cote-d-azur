@@ -1,5 +1,5 @@
 ---
 title: "Modélisme Center"
 url: /saint-martin-de-crau/modelisme-center/
-shop: jouets
+shop: Spielzeug
 ---

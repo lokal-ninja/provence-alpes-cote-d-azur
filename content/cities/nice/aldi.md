@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /nice/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

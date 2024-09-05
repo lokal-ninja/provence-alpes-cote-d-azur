@@ -1,5 +1,5 @@
 ---
 title: "Lauren's Home"
 url: /draguignan/laurens-home/
-shop: meubles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /marseille/swarovski/
-shop: bijoux
+shop: Schmuck
 ---

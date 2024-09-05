@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /nice/bp/
-shop: commodité
+shop: Lebensmittel
 ---

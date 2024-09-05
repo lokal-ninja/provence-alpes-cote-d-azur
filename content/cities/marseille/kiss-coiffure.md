@@ -1,5 +1,5 @@
 ---
 title: "kiss Coiffure"
 url: /marseille/kiss-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

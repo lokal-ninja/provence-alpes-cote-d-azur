@@ -1,5 +1,5 @@
 ---
 title: "Sherpa Supermarché Briançon"
 url: /briancon/sherpa-supermarche-briancon/
-shop: commodité
+shop: Lebensmittel
 ---

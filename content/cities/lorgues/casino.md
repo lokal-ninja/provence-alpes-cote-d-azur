@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /lorgues/casino/
-shop: supermarché
+shop: Supermarkt
 ---

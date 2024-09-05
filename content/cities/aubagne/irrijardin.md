@@ -1,5 +1,5 @@
 ---
 title: "Irrijardin"
 url: /aubagne/irrijardin/
-shop: piscine
+shop: Pool
 ---

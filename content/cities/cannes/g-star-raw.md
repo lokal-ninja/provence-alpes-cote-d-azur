@@ -1,5 +1,5 @@
 ---
 title: "G-Star Raw"
 url: /cannes/g-star-raw/
-shop: vêtements
+shop: Kleidung
 ---

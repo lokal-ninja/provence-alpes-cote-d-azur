@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /peipin/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

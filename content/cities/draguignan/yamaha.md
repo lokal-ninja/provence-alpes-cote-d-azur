@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /draguignan/yamaha/
-shop: moto
+shop: Motorrad
 ---

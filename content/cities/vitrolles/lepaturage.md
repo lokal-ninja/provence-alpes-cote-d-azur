@@ -1,5 +1,5 @@
 ---
 title: "Lepaturage"
 url: /vitrolles/lepaturage/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mademoiselle Ange"
 url: /avignon/mademoiselle-ange/
-shop: beauté
+shop: Kosmetik
 ---

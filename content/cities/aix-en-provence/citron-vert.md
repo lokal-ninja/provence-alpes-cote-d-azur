@@ -1,5 +1,5 @@
 ---
 title: "Citron Vert"
 url: /aix-en-provence/citron-vert/
-shop: beauté
+shop: Kosmetik
 ---

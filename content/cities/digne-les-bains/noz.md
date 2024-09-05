@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /digne-les-bains/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

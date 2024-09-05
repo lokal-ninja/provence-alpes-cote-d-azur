@@ -1,5 +1,5 @@
 ---
 title: "Thierry Farina"
 url: /avignon/thierry-farina/
-shop: coiffeur
+shop: Friseur
 ---

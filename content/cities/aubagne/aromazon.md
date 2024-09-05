@@ -1,5 +1,5 @@
 ---
 title: "Aromazon"
 url: /aubagne/aromazon/
-shop: shop
+shop: Allgemein
 ---

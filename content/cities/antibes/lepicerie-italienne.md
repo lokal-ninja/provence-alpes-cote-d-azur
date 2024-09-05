@@ -1,5 +1,5 @@
 ---
 title: "L'épicerie Italienne"
 url: /antibes/lepicerie-italienne/
-shop: boulangerie
+shop: Bäckerei
 ---

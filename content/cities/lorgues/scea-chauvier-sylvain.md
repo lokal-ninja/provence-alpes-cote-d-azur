@@ -1,5 +1,5 @@
 ---
 title: "SCEA Chauvier Sylvain"
 url: /lorgues/scea-chauvier-sylvain/
-shop: centre de jardinage
+shop: Garten-Center
 ---

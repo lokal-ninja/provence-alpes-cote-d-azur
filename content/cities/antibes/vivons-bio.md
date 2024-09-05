@@ -1,5 +1,5 @@
 ---
 title: "Vivons Bio"
 url: /antibes/vivons-bio/
-shop: supermarché
+shop: Supermarkt
 ---

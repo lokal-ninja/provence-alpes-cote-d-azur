@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
 url: /saint-raphael/ikks/
-shop: vêtements
+shop: Kleidung
 ---

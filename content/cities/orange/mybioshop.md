@@ -1,5 +1,5 @@
 ---
 title: "Mybioshop"
 url: /orange/mybioshop/
-shop: supermarché
+shop: Supermarkt
 ---

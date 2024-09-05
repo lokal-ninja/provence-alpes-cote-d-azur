@@ -1,5 +1,5 @@
 ---
 title: "Verdon optique"
 url: /aups/verdon-optique/
-shop: opticien
+shop: Optiker
 ---

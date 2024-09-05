@@ -1,5 +1,5 @@
 ---
 title: "David Vincent"
 url: /nans-les-pins/david-vincent/
-shop: boulangerie
+shop: Bäckerei
 ---

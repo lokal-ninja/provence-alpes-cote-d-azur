@@ -1,5 +1,5 @@
 ---
 title: "Jet coif'"
 url: /digne-les-bains/jet-coif/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /marseille/krys/
-shop: opticien
+shop: Optiker
 ---

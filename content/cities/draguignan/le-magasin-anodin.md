@@ -1,5 +1,5 @@
 ---
 title: "Le Magasin Anodin"
 url: /draguignan/le-magasin-anodin/
-shop: alcool
+shop: Spirituosen
 ---

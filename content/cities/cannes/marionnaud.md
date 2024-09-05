@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /cannes/marionnaud/
-shop: parfumerie
+shop: Parfümerie
 ---

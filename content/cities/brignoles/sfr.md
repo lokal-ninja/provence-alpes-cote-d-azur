@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /brignoles/sfr/
-shop: téléphone portable
+shop: Handy
 ---

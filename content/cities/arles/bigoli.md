@@ -1,5 +1,5 @@
 ---
 title: "Bigoli"
 url: /arles/bigoli/
-shop: charcuterie
+shop: Feinkost
 ---

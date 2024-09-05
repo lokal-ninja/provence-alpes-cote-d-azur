@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /gap/etam/
-shop: vêtements
+shop: Kleidung
 ---

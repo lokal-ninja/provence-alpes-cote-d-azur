@@ -1,5 +1,5 @@
 ---
 title: "Cosmoparis"
 url: /avignon/cosmoparis/
-shop: chaussures
+shop: Schuhe
 ---

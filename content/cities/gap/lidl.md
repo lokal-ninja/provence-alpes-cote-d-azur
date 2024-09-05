@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /gap/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

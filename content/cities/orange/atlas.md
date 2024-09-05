@@ -1,5 +1,5 @@
 ---
 title: "Atlas"
 url: /orange/atlas/
-shop: meubles
+shop: Möbel
 ---

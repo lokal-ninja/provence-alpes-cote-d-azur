@@ -1,5 +1,5 @@
 ---
 title: "Pic Feu"
 url: /la-grave/pic-feu/
-shop: cadeau
+shop: Andenken
 ---

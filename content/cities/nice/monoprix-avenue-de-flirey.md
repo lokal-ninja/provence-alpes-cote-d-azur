@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /nice/monoprix-avenue-de-flirey/
-shop: supermarché
+shop: Supermarkt
 ---

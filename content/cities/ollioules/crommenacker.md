@@ -1,5 +1,5 @@
 ---
 title: "Crommenacker"
 url: /ollioules/crommenacker/
-shop: légumes
+shop: Gemüse & Obst
 ---

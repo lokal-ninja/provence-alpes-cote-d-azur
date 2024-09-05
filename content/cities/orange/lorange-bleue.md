@@ -1,5 +1,5 @@
 ---
 title: "L'Orange Bleue"
 url: /orange/lorange-bleue/
-shop: livres
+shop: Bücher
 ---

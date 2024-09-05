@@ -1,5 +1,5 @@
 ---
 title: "Hair Marin"
 url: /nice/hair-marin/
-shop: coiffeur
+shop: Friseur
 ---

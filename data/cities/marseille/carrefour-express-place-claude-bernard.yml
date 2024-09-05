@@ -7,5 +7,5 @@ city: Marseille
 street: "Place Claude Bernard"
 housenumber: 8
 phone: "+33 4 91 66 99 53"
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
 website: "https://www.carrefour.fr/magasin/express-marseille-bernard"

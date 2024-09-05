@@ -1,5 +1,5 @@
 ---
 title: "Mando"
 url: /marseille/mando/
-shop: boulangerie
+shop: Bäckerei
 ---

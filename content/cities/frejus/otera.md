@@ -1,5 +1,5 @@
 ---
 title: "Otera"
 url: /frejus/otera/
-shop: ferme
+shop: Hofladen
 ---

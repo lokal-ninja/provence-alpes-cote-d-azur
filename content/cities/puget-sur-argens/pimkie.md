@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /puget-sur-argens/pimkie/
-shop: vêtements
+shop: Kleidung
 ---

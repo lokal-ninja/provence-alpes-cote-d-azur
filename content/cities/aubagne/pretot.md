@@ -1,5 +1,5 @@
 ---
 title: "Pretot"
 url: /aubagne/pretot/
-shop: bijoux
+shop: Schmuck
 ---

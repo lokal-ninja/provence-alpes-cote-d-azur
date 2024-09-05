@@ -1,5 +1,5 @@
 ---
 title: "BizzBee"
 url: /marseille/bizzbee/
-shop: vêtements
+shop: Kleidung
 ---

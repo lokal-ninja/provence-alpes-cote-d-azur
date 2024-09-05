@@ -1,5 +1,5 @@
 ---
 title: "VILMA"
 url: /draguignan/vilma/
-shop: vêtements
+shop: Kleidung
 ---

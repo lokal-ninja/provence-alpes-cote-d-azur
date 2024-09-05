@@ -1,5 +1,5 @@
 ---
 title: "Les Délices d'Adeline"
 url: /gap/les-delices-dadeline/
-shop: pâtisserie
+shop: Konditorei
 ---

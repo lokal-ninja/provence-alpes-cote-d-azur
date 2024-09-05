@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /nice/total/
-shop: commodité
+shop: Lebensmittel
 ---

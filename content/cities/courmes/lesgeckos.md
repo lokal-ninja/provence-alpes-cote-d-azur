@@ -1,5 +1,5 @@
 ---
 title: "Lesgeckos"
 url: /courmes/lesgeckos/
-shop: extérieur
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /ollioules/decathlon/
-shop: sports
+shop: Sport
 ---

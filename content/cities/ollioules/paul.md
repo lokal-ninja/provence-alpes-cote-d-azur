@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /ollioules/paul/
-shop: boulangerie
+shop: Bäckerei
 ---

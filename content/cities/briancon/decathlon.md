@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /briancon/decathlon/
-shop: sports
+shop: Sport
 ---

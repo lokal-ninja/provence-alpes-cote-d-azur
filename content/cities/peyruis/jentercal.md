@@ -1,5 +1,5 @@
 ---
 title: "Jentercal"
 url: /peyruis/jentercal/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Créa'tif"
 url: /manosque/creatif/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /toulon/vival/
-shop: commodité
+shop: Lebensmittel
 ---

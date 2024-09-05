@@ -1,5 +1,5 @@
 ---
 title: "Distillerie Florihana"
 url: /caussols/distillerie-florihana/
-shop: ferme
+shop: Hofladen
 ---

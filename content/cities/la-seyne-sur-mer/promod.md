@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /la-seyne-sur-mer/promod/
-shop: vêtements
+shop: Kleidung
 ---

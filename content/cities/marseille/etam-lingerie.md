@@ -1,5 +1,5 @@
 ---
 title: "Etam Lingerie"
 url: /marseille/etam-lingerie/
-shop: vêtements
+shop: Kleidung
 ---

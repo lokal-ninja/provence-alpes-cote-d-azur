@@ -1,5 +1,5 @@
 ---
 title: "JeuxDredi"
 url: /hyeres/jeuxdredi/
-shop: jeux
+shop: Spiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sovicoval"
 url: /vallauris/sovicoval/
-shop: vin
+shop: Wein
 ---

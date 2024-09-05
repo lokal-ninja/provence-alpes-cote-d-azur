@@ -1,5 +1,5 @@
 ---
 title: "Karukera"
 url: /ollioules/karukera/
-shop: piscine
+shop: Pool
 ---

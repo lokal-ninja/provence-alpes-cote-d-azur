@@ -1,5 +1,5 @@
 ---
 title: "Fouque"
 url: /draguignan/fouque/
-shop: chaussures
+shop: Schuhe
 ---

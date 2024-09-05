@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /sisteron/intersport/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morin"
 url: /rognonas/morin/
-shop: boulangerie
+shop: Bäckerei
 ---

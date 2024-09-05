@@ -1,5 +1,5 @@
 ---
 title: "Brooks Brothers"
 url: /monaco/brooks-brothers/
-shop: vêtements
+shop: Kleidung
 ---

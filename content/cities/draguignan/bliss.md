@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /draguignan/bliss/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /brignoles/etam/
-shop: vêtements
+shop: Kleidung
 ---

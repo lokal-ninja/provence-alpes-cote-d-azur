@@ -1,5 +1,5 @@
 ---
 title: "Heytens"
 url: /vedene/heytens/
-shop: rideau
+shop: Gardinen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AFSE"
 url: /aubagne/afse/
-shop: shop
+shop: Allgemein
 ---

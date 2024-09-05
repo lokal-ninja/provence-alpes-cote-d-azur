@@ -1,5 +1,5 @@
 ---
 title: "Medis"
 url: /aubagne/medis/
-shop: commerce
+shop: Baustoffe
 ---

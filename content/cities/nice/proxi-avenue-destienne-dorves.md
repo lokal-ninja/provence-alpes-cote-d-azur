@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /nice/proxi-avenue-destienne-dorves/
-shop: commodité
+shop: Lebensmittel
 ---

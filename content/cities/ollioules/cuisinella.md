@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /ollioules/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

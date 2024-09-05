@@ -1,5 +1,5 @@
 ---
 title: "Marius Brun"
 url: /arles/marius-brun/
-shop: vente en gros
+shop: Großhandel
 ---

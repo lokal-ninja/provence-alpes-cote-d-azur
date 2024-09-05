@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /maubec/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

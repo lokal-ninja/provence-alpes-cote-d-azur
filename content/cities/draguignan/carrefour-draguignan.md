@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Draguignan"
 url: /draguignan/carrefour-draguignan/
-shop: gaz
+shop: Gasflaschen
 ---

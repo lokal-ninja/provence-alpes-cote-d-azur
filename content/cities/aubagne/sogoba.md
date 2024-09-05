@@ -1,5 +1,5 @@
 ---
 title: "Sogoba"
 url: /aubagne/sogoba/
-shop: approvisionnement médical
+shop: Sanitätshaus
 ---

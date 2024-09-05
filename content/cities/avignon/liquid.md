@@ -1,5 +1,5 @@
 ---
 title: "Liquid"
 url: /avignon/liquid/
-shop: alcool
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /brignoles/pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

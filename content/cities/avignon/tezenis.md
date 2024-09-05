@@ -1,5 +1,5 @@
 ---
 title: "Tezenis"
 url: /avignon/tezenis/
-shop: vêtements
+shop: Kleidung
 ---

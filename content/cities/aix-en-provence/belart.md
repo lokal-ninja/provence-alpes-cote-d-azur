@@ -1,5 +1,5 @@
 ---
 title: "Belart"
 url: /aix-en-provence/belart/
-shop: vêtements
+shop: Kleidung
 ---

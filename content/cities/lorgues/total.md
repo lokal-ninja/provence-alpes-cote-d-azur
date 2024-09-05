@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /lorgues/total/
-shop: gaz
+shop: Gasflaschen
 ---

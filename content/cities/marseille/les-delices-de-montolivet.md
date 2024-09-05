@@ -1,5 +1,5 @@
 ---
 title: "Les Délices de Montolivet"
 url: /marseille/les-delices-de-montolivet/
-shop: boulangerie
+shop: Bäckerei
 ---

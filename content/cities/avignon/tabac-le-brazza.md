@@ -1,5 +1,5 @@
 ---
 title: "Tabac le Brazza"
 url: /avignon/tabac-le-brazza/
-shop: tabac
+shop: Tabak
 ---

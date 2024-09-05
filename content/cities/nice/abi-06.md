@@ -1,5 +1,5 @@
 ---
 title: "ABI 06"
 url: /nice/abi-06/
-shop: vêtements
+shop: Kleidung
 ---

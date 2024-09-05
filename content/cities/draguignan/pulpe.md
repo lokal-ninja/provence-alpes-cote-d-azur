@@ -1,5 +1,5 @@
 ---
 title: "Pulpe"
 url: /draguignan/pulpe/
-shop: vin
+shop: Wein
 ---

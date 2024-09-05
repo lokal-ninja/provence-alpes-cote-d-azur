@@ -1,5 +1,5 @@
 ---
 title: "Chicha Boa"
 url: /menton/chicha-boa/
-shop: boucherie
+shop: Metzgerei
 ---

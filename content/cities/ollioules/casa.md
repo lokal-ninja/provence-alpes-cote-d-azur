@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /ollioules/casa/
-shop: meubles
+shop: Möbel
 ---

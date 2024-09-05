@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /istres/intersport/
-shop: sports
+shop: Sport
 ---

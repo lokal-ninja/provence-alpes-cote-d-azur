@@ -1,5 +1,5 @@
 ---
 title: "Vacant"
 url: /la-valette-du-var/vacant/
-shop: vacant
+shop: Leerstehend
 ---

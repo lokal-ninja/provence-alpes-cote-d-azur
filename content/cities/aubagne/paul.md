@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /aubagne/paul/
-shop: boulangerie
+shop: Bäckerei
 ---

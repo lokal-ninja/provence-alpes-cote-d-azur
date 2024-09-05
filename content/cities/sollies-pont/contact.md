@@ -1,5 +1,5 @@
 ---
 title: "Contact"
 url: /sollies-pont/contact/
-shop: gaz
+shop: Gasflaschen
 ---

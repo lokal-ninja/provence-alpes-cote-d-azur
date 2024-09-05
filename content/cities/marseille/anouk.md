@@ -1,5 +1,5 @@
 ---
 title: "Anouk"
 url: /marseille/anouk/
-shop: vêtements
+shop: Kleidung
 ---

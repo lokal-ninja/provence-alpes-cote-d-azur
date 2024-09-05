@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cotignac/spar/
-shop: commodité
+shop: Lebensmittel
 ---

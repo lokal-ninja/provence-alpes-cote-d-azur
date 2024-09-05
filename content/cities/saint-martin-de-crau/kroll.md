@@ -1,5 +1,5 @@
 ---
 title: "K'Roll"
 url: /saint-martin-de-crau/kroll/
-shop: coiffeur
+shop: Friseur
 ---

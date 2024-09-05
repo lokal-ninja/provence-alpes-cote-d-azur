@@ -1,5 +1,5 @@
 ---
 title: "Provence Dépôt vente"
 url: /molleges/provence-depot-vente/
-shop: charité
+shop: Gebrauchtwaren
 ---

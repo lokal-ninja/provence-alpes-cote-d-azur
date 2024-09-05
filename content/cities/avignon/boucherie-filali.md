@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Filali"
 url: /avignon/boucherie-filali/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CUT"
 url: /marseille/cut/
-shop: coiffeur
+shop: Friseur
 ---

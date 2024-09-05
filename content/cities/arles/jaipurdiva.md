@@ -1,5 +1,5 @@
 ---
 title: "Jaipurdiva"
 url: /arles/jaipurdiva/
-shop: vêtements
+shop: Kleidung
 ---

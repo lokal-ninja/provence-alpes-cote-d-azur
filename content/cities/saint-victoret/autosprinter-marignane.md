@@ -1,5 +1,5 @@
 ---
 title: "Autosprinter Marignane"
 url: /saint-victoret/autosprinter-marignane/
-shop: voiture
+shop: Autohaus
 ---

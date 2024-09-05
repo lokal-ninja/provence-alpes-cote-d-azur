@@ -1,5 +1,5 @@
 ---
 title: "For'hommes"
 url: /manosque/forhommes/
-shop: coiffeur
+shop: Friseur
 ---

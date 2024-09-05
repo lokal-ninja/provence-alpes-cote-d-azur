@@ -1,5 +1,5 @@
 ---
 title: "VillaVerde"
 url: /antibes/villaverde/
-shop: centre de jardinage
+shop: Garten-Center
 ---

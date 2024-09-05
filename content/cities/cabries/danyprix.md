@@ -1,5 +1,5 @@
 ---
 title: "Danyprix"
 url: /cabries/danyprix/
-shop: commodité
+shop: Lebensmittel
 ---

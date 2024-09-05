@@ -1,5 +1,5 @@
 ---
 title: "Choo"
 url: /vedene/choo/
-shop: meubles
+shop: Möbel
 ---

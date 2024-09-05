@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /le-pontet/decathlon/
-shop: sports
+shop: Sport
 ---

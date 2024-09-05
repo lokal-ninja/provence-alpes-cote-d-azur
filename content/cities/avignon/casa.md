@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /avignon/casa/
-shop: meubles
+shop: Möbel
 ---

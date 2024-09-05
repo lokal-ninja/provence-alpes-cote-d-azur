@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /marseille/promod/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monop'"
 url: /marseille/monop/
-shop: commodité
+shop: Lebensmittel
 ---

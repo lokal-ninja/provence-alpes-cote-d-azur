@@ -1,5 +1,5 @@
 ---
 title: "Ange"
 url: /marseille/ange/
-shop: boulangerie
+shop: Bäckerei
 ---

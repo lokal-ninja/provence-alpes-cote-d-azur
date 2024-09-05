@@ -1,5 +1,5 @@
 ---
 title: "Ecocuisine"
 url: /aubagne/ecocuisine/
-shop: cuisine
+shop: Küchen
 ---

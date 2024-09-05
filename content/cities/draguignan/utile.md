@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /draguignan/utile/
-shop: commodité
+shop: Lebensmittel
 ---

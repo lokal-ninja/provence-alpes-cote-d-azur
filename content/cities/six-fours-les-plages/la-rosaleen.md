@@ -1,5 +1,5 @@
 ---
 title: "La Rosaleen"
 url: /six-fours-les-plages/la-rosaleen/
-shop: boulangerie
+shop: Bäckerei
 ---

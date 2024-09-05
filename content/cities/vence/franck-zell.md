@@ -1,5 +1,5 @@
 ---
 title: "Franck Zell"
 url: /vence/franck-zell/
-shop: coiffeur
+shop: Friseur
 ---

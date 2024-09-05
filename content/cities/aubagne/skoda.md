@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /aubagne/skoda/
-shop: voiture
+shop: Autohaus
 ---

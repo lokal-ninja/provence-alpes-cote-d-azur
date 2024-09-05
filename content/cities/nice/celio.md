@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /nice/celio/
-shop: vêtements
+shop: Kleidung
 ---

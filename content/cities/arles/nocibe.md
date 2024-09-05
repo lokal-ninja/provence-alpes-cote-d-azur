@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /arles/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

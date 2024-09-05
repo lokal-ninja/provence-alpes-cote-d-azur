@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /greolieres/vival/
-shop: commodité
+shop: Lebensmittel
 ---

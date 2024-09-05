@@ -1,5 +1,5 @@
 ---
 title: "Provenc'Halles"
 url: /lorgues/provenchalles/
-shop: légumes
+shop: Gemüse & Obst
 ---

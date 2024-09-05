@@ -1,5 +1,5 @@
 ---
 title: "Baguépi"
 url: /nice/baguepi/
-shop: boulangerie
+shop: Bäckerei
 ---

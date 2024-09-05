@@ -1,5 +1,5 @@
 ---
 title: "ANN'SO"
 url: /draguignan/annso/
-shop: vêtements
+shop: Kleidung
 ---

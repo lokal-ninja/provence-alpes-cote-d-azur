@@ -1,5 +1,5 @@
 ---
 title: "MarionStyle"
 url: /vitrolles/marionstyle/
-shop: coiffeur
+shop: Friseur
 ---

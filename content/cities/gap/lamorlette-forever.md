@@ -1,5 +1,5 @@
 ---
 title: "Lamorlette Fo'Rever"
 url: /gap/lamorlette-forever/
-shop: boucherie
+shop: Metzgerei
 ---

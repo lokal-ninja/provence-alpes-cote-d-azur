@@ -1,5 +1,5 @@
 ---
 title: "Vili"
 url: /cabries/vili/
-shop: boucherie
+shop: Metzgerei
 ---

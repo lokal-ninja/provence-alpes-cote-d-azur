@@ -1,5 +1,5 @@
 ---
 title: "Bose"
 url: /la-ciotat/bose/
-shop: hifi
+shop: Hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /sisteron/lissac/
-shop: opticien
+shop: Optiker
 ---

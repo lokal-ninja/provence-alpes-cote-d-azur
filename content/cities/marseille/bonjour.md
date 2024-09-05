@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /marseille/bonjour/
-shop: commodité
+shop: Lebensmittel
 ---

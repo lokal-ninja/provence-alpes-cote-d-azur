@@ -1,5 +1,5 @@
 ---
 title: "Agip"
 url: /marseille/agip/
-shop: commodité
+shop: Lebensmittel
 ---

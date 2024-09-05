@@ -1,5 +1,5 @@
 ---
 title: "Grenadine"
 url: /lambesc/grenadine/
-shop: vêtements
+shop: Kleidung
 ---

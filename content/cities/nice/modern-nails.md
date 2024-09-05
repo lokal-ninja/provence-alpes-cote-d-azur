@@ -1,5 +1,5 @@
 ---
 title: "Modern Nails"
 url: /nice/modern-nails/
-shop: beauté
+shop: Kosmetik
 ---

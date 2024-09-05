@@ -1,5 +1,5 @@
 ---
 title: "Aura"
 url: /saint-jeannet/aura/
-shop: bijoux
+shop: Schmuck
 ---

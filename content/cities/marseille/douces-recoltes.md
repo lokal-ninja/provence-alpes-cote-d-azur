@@ -1,5 +1,5 @@
 ---
 title: "Douces récoltes"
 url: /marseille/douces-recoltes/
-shop: légumes
+shop: Gemüse & Obst
 ---

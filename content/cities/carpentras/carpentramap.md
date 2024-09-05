@@ -1,5 +1,5 @@
 ---
 title: "Carpentr'AMAP"
 url: /carpentras/carpentramap/
-shop: légumes
+shop: Gemüse & Obst
 ---

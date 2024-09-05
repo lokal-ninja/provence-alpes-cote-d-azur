@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /monaco/casino/
-shop: supermarché
+shop: Supermarkt
 ---

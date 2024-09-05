@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /vedene/ikea/
-shop: meubles
+shop: Möbel
 ---

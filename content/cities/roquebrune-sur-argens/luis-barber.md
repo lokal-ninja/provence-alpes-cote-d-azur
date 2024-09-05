@@ -1,5 +1,5 @@
 ---
 title: "Luis Barber"
 url: /roquebrune-sur-argens/luis-barber/
-shop: coiffeur
+shop: Friseur
 ---

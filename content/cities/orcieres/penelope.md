@@ -1,5 +1,5 @@
 ---
 title: "Penelope"
 url: /orcieres/penelope/
-shop: coiffeur
+shop: Friseur
 ---

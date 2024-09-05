@@ -1,5 +1,5 @@
 ---
 title: "Jeff de Bruges"
 url: /mougins/jeff-de-bruges/
-shop: chocolat
+shop: Schokolade
 ---

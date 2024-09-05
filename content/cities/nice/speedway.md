@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /nice/speedway/
-shop: moto
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alyscamps"
 url: /arles/alyscamps/
-shop: beauté
+shop: Kosmetik
 ---

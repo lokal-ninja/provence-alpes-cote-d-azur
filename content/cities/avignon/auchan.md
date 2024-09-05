@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /avignon/auchan/
-shop: gaz
+shop: Gasflaschen
 ---

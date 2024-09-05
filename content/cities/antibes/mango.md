@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /antibes/mango/
-shop: vêtements
+shop: Kleidung
 ---

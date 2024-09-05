@@ -1,5 +1,5 @@
 ---
 title: "Karmanissa"
 url: /nice/karmanissa/
-shop: ésotérique
+shop: Esoterik
 ---

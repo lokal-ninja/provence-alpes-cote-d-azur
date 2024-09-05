@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /aubagne/cultura/
-shop: livres
+shop: Bücher
 ---

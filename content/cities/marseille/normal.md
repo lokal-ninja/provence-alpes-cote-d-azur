@@ -1,5 +1,5 @@
 ---
 title: "Normal"
 url: /marseille/normal/
-shop: magasin de variétés
+shop: Kramladen
 ---

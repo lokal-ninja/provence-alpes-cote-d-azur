@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /castellane/auchan/
-shop: gaz
+shop: Gasflaschen
 ---

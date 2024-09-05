@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /mougins/proxi/
-shop: commodité
+shop: Lebensmittel
 ---

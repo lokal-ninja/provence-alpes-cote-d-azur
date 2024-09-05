@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
 url: /marseille/desigual/
-shop: vêtements
+shop: Kleidung
 ---

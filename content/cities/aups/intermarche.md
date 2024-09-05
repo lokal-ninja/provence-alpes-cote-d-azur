@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /aups/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

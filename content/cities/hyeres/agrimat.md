@@ -1,5 +1,5 @@
 ---
 title: "Agrimat"
 url: /hyeres/agrimat/
-shop: matériel informatique
+shop: Eisenwaren
 ---

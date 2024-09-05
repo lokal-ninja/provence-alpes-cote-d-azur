@@ -1,5 +1,5 @@
 ---
 title: "Pépite"
 url: /lorgues/pepite/
-shop: vin
+shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Destock électroménager"
 url: /six-fours-les-plages/destock-electromenager/
-shop: électronique
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PACA Hallal Food"
 url: /la-seyne-sur-mer/paca-hallal-food/
-shop: commerce
+shop: Baustoffe
 ---

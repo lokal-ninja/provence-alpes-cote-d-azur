@@ -1,5 +1,5 @@
 ---
 title: "Librairie Préambule"
 url: /cassis/librairie-preambule/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Épicerie du Mercantour"
 url: /moulinet/epicerie-du-mercantour/
-shop: commodité
+shop: Lebensmittel
 ---

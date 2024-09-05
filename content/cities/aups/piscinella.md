@@ -1,5 +1,5 @@
 ---
 title: "Piscinella"
 url: /aups/piscinella/
-shop: piscine
+shop: Pool
 ---

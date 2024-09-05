@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /marseille/pimkie/
-shop: vêtements
+shop: Kleidung
 ---

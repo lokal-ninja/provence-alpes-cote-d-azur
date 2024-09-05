@@ -1,5 +1,5 @@
 ---
 title: "Habitat"
 url: /vedene/habitat/
-shop: meubles
+shop: Möbel
 ---

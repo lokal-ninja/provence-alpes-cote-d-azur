@@ -1,5 +1,5 @@
 ---
 title: "Armand Thiery"
 url: /orange/armand-thiery/
-shop: vêtements
+shop: Kleidung
 ---

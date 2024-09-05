@@ -1,5 +1,5 @@
 ---
 title: "Seggio Primeur"
 url: /marseille/seggio-primeur/
-shop: légumes
+shop: Gemüse & Obst
 ---

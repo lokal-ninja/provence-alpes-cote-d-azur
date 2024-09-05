@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /pertuis/centrakor/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

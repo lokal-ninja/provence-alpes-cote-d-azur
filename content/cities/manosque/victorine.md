@@ -1,5 +1,5 @@
 ---
 title: "Victorine"
 url: /manosque/victorine/
-shop: vêtements
+shop: Kleidung
 ---

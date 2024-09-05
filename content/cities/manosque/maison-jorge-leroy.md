@@ -1,5 +1,5 @@
 ---
 title: "Maison Jorge-Leroy"
 url: /manosque/maison-jorge-leroy/
-shop: boulangerie
+shop: Bäckerei
 ---

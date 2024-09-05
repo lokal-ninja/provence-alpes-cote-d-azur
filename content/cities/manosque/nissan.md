@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /manosque/nissan/
-shop: voiture
+shop: Autohaus
 ---

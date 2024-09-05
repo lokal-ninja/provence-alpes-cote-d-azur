@@ -1,5 +1,5 @@
 ---
 title: "Aramisauto Nice"
 url: /nice/aramisauto-nice/
-shop: voiture
+shop: Autohaus
 ---

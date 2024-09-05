@@ -1,5 +1,5 @@
 ---
 title: "TOP BARBIER"
 url: /13002/top-barbier/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sanary Piscines"
 url: /sanary-sur-mer/sanary-piscines/
-shop: piscine
+shop: Pool
 ---

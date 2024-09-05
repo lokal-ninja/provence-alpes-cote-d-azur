@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /la-seyne-sur-mer/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

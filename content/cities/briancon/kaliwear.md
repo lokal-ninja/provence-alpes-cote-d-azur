@@ -1,5 +1,5 @@
 ---
 title: "Kaliwear"
 url: /briancon/kaliwear/
-shop: vêtements
+shop: Kleidung
 ---

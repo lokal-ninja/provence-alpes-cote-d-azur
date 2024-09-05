@@ -1,5 +1,5 @@
 ---
 title: "Luciole"
 url: /marseille/luciole/
-shop: thé
+shop: Tee
 ---

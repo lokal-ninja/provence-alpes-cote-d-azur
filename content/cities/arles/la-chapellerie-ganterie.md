@@ -1,5 +1,5 @@
 ---
 title: "La Chapellerie Ganterie"
 url: /arles/la-chapellerie-ganterie/
-shop: boutique
+shop: Modehaus
 ---

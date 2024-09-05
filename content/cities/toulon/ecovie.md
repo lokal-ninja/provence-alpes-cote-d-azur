@@ -1,5 +1,5 @@
 ---
 title: "Écovie"
 url: /toulon/ecovie/
-shop: légumes
+shop: Gemüse & Obst
 ---

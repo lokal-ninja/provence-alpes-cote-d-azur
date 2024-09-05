@@ -1,5 +1,5 @@
 ---
 title: "Provence Halles"
 url: /arles/provence-halles/
-shop: légumes
+shop: Gemüse & Obst
 ---

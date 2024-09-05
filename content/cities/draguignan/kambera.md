@@ -1,5 +1,5 @@
 ---
 title: "Kambera"
 url: /draguignan/kambera/
-shop: cuir
+shop: Leder
 ---

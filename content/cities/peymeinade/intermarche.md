@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /peymeinade/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

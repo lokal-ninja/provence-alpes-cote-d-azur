@@ -1,5 +1,5 @@
 ---
 title: "Sporting Moto"
 url: /aix-en-provence/sporting-moto/
-shop: moto
+shop: Motorrad
 ---

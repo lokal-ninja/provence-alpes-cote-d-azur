@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /le-rouret/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

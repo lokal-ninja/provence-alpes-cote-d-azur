@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /sorgues/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

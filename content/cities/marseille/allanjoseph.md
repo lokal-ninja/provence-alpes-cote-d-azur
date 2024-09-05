@@ -1,5 +1,5 @@
 ---
 title: "allanjoseph"
 url: /marseille/allanjoseph/
-shop: vêtements
+shop: Kleidung
 ---

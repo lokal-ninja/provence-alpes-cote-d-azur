@@ -1,5 +1,5 @@
 ---
 title: "KZA"
 url: /orange/kza/
-shop: coiffeur
+shop: Friseur
 ---

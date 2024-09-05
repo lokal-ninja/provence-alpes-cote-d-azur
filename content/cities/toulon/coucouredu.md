@@ -1,5 +1,5 @@
 ---
 title: "coucouredu"
 url: /toulon/coucouredu/
-shop: supermarché
+shop: Supermarkt
 ---

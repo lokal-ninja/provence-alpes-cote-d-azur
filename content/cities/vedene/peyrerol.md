@@ -1,5 +1,5 @@
 ---
 title: "Peyrerol"
 url: /vedene/peyrerol/
-shop: pâtisserie
+shop: Konditorei
 ---

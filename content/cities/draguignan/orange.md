@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /draguignan/orange/
-shop: téléphone portable
+shop: Handy
 ---

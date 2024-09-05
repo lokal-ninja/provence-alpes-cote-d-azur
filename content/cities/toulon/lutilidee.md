@@ -1,5 +1,5 @@
 ---
 title: "L'Utilidée"
 url: /toulon/lutilidee/
-shop: cadeau
+shop: Andenken
 ---
