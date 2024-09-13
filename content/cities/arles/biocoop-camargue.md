@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Camargue"
 url: /arles/biocoop-camargue/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ciga'Vap"
 url: /manosque/cigavap/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

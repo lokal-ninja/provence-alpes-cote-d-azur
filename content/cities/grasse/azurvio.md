@@ -1,5 +1,5 @@
 ---
 title: "Azurvio"
 url: /grasse/azurvio/
-shop: Wein
+shop: vin
 ---

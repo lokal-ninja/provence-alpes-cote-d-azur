@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /valensole/utile/
-shop: Lebensmittel
+shop: commodité
 ---

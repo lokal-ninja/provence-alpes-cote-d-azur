@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /puget-sur-argens/norauto-boulevard-du-commerce/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

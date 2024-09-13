@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /hyeres/vival/
-shop: Lebensmittel
+shop: commodité
 ---

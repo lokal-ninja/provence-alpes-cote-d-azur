@@ -1,5 +1,5 @@
 ---
 title: "Cloé"
 url: /avignon/cloe/
-shop: Kleidung
+shop: vêtements
 ---

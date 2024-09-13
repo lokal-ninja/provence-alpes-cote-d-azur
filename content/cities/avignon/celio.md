@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /avignon/celio/
-shop: Kleidung
+shop: vêtements
 ---

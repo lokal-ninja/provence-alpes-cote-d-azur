@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /frejus/schmidt/
-shop: Küchen
+shop: cuisine
 ---

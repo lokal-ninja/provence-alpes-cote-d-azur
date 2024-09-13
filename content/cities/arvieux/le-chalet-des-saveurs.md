@@ -1,5 +1,5 @@
 ---
 title: "Le Chalet des Saveurs"
 url: /arvieux/le-chalet-des-saveurs/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Retif"
 url: /puget-sur-argens/retif/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

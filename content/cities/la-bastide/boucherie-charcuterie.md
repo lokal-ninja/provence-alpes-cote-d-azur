@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie"
 url: /la-bastide/boucherie-charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audition Confort"
 url: /roquebrune-sur-argens/audition-confort/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

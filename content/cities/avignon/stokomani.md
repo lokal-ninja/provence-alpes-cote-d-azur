@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /avignon/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

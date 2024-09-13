@@ -1,5 +1,5 @@
 ---
 title: "Dafy Moto"
 url: /les-pennes-mirabeau/dafy-moto/
-shop: Motorrad
+shop: moto
 ---

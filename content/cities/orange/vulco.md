@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /orange/vulco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Black out"
 url: /orange/black-out/
-shop: Musik
+shop: musique
 ---

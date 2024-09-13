@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /draguignan/ford/
-shop: Autohaus
+shop: voiture
 ---

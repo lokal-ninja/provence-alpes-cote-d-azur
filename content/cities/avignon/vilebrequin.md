@@ -1,5 +1,5 @@
 ---
 title: "Vilebrequin"
 url: /avignon/vilebrequin/
-shop: Kleidung
+shop: vêtements
 ---

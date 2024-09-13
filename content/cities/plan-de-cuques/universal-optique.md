@@ -1,5 +1,5 @@
 ---
 title: "universal optique"
 url: /plan-de-cuques/universal-optique/
-shop: Optiker
+shop: opticien
 ---

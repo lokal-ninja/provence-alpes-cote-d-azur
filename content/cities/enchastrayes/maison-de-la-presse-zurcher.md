@@ -1,5 +1,5 @@
 ---
 title: "Maison de la Presse Zurcher"
 url: /enchastrayes/maison-de-la-presse-zurcher/
-shop: Zeitungen
+shop: marchand de journaux
 ---

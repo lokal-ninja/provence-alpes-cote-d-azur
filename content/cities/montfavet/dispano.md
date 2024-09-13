@@ -1,5 +1,5 @@
 ---
 title: "Dispano"
 url: /montfavet/dispano/
-shop: Eisenwaren
+shop: matériel informatique
 ---

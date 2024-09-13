@@ -1,5 +1,5 @@
 ---
 title: "Feeling Coiffure"
 url: /lorgues/feeling-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert"
 url: /trans-en-provence/feu-vert/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

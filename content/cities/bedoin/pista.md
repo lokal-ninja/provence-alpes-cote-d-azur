@@ -1,5 +1,5 @@
 ---
 title: "Pista"
 url: /bedoin/pista/
-shop: Fahrrad
+shop: vélo
 ---

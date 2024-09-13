@@ -1,5 +1,5 @@
 ---
 title: "Paul Fleuret"
 url: /le-beausset/paul-fleuret/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boules de Poils"
 url: /sanary-sur-mer/boules-de-poils/
-shop: Tiere
+shop: animal de compagnie
 ---

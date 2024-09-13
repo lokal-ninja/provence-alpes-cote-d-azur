@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /abries/vival/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Renardat"
 url: /corbieres-en-provence/carrosserie-renardat/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

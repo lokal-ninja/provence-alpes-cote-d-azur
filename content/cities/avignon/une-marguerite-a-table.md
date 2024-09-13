@@ -1,5 +1,5 @@
 ---
 title: "Une Marguerite à Table"
 url: /avignon/une-marguerite-a-table/
-shop: Feinkost
+shop: charcuterie
 ---

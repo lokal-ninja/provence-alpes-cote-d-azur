@@ -1,5 +1,5 @@
 ---
 title: "Epi d'Or"
 url: /theoule-sur-mer/epi-dor/
-shop: Bäckerei
+shop: boulangerie
 ---

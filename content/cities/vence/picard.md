@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /vence/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

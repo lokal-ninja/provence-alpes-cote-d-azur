@@ -1,5 +1,5 @@
 ---
 title: "Cadrilatère"
 url: /nice/cadrilatere/
-shop: Rahmen
+shop: cadre
 ---

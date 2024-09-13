@@ -1,5 +1,5 @@
 ---
 title: "Littoral Bureautique"
 url: /la-seyne-sur-mer/littoral-bureautique/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /manosque/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

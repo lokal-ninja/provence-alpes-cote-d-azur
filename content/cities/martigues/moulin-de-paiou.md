@@ -1,5 +1,5 @@
 ---
 title: "Moulin de Paîou"
 url: /martigues/moulin-de-paiou/
-shop: Bäckerei
+shop: boulangerie
 ---

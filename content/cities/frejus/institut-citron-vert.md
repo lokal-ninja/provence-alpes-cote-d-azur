@@ -1,5 +1,5 @@
 ---
 title: "Institut Citron Vert"
 url: /frejus/institut-citron-vert/
-shop: Kosmetik
+shop: beauté
 ---

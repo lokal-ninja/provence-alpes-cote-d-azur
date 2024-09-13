@@ -1,5 +1,5 @@
 ---
 title: "Nicer"
 url: /nice/nicer/
-shop: Elektrisch
+shop: électrique
 ---

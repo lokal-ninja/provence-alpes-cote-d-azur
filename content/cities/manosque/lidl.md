@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /manosque/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

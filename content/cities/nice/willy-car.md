@@ -1,5 +1,5 @@
 ---
 title: "Willy Car"
 url: /nice/willy-car/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zolpan"
 url: /marseille/zolpan/
-shop: Baumarkt
+shop: à faire soi-même
 ---

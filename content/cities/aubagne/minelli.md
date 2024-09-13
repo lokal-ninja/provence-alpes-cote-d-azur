@@ -1,5 +1,5 @@
 ---
 title: "Minelli"
 url: /aubagne/minelli/
-shop: Schuhe
+shop: chaussures
 ---

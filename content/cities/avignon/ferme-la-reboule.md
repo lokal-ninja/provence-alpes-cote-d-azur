@@ -1,5 +1,5 @@
 ---
 title: "Ferme la Reboule"
 url: /avignon/ferme-la-reboule/
-shop: Hofladen
+shop: ferme
 ---

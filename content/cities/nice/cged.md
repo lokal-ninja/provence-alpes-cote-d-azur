@@ -1,5 +1,5 @@
 ---
 title: "CGED"
 url: /nice/cged/
-shop: Elektrisch
+shop: électrique
 ---

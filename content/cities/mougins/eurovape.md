@@ -1,5 +1,5 @@
 ---
 title: "Eurovape"
 url: /mougins/eurovape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

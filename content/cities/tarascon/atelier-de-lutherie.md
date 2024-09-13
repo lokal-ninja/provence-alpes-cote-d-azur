@@ -1,5 +1,5 @@
 ---
 title: "Atelier de lutherie"
 url: /tarascon/atelier-de-lutherie/
-shop: Instrumente
+shop: instrument de musique
 ---

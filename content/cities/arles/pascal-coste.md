@@ -1,5 +1,5 @@
 ---
 title: "Pascal Coste"
 url: /arles/pascal-coste/
-shop: Friseur
+shop: coiffeur
 ---

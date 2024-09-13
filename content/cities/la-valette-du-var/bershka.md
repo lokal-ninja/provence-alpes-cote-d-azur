@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /la-valette-du-var/bershka/
-shop: Kleidung
+shop: vêtements
 ---

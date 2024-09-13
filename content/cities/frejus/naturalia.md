@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /frejus/naturalia/
-shop: Supermarkt
+shop: supermarché
 ---

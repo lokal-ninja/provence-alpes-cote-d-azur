@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /aix-en-provence/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canelle"
 url: /arles/canelle/
-shop: Kleidung
+shop: vêtements
 ---

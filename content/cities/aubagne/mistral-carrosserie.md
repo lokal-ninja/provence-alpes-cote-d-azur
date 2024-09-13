@@ -1,5 +1,5 @@
 ---
 title: "Mistral Carrosserie"
 url: /aubagne/mistral-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

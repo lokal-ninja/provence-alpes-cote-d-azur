@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /roquesteron/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

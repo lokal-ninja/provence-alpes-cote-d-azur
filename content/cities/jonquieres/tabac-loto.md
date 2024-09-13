@@ -1,5 +1,5 @@
 ---
 title: "tabac-loto"
 url: /jonquieres/tabac-loto/
-shop: Zeitungen
+shop: marchand de journaux
 ---

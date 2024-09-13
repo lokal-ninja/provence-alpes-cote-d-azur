@@ -1,5 +1,5 @@
 ---
 title: "Encadrement Tirrassi"
 url: /aubagne/encadrement-tirrassi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

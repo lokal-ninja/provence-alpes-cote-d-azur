@@ -1,5 +1,5 @@
 ---
 title: "Générale d'Optique"
 url: /orange/generale-doptique/
-shop: Optiker
+shop: opticien
 ---

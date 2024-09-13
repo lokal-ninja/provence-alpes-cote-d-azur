@@ -1,5 +1,5 @@
 ---
 title: "Comptoir Auto Pinces"
 url: /orange/comptoir-auto-pinces/
-shop: Autoteile
+shop: pièces de voitures
 ---

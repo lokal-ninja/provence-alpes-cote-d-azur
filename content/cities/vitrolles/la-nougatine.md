@@ -1,5 +1,5 @@
 ---
 title: "La Nougatine"
 url: /vitrolles/la-nougatine/
-shop: Bäckerei
+shop: boulangerie
 ---

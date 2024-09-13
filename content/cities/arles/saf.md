@@ -1,5 +1,5 @@
 ---
 title: "SAF"
 url: /arles/saf/
-shop: Baustoffe
+shop: commerce
 ---

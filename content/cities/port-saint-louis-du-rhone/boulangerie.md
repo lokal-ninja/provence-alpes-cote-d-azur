@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /port-saint-louis-du-rhone/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

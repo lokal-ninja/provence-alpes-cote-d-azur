@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie des Playes"
 url: /six-fours-les-plages/boulangerie-des-playes/
-shop: Bäckerei
+shop: boulangerie
 ---

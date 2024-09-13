@@ -1,5 +1,5 @@
 ---
 title: "Mistre Durbano"
 url: /ollioules/mistre-durbano/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

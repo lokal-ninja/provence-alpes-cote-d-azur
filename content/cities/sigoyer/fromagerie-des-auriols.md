@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie des Auriols"
 url: /sigoyer/fromagerie-des-auriols/
-shop: Käse
+shop: fromage
 ---

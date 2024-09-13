@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /aubagne/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

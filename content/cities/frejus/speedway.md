@@ -1,5 +1,5 @@
 ---
 title: "SPEEDWAY"
 url: /frejus/speedway/
-shop: Sport
+shop: sports
 ---

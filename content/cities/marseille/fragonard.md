@@ -1,5 +1,5 @@
 ---
 title: "Fragonard"
 url: /marseille/fragonard/
-shop: Kosmetik
+shop: beauté
 ---

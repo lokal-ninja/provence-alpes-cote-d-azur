@@ -1,5 +1,5 @@
 ---
 title: "Retif"
 url: /aubagne/retif/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

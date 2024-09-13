@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /vence/atol/
-shop: Optiker
+shop: opticien
 ---

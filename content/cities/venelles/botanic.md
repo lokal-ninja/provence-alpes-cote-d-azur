@@ -1,5 +1,5 @@
 ---
 title: "Botanic"
 url: /venelles/botanic/
-shop: Garten-Center
+shop: centre de jardinage
 ---

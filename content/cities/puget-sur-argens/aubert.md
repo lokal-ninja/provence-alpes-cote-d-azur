@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /puget-sur-argens/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

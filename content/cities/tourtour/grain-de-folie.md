@@ -1,5 +1,5 @@
 ---
 title: "Grain de Folie"
 url: /tourtour/grain-de-folie/
-shop: Andenken
+shop: cadeau
 ---

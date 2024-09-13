@@ -1,5 +1,5 @@
 ---
 title: "Balitrand"
 url: /aubagne/balitrand/
-shop: Allgemein
+shop: shop
 ---

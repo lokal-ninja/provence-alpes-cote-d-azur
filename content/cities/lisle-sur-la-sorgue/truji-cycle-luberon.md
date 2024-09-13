@@ -1,5 +1,5 @@
 ---
 title: "Truji-Cycle Lubéron"
 url: /lisle-sur-la-sorgue/truji-cycle-luberon/
-shop: Fahrrad
+shop: vélo
 ---

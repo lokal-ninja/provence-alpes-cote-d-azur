@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /ollioules/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

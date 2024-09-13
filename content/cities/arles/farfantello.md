@@ -1,5 +1,5 @@
 ---
 title: "Farfantello"
 url: /arles/farfantello/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

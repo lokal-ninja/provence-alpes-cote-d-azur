@@ -1,5 +1,5 @@
 ---
 title: "Marius"
 url: /arles/marius/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

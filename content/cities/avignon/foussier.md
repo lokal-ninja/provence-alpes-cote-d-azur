@@ -1,5 +1,5 @@
 ---
 title: "Foussier"
 url: /avignon/foussier/
-shop: Eisenwaren
+shop: matériel informatique
 ---

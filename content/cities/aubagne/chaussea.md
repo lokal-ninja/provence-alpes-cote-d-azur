@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /aubagne/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

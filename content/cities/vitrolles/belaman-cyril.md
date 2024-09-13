@@ -1,5 +1,5 @@
 ---
 title: "Belaman Cyril"
 url: /vitrolles/belaman-cyril/
-shop: Friseur
+shop: coiffeur
 ---

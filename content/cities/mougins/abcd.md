@@ -1,5 +1,5 @@
 ---
 title: "ABCD"
 url: /mougins/abcd/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

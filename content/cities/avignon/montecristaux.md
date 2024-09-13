@@ -1,5 +1,5 @@
 ---
 title: "Montécristaux"
 url: /avignon/montecristaux/
-shop: Allgemein
+shop: shop
 ---

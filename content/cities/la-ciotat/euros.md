@@ -1,5 +1,5 @@
 ---
 title: "Euros"
 url: /la-ciotat/euros/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

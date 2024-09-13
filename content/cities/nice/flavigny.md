@@ -1,5 +1,5 @@
 ---
 title: "Flavigny"
 url: /nice/flavigny/
-shop: Schuhe
+shop: chaussures
 ---

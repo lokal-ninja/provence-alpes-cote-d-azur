@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /orange/optical-center/
-shop: Optiker
+shop: opticien
 ---

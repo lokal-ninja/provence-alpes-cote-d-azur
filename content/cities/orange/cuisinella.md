@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /orange/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

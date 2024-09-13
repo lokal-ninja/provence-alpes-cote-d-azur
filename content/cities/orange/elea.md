@@ -1,5 +1,5 @@
 ---
 title: "Eléa"
 url: /orange/elea/
-shop: Blumen
+shop: fleuriste
 ---

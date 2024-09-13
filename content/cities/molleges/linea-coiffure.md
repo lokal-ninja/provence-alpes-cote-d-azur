@@ -1,5 +1,5 @@
 ---
 title: "LINEA COIFFURE"
 url: /molleges/linea-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

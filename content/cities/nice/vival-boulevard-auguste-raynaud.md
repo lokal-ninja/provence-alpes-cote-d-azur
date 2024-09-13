@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /nice/vival-boulevard-auguste-raynaud/
-shop: Lebensmittel
+shop: commodité
 ---

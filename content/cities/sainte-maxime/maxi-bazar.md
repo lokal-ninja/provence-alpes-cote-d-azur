@@ -1,5 +1,5 @@
 ---
 title: "Maxi Bazar"
 url: /sainte-maxime/maxi-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

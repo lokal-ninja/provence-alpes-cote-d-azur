@@ -1,5 +1,5 @@
 ---
 title: "Jbonet cannes"
 url: /cannes/jbonet-cannes/
-shop: Möbel
+shop: meubles
 ---

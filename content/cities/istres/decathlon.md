@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /istres/decathlon/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bureau Vallée"
 url: /manosque/bureau-vallee/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /marseille/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

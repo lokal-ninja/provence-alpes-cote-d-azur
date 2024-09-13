@@ -1,5 +1,5 @@
 ---
 title: "Home Menager"
 url: /nice/home-menager/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'atelier D'or"
 url: /marseille/latelier-dor/
-shop: Schmuck
+shop: bijoux
 ---

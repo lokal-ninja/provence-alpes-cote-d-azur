@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /ollioules/optical-center/
-shop: Optiker
+shop: opticien
 ---

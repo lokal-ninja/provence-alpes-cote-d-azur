@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Joubert"
 url: /gap/boulangerie-patisserie-joubert/
-shop: Bäckerei
+shop: boulangerie
 ---

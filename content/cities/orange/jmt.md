@@ -1,5 +1,5 @@
 ---
 title: "JMT"
 url: /orange/jmt/
-shop: Tiere
+shop: animal de compagnie
 ---

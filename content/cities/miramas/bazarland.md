@@ -1,5 +1,5 @@
 ---
 title: "Bazarland"
 url: /miramas/bazarland/
-shop: Supermarkt
+shop: supermarché
 ---

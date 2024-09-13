@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /draguignan/spar/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blanchisserie"
 url: /lambesc/blanchisserie/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Château du Bois"
 url: /lagarde-dapt/chateau-du-bois/
-shop: Hofladen
+shop: ferme
 ---

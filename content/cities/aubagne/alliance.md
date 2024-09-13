@@ -1,5 +1,5 @@
 ---
 title: "Alliance"
 url: /aubagne/alliance/
-shop: Möbel
+shop: meubles
 ---

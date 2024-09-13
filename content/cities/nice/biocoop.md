@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /nice/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

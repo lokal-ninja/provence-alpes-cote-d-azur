@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /arles/kiloutou/
-shop: Werkzeuge
+shop: outils
 ---

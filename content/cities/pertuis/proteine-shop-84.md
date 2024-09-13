@@ -1,5 +1,5 @@
 ---
 title: "Protéine Shop 84"
 url: /pertuis/proteine-shop-84/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

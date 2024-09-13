@@ -1,5 +1,5 @@
 ---
 title: "Hobby Sun"
 url: /frejus/hobby-sun/
-shop: Sport
+shop: sports
 ---

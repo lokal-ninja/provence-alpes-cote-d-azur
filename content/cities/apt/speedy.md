@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /apt/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

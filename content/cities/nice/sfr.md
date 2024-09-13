@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /nice/sfr/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PEPERE-SHOP"
 url: /la-valette-du-var/pepere-shop/
-shop: Supermarkt
+shop: supermarché
 ---

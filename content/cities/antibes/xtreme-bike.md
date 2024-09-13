@@ -1,5 +1,5 @@
 ---
 title: "Xtrême bike"
 url: /antibes/xtreme-bike/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Au Paillon fleuri"
 url: /nice/au-paillon-fleuri/
-shop: Blumen
+shop: fleuriste
 ---

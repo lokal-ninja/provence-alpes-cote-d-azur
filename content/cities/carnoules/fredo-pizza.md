@@ -1,5 +1,5 @@
 ---
 title: "Fredo Pizza"
 url: /carnoules/fredo-pizza/
-shop: Kramladen
+shop: magasin de variétés
 ---

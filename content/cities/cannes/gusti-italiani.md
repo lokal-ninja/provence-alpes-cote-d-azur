@@ -1,5 +1,5 @@
 ---
 title: "Gusti Italiani"
 url: /cannes/gusti-italiani/
-shop: Feinkost
+shop: charcuterie
 ---

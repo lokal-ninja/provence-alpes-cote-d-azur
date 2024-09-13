@@ -1,5 +1,5 @@
 ---
 title: "Gan"
 url: /manosque/gan/
-shop: Allgemein
+shop: shop
 ---

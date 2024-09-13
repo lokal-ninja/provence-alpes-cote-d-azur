@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /ceyreste/vival/
-shop: Lebensmittel
+shop: commodité
 ---

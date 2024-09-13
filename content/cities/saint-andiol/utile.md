@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /saint-andiol/utile/
-shop: Lebensmittel
+shop: commodité
 ---

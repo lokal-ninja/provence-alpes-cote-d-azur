@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /trans-en-provence/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

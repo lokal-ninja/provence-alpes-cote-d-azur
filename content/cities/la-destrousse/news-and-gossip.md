@@ -1,5 +1,5 @@
 ---
 title: "News and Gossip"
 url: /la-destrousse/news-and-gossip/
-shop: Zeitungen
+shop: marchand de journaux
 ---

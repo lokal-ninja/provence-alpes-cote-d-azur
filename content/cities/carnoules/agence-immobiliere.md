@@ -1,5 +1,5 @@
 ---
 title: "Agence Immobilière"
 url: /carnoules/agence-immobiliere/
-shop: Kramladen
+shop: magasin de variétés
 ---

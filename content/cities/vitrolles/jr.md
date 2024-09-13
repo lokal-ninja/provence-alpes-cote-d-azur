@@ -1,5 +1,5 @@
 ---
 title: "JR"
 url: /vitrolles/jr/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

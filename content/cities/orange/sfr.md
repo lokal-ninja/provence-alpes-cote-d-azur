@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /orange/sfr/
-shop: Handy
+shop: téléphone portable
 ---

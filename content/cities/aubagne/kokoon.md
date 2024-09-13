@@ -1,5 +1,5 @@
 ---
 title: "Kokoon"
 url: /aubagne/kokoon/
-shop: Tiere
+shop: animal de compagnie
 ---

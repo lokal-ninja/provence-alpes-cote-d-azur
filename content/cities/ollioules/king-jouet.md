@@ -1,5 +1,5 @@
 ---
 title: "King Jouet"
 url: /ollioules/king-jouet/
-shop: Spielzeug
+shop: jouets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /morieres-les-avignon/e-leclerc/
-shop: Supermarkt
+shop: supermarché
 ---

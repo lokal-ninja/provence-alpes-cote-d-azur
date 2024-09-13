@@ -1,5 +1,5 @@
 ---
 title: "MMD"
 url: /roquebrune-sur-argens/mmd/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

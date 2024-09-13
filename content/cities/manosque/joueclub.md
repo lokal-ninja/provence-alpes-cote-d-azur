@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /manosque/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

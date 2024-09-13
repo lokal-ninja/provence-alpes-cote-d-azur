@@ -1,5 +1,5 @@
 ---
 title: "Tabac Californie"
 url: /nice/tabac-californie/
-shop: Tabak
+shop: tabac
 ---

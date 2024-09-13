@@ -1,5 +1,5 @@
 ---
 title: "Matériel Vélo"
 url: /aix-en-provence/materiel-velo/
-shop: Fahrrad
+shop: vélo
 ---

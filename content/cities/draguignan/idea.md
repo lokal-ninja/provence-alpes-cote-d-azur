@@ -1,5 +1,5 @@
 ---
 title: "IDEA"
 url: /draguignan/idea/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

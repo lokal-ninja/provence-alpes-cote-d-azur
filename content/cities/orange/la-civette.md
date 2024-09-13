@@ -1,5 +1,5 @@
 ---
 title: "La civette"
 url: /orange/la-civette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

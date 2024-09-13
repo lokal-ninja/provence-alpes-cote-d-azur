@@ -1,5 +1,5 @@
 ---
 title: "Garage solidaire"
 url: /draguignan/garage-solidaire/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

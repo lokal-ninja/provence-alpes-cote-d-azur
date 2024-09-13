@@ -1,5 +1,5 @@
 ---
 title: "Au Caniche Royal"
 url: /lorgues/au-caniche-royal/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /molleges/utile/
-shop: Lebensmittel
+shop: commodité
 ---

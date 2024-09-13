@@ -1,5 +1,5 @@
 ---
 title: "Mister Minit"
 url: /arles/mister-minit/
-shop: Allgemein
+shop: shop
 ---

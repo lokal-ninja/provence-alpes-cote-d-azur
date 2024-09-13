@@ -1,5 +1,5 @@
 ---
 title: "Swagg"
 url: /orange/swagg/
-shop: Friseur
+shop: coiffeur
 ---

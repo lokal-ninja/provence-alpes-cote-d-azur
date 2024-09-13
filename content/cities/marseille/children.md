@@ -1,5 +1,5 @@
 ---
 title: "Children"
 url: /marseille/children/
-shop: Kleidung
+shop: vêtements
 ---

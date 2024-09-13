@@ -1,5 +1,5 @@
 ---
 title: "Start"
 url: /aubagne/start/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /manosque/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

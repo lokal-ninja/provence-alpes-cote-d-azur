@@ -1,5 +1,5 @@
 ---
 title: "Innovation Spirit"
 url: /aubagne/innovation-spirit/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hat's"
 url: /marseille/hats/
-shop: Bäckerei
+shop: boulangerie
 ---

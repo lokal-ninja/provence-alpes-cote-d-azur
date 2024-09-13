@@ -1,5 +1,5 @@
 ---
 title: "Romain Corretel"
 url: /saint-raphael/romain-corretel/
-shop: Bäckerei
+shop: boulangerie
 ---

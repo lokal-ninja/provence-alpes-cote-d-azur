@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /nice/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Transways"
 url: /manosque/transways/
-shop: Reisebüro
+shop: agence de voyage
 ---

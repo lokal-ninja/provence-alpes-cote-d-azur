@@ -1,5 +1,5 @@
 ---
 title: "Prosperi"
 url: /nice/prosperi/
-shop: Garten-Center
+shop: centre de jardinage
 ---

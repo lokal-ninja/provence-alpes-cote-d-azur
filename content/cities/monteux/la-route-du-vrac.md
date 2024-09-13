@@ -1,5 +1,5 @@
 ---
 title: "La Route du Vrac"
 url: /monteux/la-route-du-vrac/
-shop: Lebensmittel
+shop: commodité
 ---

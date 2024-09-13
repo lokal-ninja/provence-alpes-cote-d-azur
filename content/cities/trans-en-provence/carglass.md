@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /trans-en-provence/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

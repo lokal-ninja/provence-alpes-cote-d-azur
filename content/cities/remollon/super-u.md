@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /remollon/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

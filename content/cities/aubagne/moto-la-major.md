@@ -1,5 +1,5 @@
 ---
 title: "Moto la Major"
 url: /aubagne/moto-la-major/
-shop: Motorrad
+shop: moto
 ---

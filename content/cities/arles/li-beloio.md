@@ -1,5 +1,5 @@
 ---
 title: "Li Beloïo"
 url: /arles/li-beloio/
-shop: Schmuck
+shop: bijoux
 ---

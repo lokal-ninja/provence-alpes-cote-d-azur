@@ -1,5 +1,5 @@
 ---
 title: "Coiffure By C"
 url: /hyeres/coiffure-by-c/
-shop: Friseur
+shop: coiffeur
 ---

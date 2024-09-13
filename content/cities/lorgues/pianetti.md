@@ -1,5 +1,5 @@
 ---
 title: "Pianetti"
 url: /lorgues/pianetti/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

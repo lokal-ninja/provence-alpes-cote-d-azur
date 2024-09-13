@@ -1,5 +1,5 @@
 ---
 title: "Crrosserie Manfrini"
 url: /arles/crrosserie-manfrini/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

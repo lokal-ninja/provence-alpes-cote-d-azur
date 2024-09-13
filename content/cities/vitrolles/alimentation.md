@@ -1,5 +1,5 @@
 ---
 title: "Alimentation"
 url: /vitrolles/alimentation/
-shop: Bioladen
+shop: alimentation saine
 ---

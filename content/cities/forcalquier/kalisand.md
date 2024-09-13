@@ -1,5 +1,5 @@
 ---
 title: "Kalisand"
 url: /forcalquier/kalisand/
-shop: Kleidung
+shop: vêtements
 ---

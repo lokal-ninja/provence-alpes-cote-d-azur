@@ -1,5 +1,5 @@
 ---
 title: "Confisud"
 url: /charleval/confisud/
-shop: Großhandel
+shop: vente en gros
 ---

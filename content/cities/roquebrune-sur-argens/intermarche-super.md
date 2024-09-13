@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /roquebrune-sur-argens/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

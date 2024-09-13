@@ -1,5 +1,5 @@
 ---
 title: "Arbel Chaussures"
 url: /manosque/arbel-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

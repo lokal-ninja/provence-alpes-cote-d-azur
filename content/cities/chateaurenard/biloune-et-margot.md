@@ -1,5 +1,5 @@
 ---
 title: "Biloune et Margot"
 url: /chateaurenard/biloune-et-margot/
-shop: Kleidung
+shop: vêtements
 ---

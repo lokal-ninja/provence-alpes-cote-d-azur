@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /orange/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

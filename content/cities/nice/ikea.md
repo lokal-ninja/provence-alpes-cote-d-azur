@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /nice/ikea/
-shop: Möbel
+shop: meubles
 ---

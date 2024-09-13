@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /avignon/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

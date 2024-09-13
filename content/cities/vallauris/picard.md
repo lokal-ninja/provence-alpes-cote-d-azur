@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /vallauris/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

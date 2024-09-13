@@ -1,5 +1,5 @@
 ---
 title: "Véloland"
 url: /arles/veloland/
-shop: Fahrrad
+shop: vélo
 ---

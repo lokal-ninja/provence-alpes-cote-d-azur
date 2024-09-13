@@ -1,5 +1,5 @@
 ---
 title: "WASH’N DRY"
 url: /velaux/washn-dry/
-shop: Wäscherei
+shop: blanchisserie
 ---

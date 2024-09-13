@@ -1,5 +1,5 @@
 ---
 title: "Costamagna"
 url: /hyeres/costamagna/
-shop: Baumarkt
+shop: à faire soi-même
 ---

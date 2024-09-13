@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /menton/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /la-seyne-sur-mer/renault/
-shop: Autohaus
+shop: voiture
 ---

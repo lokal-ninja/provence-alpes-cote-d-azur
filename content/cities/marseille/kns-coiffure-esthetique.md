@@ -1,5 +1,5 @@
 ---
 title: "KNS Coiffure Esthétique"
 url: /marseille/kns-coiffure-esthetique/
-shop: Friseur
+shop: coiffeur
 ---

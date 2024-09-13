@@ -1,5 +1,5 @@
 ---
 title: "Garage Plesnar"
 url: /aubagne/garage-plesnar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

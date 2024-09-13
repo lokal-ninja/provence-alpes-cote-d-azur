@@ -1,5 +1,5 @@
 ---
 title: "Aquatiti"
 url: /arles/aquatiti/
-shop: Tiere
+shop: animal de compagnie
 ---

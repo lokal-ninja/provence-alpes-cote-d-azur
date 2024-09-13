@@ -1,5 +1,5 @@
 ---
 title: "Librairie Clement VI"
 url: /avignon/librairie-clement-vi/
-shop: Bücher
+shop: livres
 ---

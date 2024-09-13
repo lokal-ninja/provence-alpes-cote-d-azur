@@ -1,5 +1,5 @@
 ---
 title: "La Gerle"
 url: /veynes/la-gerle/
-shop: Tabak
+shop: tabac
 ---

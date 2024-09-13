@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Grain de Soleil"
 url: /eourres/biocoop-grain-de-soleil/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattout"
 url: /aubagne/mattout/
-shop: Fliesen
+shop: tuiles
 ---

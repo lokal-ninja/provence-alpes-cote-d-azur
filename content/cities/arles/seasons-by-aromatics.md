@@ -1,5 +1,5 @@
 ---
 title: "Seasons by Aromatics"
 url: /arles/seasons-by-aromatics/
-shop: Blumen
+shop: fleuriste
 ---

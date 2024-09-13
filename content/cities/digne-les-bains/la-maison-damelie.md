@@ -1,5 +1,5 @@
 ---
 title: "La Maison d'Amélie"
 url: /digne-les-bains/la-maison-damelie/
-shop: Andenken
+shop: cadeau
 ---

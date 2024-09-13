@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /mandelieu-la-bocca/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

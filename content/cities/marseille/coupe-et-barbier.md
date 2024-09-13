@@ -1,5 +1,5 @@
 ---
 title: "Coupe et barbier"
 url: /marseille/coupe-et-barbier/
-shop: Friseur
+shop: coiffeur
 ---

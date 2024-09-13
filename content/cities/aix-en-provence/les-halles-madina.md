@@ -1,5 +1,5 @@
 ---
 title: "Les Halles Madina"
 url: /aix-en-provence/les-halles-madina/
-shop: Supermarkt
+shop: supermarché
 ---

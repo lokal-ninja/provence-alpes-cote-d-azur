@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /la-seyne-sur-mer/morgan/
-shop: Kleidung
+shop: vêtements
 ---

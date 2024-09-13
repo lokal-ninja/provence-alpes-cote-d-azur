@@ -1,5 +1,5 @@
 ---
 title: "Printemps"
 url: /marseille/printemps/
-shop: Warenhaus
+shop: grand magasin
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ACOBA"
 url: /aubagne/acoba/
-shop: Autoteile
+shop: pièces de voitures
 ---

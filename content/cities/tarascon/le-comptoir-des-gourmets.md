@@ -1,5 +1,5 @@
 ---
 title: "Le Comptoir des Gourmets"
 url: /tarascon/le-comptoir-des-gourmets/
-shop: Feinkost
+shop: charcuterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /hyeres/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

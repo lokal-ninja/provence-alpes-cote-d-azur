@@ -1,5 +1,5 @@
 ---
 title: "Nice Caravanes"
 url: /nice/nice-caravanes/
-shop: Autohaus
+shop: voiture
 ---

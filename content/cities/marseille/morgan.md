@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /marseille/morgan/
-shop: Kleidung
+shop: vêtements
 ---

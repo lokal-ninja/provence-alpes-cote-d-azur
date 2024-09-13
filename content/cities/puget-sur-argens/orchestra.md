@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /puget-sur-argens/orchestra/
-shop: Kleidung
+shop: vêtements
 ---

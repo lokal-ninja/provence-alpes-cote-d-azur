@@ -1,5 +1,5 @@
 ---
 title: "Cycles Verzelli"
 url: /la-seyne-sur-mer/cycles-verzelli/
-shop: Fahrrad
+shop: vélo
 ---

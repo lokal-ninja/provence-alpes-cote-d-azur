@@ -1,5 +1,5 @@
 ---
 title: "Station du MIN"
 url: /nice/station-du-min/
-shop: Gasflaschen
+shop: gaz
 ---

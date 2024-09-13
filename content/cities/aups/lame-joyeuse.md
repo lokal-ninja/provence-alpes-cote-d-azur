@@ -1,5 +1,5 @@
 ---
 title: "L'Âme Joyeuse"
 url: /aups/lame-joyeuse/
-shop: Allgemein
+shop: shop
 ---

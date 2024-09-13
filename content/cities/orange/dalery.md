@@ -1,5 +1,5 @@
 ---
 title: "Dalery"
 url: /orange/dalery/
-shop: Taschen & Koffer
+shop: sac
 ---

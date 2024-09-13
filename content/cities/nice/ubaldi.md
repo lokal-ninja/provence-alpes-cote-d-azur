@@ -1,5 +1,5 @@
 ---
 title: "Ubaldi"
 url: /nice/ubaldi/
-shop: Hifi
+shop: hifi
 ---

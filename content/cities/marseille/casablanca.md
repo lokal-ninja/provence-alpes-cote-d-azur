@@ -1,5 +1,5 @@
 ---
 title: "Casablanca"
 url: /marseille/casablanca/
-shop: Kleidung
+shop: vêtements
 ---

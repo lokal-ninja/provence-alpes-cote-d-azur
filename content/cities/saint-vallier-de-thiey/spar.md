@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /saint-vallier-de-thiey/spar/
-shop: Supermarkt
+shop: supermarché
 ---

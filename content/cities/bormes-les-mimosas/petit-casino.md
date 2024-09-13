@@ -1,5 +1,5 @@
 ---
 title: "Petit Casino"
 url: /bormes-les-mimosas/petit-casino/
-shop: Lebensmittel
+shop: commodité
 ---

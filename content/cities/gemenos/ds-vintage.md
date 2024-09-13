@@ -1,5 +1,5 @@
 ---
 title: "Ds Vintage"
 url: /gemenos/ds-vintage/
-shop: Kleidung
+shop: vêtements
 ---

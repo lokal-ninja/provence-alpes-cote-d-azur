@@ -1,5 +1,5 @@
 ---
 title: "La crognotte rieuse"
 url: /avignon/la-crognotte-rieuse/
-shop: Bücher
+shop: livres
 ---

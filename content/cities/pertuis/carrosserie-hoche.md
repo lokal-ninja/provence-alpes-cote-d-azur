@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Hoche"
 url: /pertuis/carrosserie-hoche/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

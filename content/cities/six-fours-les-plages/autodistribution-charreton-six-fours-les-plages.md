@@ -1,5 +1,5 @@
 ---
 title: "Autodistribution Charreton Six Fours les Plages"
 url: /six-fours-les-plages/autodistribution-charreton-six-fours-les-plages/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /arles/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

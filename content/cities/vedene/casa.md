@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /vedene/casa/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Granny Fromages"
 url: /aix-en-provence/granny-fromages/
-shop: Käse
+shop: fromage
 ---

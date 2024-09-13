@@ -1,5 +1,5 @@
 ---
 title: "Citroën Velaux"
 url: /velaux/citroen-velaux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

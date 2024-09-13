@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /grasse/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

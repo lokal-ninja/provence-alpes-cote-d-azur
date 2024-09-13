@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /nice/zeeman/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Verger de Rabiac"
 url: /antibes/le-verger-de-rabiac/
-shop: Gemüse & Obst
+shop: légumes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le youki"
 url: /orange/le-youki/
-shop: Tiere
+shop: animal de compagnie
 ---

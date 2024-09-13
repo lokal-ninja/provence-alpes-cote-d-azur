@@ -1,5 +1,5 @@
 ---
 title: "Rouge Baisers"
 url: /nice/rouge-baisers/
-shop: Erotik
+shop: érotique
 ---

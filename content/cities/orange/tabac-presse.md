@@ -1,5 +1,5 @@
 ---
 title: "Tabac presse"
 url: /orange/tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /nice/franprix/
-shop: Lebensmittel
+shop: commodité
 ---

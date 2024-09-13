@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /cannes/naturalia/
-shop: Supermarkt
+shop: supermarché
 ---

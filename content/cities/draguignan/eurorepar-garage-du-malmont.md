@@ -1,5 +1,5 @@
 ---
 title: "Eurorepar Garage Du Malmont"
 url: /draguignan/eurorepar-garage-du-malmont/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

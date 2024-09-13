@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Moulin"
 url: /nice/le-petit-moulin/
-shop: Bäckerei
+shop: boulangerie
 ---

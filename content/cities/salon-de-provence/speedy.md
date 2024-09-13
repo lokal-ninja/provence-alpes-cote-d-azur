@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /salon-de-provence/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fournil des halles"
 url: /vitrolles/fournil-des-halles/
-shop: Bäckerei
+shop: boulangerie
 ---

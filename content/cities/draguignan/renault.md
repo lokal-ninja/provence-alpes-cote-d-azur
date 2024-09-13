@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /draguignan/renault/
-shop: Autohaus
+shop: voiture
 ---

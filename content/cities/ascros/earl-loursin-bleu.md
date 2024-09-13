@@ -1,5 +1,5 @@
 ---
 title: "EARL L'oursin bleu"
 url: /ascros/earl-loursin-bleu/
-shop: Hofladen
+shop: ferme
 ---

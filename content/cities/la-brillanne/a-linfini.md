@@ -1,5 +1,5 @@
 ---
 title: "A l'infini"
 url: /la-brillanne/a-linfini/
-shop: Friseur
+shop: coiffeur
 ---

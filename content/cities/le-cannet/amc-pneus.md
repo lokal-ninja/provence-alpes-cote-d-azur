@@ -1,5 +1,5 @@
 ---
 title: "AMC Pneus"
 url: /le-cannet/amc-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

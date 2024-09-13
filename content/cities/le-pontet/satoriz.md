@@ -1,5 +1,5 @@
 ---
 title: "Satoriz"
 url: /le-pontet/satoriz/
-shop: Supermarkt
+shop: supermarché
 ---

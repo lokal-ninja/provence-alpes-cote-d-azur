@@ -1,5 +1,5 @@
 ---
 title: "Raygot Pompes Funèbres Marbrerie - Nice"
 url: /nice/raygot-pompes-funebres-marbrerie-nice/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

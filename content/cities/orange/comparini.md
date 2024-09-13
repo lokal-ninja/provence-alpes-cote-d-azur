@@ -1,5 +1,5 @@
 ---
 title: "Comparini"
 url: /orange/comparini/
-shop: Kleidung
+shop: vêtements
 ---

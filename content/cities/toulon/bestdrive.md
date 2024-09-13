@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /toulon/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

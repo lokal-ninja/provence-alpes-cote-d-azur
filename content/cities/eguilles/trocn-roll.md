@@ -1,5 +1,5 @@
 ---
 title: "Troc'n Roll"
 url: /eguilles/trocn-roll/
-shop: Instrumente
+shop: instrument de musique
 ---

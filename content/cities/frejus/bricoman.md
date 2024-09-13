@@ -1,5 +1,5 @@
 ---
 title: "Bricoman"
 url: /frejus/bricoman/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Téléservice multimedia"
 url: /avignon/teleservice-multimedia/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Fournée"
 url: /saint-raphael/la-fournee/
-shop: Bäckerei
+shop: boulangerie
 ---

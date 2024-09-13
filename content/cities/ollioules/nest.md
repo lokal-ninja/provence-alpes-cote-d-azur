@@ -1,5 +1,5 @@
 ---
 title: "Nest"
 url: /ollioules/nest/
-shop: Kosmetik
+shop: beauté
 ---

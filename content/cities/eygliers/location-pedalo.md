@@ -1,5 +1,5 @@
 ---
 title: "Location pédalo"
 url: /eygliers/location-pedalo/
-shop: Sport
+shop: sports
 ---

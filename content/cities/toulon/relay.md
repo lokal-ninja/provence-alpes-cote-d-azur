@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /toulon/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

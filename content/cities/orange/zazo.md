@@ -1,5 +1,5 @@
 ---
 title: "Zazo"
 url: /orange/zazo/
-shop: Kleidung
+shop: vêtements
 ---

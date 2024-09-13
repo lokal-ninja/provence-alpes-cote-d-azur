@@ -1,5 +1,5 @@
 ---
 title: "La fromagerie de Louise"
 url: /avignon/la-fromagerie-de-louise/
-shop: Käse
+shop: fromage
 ---

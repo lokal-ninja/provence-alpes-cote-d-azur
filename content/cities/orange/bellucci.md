@@ -1,5 +1,5 @@
 ---
 title: "Bellucci"
 url: /orange/bellucci/
-shop: Eisenwaren
+shop: matériel informatique
 ---

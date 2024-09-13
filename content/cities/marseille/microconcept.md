@@ -1,5 +1,5 @@
 ---
 title: "Microconcept"
 url: /marseille/microconcept/
-shop: Computer
+shop: ordinateur
 ---

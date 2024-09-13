@@ -1,5 +1,5 @@
 ---
 title: "Tiré à Part"
 url: /marseille/tire-a-part/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goyard"
 url: /monaco/goyard/
-shop: Leder
+shop: cuir
 ---

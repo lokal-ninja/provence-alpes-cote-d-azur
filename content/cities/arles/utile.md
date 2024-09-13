@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /arles/utile/
-shop: Lebensmittel
+shop: commodité
 ---

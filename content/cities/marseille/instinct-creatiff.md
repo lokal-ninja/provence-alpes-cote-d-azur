@@ -1,5 +1,5 @@
 ---
 title: "Instinct créa'tiff"
 url: /marseille/instinct-creatiff/
-shop: Friseur
+shop: coiffeur
 ---

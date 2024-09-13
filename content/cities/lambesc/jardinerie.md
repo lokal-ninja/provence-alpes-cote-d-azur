@@ -1,5 +1,5 @@
 ---
 title: "Jardinerie"
 url: /lambesc/jardinerie/
-shop: Garten-Center
+shop: centre de jardinage
 ---

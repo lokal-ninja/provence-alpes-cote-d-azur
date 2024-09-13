@@ -1,5 +1,5 @@
 ---
 title: "Saint-Maclou"
 url: /puget-sur-argens/saint-maclou/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

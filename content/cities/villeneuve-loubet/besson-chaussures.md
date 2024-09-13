@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /villeneuve-loubet/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

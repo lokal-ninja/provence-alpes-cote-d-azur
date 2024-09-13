@@ -1,5 +1,5 @@
 ---
 title: "DMS Marine"
 url: /saint-louis-du-rhone/dms-marine/
-shop: Allgemein
+shop: shop
 ---

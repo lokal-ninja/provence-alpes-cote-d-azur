@@ -1,5 +1,5 @@
 ---
 title: "Horus Voyages"
 url: /manosque/horus-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

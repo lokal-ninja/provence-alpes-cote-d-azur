@@ -1,5 +1,5 @@
 ---
 title: "Micro Concept"
 url: /aubagne/micro-concept/
-shop: Computer
+shop: ordinateur
 ---

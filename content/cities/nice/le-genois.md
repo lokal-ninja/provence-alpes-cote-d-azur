@@ -1,5 +1,5 @@
 ---
 title: "Le Genois"
 url: /nice/le-genois/
-shop: Kiosk
+shop: kiosque
 ---

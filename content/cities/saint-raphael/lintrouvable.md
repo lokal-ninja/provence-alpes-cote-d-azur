@@ -1,5 +1,5 @@
 ---
 title: "L'Introuvable"
 url: /saint-raphael/lintrouvable/
-shop: Musik
+shop: musique
 ---

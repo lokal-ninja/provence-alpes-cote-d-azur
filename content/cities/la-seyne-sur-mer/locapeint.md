@@ -1,5 +1,5 @@
 ---
 title: "Locapeint"
 url: /la-seyne-sur-mer/locapeint/
-shop: Autoteile
+shop: pièces de voitures
 ---

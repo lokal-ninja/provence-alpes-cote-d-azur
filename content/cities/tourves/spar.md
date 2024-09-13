@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tourves/spar/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /aix-en-provence/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

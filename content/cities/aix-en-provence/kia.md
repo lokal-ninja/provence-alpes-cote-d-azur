@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /aix-en-provence/kia/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pro Shop Moto"
 url: /antibes/pro-shop-moto/
-shop: Motorrad
+shop: moto
 ---

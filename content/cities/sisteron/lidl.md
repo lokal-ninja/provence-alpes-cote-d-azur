@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /sisteron/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /draguignan/kiloutou/
-shop: Werkzeuge
+shop: outils
 ---

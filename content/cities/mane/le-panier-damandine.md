@@ -1,5 +1,5 @@
 ---
 title: "Le Panier d'Amandine"
 url: /mane/le-panier-damandine/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dessange"
 url: /draguignan/dessange/
-shop: Friseur
+shop: coiffeur
 ---

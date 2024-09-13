@@ -1,5 +1,5 @@
 ---
 title: "Autoban"
 url: /cagnes-sur-mer/autoban/
-shop: Autoteile
+shop: pièces de voitures
 ---

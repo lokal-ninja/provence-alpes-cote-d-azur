@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /ollioules/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

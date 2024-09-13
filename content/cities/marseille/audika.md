@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /marseille/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

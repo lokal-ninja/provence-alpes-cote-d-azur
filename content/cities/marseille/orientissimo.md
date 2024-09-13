@@ -1,5 +1,5 @@
 ---
 title: "Orientissimo"
 url: /marseille/orientissimo/
-shop: Allgemein
+shop: shop
 ---

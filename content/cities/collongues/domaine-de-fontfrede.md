@@ -1,5 +1,5 @@
 ---
 title: "Domaine de Fontfrede"
 url: /collongues/domaine-de-fontfrede/
-shop: Hofladen
+shop: ferme
 ---

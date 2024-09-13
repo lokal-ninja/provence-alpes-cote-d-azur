@@ -1,5 +1,5 @@
 ---
 title: "Maxi Bazar"
 url: /puget-sur-argens/maxi-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

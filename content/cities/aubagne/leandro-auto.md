@@ -1,5 +1,5 @@
 ---
 title: "Leandro Auto"
 url: /aubagne/leandro-auto/
-shop: Autohaus
+shop: voiture
 ---

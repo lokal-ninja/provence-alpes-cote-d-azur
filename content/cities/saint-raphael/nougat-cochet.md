@@ -1,5 +1,5 @@
 ---
 title: "Nougat Cochet"
 url: /saint-raphael/nougat-cochet/
-shop: Bäckerei
+shop: boulangerie
 ---

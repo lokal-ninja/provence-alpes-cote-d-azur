@@ -1,5 +1,5 @@
 ---
 title: "La Boutique du Gardian"
 url: /arles/la-boutique-du-gardian/
-shop: Kleidung
+shop: vêtements
 ---

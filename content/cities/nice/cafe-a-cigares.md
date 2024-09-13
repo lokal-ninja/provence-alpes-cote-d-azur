@@ -1,5 +1,5 @@
 ---
 title: "Café à Cigares"
 url: /nice/cafe-a-cigares/
-shop: Kiosk
+shop: kiosque
 ---

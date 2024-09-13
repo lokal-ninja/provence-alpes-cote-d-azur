@@ -1,5 +1,5 @@
 ---
 title: "Dr. Bike"
 url: /aix-en-provence/dr-bike/
-shop: Fahrrad
+shop: vélo
 ---

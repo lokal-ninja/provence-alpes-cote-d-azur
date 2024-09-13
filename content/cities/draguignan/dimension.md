@@ -1,5 +1,5 @@
 ---
 title: "Dimension"
 url: /draguignan/dimension/
-shop: Kleidung
+shop: vêtements
 ---

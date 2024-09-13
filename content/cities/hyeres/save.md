@@ -1,5 +1,5 @@
 ---
 title: "Save"
 url: /hyeres/save/
-shop: Handy
+shop: téléphone portable
 ---

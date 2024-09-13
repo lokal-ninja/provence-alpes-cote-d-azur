@@ -1,5 +1,5 @@
 ---
 title: "Centre commercial Barnéoud"
 url: /les-pennes-mirabeau/centre-commercial-barneoud/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

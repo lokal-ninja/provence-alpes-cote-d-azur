@@ -1,5 +1,5 @@
 ---
 title: "BYDcreation"
 url: /orange/bydcreation/
-shop: Allgemein
+shop: shop
 ---

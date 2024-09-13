@@ -1,5 +1,5 @@
 ---
 title: "Inventiff"
 url: /carnoules/inventiff/
-shop: Friseur
+shop: coiffeur
 ---

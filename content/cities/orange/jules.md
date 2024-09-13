@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /orange/jules/
-shop: Kleidung
+shop: vêtements
 ---

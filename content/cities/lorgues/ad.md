@@ -1,5 +1,5 @@
 ---
 title: "AD"
 url: /lorgues/ad/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

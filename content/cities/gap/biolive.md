@@ -1,5 +1,5 @@
 ---
 title: "BiOlive"
 url: /gap/biolive/
-shop: Bioladen
+shop: alimentation saine
 ---

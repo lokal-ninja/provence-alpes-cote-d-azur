@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /trans-en-provence/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

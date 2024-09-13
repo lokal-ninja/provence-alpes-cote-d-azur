@@ -1,5 +1,5 @@
 ---
 title: "Chronodrive"
 url: /marignane/chronodrive/
-shop: Supermarkt
+shop: supermarché
 ---

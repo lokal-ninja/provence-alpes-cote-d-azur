@@ -1,5 +1,5 @@
 ---
 title: "Ladurée"
 url: /cannes/laduree/
-shop: Bäckerei
+shop: boulangerie
 ---

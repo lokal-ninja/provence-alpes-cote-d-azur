@@ -1,5 +1,5 @@
 ---
 title: "Animalis"
 url: /la-seyne-sur-mer/animalis/
-shop: Tiere
+shop: animal de compagnie
 ---

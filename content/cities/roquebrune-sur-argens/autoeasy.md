@@ -1,5 +1,5 @@
 ---
 title: "AutoEasy"
 url: /roquebrune-sur-argens/autoeasy/
-shop: Autohaus
+shop: voiture
 ---

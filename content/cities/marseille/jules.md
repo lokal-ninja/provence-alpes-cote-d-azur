@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /marseille/jules/
-shop: Kleidung
+shop: vêtements
 ---

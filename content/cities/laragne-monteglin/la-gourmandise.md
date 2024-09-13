@@ -1,5 +1,5 @@
 ---
 title: "La Gourmandise"
 url: /laragne-monteglin/la-gourmandise/
-shop: Bäckerei
+shop: boulangerie
 ---

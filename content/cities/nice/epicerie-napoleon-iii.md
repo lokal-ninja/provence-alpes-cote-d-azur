@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Napoléon III"
 url: /nice/epicerie-napoleon-iii/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coupe N'shop"
 url: /arles/coupe-nshop/
-shop: Friseur
+shop: coiffeur
 ---

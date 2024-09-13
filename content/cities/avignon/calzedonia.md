@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /avignon/calzedonia/
-shop: Kleidung
+shop: vêtements
 ---

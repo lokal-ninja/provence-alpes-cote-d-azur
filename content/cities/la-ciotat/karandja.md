@@ -1,5 +1,5 @@
 ---
 title: "Karandja"
 url: /la-ciotat/karandja/
-shop: Kosmetik
+shop: beauté
 ---

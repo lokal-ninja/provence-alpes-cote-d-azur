@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /hyeres/utile/
-shop: Lebensmittel
+shop: commodité
 ---

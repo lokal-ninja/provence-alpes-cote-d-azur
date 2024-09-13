@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /digne-les-bains/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

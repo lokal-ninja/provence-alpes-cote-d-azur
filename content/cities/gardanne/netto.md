@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /gardanne/netto/
-shop: Supermarkt
+shop: supermarché
 ---

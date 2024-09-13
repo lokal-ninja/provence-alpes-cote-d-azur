@@ -1,5 +1,5 @@
 ---
 title: "Troc.com"
 url: /ollioules/troc-com/
-shop: Kramladen
+shop: magasin de variétés
 ---

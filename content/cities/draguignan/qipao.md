@@ -1,5 +1,5 @@
 ---
 title: "Qipao"
 url: /draguignan/qipao/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /orange/kiloutou/
-shop: Mieten
+shop: location de stockage
 ---

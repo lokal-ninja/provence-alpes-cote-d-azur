@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /trans-en-provence/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

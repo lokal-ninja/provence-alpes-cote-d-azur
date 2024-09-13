@@ -1,5 +1,5 @@
 ---
 title: "Guifon"
 url: /marseille/guifon/
-shop: Modehaus
+shop: boutique
 ---

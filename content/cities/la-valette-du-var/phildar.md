@@ -1,5 +1,5 @@
 ---
 title: "Phildar"
 url: /la-valette-du-var/phildar/
-shop: Wolle
+shop: laine
 ---

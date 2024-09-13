@@ -1,5 +1,5 @@
 ---
 title: "Styl'dogs"
 url: /bandol/styldogs/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

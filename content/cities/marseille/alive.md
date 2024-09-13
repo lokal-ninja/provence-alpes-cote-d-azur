@@ -1,5 +1,5 @@
 ---
 title: "Alive"
 url: /marseille/alive/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "/ perene"
 url: /orange/perene/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

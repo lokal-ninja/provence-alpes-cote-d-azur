@@ -1,5 +1,5 @@
 ---
 title: "GroupAuto VidalAuto"
 url: /draguignan/groupauto-vidalauto/
-shop: Autoteile
+shop: pièces de voitures
 ---

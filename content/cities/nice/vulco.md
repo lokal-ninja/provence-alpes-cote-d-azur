@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /nice/vulco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

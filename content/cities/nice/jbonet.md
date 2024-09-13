@@ -1,5 +1,5 @@
 ---
 title: "jbonet"
 url: /nice/jbonet/
-shop: Möbel
+shop: meubles
 ---

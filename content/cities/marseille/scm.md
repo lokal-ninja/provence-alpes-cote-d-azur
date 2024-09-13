@@ -1,5 +1,5 @@
 ---
 title: "SCM"
 url: /marseille/scm/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

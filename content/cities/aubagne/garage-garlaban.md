@@ -1,5 +1,5 @@
 ---
 title: "Garage Garlaban"
 url: /aubagne/garage-garlaban/
-shop: Autohaus
+shop: voiture
 ---

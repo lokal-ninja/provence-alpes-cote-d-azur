@@ -1,5 +1,5 @@
 ---
 title: "Cabinet médical"
 url: /orange/cabinet-medical/
-shop: Zeitungen
+shop: marchand de journaux
 ---

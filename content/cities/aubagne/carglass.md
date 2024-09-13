@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /aubagne/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lili Happy Boutique"
 url: /draguignan/lili-happy-boutique/
-shop: Kleidung
+shop: vêtements
 ---

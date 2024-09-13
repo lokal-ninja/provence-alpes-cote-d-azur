@@ -1,5 +1,5 @@
 ---
 title: "Papeterie"
 url: /cassis/papeterie/
-shop: Zeitungen
+shop: marchand de journaux
 ---

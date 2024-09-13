@@ -1,5 +1,5 @@
 ---
 title: "florilis"
 url: /mougins/florilis/
-shop: Blumen
+shop: fleuriste
 ---

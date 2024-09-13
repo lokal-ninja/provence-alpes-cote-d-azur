@@ -1,5 +1,5 @@
 ---
 title: "Biomonde"
 url: /oraison/biomonde/
-shop: Bioladen
+shop: alimentation saine
 ---

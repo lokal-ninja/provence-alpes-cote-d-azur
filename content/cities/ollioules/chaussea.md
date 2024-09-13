@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /ollioules/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

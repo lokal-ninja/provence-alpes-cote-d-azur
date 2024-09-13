@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /vallauris/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

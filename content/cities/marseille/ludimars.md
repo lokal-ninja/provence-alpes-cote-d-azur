@@ -1,5 +1,5 @@
 ---
 title: "Ludimars"
 url: /marseille/ludimars/
-shop: Spiele
+shop: jeux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Massage Thaïlande"
 url: /arles/massage-thailande/
-shop: Massage
+shop: massage
 ---

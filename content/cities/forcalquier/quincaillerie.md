@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie"
 url: /forcalquier/quincaillerie/
-shop: Eisenwaren
+shop: matériel informatique
 ---

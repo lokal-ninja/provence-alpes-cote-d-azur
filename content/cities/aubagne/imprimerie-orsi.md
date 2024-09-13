@@ -1,5 +1,5 @@
 ---
 title: "Imprimerie Orsi"
 url: /aubagne/imprimerie-orsi/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

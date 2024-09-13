@@ -1,5 +1,5 @@
 ---
 title: "Lulli"
 url: /sanary-sur-mer/lulli/
-shop: Schuhe
+shop: chaussures
 ---

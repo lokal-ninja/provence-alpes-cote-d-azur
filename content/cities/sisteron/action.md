@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /sisteron/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

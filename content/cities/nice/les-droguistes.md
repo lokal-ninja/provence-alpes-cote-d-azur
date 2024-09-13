@@ -1,5 +1,5 @@
 ---
 title: "Les Droguistes"
 url: /nice/les-droguistes/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les milles feuilles"
 url: /draguignan/les-milles-feuilles/
-shop: Bücher
+shop: livres
 ---

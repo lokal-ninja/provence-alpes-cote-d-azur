@@ -1,5 +1,5 @@
 ---
 title: "Garage Theuriet"
 url: /nice/garage-theuriet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

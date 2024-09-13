@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur Homme"
 url: /toulon/coiffeur-homme/
-shop: Friseur
+shop: coiffeur
 ---

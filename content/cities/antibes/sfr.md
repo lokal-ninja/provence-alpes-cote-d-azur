@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /antibes/sfr/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /antibes/jules/
-shop: Kleidung
+shop: vêtements
 ---

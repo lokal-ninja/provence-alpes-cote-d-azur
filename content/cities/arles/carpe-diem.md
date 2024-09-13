@@ -1,5 +1,5 @@
 ---
 title: "Carpe Diem"
 url: /arles/carpe-diem/
-shop: Antiquitäten
+shop: antiquités
 ---

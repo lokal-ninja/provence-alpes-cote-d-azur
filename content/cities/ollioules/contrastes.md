@@ -1,5 +1,5 @@
 ---
 title: "Contrastes"
 url: /ollioules/contrastes/
-shop: Reisebüro
+shop: agence de voyage
 ---

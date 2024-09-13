@@ -1,5 +1,5 @@
 ---
 title: "VD Performance"
 url: /la-ciotat/vd-performance/
-shop: Motorrad
+shop: moto
 ---

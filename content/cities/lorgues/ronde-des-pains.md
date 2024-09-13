@@ -1,5 +1,5 @@
 ---
 title: "Ronde des Pains"
 url: /lorgues/ronde-des-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

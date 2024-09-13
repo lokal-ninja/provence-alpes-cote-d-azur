@@ -1,5 +1,5 @@
 ---
 title: "Convert"
 url: /lisle-sur-la-sorgue/convert/
-shop: Bäckerei
+shop: boulangerie
 ---

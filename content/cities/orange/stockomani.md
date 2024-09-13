@@ -1,5 +1,5 @@
 ---
 title: "Stockomani"
 url: /orange/stockomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

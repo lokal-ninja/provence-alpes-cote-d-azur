@@ -1,5 +1,5 @@
 ---
 title: "AD Carrosserie Dan'Auto"
 url: /manosque/ad-carrosserie-danauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

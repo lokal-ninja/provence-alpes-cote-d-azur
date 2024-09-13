@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Neptunalia"
 url: /mallemort/poissonnerie-neptunalia/
-shop: Fisch
+shop: fruits de mer
 ---

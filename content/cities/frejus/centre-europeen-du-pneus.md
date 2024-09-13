@@ -1,5 +1,5 @@
 ---
 title: "Centre Europeen Du Pneus"
 url: /frejus/centre-europeen-du-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

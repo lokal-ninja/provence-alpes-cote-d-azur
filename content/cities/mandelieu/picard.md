@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /mandelieu/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

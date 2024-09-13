@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /cannes-la-bocca/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

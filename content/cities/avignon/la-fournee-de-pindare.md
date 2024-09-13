@@ -1,5 +1,5 @@
 ---
 title: "La fournée de Pindare"
 url: /avignon/la-fournee-de-pindare/
-shop: Bäckerei
+shop: boulangerie
 ---

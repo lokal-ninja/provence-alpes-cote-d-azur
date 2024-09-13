@@ -1,5 +1,5 @@
 ---
 title: "Studio 66"
 url: /hyeres/studio-66/
-shop: Friseur
+shop: coiffeur
 ---

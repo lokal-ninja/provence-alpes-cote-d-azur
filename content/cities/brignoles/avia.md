@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /brignoles/avia/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /frejus/bp/
-shop: Lebensmittel
+shop: commodité
 ---

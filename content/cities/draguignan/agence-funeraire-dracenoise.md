@@ -1,5 +1,5 @@
 ---
 title: "Agence Funéraire Dracénoise"
 url: /draguignan/agence-funeraire-dracenoise/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

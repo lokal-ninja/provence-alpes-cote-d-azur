@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /la-seyne-sur-mer/stokomani/
-shop: Kleidung
+shop: vêtements
 ---

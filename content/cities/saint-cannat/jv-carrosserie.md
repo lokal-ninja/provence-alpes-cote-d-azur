@@ -1,5 +1,5 @@
 ---
 title: "JV Carrosserie"
 url: /saint-cannat/jv-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

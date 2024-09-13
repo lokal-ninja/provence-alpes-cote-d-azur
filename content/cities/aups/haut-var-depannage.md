@@ -1,5 +1,5 @@
 ---
 title: "Haut-Var Dépannage"
 url: /aups/haut-var-depannage/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

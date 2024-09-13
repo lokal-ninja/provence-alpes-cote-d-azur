@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /nice/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

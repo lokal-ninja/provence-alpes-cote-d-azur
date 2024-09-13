@@ -1,5 +1,5 @@
 ---
 title: "Le Veillon"
 url: /nice/le-veillon/
-shop: Tabak
+shop: tabac
 ---

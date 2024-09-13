@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Genin"
 url: /arles/boucherie-genin/
-shop: Metzgerei
+shop: boucherie
 ---

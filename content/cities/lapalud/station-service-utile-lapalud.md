@@ -1,5 +1,5 @@
 ---
 title: "Station Service Utile Lapalud"
 url: /lapalud/station-service-utile-lapalud/
-shop: Gasflaschen
+shop: gaz
 ---

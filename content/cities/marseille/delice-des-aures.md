@@ -1,5 +1,5 @@
 ---
 title: "Délice des Aurés"
 url: /marseille/delice-des-aures/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MFleurs"
 url: /velaux/mfleurs/
-shop: Blumen
+shop: fleuriste
 ---

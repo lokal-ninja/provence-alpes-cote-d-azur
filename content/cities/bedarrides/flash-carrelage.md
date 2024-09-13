@@ -1,5 +1,5 @@
 ---
 title: "Flash Carrelage"
 url: /bedarrides/flash-carrelage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

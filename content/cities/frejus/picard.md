@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /frejus/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

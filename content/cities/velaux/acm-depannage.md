@@ -1,5 +1,5 @@
 ---
 title: "ACM Dépannage"
 url: /velaux/acm-depannage/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

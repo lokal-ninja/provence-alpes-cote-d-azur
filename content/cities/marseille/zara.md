@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /marseille/zara/
-shop: Kleidung
+shop: vêtements
 ---

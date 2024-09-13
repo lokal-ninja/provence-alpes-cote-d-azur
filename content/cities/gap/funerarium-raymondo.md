@@ -1,5 +1,5 @@
 ---
 title: "Funérarium Raymondo"
 url: /gap/funerarium-raymondo/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

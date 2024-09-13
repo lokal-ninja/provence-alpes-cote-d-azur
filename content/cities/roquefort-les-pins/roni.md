@@ -1,5 +1,5 @@
 ---
 title: "RONI"
 url: /roquefort-les-pins/roni/
-shop: Blumen
+shop: fleuriste
 ---

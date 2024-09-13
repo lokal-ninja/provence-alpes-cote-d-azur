@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil de l'Encreme"
 url: /cereste/le-fournil-de-lencreme/
-shop: Bäckerei
+shop: boulangerie
 ---

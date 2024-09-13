@@ -1,5 +1,5 @@
 ---
 title: "Foussier"
 url: /aubagne/foussier/
-shop: Eisenwaren
+shop: matériel informatique
 ---

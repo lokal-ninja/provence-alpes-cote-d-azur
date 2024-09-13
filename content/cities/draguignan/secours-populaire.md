@@ -1,5 +1,5 @@
 ---
 title: "Secours populaire"
 url: /draguignan/secours-populaire/
-shop: Gebrauchtwaren
+shop: charité
 ---

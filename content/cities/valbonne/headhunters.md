@@ -1,5 +1,5 @@
 ---
 title: "Headhunters"
 url: /valbonne/headhunters/
-shop: Friseur
+shop: coiffeur
 ---

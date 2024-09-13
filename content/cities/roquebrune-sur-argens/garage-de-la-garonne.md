@@ -1,5 +1,5 @@
 ---
 title: "Garage de la Garonne"
 url: /roquebrune-sur-argens/garage-de-la-garonne/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

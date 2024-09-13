@@ -1,5 +1,5 @@
 ---
 title: "CQFD"
 url: /arles/cqfd/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

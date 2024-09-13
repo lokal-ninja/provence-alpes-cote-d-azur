@@ -1,5 +1,5 @@
 ---
 title: "Edgar"
 url: /avignon/edgar/
-shop: Bäckerei
+shop: boulangerie
 ---

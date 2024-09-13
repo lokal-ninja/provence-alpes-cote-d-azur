@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /puget-sur-argens/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /nice/yamaha/
-shop: Motorrad
+shop: moto
 ---

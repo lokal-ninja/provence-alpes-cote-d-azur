@@ -1,5 +1,5 @@
 ---
 title: "Blondie"
 url: /vence/blondie/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSP Grêle"
 url: /merindol/dsp-grele/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

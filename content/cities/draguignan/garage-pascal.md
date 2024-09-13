@@ -1,5 +1,5 @@
 ---
 title: "Garage Pascal"
 url: /draguignan/garage-pascal/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Côté route"
 url: /cavaillon/cote-route/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

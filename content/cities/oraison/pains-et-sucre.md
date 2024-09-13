@@ -1,5 +1,5 @@
 ---
 title: "Pains et Sucre"
 url: /oraison/pains-et-sucre/
-shop: Bäckerei
+shop: boulangerie
 ---

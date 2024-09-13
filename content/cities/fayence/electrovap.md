@@ -1,5 +1,5 @@
 ---
 title: "Electrovap"
 url: /fayence/electrovap/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

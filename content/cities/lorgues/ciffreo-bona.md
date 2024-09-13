@@ -1,5 +1,5 @@
 ---
 title: "Ciffréo Bona"
 url: /lorgues/ciffreo-bona/
-shop: Baumarkt
+shop: à faire soi-même
 ---

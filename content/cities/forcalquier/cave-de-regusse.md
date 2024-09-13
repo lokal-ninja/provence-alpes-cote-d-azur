@@ -1,5 +1,5 @@
 ---
 title: "Cave de Régusse"
 url: /forcalquier/cave-de-regusse/
-shop: Wein
+shop: vin
 ---

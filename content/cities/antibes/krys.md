@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /antibes/krys/
-shop: Optiker
+shop: opticien
 ---

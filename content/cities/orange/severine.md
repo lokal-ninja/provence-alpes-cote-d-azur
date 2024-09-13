@@ -1,5 +1,5 @@
 ---
 title: "Séverine"
 url: /orange/severine/
-shop: Kosmetik
+shop: beauté
 ---

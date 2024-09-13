@@ -1,5 +1,5 @@
 ---
 title: "Nicole"
 url: /rians/nicole/
-shop: Tabak
+shop: tabac
 ---

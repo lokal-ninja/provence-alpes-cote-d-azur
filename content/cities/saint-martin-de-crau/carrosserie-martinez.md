@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Martinez"
 url: /saint-martin-de-crau/carrosserie-martinez/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Institut de beauté Parenthèse"
 url: /nice/institut-de-beaute-parenthese/
-shop: Kosmetik
+shop: beauté
 ---

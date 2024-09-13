@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /nice/acuitis/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

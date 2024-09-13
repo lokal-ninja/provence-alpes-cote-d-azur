@@ -1,5 +1,5 @@
 ---
 title: "La Quotidienne"
 url: /menton/la-quotidienne/
-shop: Zeitungen
+shop: marchand de journaux
 ---

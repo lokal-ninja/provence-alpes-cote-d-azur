@@ -1,5 +1,5 @@
 ---
 title: "Euro Repar"
 url: /draguignan/euro-repar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

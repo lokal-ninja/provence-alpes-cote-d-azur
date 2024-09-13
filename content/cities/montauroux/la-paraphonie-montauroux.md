@@ -1,5 +1,5 @@
 ---
 title: "La Paraphonie - Montauroux"
 url: /montauroux/la-paraphonie-montauroux/
-shop: Handy
+shop: téléphone portable
 ---

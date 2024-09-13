@@ -1,5 +1,5 @@
 ---
 title: "Couleur coiffure"
 url: /lorgues/couleur-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

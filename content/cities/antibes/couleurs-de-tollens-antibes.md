@@ -1,5 +1,5 @@
 ---
 title: "Couleurs de Tollens Antibes"
 url: /antibes/couleurs-de-tollens-antibes/
-shop: Farben
+shop: peinture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Édouard VII"
 url: /nice/salon-edouard-vii/
-shop: Friseur
+shop: coiffeur
 ---

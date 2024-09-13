@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /chateaurenard/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

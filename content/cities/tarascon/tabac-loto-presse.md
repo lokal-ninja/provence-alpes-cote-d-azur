@@ -1,5 +1,5 @@
 ---
 title: "Tabac Loto Presse"
 url: /tarascon/tabac-loto-presse/
-shop: Tabak
+shop: tabac
 ---

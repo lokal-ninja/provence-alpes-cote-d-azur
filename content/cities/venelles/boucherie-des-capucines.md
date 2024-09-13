@@ -1,5 +1,5 @@
 ---
 title: "Boucherie des Capucines"
 url: /venelles/boucherie-des-capucines/
-shop: Metzgerei
+shop: boucherie
 ---

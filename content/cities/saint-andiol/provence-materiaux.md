@@ -1,5 +1,5 @@
 ---
 title: "Provence Matériaux"
 url: /saint-andiol/provence-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Barbapapa"
 url: /lorgues/la-barbapapa/
-shop: Friseur
+shop: coiffeur
 ---

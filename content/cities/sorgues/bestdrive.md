@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /sorgues/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /ollioules/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AD"
 url: /sainte-tulle/ad/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

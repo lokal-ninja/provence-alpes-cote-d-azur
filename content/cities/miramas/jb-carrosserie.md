@@ -1,5 +1,5 @@
 ---
 title: "Jb Carrosserie"
 url: /miramas/jb-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

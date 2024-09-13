@@ -1,5 +1,5 @@
 ---
 title: "Dipro"
 url: /la-seyne-sur-mer/dipro/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

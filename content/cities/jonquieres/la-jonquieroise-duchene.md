@@ -1,5 +1,5 @@
 ---
 title: "La jonquieroise Duchêne"
 url: /jonquieres/la-jonquieroise-duchene/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

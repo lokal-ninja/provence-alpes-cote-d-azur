@@ -1,5 +1,5 @@
 ---
 title: "Prestige Coiffure"
 url: /mouans-sartoux/prestige-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

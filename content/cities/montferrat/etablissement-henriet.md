@@ -1,5 +1,5 @@
 ---
 title: "Établissement Henriet"
 url: /montferrat/etablissement-henriet/
-shop: Gasflaschen
+shop: gaz
 ---

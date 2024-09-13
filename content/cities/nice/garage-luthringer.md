@@ -1,5 +1,5 @@
 ---
 title: "Garage Luthringer"
 url: /nice/garage-luthringer/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

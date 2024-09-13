@@ -1,5 +1,5 @@
 ---
 title: "TACP"
 url: /nice/tacp/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre commercial Mistral 7"
 url: /montfavet/centre-commercial-mistral-7/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonifay"
 url: /theus/bonifay/
-shop: Baumarkt
+shop: à faire soi-même
 ---

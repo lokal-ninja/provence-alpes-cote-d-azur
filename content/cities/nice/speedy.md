@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /nice/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AM Médical"
 url: /nice/am-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

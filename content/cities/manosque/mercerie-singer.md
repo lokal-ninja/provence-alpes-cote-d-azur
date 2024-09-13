@@ -1,5 +1,5 @@
 ---
 title: "Mercerie Singer"
 url: /manosque/mercerie-singer/
-shop: Allgemein
+shop: shop
 ---

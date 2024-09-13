@@ -1,5 +1,5 @@
 ---
 title: "Garage du Riquet"
 url: /aubagne/garage-du-riquet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

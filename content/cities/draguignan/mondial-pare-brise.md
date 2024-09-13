@@ -1,5 +1,5 @@
 ---
 title: "Mondial Pare-brise"
 url: /draguignan/mondial-pare-brise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

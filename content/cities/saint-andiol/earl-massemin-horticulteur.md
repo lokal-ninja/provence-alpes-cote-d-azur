@@ -1,5 +1,5 @@
 ---
 title: "EARL MASSEMIN horticulteur"
 url: /saint-andiol/earl-massemin-horticulteur/
-shop: Allgemein
+shop: shop
 ---

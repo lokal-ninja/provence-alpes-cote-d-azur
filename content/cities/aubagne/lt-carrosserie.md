@@ -1,5 +1,5 @@
 ---
 title: "LT Carrosserie"
 url: /aubagne/lt-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

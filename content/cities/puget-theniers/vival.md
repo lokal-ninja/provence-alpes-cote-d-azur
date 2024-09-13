@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /puget-theniers/vival/
-shop: Kramladen
+shop: magasin de variétés
 ---

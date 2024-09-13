@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /brignoles/orange/
-shop: Handy
+shop: téléphone portable
 ---

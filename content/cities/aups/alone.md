@@ -1,5 +1,5 @@
 ---
 title: "Alone"
 url: /aups/alone/
-shop: Kleidung
+shop: vêtements
 ---

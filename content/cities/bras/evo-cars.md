@@ -1,5 +1,5 @@
 ---
 title: "Evo Cars"
 url: /bras/evo-cars/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Privilège"
 url: /draguignan/privilege/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

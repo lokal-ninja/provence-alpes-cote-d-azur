@@ -1,5 +1,5 @@
 ---
 title: "Coquillages Penco"
 url: /aubagne/coquillages-penco/
-shop: Fisch
+shop: fruits de mer
 ---

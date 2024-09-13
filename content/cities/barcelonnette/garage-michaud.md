@@ -1,5 +1,5 @@
 ---
 title: "Garage Michaud"
 url: /barcelonnette/garage-michaud/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

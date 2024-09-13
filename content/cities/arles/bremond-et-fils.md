@@ -1,5 +1,5 @@
 ---
 title: "Bremond et fils "
 url: /arles/bremond-et-fils/
-shop: Feinkost
+shop: charcuterie
 ---

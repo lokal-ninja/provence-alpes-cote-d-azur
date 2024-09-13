@@ -1,5 +1,5 @@
 ---
 title: "Loueva925"
 url: /aubagne/loueva925/
-shop: Schmuck
+shop: bijoux
 ---

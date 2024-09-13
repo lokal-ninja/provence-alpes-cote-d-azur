@@ -1,5 +1,5 @@
 ---
 title: "Garage des Paluds"
 url: /aubagne/garage-des-paluds/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

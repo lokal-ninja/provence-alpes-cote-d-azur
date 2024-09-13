@@ -1,5 +1,5 @@
 ---
 title: "ZAC Bonneveine"
 url: /marseille/zac-bonneveine/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

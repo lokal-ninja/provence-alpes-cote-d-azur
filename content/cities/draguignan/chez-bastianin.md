@@ -1,5 +1,5 @@
 ---
 title: "Chez Bastianin"
 url: /draguignan/chez-bastianin/
-shop: Metzgerei
+shop: boucherie
 ---

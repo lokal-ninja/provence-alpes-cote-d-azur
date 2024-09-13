@@ -1,5 +1,5 @@
 ---
 title: "Hublot"
 url: /monaco/hublot/
-shop: Uhren
+shop: montres
 ---

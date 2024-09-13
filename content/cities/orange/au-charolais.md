@@ -1,5 +1,5 @@
 ---
 title: "Au charolais"
 url: /orange/au-charolais/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Philippe Automobiles"
 url: /la-motte/philippe-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

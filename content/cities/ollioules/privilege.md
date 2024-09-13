@@ -1,5 +1,5 @@
 ---
 title: "Privilège"
 url: /ollioules/privilege/
-shop: Elektronik
+shop: électronique
 ---

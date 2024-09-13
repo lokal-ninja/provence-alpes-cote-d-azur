@@ -1,5 +1,5 @@
 ---
 title: "Botella Shampoo"
 url: /plan-dorgon/botella-shampoo/
-shop: Friseur
+shop: coiffeur
 ---

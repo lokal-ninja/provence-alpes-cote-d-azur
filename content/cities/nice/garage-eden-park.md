@@ -1,5 +1,5 @@
 ---
 title: "Garage Eden Park"
 url: /nice/garage-eden-park/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

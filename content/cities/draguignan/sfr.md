@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /draguignan/sfr/
-shop: Handy
+shop: téléphone portable
 ---

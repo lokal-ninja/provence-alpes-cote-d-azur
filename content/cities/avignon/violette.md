@@ -1,5 +1,5 @@
 ---
 title: "Violette"
 url: /avignon/violette/
-shop: Bäckerei
+shop: boulangerie
 ---

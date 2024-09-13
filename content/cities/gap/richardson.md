@@ -1,5 +1,5 @@
 ---
 title: "Richardson"
 url: /gap/richardson/
-shop: Badezimmer
+shop: salle de bains
 ---

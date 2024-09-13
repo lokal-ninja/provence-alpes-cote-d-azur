@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Du Lubéron"
 url: /merindol/boucherie-charcuterie-du-luberon/
-shop: Metzgerei
+shop: boucherie
 ---

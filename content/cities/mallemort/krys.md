@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /mallemort/krys/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "tai yang"
 url: /aubagne/tai-yang/
-shop: Reisebüro
+shop: agence de voyage
 ---

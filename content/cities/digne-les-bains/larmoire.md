@@ -1,5 +1,5 @@
 ---
 title: "L'armoire"
 url: /digne-les-bains/larmoire/
-shop: Kleidung
+shop: vêtements
 ---

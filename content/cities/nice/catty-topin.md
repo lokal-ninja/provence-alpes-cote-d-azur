@@ -1,5 +1,5 @@
 ---
 title: "Catty Topin"
 url: /nice/catty-topin/
-shop: Friseur
+shop: coiffeur
 ---

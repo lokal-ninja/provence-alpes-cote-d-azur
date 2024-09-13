@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Supply Chain"
 url: /salon-de-provence/carrefour-supply-chain/
-shop: Großhandel
+shop: vente en gros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /mallemort/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

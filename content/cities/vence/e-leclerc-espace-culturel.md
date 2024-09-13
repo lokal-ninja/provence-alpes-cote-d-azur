@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Espace Culturel"
 url: /vence/e-leclerc-espace-culturel/
-shop: Elektronik
+shop: électronique
 ---

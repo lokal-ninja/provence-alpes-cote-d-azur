@@ -1,5 +1,5 @@
 ---
 title: "Khaan"
 url: /aubagne/khaan/
-shop: Kleidung
+shop: vêtements
 ---

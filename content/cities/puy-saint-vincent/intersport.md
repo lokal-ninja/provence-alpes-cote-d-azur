@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /puy-saint-vincent/intersport/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Irontek"
 url: /la-seyne-sur-mer/irontek/
-shop: Großhandel
+shop: vente en gros
 ---

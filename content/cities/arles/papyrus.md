@@ -1,5 +1,5 @@
 ---
 title: "Papyrus"
 url: /arles/papyrus/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

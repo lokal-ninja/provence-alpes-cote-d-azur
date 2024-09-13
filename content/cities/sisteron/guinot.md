@@ -1,5 +1,5 @@
 ---
 title: "Guinot"
 url: /sisteron/guinot/
-shop: Kosmetik
+shop: beauté
 ---

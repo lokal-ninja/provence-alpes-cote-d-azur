@@ -1,5 +1,5 @@
 ---
 title: "Sud Est Chimie"
 url: /aubagne/sud-est-chimie/
-shop: Allgemein
+shop: shop
 ---

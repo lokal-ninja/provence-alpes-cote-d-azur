@@ -1,5 +1,5 @@
 ---
 title: "Gpauto"
 url: /seguret/gpauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

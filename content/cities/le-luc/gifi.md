@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /le-luc/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

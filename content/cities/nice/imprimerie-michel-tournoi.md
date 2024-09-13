@@ -1,5 +1,5 @@
 ---
 title: "Imprimerie Michel Tournoi"
 url: /nice/imprimerie-michel-tournoi/
-shop: Kopieren
+shop: copyshop
 ---

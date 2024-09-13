@@ -1,5 +1,5 @@
 ---
 title: "Rosyber"
 url: /gardanne/rosyber/
-shop: Andenken
+shop: cadeau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Service Gorbella - Renault"
 url: /nice/auto-service-gorbella-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

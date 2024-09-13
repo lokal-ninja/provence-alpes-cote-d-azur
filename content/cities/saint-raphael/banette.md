@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /saint-raphael/banette/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roc-Eclerc"
 url: /avignon/roc-eclerc/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

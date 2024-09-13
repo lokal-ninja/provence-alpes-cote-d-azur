@@ -1,5 +1,5 @@
 ---
 title: "Dome"
 url: /la-ciotat/dome/
-shop: Mieten
+shop: location de stockage
 ---

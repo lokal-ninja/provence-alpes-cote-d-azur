@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /avignon/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

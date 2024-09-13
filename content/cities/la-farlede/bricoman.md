@@ -1,5 +1,5 @@
 ---
 title: "Bricoman"
 url: /la-farlede/bricoman/
-shop: Baumarkt
+shop: à faire soi-même
 ---

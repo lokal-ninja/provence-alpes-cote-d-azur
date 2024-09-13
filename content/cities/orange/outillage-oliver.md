@@ -1,5 +1,5 @@
 ---
 title: "Outillage oliver"
 url: /orange/outillage-oliver/
-shop: Baumarkt
+shop: à faire soi-même
 ---

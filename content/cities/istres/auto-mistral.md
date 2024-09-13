@@ -1,5 +1,5 @@
 ---
 title: "Auto Mistral"
 url: /istres/auto-mistral/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

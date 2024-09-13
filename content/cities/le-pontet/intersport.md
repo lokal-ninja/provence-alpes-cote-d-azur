@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /le-pontet/intersport/
-shop: Sport
+shop: sports
 ---

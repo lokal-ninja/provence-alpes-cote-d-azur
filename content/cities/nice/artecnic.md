@@ -1,5 +1,5 @@
 ---
 title: "Artecnic"
 url: /nice/artecnic/
-shop: Friseur
+shop: coiffeur
 ---

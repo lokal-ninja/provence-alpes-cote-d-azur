@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /orange/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

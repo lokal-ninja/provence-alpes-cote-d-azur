@@ -1,5 +1,5 @@
 ---
 title: "MG Prestige Car"
 url: /nice/mg-prestige-car/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

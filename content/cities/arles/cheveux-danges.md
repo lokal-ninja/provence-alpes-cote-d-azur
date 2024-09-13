@@ -1,5 +1,5 @@
 ---
 title: "Cheveux d'Anges"
 url: /arles/cheveux-danges/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emyliss' Coiffure"
 url: /roquefort-les-pins/emyliss-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

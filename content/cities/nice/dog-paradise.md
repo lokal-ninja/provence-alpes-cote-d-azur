@@ -1,5 +1,5 @@
 ---
 title: "Dog paradise"
 url: /nice/dog-paradise/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liberty Coif"
 url: /saint-cyr-sur-mer/liberty-coif/
-shop: Friseur
+shop: coiffeur
 ---

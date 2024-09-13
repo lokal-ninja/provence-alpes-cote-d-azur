@@ -1,5 +1,5 @@
 ---
 title: "TeamFB"
 url: /mandelieu-la-napoule/teamfb/
-shop: Motorrad
+shop: moto
 ---

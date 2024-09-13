@@ -1,5 +1,5 @@
 ---
 title: "LED3"
 url: /rognac/led3/
-shop: Lampen
+shop: lampes
 ---

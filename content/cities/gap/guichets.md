@@ -1,5 +1,5 @@
 ---
 title: "Guichets"
 url: /gap/guichets/
-shop: Tickets
+shop: billet
 ---

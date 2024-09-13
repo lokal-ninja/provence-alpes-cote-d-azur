@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /montfavet/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

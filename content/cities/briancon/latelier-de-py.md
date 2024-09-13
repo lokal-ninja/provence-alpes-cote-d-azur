@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier de Py"
 url: /briancon/latelier-de-py/
-shop: Kunst
+shop: art
 ---

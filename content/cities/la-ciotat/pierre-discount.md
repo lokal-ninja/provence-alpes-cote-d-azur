@@ -1,5 +1,5 @@
 ---
 title: "Pierre Discount"
 url: /la-ciotat/pierre-discount/
-shop: Fliesen
+shop: tuiles
 ---

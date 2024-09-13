@@ -1,5 +1,5 @@
 ---
 title: "Shop by Casino"
 url: /nice/shop-by-casino/
-shop: Lebensmittel
+shop: commodité
 ---

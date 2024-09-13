@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /beausoleil/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

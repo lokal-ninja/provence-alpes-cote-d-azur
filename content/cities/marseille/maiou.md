@@ -1,5 +1,5 @@
 ---
 title: "Maiou"
 url: /marseille/maiou/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

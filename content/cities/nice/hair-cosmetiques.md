@@ -1,5 +1,5 @@
 ---
 title: "Hair Cosmétiques"
 url: /nice/hair-cosmetiques/
-shop: Friseur
+shop: coiffeur
 ---

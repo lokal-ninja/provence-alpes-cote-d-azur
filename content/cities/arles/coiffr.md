@@ -1,5 +1,5 @@
 ---
 title: "Coiff'R"
 url: /arles/coiffr/
-shop: Friseur
+shop: coiffeur
 ---

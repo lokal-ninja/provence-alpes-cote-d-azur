@@ -1,5 +1,5 @@
 ---
 title: "Aquamadern"
 url: /ollioules/aquamadern/
-shop: Garten-Center
+shop: centre de jardinage
 ---

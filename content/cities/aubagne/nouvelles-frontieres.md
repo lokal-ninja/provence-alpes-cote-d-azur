@@ -1,5 +1,5 @@
 ---
 title: "Nouvelles Frontières"
 url: /aubagne/nouvelles-frontieres/
-shop: Reisebüro
+shop: agence de voyage
 ---

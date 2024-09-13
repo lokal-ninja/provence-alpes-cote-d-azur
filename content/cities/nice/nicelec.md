@@ -1,5 +1,5 @@
 ---
 title: "Nicelec"
 url: /nice/nicelec/
-shop: Elektrisch
+shop: électrique
 ---

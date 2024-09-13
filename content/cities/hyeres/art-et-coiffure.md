@@ -1,5 +1,5 @@
 ---
 title: "Art et Coiffure"
 url: /hyeres/art-et-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

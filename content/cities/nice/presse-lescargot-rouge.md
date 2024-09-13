@@ -1,5 +1,5 @@
 ---
 title: "Presse L'escargot Rouge"
 url: /nice/presse-lescargot-rouge/
-shop: Zeitungen
+shop: marchand de journaux
 ---

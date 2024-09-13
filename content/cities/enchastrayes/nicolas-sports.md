@@ -1,5 +1,5 @@
 ---
 title: "Nicolas Sports"
 url: /enchastrayes/nicolas-sports/
-shop: Sport
+shop: sports
 ---

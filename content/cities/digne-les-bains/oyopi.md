@@ -1,5 +1,5 @@
 ---
 title: "Oyopi"
 url: /digne-les-bains/oyopi/
-shop: Handy
+shop: téléphone portable
 ---

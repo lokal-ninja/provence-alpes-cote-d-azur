@@ -1,5 +1,5 @@
 ---
 title: "Brico Discount"
 url: /ollioules/brico-discount/
-shop: Baumarkt
+shop: à faire soi-même
 ---

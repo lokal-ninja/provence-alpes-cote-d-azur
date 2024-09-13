@@ -1,5 +1,5 @@
 ---
 title: "Sellerie Iberique rioja"
 url: /eyguieres/sellerie-iberique-rioja/
-shop: Sport
+shop: sports
 ---

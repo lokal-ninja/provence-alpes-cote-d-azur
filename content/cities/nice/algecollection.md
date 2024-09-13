@@ -1,5 +1,5 @@
 ---
 title: "Algecollection"
 url: /nice/algecollection/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

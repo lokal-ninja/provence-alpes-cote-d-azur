@@ -1,5 +1,5 @@
 ---
 title: "Équinoxe Voyages"
 url: /le-cannet/equinoxe-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

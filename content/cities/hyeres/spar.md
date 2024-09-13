@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hyeres/spar/
-shop: Supermarkt
+shop: supermarché
 ---

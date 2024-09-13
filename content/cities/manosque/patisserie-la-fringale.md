@@ -1,5 +1,5 @@
 ---
 title: "Patisserie La Fringale"
 url: /manosque/patisserie-la-fringale/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MAGILINE Piscine"
 url: /la-brillanne/magiline-piscine/
-shop: Baumarkt
+shop: à faire soi-même
 ---

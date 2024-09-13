@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /orange/orchestra/
-shop: Kleidung
+shop: vêtements
 ---

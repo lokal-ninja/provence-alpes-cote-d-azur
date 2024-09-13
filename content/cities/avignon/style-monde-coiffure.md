@@ -1,5 +1,5 @@
 ---
 title: "Style Monde coiffure"
 url: /avignon/style-monde-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

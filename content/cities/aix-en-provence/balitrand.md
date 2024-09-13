@@ -1,5 +1,5 @@
 ---
 title: "Balitrand"
 url: /aix-en-provence/balitrand/
-shop: Baumarkt
+shop: à faire soi-même
 ---

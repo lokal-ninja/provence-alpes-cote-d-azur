@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /marseille/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

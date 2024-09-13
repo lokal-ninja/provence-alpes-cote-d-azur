@@ -1,5 +1,5 @@
 ---
 title: "Régis location"
 url: /marseille/regis-location/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pil'Poil"
 url: /laragne-monteglin/pilpoil/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

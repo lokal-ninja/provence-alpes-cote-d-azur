@@ -1,5 +1,5 @@
 ---
 title: "Le Michon"
 url: /moustiers-sainte-marie/le-michon/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matpro"
 url: /aubagne/matpro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

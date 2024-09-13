@@ -1,5 +1,5 @@
 ---
 title: "La Station U"
 url: /regusse/la-station-u/
-shop: Gasflaschen
+shop: gaz
 ---

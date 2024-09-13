@@ -1,5 +1,5 @@
 ---
 title: "Interstores"
 url: /la-seyne-sur-mer/interstores/
-shop: Jalousien
+shop: store de fenêtre
 ---

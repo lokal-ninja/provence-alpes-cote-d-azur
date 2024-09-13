@@ -1,5 +1,5 @@
 ---
 title: "Fiorenzo"
 url: /arles/fiorenzo/
-shop: Kleidung
+shop: vêtements
 ---

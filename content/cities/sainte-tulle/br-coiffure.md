@@ -1,5 +1,5 @@
 ---
 title: "BR Coiffure"
 url: /sainte-tulle/br-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

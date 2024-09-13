@@ -1,5 +1,5 @@
 ---
 title: "Garage Gas-Cars"
 url: /cereste/garage-gas-cars/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

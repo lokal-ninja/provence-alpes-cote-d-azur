@@ -1,5 +1,5 @@
 ---
 title: "Devauze"
 url: /marseille/devauze/
-shop: Schlüsseldienst
+shop: serrurier
 ---

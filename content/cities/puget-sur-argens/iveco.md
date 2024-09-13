@@ -1,5 +1,5 @@
 ---
 title: "Iveco"
 url: /puget-sur-argens/iveco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

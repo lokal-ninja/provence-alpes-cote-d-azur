@@ -1,5 +1,5 @@
 ---
 title: "Meubles Gautier"
 url: /aix-en-provence/meubles-gautier/
-shop: Möbel
+shop: meubles
 ---

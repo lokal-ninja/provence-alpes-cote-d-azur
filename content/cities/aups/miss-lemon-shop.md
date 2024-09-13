@@ -1,5 +1,5 @@
 ---
 title: "Miss Lemon Shop"
 url: /aups/miss-lemon-shop/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

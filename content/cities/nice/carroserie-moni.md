@@ -1,5 +1,5 @@
 ---
 title: "Carroserie Moni"
 url: /nice/carroserie-moni/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

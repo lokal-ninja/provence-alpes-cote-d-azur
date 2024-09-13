@@ -1,5 +1,5 @@
 ---
 title: "Justin Chaussures"
 url: /veynes/justin-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

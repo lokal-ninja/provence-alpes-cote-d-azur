@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /gap/grandoptical/
-shop: Optiker
+shop: opticien
 ---

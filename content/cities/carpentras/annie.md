@@ -1,5 +1,5 @@
 ---
 title: "Annie"
 url: /carpentras/annie/
-shop: Möbel
+shop: meubles
 ---

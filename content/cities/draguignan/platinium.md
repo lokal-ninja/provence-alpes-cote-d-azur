@@ -1,5 +1,5 @@
 ---
 title: "Platinium"
 url: /draguignan/platinium/
-shop: Friseur
+shop: coiffeur
 ---

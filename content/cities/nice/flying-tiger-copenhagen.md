@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger Copenhagen"
 url: /nice/flying-tiger-copenhagen/
-shop: Kramladen
+shop: magasin de variétés
 ---

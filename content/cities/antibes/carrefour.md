@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /antibes/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

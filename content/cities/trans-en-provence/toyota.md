@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /trans-en-provence/toyota/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

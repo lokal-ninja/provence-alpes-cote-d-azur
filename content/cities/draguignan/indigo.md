@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /draguignan/indigo/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vazydoo"
 url: /aubagne/vazydoo/
-shop: Reisebüro
+shop: agence de voyage
 ---

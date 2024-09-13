@@ -1,5 +1,5 @@
 ---
 title: "Féraud"
 url: /marseille/feraud/
-shop: Eisenwaren
+shop: matériel informatique
 ---

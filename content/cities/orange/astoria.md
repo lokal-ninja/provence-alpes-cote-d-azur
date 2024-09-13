@@ -1,5 +1,5 @@
 ---
 title: "Astoria"
 url: /orange/astoria/
-shop: Kleidung
+shop: vêtements
 ---

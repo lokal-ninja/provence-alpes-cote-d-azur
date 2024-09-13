@@ -1,5 +1,5 @@
 ---
 title: "Les Boulangeries Du Soleil"
 url: /draguignan/les-boulangeries-du-soleil/
-shop: Bäckerei
+shop: boulangerie
 ---

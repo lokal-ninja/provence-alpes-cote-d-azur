@@ -1,5 +1,5 @@
 ---
 title: "Ecuador"
 url: /nice/ecuador/
-shop: Kleidung
+shop: vêtements
 ---

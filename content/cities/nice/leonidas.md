@@ -1,5 +1,5 @@
 ---
 title: "Léonidas"
 url: /nice/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

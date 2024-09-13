@@ -1,5 +1,5 @@
 ---
 title: "Balitrand"
 url: /la-seyne-sur-mer/balitrand/
-shop: Baustoffe
+shop: commerce
 ---

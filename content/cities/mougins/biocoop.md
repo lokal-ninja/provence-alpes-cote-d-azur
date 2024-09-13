@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /mougins/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

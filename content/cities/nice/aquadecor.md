@@ -1,5 +1,5 @@
 ---
 title: "Aquadécor"
 url: /nice/aquadecor/
-shop: Tiere
+shop: animal de compagnie
 ---

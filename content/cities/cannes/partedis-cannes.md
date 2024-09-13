@@ -1,5 +1,5 @@
 ---
 title: "Partedis Cannes"
 url: /cannes/partedis-cannes/
-shop: Badezimmer
+shop: salle de bains
 ---

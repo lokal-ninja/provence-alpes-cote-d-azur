@@ -1,5 +1,5 @@
 ---
 title: "Bayelo"
 url: /marseille/bayelo/
-shop: Schmuck
+shop: bijoux
 ---

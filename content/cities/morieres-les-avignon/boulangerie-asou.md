@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Asou"
 url: /morieres-les-avignon/boulangerie-asou/
-shop: Bäckerei
+shop: boulangerie
 ---

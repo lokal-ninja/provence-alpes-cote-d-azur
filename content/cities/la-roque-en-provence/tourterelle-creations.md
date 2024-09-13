@@ -1,5 +1,5 @@
 ---
 title: "Tourterelle Créations"
 url: /la-roque-en-provence/tourterelle-creations/
-shop: Schmuck
+shop: bijoux
 ---

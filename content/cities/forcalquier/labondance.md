@@ -1,5 +1,5 @@
 ---
 title: "L'Abondance"
 url: /forcalquier/labondance/
-shop: Wein
+shop: vin
 ---

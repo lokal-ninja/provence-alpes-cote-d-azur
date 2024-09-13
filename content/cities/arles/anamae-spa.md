@@ -1,5 +1,5 @@
 ---
 title: "Anamaë Spa"
 url: /arles/anamae-spa/
-shop: Massage
+shop: massage
 ---

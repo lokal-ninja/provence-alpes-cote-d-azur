@@ -1,5 +1,5 @@
 ---
 title: "Fleur de Cel"
 url: /meyrargues/fleur-de-cel/
-shop: Blumen
+shop: fleuriste
 ---

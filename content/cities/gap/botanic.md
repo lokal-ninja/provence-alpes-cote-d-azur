@@ -1,5 +1,5 @@
 ---
 title: "Botanic"
 url: /gap/botanic/
-shop: Garten-Center
+shop: centre de jardinage
 ---

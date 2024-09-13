@@ -1,5 +1,5 @@
 ---
 title: "Optique Audition Michon Avignon"
 url: /avignon/optique-audition-michon-avignon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

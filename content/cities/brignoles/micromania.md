@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /brignoles/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

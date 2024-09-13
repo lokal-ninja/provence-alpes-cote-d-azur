@@ -1,5 +1,5 @@
 ---
 title: "Bambou"
 url: /tarascon/bambou/
-shop: Blumen
+shop: fleuriste
 ---

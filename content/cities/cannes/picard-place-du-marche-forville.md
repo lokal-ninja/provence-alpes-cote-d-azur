@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /cannes/picard-place-du-marche-forville/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

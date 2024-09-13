@@ -1,5 +1,5 @@
 ---
 title: "Autosprinter Aubagne"
 url: /aubagne/autosprinter-aubagne/
-shop: Autohaus
+shop: voiture
 ---

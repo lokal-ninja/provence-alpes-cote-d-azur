@@ -1,5 +1,5 @@
 ---
 title: "L'Argonaute"
 url: /martigues/largonaute/
-shop: Bücher
+shop: livres
 ---

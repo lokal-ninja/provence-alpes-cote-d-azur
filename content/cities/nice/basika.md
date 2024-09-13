@@ -1,5 +1,5 @@
 ---
 title: "Basika"
 url: /nice/basika/
-shop: Möbel
+shop: meubles
 ---

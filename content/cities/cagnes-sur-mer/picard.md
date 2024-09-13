@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /cagnes-sur-mer/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

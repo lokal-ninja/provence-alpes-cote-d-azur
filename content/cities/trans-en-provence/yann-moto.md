@@ -1,5 +1,5 @@
 ---
 title: "Yann Moto"
 url: /trans-en-provence/yann-moto/
-shop: Motorrad
+shop: moto
 ---

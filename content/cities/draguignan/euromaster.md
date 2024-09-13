@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /draguignan/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

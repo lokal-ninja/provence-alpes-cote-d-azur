@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Voyage"
 url: /aubagne/carrefour-voyage/
-shop: Reisebüro
+shop: agence de voyage
 ---

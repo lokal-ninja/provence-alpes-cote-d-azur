@@ -1,5 +1,5 @@
 ---
 title: "Sikkens"
 url: /la-seyne-sur-mer/sikkens/
-shop: Farben
+shop: peinture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galinette"
 url: /orange/galinette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paysages Varois"
 url: /collobrieres/paysages-varois/
-shop: Baumarkt
+shop: à faire soi-même
 ---

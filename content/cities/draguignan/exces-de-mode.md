@@ -1,5 +1,5 @@
 ---
 title: "Excès De Mode"
 url: /draguignan/exces-de-mode/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /manosque/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

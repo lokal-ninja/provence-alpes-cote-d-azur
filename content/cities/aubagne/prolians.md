@@ -1,5 +1,5 @@
 ---
 title: "Prolians"
 url: /aubagne/prolians/
-shop: Baustoffe
+shop: commerce
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christ'Elle et Lui"
 url: /digne-les-bains/christelle-et-lui/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Glaneuse"
 url: /plan-dorgon/la-glaneuse/
-shop: Bäckerei
+shop: boulangerie
 ---

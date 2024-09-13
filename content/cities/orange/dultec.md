@@ -1,5 +1,5 @@
 ---
 title: "Dultec"
 url: /orange/dultec/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

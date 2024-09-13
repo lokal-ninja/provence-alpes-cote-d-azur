@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /marseille/shell/
-shop: Lebensmittel
+shop: commodité
 ---

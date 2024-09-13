@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /draguignan/opel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /antibes/free/
-shop: Handy
+shop: téléphone portable
 ---

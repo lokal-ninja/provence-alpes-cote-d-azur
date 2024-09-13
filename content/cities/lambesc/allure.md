@@ -1,5 +1,5 @@
 ---
 title: "Allure"
 url: /lambesc/allure/
-shop: Friseur
+shop: coiffeur
 ---

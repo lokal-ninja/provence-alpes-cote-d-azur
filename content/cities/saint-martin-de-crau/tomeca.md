@@ -1,5 +1,5 @@
 ---
 title: "Tomeca"
 url: /saint-martin-de-crau/tomeca/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

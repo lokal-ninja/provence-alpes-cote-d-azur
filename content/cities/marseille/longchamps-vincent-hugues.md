@@ -1,5 +1,5 @@
 ---
 title: "Longchamps Vincent Hugues"
 url: /marseille/longchamps-vincent-hugues/
-shop: Kleidung
+shop: vêtements
 ---

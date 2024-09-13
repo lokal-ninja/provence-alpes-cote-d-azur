@@ -1,5 +1,5 @@
 ---
 title: "Eric Dépannage"
 url: /velaux/eric-depannage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

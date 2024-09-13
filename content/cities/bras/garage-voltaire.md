@@ -1,5 +1,5 @@
 ---
 title: "Garage Voltaire"
 url: /bras/garage-voltaire/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

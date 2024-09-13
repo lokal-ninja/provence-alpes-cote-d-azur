@@ -1,5 +1,5 @@
 ---
 title: "Boesner"
 url: /vitrolles/boesner/
-shop: Basteln
+shop: artisanat
 ---

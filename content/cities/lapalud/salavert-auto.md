@@ -1,5 +1,5 @@
 ---
 title: "SALAVERT Auto"
 url: /lapalud/salavert-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

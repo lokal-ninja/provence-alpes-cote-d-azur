@@ -1,5 +1,5 @@
 ---
 title: "Piboules Racing"
 url: /venelles/piboules-racing/
-shop: Motorrad
+shop: moto
 ---

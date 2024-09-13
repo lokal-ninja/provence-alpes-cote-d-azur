@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /avignon/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

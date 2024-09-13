@@ -1,5 +1,5 @@
 ---
 title: "NVER"
 url: /nice/nver/
-shop: Andenken
+shop: cadeau
 ---

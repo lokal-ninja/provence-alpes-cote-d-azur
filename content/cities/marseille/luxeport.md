@@ -1,5 +1,5 @@
 ---
 title: "Luxeport"
 url: /marseille/luxeport/
-shop: Kramladen
+shop: magasin de variétés
 ---

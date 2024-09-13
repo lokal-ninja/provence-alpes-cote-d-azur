@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Araujo"
 url: /cereste/boucherie-araujo/
-shop: Metzgerei
+shop: boucherie
 ---

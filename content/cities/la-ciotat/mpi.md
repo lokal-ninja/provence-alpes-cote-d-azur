@@ -1,5 +1,5 @@
 ---
 title: "MPI"
 url: /la-ciotat/mpi/
-shop: Großhandel
+shop: vente en gros
 ---

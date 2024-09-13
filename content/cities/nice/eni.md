@@ -1,5 +1,5 @@
 ---
 title: "Eni"
 url: /nice/eni/
-shop: Lebensmittel
+shop: commodité
 ---

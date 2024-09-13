@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /orange/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

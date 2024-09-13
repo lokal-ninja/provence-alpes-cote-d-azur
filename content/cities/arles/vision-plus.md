@@ -1,5 +1,5 @@
 ---
 title: "Vision PLus"
 url: /arles/vision-plus/
-shop: Optiker
+shop: opticien
 ---

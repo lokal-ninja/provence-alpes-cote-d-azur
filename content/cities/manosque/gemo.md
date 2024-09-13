@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /manosque/gemo/
-shop: Kleidung
+shop: vêtements
 ---

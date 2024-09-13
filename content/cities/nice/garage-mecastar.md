@@ -1,5 +1,5 @@
 ---
 title: "Garage Mecastar"
 url: /nice/garage-mecastar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

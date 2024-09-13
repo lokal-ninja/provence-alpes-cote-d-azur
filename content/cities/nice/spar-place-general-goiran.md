@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /nice/spar-place-general-goiran/
-shop: Lebensmittel
+shop: commodité
 ---

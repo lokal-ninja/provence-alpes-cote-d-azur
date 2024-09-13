@@ -1,5 +1,5 @@
 ---
 title: "Atelier des Lavandières"
 url: /mallemort/atelier-des-lavandieres/
-shop: Wäscherei
+shop: blanchisserie
 ---

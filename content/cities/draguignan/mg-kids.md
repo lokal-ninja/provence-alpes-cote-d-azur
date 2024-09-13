@@ -1,5 +1,5 @@
 ---
 title: "Mg Kid's"
 url: /draguignan/mg-kids/
-shop: Babysachen
+shop: produits pour bébés
 ---

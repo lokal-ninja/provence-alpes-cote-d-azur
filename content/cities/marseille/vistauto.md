@@ -1,5 +1,5 @@
 ---
 title: "Vistauto"
 url: /marseille/vistauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

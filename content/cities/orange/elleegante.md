@@ -1,5 +1,5 @@
 ---
 title: "Elle'egante"
 url: /orange/elleegante/
-shop: Kleidung
+shop: vêtements
 ---

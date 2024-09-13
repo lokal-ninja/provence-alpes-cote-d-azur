@@ -1,5 +1,5 @@
 ---
 title: "Skimium"
 url: /superdevoluy/skimium/
-shop: Sport
+shop: sports
 ---

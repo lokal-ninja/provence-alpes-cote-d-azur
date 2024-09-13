@@ -1,5 +1,5 @@
 ---
 title: "Le perlier"
 url: /avignon/le-perlier/
-shop: Kiosk
+shop: kiosque
 ---

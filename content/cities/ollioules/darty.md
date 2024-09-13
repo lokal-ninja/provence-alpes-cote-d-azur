@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /ollioules/darty/
-shop: Elektronik
+shop: électronique
 ---

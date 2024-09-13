@@ -1,5 +1,5 @@
 ---
 title: "Garage Hervé Yacono"
 url: /nice/garage-herve-yacono/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

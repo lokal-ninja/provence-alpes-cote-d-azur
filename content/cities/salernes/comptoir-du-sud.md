@@ -1,5 +1,5 @@
 ---
 title: "Comptoir du sud"
 url: /salernes/comptoir-du-sud/
-shop: Andenken
+shop: cadeau
 ---

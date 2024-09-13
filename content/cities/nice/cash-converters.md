@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /nice/cash-converters/
-shop: Leiher
+shop: prêteur sur gages
 ---

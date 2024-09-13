@@ -1,5 +1,5 @@
 ---
 title: "EasyPhone"
 url: /nice/easyphone/
-shop: Handy
+shop: téléphone portable
 ---

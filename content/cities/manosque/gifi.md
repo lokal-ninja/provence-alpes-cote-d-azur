@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /manosque/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nerolium"
 url: /vallauris/nerolium/
-shop: Garten-Center
+shop: centre de jardinage
 ---

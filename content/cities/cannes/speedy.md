@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /cannes/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

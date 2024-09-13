@@ -1,5 +1,5 @@
 ---
 title: "FV Pâtisserie"
 url: /la-martre/fv-patisserie/
-shop: Konditorei
+shop: pâtisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /puget-sur-argens/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TIinzo"
 url: /pertuis/tiinzo/
-shop: Friseur
+shop: coiffeur
 ---

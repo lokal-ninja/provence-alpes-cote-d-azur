@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /mougins/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

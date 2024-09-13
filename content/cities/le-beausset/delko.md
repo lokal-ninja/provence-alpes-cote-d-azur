@@ -1,5 +1,5 @@
 ---
 title: "Delko"
 url: /le-beausset/delko/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

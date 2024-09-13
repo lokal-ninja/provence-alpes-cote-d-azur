@@ -1,5 +1,5 @@
 ---
 title: "L’écrin by Kathleen"
 url: /orange/lecrin-by-kathleen/
-shop: Kosmetik
+shop: beauté
 ---

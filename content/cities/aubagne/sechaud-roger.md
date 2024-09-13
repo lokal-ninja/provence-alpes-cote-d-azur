@@ -1,5 +1,5 @@
 ---
 title: "Sechaud Roger"
 url: /aubagne/sechaud-roger/
-shop: Schmuck
+shop: bijoux
 ---

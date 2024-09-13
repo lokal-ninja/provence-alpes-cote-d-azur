@@ -1,5 +1,5 @@
 ---
 title: "Au Poil Frivole"
 url: /draguignan/au-poil-frivole/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

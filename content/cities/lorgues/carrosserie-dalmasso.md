@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Dalmasso"
 url: /lorgues/carrosserie-dalmasso/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

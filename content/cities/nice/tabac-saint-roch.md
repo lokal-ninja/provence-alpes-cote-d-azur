@@ -1,5 +1,5 @@
 ---
 title: "Tabac Saint-Roch"
 url: /nice/tabac-saint-roch/
-shop: Tabak
+shop: tabac
 ---

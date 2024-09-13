@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /hyeres/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

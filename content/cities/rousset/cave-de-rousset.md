@@ -1,5 +1,5 @@
 ---
 title: "Cave de Rousset"
 url: /rousset/cave-de-rousset/
-shop: Spirituosen
+shop: alcool
 ---

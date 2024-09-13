@@ -1,5 +1,5 @@
 ---
 title: "Bazin Assistance"
 url: /la-ciotat/bazin-assistance/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

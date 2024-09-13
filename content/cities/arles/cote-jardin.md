@@ -1,5 +1,5 @@
 ---
 title: "Coté Jardin"
 url: /arles/cote-jardin/
-shop: Gemüse & Obst
+shop: légumes
 ---

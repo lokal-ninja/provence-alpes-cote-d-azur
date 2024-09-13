@@ -1,5 +1,5 @@
 ---
 title: "Ciffréo Bona Matériaux"
 url: /frejus/ciffreo-bona-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

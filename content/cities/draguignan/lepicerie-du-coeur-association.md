@@ -1,5 +1,5 @@
 ---
 title: "L’épicerie du cœur - Association"
 url: /draguignan/lepicerie-du-coeur-association/
-shop: Kramladen
+shop: magasin de variétés
 ---

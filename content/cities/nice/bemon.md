@@ -1,5 +1,5 @@
 ---
 title: "Bemon"
 url: /nice/bemon/
-shop: Leder
+shop: cuir
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glastint"
 url: /orange/glastint/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

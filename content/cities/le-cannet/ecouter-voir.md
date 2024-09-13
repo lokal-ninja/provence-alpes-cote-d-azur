@@ -1,5 +1,5 @@
 ---
 title: "Ecouter Voir"
 url: /le-cannet/ecouter-voir/
-shop: Optiker
+shop: opticien
 ---

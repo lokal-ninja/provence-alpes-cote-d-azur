@@ -1,5 +1,5 @@
 ---
 title: "CMA"
 url: /saint-martin-de-crau/cma/
-shop: Großhandel
+shop: vente en gros
 ---

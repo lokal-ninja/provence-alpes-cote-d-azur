@@ -1,5 +1,5 @@
 ---
 title: "Coccimarket"
 url: /veynes/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

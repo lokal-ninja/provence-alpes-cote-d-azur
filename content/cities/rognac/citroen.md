@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /rognac/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

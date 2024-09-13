@@ -1,5 +1,5 @@
 ---
 title: "Nomade"
 url: /lorgues/nomade/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

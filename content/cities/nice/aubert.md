@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /nice/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

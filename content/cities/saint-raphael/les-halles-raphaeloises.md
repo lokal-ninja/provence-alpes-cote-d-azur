@@ -1,5 +1,5 @@
 ---
 title: "Les Halles Raphaëloises"
 url: /saint-raphael/les-halles-raphaeloises/
-shop: Gemüse & Obst
+shop: légumes
 ---

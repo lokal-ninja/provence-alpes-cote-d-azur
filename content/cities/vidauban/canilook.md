@@ -1,5 +1,5 @@
 ---
 title: "Canilook"
 url: /vidauban/canilook/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

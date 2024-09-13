@@ -1,5 +1,5 @@
 ---
 title: "Caroline"
 url: /vence/caroline/
-shop: Kleidung
+shop: vêtements
 ---

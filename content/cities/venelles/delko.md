@@ -1,5 +1,5 @@
 ---
 title: "Delko"
 url: /venelles/delko/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

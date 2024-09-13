@@ -1,5 +1,5 @@
 ---
 title: "Boucherie l'Azuréenne"
 url: /ollioules/boucherie-lazureenne/
-shop: Metzgerei
+shop: boucherie
 ---

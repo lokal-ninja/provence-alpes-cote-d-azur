@@ -1,5 +1,5 @@
 ---
 title: "Market +"
 url: /pertuis/market/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage des résidences"
 url: /nice/garage-des-residences/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

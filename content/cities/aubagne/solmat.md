@@ -1,5 +1,5 @@
 ---
 title: "Solmat"
 url: /aubagne/solmat/
-shop: Möbel
+shop: meubles
 ---

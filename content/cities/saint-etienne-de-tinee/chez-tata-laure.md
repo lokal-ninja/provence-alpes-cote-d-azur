@@ -1,5 +1,5 @@
 ---
 title: "Chez Tata Laure"
 url: /saint-etienne-de-tinee/chez-tata-laure/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Danyberd"
 url: /cannes/danyberd/
-shop: Kleidung
+shop: vêtements
 ---

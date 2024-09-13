@@ -1,5 +1,5 @@
 ---
 title: "Clauvallis"
 url: /saint-didier/clauvallis/
-shop: Spirituosen
+shop: alcool
 ---

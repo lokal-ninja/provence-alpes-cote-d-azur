@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /saint-martin-de-crau/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

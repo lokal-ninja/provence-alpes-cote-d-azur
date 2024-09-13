@@ -1,5 +1,5 @@
 ---
 title: "Zôdio"
 url: /vedene/zodio/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

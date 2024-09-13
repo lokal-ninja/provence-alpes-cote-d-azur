@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /chorges/vival/
-shop: Lebensmittel
+shop: commodité
 ---

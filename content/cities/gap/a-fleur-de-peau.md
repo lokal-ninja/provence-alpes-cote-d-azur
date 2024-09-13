@@ -1,5 +1,5 @@
 ---
 title: "A Fleur de Peau"
 url: /gap/a-fleur-de-peau/
-shop: Kosmetik
+shop: beauté
 ---

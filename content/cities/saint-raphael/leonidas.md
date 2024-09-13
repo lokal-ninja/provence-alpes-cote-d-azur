@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /saint-raphael/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

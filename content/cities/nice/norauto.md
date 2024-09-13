@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /nice/norauto/
-shop: Autoteile
+shop: pièces de voitures
 ---

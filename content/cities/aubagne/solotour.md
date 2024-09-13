@@ -1,5 +1,5 @@
 ---
 title: "solotour"
 url: /aubagne/solotour/
-shop: Reisebüro
+shop: agence de voyage
 ---

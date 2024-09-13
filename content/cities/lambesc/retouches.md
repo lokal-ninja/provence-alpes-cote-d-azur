@@ -1,5 +1,5 @@
 ---
 title: "Retouches"
 url: /lambesc/retouches/
-shop: Allgemein
+shop: shop
 ---

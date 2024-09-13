@@ -1,5 +1,5 @@
 ---
 title: "SAV Auchan"
 url: /aubagne/sav-auchan/
-shop: Allgemein
+shop: shop
 ---

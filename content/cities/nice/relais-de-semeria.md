@@ -1,5 +1,5 @@
 ---
 title: "Relais de Séméria"
 url: /nice/relais-de-semeria/
-shop: Lebensmittel
+shop: commodité
 ---

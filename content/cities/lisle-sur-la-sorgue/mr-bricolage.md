@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /lisle-sur-la-sorgue/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

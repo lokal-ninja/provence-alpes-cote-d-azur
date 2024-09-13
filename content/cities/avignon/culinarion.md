@@ -1,5 +1,5 @@
 ---
 title: "Culinarion"
 url: /avignon/culinarion/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

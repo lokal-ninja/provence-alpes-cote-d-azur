@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /les-pennes-mirabeau/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

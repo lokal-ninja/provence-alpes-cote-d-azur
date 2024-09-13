@@ -1,5 +1,5 @@
 ---
 title: "Destock Chaussures"
 url: /draguignan/destock-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

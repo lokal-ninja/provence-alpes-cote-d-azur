@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /blausasc/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

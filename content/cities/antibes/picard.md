@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /antibes/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /marseille/office-depot/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

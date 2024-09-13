@@ -1,5 +1,5 @@
 ---
 title: "Á Dông"
 url: /hyeres/a-dong/
-shop: Supermarkt
+shop: supermarché
 ---

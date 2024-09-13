@@ -1,5 +1,5 @@
 ---
 title: "Chausson carrelages"
 url: /orange/chausson-carrelages/
-shop: Baumarkt
+shop: à faire soi-même
 ---

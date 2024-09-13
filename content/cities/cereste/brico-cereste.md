@@ -1,5 +1,5 @@
 ---
 title: "Brico Céreste"
 url: /cereste/brico-cereste/
-shop: Baumarkt
+shop: à faire soi-même
 ---

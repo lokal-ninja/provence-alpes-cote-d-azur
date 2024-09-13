@@ -1,5 +1,5 @@
 ---
 title: "Unopiu"
 url: /aubagne/unopiu/
-shop: Garten-Center
+shop: centre de jardinage
 ---

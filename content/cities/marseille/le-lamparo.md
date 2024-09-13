@@ -1,5 +1,5 @@
 ---
 title: "Le Lamparo"
 url: /marseille/le-lamparo/
-shop: Fisch
+shop: fruits de mer
 ---

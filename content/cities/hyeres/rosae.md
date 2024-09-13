@@ -1,5 +1,5 @@
 ---
 title: "Rosae"
 url: /hyeres/rosae/
-shop: Blumen
+shop: fleuriste
 ---

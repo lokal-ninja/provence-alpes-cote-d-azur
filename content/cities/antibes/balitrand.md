@@ -1,5 +1,5 @@
 ---
 title: "Balitrand"
 url: /antibes/balitrand/
-shop: Baustoffe
+shop: commerce
 ---

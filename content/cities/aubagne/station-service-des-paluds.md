@@ -1,5 +1,5 @@
 ---
 title: "Station Service des Paluds"
 url: /aubagne/station-service-des-paluds/
-shop: Lebensmittel
+shop: commodité
 ---

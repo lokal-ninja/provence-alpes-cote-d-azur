@@ -1,5 +1,5 @@
 ---
 title: "Lothantique"
 url: /peyruis/lothantique/
-shop: Kosmetik
+shop: beauté
 ---

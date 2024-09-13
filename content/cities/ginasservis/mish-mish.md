@@ -1,5 +1,5 @@
 ---
 title: "Mish Mish"
 url: /ginasservis/mish-mish/
-shop: Kleidung
+shop: vêtements
 ---

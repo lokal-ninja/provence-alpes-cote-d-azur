@@ -1,5 +1,5 @@
 ---
 title: "KINE SPORT SANTE"
 url: /marseille/kine-sport-sante/
-shop: Massage
+shop: massage
 ---

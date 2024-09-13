@@ -1,5 +1,5 @@
 ---
 title: "Stores di Lucca"
 url: /ollioules/stores-di-lucca/
-shop: Baumarkt
+shop: à faire soi-même
 ---

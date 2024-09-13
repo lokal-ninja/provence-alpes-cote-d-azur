@@ -1,5 +1,5 @@
 ---
 title: "Pressing saint sylvestre"
 url: /nice/pressing-saint-sylvestre/
-shop: Wäscherei
+shop: blanchisserie
 ---

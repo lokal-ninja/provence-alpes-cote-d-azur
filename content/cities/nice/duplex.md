@@ -1,5 +1,5 @@
 ---
 title: "duplex"
 url: /nice/duplex/
-shop: Friseur
+shop: coiffeur
 ---

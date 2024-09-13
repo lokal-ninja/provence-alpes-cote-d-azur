@@ -1,5 +1,5 @@
 ---
 title: "Méla"
 url: /nice/mela/
-shop: Konditorei
+shop: pâtisserie
 ---

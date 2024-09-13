@@ -1,5 +1,5 @@
 ---
 title: "Vino Melody"
 url: /veynes/vino-melody/
-shop: Spirituosen
+shop: alcool
 ---

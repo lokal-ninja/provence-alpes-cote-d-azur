@@ -1,5 +1,5 @@
 ---
 title: "Coriolis Telecom"
 url: /orange/coriolis-telecom/
-shop: Handy
+shop: téléphone portable
 ---

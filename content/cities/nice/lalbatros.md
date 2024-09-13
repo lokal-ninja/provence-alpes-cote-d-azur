@@ -1,5 +1,5 @@
 ---
 title: "L'albatros"
 url: /nice/lalbatros/
-shop: Bücher
+shop: livres
 ---

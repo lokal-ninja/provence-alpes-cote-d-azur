@@ -1,5 +1,5 @@
 ---
 title: "Teamshop.fr"
 url: /venelles/teamshop-fr/
-shop: Sport
+shop: sports
 ---

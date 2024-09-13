@@ -1,5 +1,5 @@
 ---
 title: "Marbrerie Zunino"
 url: /marseille/marbrerie-zunino/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

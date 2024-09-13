@@ -1,5 +1,5 @@
 ---
 title: "Ecocuisine"
 url: /puget-sur-argens/ecocuisine/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

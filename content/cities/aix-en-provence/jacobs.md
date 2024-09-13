@@ -1,5 +1,5 @@
 ---
 title: "Jacob's"
 url: /aix-en-provence/jacobs/
-shop: Bäckerei
+shop: boulangerie
 ---

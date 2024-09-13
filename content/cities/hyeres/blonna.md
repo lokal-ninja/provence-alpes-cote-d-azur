@@ -1,5 +1,5 @@
 ---
 title: "Blonna"
 url: /hyeres/blonna/
-shop: Bäckerei
+shop: boulangerie
 ---

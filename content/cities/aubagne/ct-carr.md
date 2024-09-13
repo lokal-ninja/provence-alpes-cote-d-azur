@@ -1,5 +1,5 @@
 ---
 title: "CT Carr"
 url: /aubagne/ct-carr/
-shop: Autohaus
+shop: voiture
 ---

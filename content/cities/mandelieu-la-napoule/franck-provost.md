@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /mandelieu-la-napoule/franck-provost/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /golfe-juan/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /avignon/fnac/
-shop: Bücher
+shop: livres
 ---

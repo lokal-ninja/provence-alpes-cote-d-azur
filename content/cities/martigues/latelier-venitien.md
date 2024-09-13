@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier Vénitien"
 url: /martigues/latelier-venitien/
-shop: Schmuck
+shop: bijoux
 ---

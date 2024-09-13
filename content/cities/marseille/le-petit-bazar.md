@@ -1,5 +1,5 @@
 ---
 title: "Le petit Bazar"
 url: /marseille/le-petit-bazar/
-shop: Andenken
+shop: cadeau
 ---

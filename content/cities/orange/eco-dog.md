@@ -1,5 +1,5 @@
 ---
 title: "Eco dog"
 url: /orange/eco-dog/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adopt"
 url: /arles/adopt/
-shop: Allgemein
+shop: shop
 ---

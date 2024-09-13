@@ -1,5 +1,5 @@
 ---
 title: "MPIS"
 url: /aubagne/mpis/
-shop: Allgemein
+shop: shop
 ---

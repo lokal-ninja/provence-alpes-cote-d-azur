@@ -1,5 +1,5 @@
 ---
 title: "Pépinière Tony"
 url: /ollioules/pepiniere-tony/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le salon"
 url: /serres/le-salon/
-shop: Friseur
+shop: coiffeur
 ---

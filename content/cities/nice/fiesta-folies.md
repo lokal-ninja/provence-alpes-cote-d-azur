@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Folie's"
 url: /nice/fiesta-folies/
-shop: Partyzubehör
+shop: fête
 ---

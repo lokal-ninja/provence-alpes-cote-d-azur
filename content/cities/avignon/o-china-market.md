@@ -1,5 +1,5 @@
 ---
 title: "O China Market"
 url: /avignon/o-china-market/
-shop: Supermarkt
+shop: supermarché
 ---

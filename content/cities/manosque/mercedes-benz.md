@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /manosque/mercedes-benz/
-shop: Autohaus
+shop: voiture
 ---

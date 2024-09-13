@@ -1,5 +1,5 @@
 ---
 title: "Gatusso"
 url: /aubagne/gatusso/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

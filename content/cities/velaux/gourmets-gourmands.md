@@ -1,5 +1,5 @@
 ---
 title: "Gourmets Gourmands"
 url: /velaux/gourmets-gourmands/
-shop: Feinkost
+shop: charcuterie
 ---

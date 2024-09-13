@@ -1,5 +1,5 @@
 ---
 title: "HANDI MOBIL"
 url: /aubagne/handi-mobil/
-shop: Autoteile
+shop: pièces de voitures
 ---

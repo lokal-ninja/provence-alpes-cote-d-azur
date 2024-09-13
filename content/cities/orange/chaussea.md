@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /orange/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

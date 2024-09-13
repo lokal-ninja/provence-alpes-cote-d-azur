@@ -1,5 +1,5 @@
 ---
 title: "Garage Marino"
 url: /nice/garage-marino/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /vence/utile/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Azur Materiaux"
 url: /raphele/azur-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Balitrand"
 url: /draguignan/balitrand/
-shop: Baumarkt
+shop: à faire soi-même
 ---

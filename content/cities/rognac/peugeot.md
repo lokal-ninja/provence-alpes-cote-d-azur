@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /rognac/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

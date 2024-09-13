@@ -1,5 +1,5 @@
 ---
 title: "Les Briconautes"
 url: /gap/les-briconautes/
-shop: Baumarkt
+shop: à faire soi-même
 ---

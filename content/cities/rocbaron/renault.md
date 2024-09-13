@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /rocbaron/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

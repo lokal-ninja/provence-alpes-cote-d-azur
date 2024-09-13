@@ -1,5 +1,5 @@
 ---
 title: "Jardipassion"
 url: /orange/jardipassion/
-shop: Garten-Center
+shop: centre de jardinage
 ---

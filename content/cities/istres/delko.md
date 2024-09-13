@@ -1,5 +1,5 @@
 ---
 title: "Delko"
 url: /istres/delko/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

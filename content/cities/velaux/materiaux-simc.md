@@ -1,5 +1,5 @@
 ---
 title: "Matériaux SIMC"
 url: /velaux/materiaux-simc/
-shop: Baustoffe
+shop: commerce
 ---

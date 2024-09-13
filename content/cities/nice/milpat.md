@@ -1,5 +1,5 @@
 ---
 title: "Mil'pat"
 url: /nice/milpat/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le XY"
 url: /sanary-sur-mer/le-xy/
-shop: Friseur
+shop: coiffeur
 ---

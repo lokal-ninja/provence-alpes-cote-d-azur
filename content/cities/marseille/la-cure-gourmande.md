@@ -1,5 +1,5 @@
 ---
 title: "La Cure Gourmande"
 url: /marseille/la-cure-gourmande/
-shop: Süßwaren
+shop: confiserie
 ---

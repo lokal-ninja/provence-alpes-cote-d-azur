@@ -1,5 +1,5 @@
 ---
 title: "L'Escarcelle"
 url: /manosque/lescarcelle/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /sisteron/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /gemenos/lapeyre/
-shop: Fliesen
+shop: tuiles
 ---

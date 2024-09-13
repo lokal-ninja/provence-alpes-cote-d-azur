@@ -1,5 +1,5 @@
 ---
 title: "Cppv"
 url: /marseille/cppv/
-shop: Autoteile
+shop: pièces de voitures
 ---

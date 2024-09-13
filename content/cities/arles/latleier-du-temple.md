@@ -1,5 +1,5 @@
 ---
 title: "L'Atleier du Temple"
 url: /arles/latleier-du-temple/
-shop: Schmuck
+shop: bijoux
 ---

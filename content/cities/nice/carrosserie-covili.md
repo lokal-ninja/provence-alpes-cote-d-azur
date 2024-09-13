@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Covili"
 url: /nice/carrosserie-covili/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

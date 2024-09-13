@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /cavaillon/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

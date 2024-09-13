@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /brignoles/intersport/
-shop: Sport
+shop: sports
 ---

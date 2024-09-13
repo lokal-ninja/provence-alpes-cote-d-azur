@@ -1,5 +1,5 @@
 ---
 title: "La Place des artisans"
 url: /arles/la-place-des-artisans/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

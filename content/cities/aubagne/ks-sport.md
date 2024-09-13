@@ -1,5 +1,5 @@
 ---
 title: "KS Sport"
 url: /aubagne/ks-sport/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

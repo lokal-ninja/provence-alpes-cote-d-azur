@@ -1,5 +1,5 @@
 ---
 title: "Bréchu Sports"
 url: /la-salle-les-alpes/brechu-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Recyclos"
 url: /hyeres/recyclos/
-shop: Fahrrad
+shop: vélo
 ---

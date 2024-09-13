@@ -1,5 +1,5 @@
 ---
 title: "Cordonnerie Multiservices"
 url: /arles/cordonnerie-multiservices/
-shop: Eisenwaren
+shop: matériel informatique
 ---

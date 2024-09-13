@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Bruno"
 url: /le-muy/pompes-funebres-bruno/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

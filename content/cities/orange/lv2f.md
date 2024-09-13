@@ -1,5 +1,5 @@
 ---
 title: "LV2F"
 url: /orange/lv2f/
-shop: Kleidung
+shop: vêtements
 ---

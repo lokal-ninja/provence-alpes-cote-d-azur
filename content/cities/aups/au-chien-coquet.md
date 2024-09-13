@@ -1,5 +1,5 @@
 ---
 title: "Au chien coquet"
 url: /aups/au-chien-coquet/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

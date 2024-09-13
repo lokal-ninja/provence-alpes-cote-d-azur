@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Chevallier"
 url: /roquebilliere/boucherie-charcuterie-chevallier/
-shop: Metzgerei
+shop: boucherie
 ---

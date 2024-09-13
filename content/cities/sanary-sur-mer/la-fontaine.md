@@ -1,5 +1,5 @@
 ---
 title: "La Fontaine"
 url: /sanary-sur-mer/la-fontaine/
-shop: Konditorei
+shop: pâtisserie
 ---

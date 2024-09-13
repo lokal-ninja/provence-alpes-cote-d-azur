@@ -1,5 +1,5 @@
 ---
 title: "Espace du Sommeil"
 url: /antibes/espace-du-sommeil/
-shop: Möbel
+shop: meubles
 ---

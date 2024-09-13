@@ -1,5 +1,5 @@
 ---
 title: "Farhazur Home"
 url: /nice/farhazur-home/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cycledenis"
 url: /nice/cycledenis/
-shop: Fahrrad
+shop: vélo
 ---

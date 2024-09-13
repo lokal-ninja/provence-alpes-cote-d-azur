@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /briancon/intersport/
-shop: Sport
+shop: sports
 ---

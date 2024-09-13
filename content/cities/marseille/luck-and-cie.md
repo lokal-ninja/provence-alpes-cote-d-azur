@@ -1,5 +1,5 @@
 ---
 title: "Luck and Cie"
 url: /marseille/luck-and-cie/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Body Minute"
 url: /marseille/body-minute/
-shop: Kosmetik
+shop: beauté
 ---

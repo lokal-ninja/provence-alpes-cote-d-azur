@@ -1,5 +1,5 @@
 ---
 title: "Les Délices du Luberon"
 url: /avignon/les-delices-du-luberon/
-shop: Feinkost
+shop: charcuterie
 ---

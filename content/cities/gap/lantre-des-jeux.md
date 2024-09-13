@@ -1,5 +1,5 @@
 ---
 title: "L’antre des jeux"
 url: /gap/lantre-des-jeux/
-shop: Spiele
+shop: jeux
 ---

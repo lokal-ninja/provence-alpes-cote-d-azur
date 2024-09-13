@@ -1,5 +1,5 @@
 ---
 title: "Coriolis Mougins"
 url: /mougins/coriolis-mougins/
-shop: Handy
+shop: téléphone portable
 ---

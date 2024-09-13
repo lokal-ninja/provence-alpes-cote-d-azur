@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /puget-sur-argens/atol/
-shop: Optiker
+shop: opticien
 ---

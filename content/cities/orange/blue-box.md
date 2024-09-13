@@ -1,5 +1,5 @@
 ---
 title: "Blue box"
 url: /orange/blue-box/
-shop: Kleidung
+shop: vêtements
 ---

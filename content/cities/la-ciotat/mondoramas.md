@@ -1,5 +1,5 @@
 ---
 title: "Mondoramas"
 url: /la-ciotat/mondoramas/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pasibete"
 url: /orange/pasibete/
-shop: Allgemein
+shop: shop
 ---

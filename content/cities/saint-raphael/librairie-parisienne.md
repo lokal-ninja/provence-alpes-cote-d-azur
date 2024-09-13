@@ -1,5 +1,5 @@
 ---
 title: "Librairie Parisienne"
 url: /saint-raphael/librairie-parisienne/
-shop: Bücher
+shop: livres
 ---

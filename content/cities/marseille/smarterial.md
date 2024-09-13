@@ -1,5 +1,5 @@
 ---
 title: "Smarterial"
 url: /marseille/smarterial/
-shop: Kramladen
+shop: magasin de variétés
 ---

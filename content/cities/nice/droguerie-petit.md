@@ -1,5 +1,5 @@
 ---
 title: "Droguerie Petit"
 url: /nice/droguerie-petit/
-shop: Drogerie
+shop: chimiste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /gap/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

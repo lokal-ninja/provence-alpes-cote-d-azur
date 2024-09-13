@@ -1,5 +1,5 @@
 ---
 title: "Coaxel"
 url: /aubagne/coaxel/
-shop: Elektrisch
+shop: électrique
 ---

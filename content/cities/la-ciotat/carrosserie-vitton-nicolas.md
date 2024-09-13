@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Vitton Nicolas"
 url: /la-ciotat/carrosserie-vitton-nicolas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andebanno"
 url: /avignon/andebanno/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

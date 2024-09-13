@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /antibes/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

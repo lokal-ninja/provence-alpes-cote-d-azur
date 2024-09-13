@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /plan-de-cuques/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

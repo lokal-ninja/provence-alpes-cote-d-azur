@@ -1,5 +1,5 @@
 ---
 title: "Orange viandes"
 url: /orange/orange-viandes/
-shop: Metzgerei
+shop: boucherie
 ---

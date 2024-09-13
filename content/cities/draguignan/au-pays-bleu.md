@@ -1,5 +1,5 @@
 ---
 title: "Au Pays Bleu"
 url: /draguignan/au-pays-bleu/
-shop: Bücher
+shop: livres
 ---

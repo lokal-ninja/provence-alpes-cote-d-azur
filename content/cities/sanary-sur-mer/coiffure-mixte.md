@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Mixte"
 url: /sanary-sur-mer/coiffure-mixte/
-shop: Friseur
+shop: coiffeur
 ---

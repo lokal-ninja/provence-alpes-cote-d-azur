@@ -1,5 +1,5 @@
 ---
 title: "La Tarte Tropézienne"
 url: /cannes/la-tarte-tropezienne/
-shop: Bäckerei
+shop: boulangerie
 ---

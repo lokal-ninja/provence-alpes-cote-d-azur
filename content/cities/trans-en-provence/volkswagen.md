@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /trans-en-provence/volkswagen/
-shop: Autohaus
+shop: voiture
 ---

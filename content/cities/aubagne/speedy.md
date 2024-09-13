@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /aubagne/speedy/
-shop: Autoteile
+shop: pièces de voitures
 ---

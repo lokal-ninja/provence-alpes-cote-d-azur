@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Ouest Varois"
 url: /la-seyne-sur-mer/carrosserie-ouest-varois/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

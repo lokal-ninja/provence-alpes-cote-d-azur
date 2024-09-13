@@ -1,5 +1,5 @@
 ---
 title: "Alinea"
 url: /cabries/alinea/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

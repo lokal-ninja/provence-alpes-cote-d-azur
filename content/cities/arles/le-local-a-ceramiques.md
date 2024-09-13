@@ -1,5 +1,5 @@
 ---
 title: "Le Local à Céramiques"
 url: /arles/le-local-a-ceramiques/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

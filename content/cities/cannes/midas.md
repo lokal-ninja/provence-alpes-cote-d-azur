@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /cannes/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

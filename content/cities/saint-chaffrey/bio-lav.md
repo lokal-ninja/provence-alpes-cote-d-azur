@@ -1,5 +1,5 @@
 ---
 title: "Bio lav'"
 url: /saint-chaffrey/bio-lav/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COSMETIF"
 url: /aubagne/cosmetif/
-shop: Allgemein
+shop: shop
 ---

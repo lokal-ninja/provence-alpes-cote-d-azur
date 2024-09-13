@@ -1,5 +1,5 @@
 ---
 title: "Au forum du batiment"
 url: /aubagne/au-forum-du-batiment/
-shop: Baumarkt
+shop: à faire soi-même
 ---

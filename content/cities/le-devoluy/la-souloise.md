@@ -1,5 +1,5 @@
 ---
 title: "La Souloise"
 url: /le-devoluy/la-souloise/
-shop: Supermarkt
+shop: supermarché
 ---

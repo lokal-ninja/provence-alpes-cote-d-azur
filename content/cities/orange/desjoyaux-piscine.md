@@ -1,5 +1,5 @@
 ---
 title: "Desjoyaux Piscine"
 url: /orange/desjoyaux-piscine/
-shop: Pool
+shop: piscine
 ---

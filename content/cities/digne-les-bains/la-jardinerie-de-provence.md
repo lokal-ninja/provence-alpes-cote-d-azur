@@ -1,5 +1,5 @@
 ---
 title: "La Jardinerie de Provence"
 url: /digne-les-bains/la-jardinerie-de-provence/
-shop: Garten-Center
+shop: centre de jardinage
 ---

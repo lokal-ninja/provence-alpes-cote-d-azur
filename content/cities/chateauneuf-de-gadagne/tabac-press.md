@@ -1,5 +1,5 @@
 ---
 title: "Tabac Press"
 url: /chateauneuf-de-gadagne/tabac-press/
-shop: Zeitungen
+shop: marchand de journaux
 ---

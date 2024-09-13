@@ -1,5 +1,5 @@
 ---
 title: "Comptoir Azureen"
 url: /cannes/comptoir-azureen/
-shop: Supermarkt
+shop: supermarché
 ---

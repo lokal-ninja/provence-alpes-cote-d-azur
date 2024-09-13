@@ -1,5 +1,5 @@
 ---
 title: "Audio centre"
 url: /manosque/audio-centre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

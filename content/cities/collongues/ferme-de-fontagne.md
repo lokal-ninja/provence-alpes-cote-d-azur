@@ -1,5 +1,5 @@
 ---
 title: "Ferme de Fontagne"
 url: /collongues/ferme-de-fontagne/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fezai Stores"
 url: /nice/fezai-stores/
-shop: Jalousien
+shop: store de fenêtre
 ---

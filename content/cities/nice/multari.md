@@ -1,5 +1,5 @@
 ---
 title: "Multari"
 url: /nice/multari/
-shop: Bäckerei
+shop: boulangerie
 ---

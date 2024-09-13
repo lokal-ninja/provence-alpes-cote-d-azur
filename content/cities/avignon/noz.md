@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /avignon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

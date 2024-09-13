@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /castellane/utopia/
-shop: Kleidung
+shop: vêtements
 ---

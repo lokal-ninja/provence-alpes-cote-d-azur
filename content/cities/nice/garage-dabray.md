@@ -1,5 +1,5 @@
 ---
 title: "Garage Dabray"
 url: /nice/garage-dabray/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

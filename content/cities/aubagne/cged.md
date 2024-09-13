@@ -1,5 +1,5 @@
 ---
 title: "CGED"
 url: /aubagne/cged/
-shop: Elektrisch
+shop: électrique
 ---

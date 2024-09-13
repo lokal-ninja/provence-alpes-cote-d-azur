@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /toulon/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

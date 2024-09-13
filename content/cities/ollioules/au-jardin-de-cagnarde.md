@@ -1,5 +1,5 @@
 ---
 title: "Au jardin de Cagnarde"
 url: /ollioules/au-jardin-de-cagnarde/
-shop: Gemüse & Obst
+shop: légumes
 ---

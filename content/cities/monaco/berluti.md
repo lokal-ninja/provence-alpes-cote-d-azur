@@ -1,5 +1,5 @@
 ---
 title: "Berluti"
 url: /monaco/berluti/
-shop: Schuhe
+shop: chaussures
 ---

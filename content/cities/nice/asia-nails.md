@@ -1,5 +1,5 @@
 ---
 title: "Asia nails"
 url: /nice/asia-nails/
-shop: Kosmetik
+shop: beauté
 ---
