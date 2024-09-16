@@ -4,8 +4,9 @@ latitude: 43.76512
 longitude: 7.48332
 postcode: "06190"
 city: Roquebrune Cap Martin
-street: "Avenue Aristide Briand"
-housenumber: 193
-phone: "+33 4 93 83 56 22"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/1050-picard-roquebrune-cap-martin"
+street: Avenue Aristide Briand
+housenumber: "193"
+phone: +33 4 93 83 56 22
+opening_hours: Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30;
+    Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/1050-picard-roquebrune-cap-martin

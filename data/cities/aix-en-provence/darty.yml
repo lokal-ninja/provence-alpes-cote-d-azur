@@ -1,11 +1,11 @@
 id: 595169976
-type: way
+type: node
 latitude: 43.5069
 longitude: 5.40093
 postcode: "13290"
 city: Aix-en-Provence
-street: "ZAC de la Pioline Les Milles"
-housenumber: 
+street: ZAC de la Pioline Les Milles
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.darty.com/nav/extra/popup/affiche_magasin?codeStore=991026&nta=true"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.darty.com/nav/extra/popup/affiche_magasin?codeStore=991026&nta=true

@@ -1,11 +1,11 @@
 id: 251664696
-type: way
+type: node
 latitude: 43.63639
 longitude: 6.95173
 postcode: "06130"
 city: Grasse
-street: "Route de Cannes"
-housenumber: 
+street: Route de Cannes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 116470612
-type: way
+type: node
 latitude: 43.12805
 longitude: 5.97707
 postcode: "83100"
 city: Toulon
-street: "Rue Henri Sainte-Claire Deville"
-housenumber: 283
+street: Rue Henri Sainte-Claire Deville
+housenumber: "283"
 phone: ""
 opening_hours: ""
 website: ""

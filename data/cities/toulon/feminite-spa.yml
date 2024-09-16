@@ -4,8 +4,8 @@ latitude: 43.13102
 longitude: 5.93769
 postcode: "83000"
 city: Toulon
-street: "Avenue de la Victoire"
-housenumber: 925
-phone: "+33 4 94 89 37 02"
-opening_hours: "09:00-12:00,14:00-19:00"
-website: "https://feminite-spa.fr/"
+street: Avenue de la Victoire
+housenumber: "925"
+phone: +33 4 94 89 37 02
+opening_hours: 09:00-12:00,14:00-19:00
+website: https://feminite-spa.fr/

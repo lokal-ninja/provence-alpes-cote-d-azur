@@ -4,8 +4,8 @@ latitude: 43.2963
 longitude: 5.37996
 postcode: "13001"
 city: Marseille
-street: "Place du Marché des Capucins"
-housenumber: 10
+street: Place du Marché des Capucins
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

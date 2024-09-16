@@ -4,8 +4,8 @@ latitude: 43.67765
 longitude: 4.63002
 postcode: "13200"
 city: Arles
-street: "Rond-Point des Arènes"
-housenumber: 24
-phone: "+33 6 52 77 32 72"
-opening_hours: "Mo-Su 09:00-19:00"
+street: Rond-Point des Arènes
+housenumber: "24"
+phone: +33 6 52 77 32 72
+opening_hours: Mo-Su 09:00-19:00
 website: ""

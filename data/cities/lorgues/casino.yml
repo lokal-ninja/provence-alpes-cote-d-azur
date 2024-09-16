@@ -1,11 +1,11 @@
 id: 264374384
-type: way
+type: node
 latitude: 43.49114
 longitude: 6.35571
 postcode: "83510"
 city: Lorgues
-street: "Avenue de Toulon"
-housenumber: 29
-phone: "+33 4 98 10 14 00"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:30-20:30"
-website: "https://magasins.supercasino.fr/supermarche/lorgues/CS148"
+street: Avenue de Toulon
+housenumber: "29"
+phone: +33 4 98 10 14 00
+opening_hours: Mo-Sa 07:00-20:00; Su 08:30-20:30
+website: https://magasins.supercasino.fr/supermarche/lorgues/CS148

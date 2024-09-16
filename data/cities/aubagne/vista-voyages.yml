@@ -4,8 +4,8 @@ latitude: 43.28197
 longitude: 5.60539
 postcode: "13783"
 city: Aubagne
-street: "Rue du Dirigeable"
-housenumber: 111
-phone: "+33 4 42 84 07 76"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.vistavoyages.fr/"
+street: Rue du Dirigeable
+housenumber: "111"
+phone: +33 4 42 84 07 76
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.vistavoyages.fr/

@@ -4,8 +4,8 @@ latitude: 43.29031
 longitude: 5.59522
 postcode: "13400"
 city: Aubagne
-street: "Avenue des Paluds"
-housenumber: 985
-phone: "+33 4 42 72 61 21"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.retif-shop.com"
+street: Avenue des Paluds
+housenumber: "985"
+phone: +33 4 42 72 61 21
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.retif-shop.com

@@ -1,11 +1,11 @@
 id: 27429334
-type: way
+type: node
 latitude: 43.64795
 longitude: 5.25798
 postcode: "13410"
 city: Lambesc
-street: "Avenue Jean Monnet"
-housenumber: 13
+street: Avenue Jean Monnet
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

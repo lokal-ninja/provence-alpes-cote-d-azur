@@ -5,7 +5,8 @@ longitude: 5.39384
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 187
-phone: "+33 4 91 78 26 26"
-opening_hours: "Apr-Jul,Sep-Oct Tu-Fr 15:00-19:00; Apr-Jul,Nov-Mar,Sep-Oct Sa 10:00-12:00; Nov-Mar Tu-Fr 14:30-18:30"
-website: "http://www.labiblepourtous.fr"
+housenumber: "187"
+phone: +33 4 91 78 26 26
+opening_hours: Apr-Jul,Sep-Oct Tu-Fr 15:00-19:00; Apr-Jul,Nov-Mar,Sep-Oct Sa 10:00-12:00;
+    Nov-Mar Tu-Fr 14:30-18:30
+website: http://www.labiblepourtous.fr

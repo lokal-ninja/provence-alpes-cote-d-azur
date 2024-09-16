@@ -1,11 +1,11 @@
 id: 656294901
-type: way
+type: node
 latitude: 43.72697
 longitude: 7.1878
 postcode: ""
 city: Nice
-street: "Boulevard du Mercantour"
-housenumber: 590
+street: Boulevard du Mercantour
+housenumber: "590"
 phone: ""
 opening_hours: ""
-website: "https://centres.norauto.fr/alpes-maritimes/nice/ccial-forum-lingostiere"
+website: https://centres.norauto.fr/alpes-maritimes/nice/ccial-forum-lingostiere

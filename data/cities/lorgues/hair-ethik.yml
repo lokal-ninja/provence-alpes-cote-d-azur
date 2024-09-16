@@ -4,8 +4,8 @@ latitude: 43.49227
 longitude: 6.36246
 postcode: "83510"
 city: Lorgues
-street: "Rue du Perron"
-housenumber: 4
-phone: "+33 6 82 08 20 03"
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "https://coiffeur-lorgues.fr/"
+street: Rue du Perron
+housenumber: "4"
+phone: +33 6 82 08 20 03
+opening_hours: Mo-Sa 10:00-18:30
+website: https://coiffeur-lorgues.fr/

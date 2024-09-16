@@ -1,11 +1,11 @@
 id: 960148785
-type: way
+type: node
 latitude: 43.50855
 longitude: 5.4018
 postcode: "13290"
 city: Aix-en-Provence
-street: "Rue Bastide de Verdaches"
-housenumber: 190
+street: Rue Bastide de Verdaches
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

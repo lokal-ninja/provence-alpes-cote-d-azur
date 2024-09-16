@@ -1,11 +1,11 @@
 id: 490289629
-type: way
+type: node
 latitude: 43.83045
 longitude: 5.79419
 postcode: "04100"
 city: Manosque
-street: "Boulevard du Maréchal Juin"
-housenumber: 180
-phone: "+33 9 67 73 84 76"
-opening_hours: "Mo-Su 05:30-20:00"
-website: "https://www.ernest-artisanboulanger.fr/"
+street: Boulevard du Maréchal Juin
+housenumber: "180"
+phone: +33 9 67 73 84 76
+opening_hours: Mo-Su 05:30-20:00
+website: https://www.ernest-artisanboulanger.fr/

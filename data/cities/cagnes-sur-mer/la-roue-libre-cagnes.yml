@@ -4,8 +4,8 @@ latitude: 43.65715
 longitude: 7.14487
 postcode: "06800"
 city: Cagnes-sur-Mer
-street: "Avenue de Grasse"
-housenumber: 15
-phone: "+33 9 80 89 49 84"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 08:30-12:00,14:30-19:00"
-website: "https://www.larouelibre.fr"
+street: Avenue de Grasse
+housenumber: "15"
+phone: +33 9 80 89 49 84
+opening_hours: Mo 14:30-19:00; Tu-Sa 08:30-12:00,14:30-19:00
+website: https://www.larouelibre.fr

@@ -1,11 +1,11 @@
 id: 69796898
-type: way
+type: node
 latitude: 43.439
 longitude: 6.74573
 postcode: "83600"
 city: Fréjus
-street: "Avenue André Léotard"
-housenumber: 
-phone: "+33 4 94 52 61 00"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.intermarche.com/magasins/11662/Fr%C3%A9jus-83600/infos-pratiques"
+street: Avenue André Léotard
+housenumber: ""
+phone: +33 4 94 52 61 00
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.intermarche.com/magasins/11662/Fr%C3%A9jus-83600/infos-pratiques

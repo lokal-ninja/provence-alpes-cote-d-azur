@@ -1,11 +1,11 @@
 id: 83441321
-type: way
+type: node
 latitude: 43.88147
 longitude: 5.38241
 postcode: "84400"
 city: Apt
-street: "Avenue de Lançon"
-housenumber: 151
+street: Avenue de Lançon
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

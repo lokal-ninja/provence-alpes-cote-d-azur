@@ -1,11 +1,11 @@
 id: 157791901
-type: way
+type: node
 latitude: 43.29974
 longitude: 5.47898
 postcode: "13011"
 city: Marseille
-street: "Route des Trois Lucs à La Valentine"
-housenumber: 227
+street: Route des Trois Lucs à La Valentine
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

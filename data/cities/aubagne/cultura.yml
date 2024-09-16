@@ -1,11 +1,11 @@
 id: 524868952
-type: way
+type: node
 latitude: 43.29476
 longitude: 5.59387
 postcode: "13400"
 city: Aubagne
-street: "Avenue Baumone"
-housenumber: 
-phone: "+33 4 96 18 20 00"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cultura.com/les-magasins/cultura-aubagne.html"
+street: Avenue Baumone
+housenumber: ""
+phone: +33 4 96 18 20 00
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cultura.com/les-magasins/cultura-aubagne.html

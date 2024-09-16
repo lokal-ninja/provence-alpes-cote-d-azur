@@ -4,8 +4,8 @@ latitude: 43.64078
 longitude: 4.74178
 postcode: "13280"
 city: Moulès
-street: "Route de Moules"
-housenumber: 244
-phone: "+33 6 66 26 64 28"
-opening_hours: "Mo-Sa 09:00-13:00"
-website: "https://la-moulesienne.fr/"
+street: Route de Moules
+housenumber: "244"
+phone: +33 6 66 26 64 28
+opening_hours: Mo-Sa 09:00-13:00
+website: https://la-moulesienne.fr/

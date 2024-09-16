@@ -4,8 +4,8 @@ latitude: 43.6784
 longitude: 4.62785
 postcode: "13200"
 city: Arles
-street: "Rue des Suisses"
-housenumber: 25
-phone: "+33 4 90 47 11 81"
-opening_hours: "Tu-Sa 09:30-12:30,15:00-19:00; Jul-Sep Mo 15:00-19:30"
-website: "http://www.cave-des-saveurs.com/"
+street: Rue des Suisses
+housenumber: "25"
+phone: +33 4 90 47 11 81
+opening_hours: Tu-Sa 09:30-12:30,15:00-19:00; Jul-Sep Mo 15:00-19:30
+website: http://www.cave-des-saveurs.com/

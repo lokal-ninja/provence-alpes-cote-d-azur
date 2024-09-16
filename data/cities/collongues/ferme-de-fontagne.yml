@@ -4,8 +4,9 @@ latitude: 43.90247
 longitude: 6.85652
 postcode: "06910"
 city: Collongues
-street: "Hameau de Fontagne"
-housenumber: 
-phone: "+33 6 58 25 64 21"
-opening_hours: "Paniers sur commande livrés de St Auban à Collongues, marchés du Pont Charles-Albert & du Moulin du Pali; Fête du Parc, Foire bio et local."
-website: "https://www.facebook.com/fermedefontagne/"
+street: Hameau de Fontagne
+housenumber: ""
+phone: +33 6 58 25 64 21
+opening_hours: Paniers sur commande livrés de St Auban à Collongues, marchés du Pont
+    Charles-Albert & du Moulin du Pali; Fête du Parc, Foire bio et local.
+website: https://www.facebook.com/fermedefontagne/

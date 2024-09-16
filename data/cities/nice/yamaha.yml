@@ -4,8 +4,8 @@ latitude: 43.70268
 longitude: 7.28051
 postcode: "06300"
 city: Nice
-street: "Rue Barla"
-housenumber: 1
-phone: "+33 4 93 89 65 24"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:30; Sa 09:00-12:30,14:00-18:00"
-website: "https://www.yamaha-06.com/"
+street: Rue Barla
+housenumber: "1"
+phone: +33 4 93 89 65 24
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:30; Sa 09:00-12:30,14:00-18:00
+website: https://www.yamaha-06.com/

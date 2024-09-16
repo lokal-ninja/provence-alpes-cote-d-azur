@@ -1,11 +1,11 @@
 id: 897874746
-type: way
+type: node
 latitude: 43.1065
 longitude: 5.81439
 postcode: "83140"
 city: Six-Fours-les-Plages
-street: "Corniche de Solviou"
-housenumber: 1
+street: Corniche de Solviou
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00; Sa-Su 07:00-20:00"
+opening_hours: Mo-Fr 06:30-20:00; Sa-Su 07:00-20:00
 website: ""

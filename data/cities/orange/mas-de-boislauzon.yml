@@ -1,11 +1,11 @@
 id: 700867175
-type: way
+type: node
 latitude: 44.10014
 longitude: 4.83085
 postcode: ""
 city: Orange
-street: "Chemin du Bois Lauzon"
-housenumber: 
+street: Chemin du Bois Lauzon
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
 website: ""

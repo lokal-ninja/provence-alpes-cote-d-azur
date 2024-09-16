@@ -4,8 +4,9 @@ latitude: 44.0757
 longitude: 6.18612
 postcode: "04000"
 city: Digne-les-Bains
-street: "Avenue Gutenberg"
-housenumber: 
+street: Avenue Gutenberg
+housenumber: ""
 phone: ""
-opening_hours: "Jan-Dec Mo 14:00-18:00; Jan-Dec Tu-Fr 09:00-12:00,14:00-18:00; Jan-Jun,Sep-Dec Sa 09:00-12:00"
+opening_hours: Jan-Dec Mo 14:00-18:00; Jan-Dec Tu-Fr 09:00-12:00,14:00-18:00; Jan-Jun,Sep-Dec
+    Sa 09:00-12:00
 website: ""

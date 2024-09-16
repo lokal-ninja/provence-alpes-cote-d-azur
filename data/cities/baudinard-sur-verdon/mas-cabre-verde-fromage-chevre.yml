@@ -4,8 +4,8 @@ latitude: 43.71841
 longitude: 6.13101
 postcode: "83630"
 city: Baudinard-sur-Verdon
-street: "16 Chemin des Croix du Haut"
-housenumber: 16
-phone: "+33 6 23 09 62 71"
-opening_hours: "Tu,Fr 17:00-19:00; Sa 10:00-12:00,17:00-19:00;Su 10:00-12:00"
+street: 16 Chemin des Croix du Haut
+housenumber: "16"
+phone: +33 6 23 09 62 71
+opening_hours: Tu,Fr 17:00-19:00; Sa 10:00-12:00,17:00-19:00;Su 10:00-12:00
 website: ""

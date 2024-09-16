@@ -1,11 +1,11 @@
 id: 85626813
-type: way
+type: node
 latitude: 43.75561
 longitude: 5.20315
 postcode: "84360"
 city: Mérindol
-street: "Rue de la Fontaine"
-housenumber: 7
+street: Rue de la Fontaine
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

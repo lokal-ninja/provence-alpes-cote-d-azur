@@ -4,8 +4,9 @@ latitude: 43.48767
 longitude: 6.07983
 postcode: "83570"
 city: Correns
-street: "Place Général de Gaulle"
-housenumber: 
+street: Place Général de Gaulle
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 7:30-12:15,17:00-19:00; Th 7:30-12:15; Fr-Sa 7:30-12:15,17:00-19:00; Su 8:30-12:15"
+opening_hours: Mo-We 7:30-12:15,17:00-19:00; Th 7:30-12:15; Fr-Sa 7:30-12:15,17:00-19:00;
+    Su 8:30-12:15
 website: ""

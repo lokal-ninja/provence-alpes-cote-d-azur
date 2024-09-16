@@ -4,8 +4,8 @@ latitude: 43.52248
 longitude: 5.42861
 postcode: "13090"
 city: Aix-en-Provence
-street: "Rue Édouard Herriot"
-housenumber: 10
+street: Rue Édouard Herriot
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 16:30-19:00, Sa 09:00-13:00"
-website: "http://adava.fr/"
+opening_hours: Tu-Fr 16:30-19:00, Sa 09:00-13:00
+website: http://adava.fr/

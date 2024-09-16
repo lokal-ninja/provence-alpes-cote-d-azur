@@ -4,8 +4,8 @@ latitude: 43.21377
 longitude: 5.63187
 postcode: "13600"
 city: Ceyreste
-street: "Place Léopold Cupif"
-housenumber: 15
-phone: "+33 4 42 01 27 75"
-opening_hours: "Mo-Tu, Th-Sa 08:00-12:00, 16:00-19:30; Su, We 08:00-12:30"
-website: "https://magasins.vival.fr/fr/vival-ceyreste"
+street: Place Léopold Cupif
+housenumber: "15"
+phone: +33 4 42 01 27 75
+opening_hours: Mo-Tu, Th-Sa 08:00-12:00, 16:00-19:30; Su, We 08:00-12:30
+website: https://magasins.vival.fr/fr/vival-ceyreste

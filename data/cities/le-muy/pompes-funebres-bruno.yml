@@ -1,11 +1,11 @@
 id: 269026063
-type: way
+type: node
 latitude: 43.47551
 longitude: 6.56865
 postcode: "83490"
 city: Le Muy
-street: "Boulevard de la Libération"
-housenumber: 965
-phone: "+33 4 94 45 19 20"
+street: Boulevard de la Libération
+housenumber: "965"
+phone: +33 4 94 45 19 20
 opening_hours: ""
-website: "http://pfbruno.e-monsite.com"
+website: http://pfbruno.e-monsite.com

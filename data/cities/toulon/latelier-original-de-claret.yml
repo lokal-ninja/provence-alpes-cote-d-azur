@@ -4,8 +4,8 @@ latitude: 43.13162
 longitude: 5.92438
 postcode: "83000"
 city: Toulon
-street: "Avenue de Claret"
-housenumber: 307
-phone: "+33 4 94 71 79 46"
-opening_hours: "Mo-Sa 06:00-19:30; Su 06:00-13:00"
+street: Avenue de Claret
+housenumber: "307"
+phone: +33 4 94 71 79 46
+opening_hours: Mo-Sa 06:00-19:30; Su 06:00-13:00
 website: ""

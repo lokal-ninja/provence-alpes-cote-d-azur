@@ -1,11 +1,11 @@
 id: 89340248
-type: way
+type: node
 latitude: 43.81677
 longitude: 5.79707
 postcode: "04100"
 city: Manosque
-street: "Avenue des Près Combaux"
-housenumber: 93
-phone: "+33 4 92 75 08 10"
-opening_hours: "Mo-Su 05:30-20:00"
-website: "https://www.ernest-artisanboulanger.fr/"
+street: Avenue des Près Combaux
+housenumber: "93"
+phone: +33 4 92 75 08 10
+opening_hours: Mo-Su 05:30-20:00
+website: https://www.ernest-artisanboulanger.fr/

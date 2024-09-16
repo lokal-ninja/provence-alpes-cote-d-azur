@@ -1,11 +1,11 @@
 id: 155895827
-type: way
+type: node
 latitude: 43.1886
 longitude: 5.62845
 postcode: "13600"
 city: La Ciotat
-street: "Avenue André Bellon"
-housenumber: 9
-phone: "+33 4 42 83 12 58"
-opening_hours: "Mo-Sa 07:30-12:30,15:30-19:30; Sa 08:00-13:00"
-website: "https://magasins.spar.fr/fr/s/spar-la-ciotat-belon"
+street: Avenue André Bellon
+housenumber: "9"
+phone: +33 4 42 83 12 58
+opening_hours: Mo-Sa 07:30-12:30,15:30-19:30; Sa 08:00-13:00
+website: https://magasins.spar.fr/fr/s/spar-la-ciotat-belon

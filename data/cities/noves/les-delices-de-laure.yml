@@ -1,11 +1,11 @@
 id: 106591556
-type: way
+type: node
 latitude: 43.87905
 longitude: 4.90227
 postcode: "13550"
 city: Noves
-street: "Rue Agricol Viala"
-housenumber: 1
+street: Rue Agricol Viala
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

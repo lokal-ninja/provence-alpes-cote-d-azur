@@ -1,11 +1,11 @@
 id: 155908260
-type: way
+type: node
 latitude: 43.20852
 longitude: 5.60752
 postcode: "13600"
 city: La Ciotat
-street: "Voie Antiope"
-housenumber: 785
+street: Voie Antiope
+housenumber: "785"
 phone: ""
 opening_hours: ""
 website: ""

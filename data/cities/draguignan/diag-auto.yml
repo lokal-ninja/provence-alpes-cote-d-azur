@@ -1,11 +1,12 @@
 id: 120893978
-type: way
+type: node
 latitude: 43.52091
 longitude: 6.46449
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Caussemille"
-housenumber: 450
-phone: "+33 4 94 68 26 24"
-opening_hours: "Mo-Tu 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 14:00-17:00; Sa-Su Off"
+street: Boulevard Caussemille
+housenumber: "450"
+phone: +33 4 94 68 26 24
+opening_hours: Mo-Tu 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 14:00-17:00; Sa-Su
+    Off
 website: ""

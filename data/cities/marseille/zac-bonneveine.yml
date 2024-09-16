@@ -1,11 +1,11 @@
 id: 39183531
-type: way
+type: node
 latitude: 43.24863
 longitude: 5.38842
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 112
-phone: "+33 4 91 16 35 20"
-opening_hours: "Mo-Sa 9:00-20:00"
-website: "https://www.bonneveine.com/"
+housenumber: "112"
+phone: +33 4 91 16 35 20
+opening_hours: Mo-Sa 9:00-20:00
+website: https://www.bonneveine.com/

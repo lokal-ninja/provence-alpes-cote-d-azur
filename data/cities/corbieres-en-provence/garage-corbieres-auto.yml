@@ -1,11 +1,11 @@
 id: 173487957
-type: way
+type: node
 latitude: 43.75972
 longitude: 5.7531
 postcode: "04220"
 city: Corbières-en-Provence
-street: "Montée des Pins"
-housenumber: 3
-phone: "+33 4 92 79 72 16"
+street: Montée des Pins
+housenumber: "3"
+phone: +33 4 92 79 72 16
 opening_hours: ""
 website: ""

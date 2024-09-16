@@ -4,8 +4,8 @@ latitude: 43.29039
 longitude: 5.59646
 postcode: "13781"
 city: Aubagne
-street: "Avenue des Paluds"
-housenumber: 878
-phone: "+33 4 42 84 31 50"
-opening_hours: "Mo-Fr 08:30-19:00"
-website: "https://www.ina.ink/"
+street: Avenue des Paluds
+housenumber: "878"
+phone: +33 4 42 84 31 50
+opening_hours: Mo-Fr 08:30-19:00
+website: https://www.ina.ink/

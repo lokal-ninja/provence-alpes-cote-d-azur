@@ -1,11 +1,11 @@
 id: 87797732
-type: way
+type: node
 latitude: 43.514
 longitude: 5.44231
 postcode: "13100"
 city: Aix-En-Provence
-street: "Avenue pierre brossolette"
-housenumber: 
+street: Avenue pierre brossolette
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30"
-website: "https://boulangeries.marieblachere.com/Aix%20Brossolette"
+opening_hours: Mo-Sa 06:30-19:30
+website: https://boulangeries.marieblachere.com/Aix%20Brossolette

@@ -4,8 +4,9 @@ latitude: 43.14596
 longitude: 6.24076
 postcode: "83250"
 city: La Londe-les-Maures
-street: "Chemin du Puits de la Commune"
-housenumber: 1640
-phone: "+33 4 94 91 01 98"
-opening_hours: "Mo 15:00 - 19:00, Tu 09:00 - 19:00, We 09:00 - 19:00, Th 09:00 - 13:00, Th 15:00 - 19:00, Fr 09:00 - 19:00, Sa 09:00 - 19:00"
-website: "https://www.biocoop.fr/provence-alpes-cote-d-azur/var/la-londe-les-maures/BIOCOOP-L-ONDE-BIO"
+street: Chemin du Puits de la Commune
+housenumber: "1640"
+phone: +33 4 94 91 01 98
+opening_hours: Mo 15:00 - 19:00, Tu 09:00 - 19:00, We 09:00 - 19:00, Th 09:00 - 13:00,
+    Th 15:00 - 19:00, Fr 09:00 - 19:00, Sa 09:00 - 19:00
+website: https://www.biocoop.fr/provence-alpes-cote-d-azur/var/la-londe-les-maures/BIOCOOP-L-ONDE-BIO

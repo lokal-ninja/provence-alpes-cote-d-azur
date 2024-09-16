@@ -4,8 +4,9 @@ latitude: 43.59284
 longitude: 5.4791
 postcode: "13770"
 city: Venelles
-street: "Rue des Piboules"
-housenumber: 1
+street: Rue des Piboules
+housenumber: "1"
 phone: "+33442546403"
-opening_hours: "Tu-Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:30,15:00-18:00; Su,Mo,PH off"
-website: "http://www.ktm13.com"
+opening_hours: Tu-Fr 08:30-12:30,15:00-19:00; Sa 08:30-12:30,15:00-18:00; Su,Mo,PH
+    off
+website: http://www.ktm13.com

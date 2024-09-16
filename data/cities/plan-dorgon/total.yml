@@ -4,8 +4,8 @@ latitude: 43.81054
 longitude: 5.0006
 postcode: "13750"
 city: Plan-d'Orgon
-street: "Route de Cavaillon"
-housenumber: 735
-phone: "+33 4 90 73 12 04"
+street: Route de Cavaillon
+housenumber: "735"
+phone: +33 4 90 73 12 04
 opening_hours: ""
-website: "https://www.total.fr/"
+website: https://www.total.fr/

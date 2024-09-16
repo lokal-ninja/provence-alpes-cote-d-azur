@@ -4,8 +4,8 @@ latitude: 43.49242
 longitude: 6.35914
 postcode: "83510"
 city: Lorgues
-street: "Rue Barbacanne"
-housenumber: 6
-phone: "+33 7 61 09 51 79"
-opening_hours: "Tu-Fr 09:30-18:00; We 09:30-16:00; Sa 09:00-16:00"
+street: Rue Barbacanne
+housenumber: "6"
+phone: +33 7 61 09 51 79
+opening_hours: Tu-Fr 09:30-18:00; We 09:30-16:00; Sa 09:00-16:00
 website: ""

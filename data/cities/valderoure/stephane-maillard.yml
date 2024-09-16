@@ -4,8 +4,8 @@ latitude: 43.79762
 longitude: 6.73773
 postcode: "06750"
 city: Valderoure
-street: "Rue des Saouves Bas"
-housenumber: 97
-phone: "+33 4 93 60 39 73"
-opening_hours: "Appelez svp"
-website: "https://annuaire.agencebio.org/operateur/16605"
+street: Rue des Saouves Bas
+housenumber: "97"
+phone: +33 4 93 60 39 73
+opening_hours: '"Appelez svp"'
+website: https://annuaire.agencebio.org/operateur/16605

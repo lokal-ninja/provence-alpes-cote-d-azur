@@ -4,8 +4,8 @@ latitude: 43.1178
 longitude: 5.80538
 postcode: "83110"
 city: Sanary-sur-Mer
-street: "Boulevard de l'Avenir"
-housenumber: 17
-phone: "+33 4 94 24 82 16"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://planity.com/"
+street: Boulevard de l'Avenir
+housenumber: "17"
+phone: +33 4 94 24 82 16
+opening_hours: Tu-Sa 09:00-19:00
+website: https://planity.com/

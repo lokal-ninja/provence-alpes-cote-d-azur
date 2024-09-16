@@ -1,11 +1,11 @@
 id: 151889686
-type: way
+type: node
 latitude: 43.12431
 longitude: 5.88131
 postcode: "83190"
 city: Ollioules
-street: "Chemin des Canniers"
-housenumber: 280
-phone: "+33 4 94 10 82 50"
-opening_hours: "Mo-Sa 09:30-18:45"
-website: "https://www.king-jouet.com/magasins/83-Var/magasin-OLLIOULES-0530.htm"
+street: Chemin des Canniers
+housenumber: "280"
+phone: +33 4 94 10 82 50
+opening_hours: Mo-Sa 09:30-18:45
+website: https://www.king-jouet.com/magasins/83-Var/magasin-OLLIOULES-0530.htm

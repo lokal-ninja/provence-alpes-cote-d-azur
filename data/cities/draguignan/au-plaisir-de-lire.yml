@@ -1,11 +1,11 @@
 id: 888916510
-type: way
+type: node
 latitude: 43.528
 longitude: 6.45078
 postcode: "83300"
 city: Draguignan
-street: "Place Jacques Resplandin"
-housenumber: 
-phone: "+33 4 94 60 44 24"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Place Jacques Resplandin
+housenumber: ""
+phone: +33 4 94 60 44 24
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

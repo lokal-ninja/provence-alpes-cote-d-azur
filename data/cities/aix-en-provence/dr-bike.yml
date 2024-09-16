@@ -4,8 +4,8 @@ latitude: 43.52578
 longitude: 5.45478
 postcode: "13100"
 city: Aix-en-Provence
-street: "Boulevard Carnot"
-housenumber: 21
-phone: "+336 76 12 96 95"
-opening_hours: "Tue-Fr 10:00-12:00 - 14:00-19:00"
-website: "https://drbike.fr/"
+street: Boulevard Carnot
+housenumber: "21"
+phone: +336 76 12 96 95
+opening_hours: Tue-Fr 10:00-12:00 - 14:00-19:00
+website: https://drbike.fr/

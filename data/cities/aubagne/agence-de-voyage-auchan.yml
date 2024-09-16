@@ -4,8 +4,9 @@ latitude: 43.29404
 longitude: 5.59189
 postcode: "13400"
 city: Aubagne
-street: "Chemin des Paluds, centre commercial auchan"
-housenumber: 
+street: Chemin des Paluds, centre commercial auchan
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00"
+opening_hours: Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr
+    09:00-20:00; Sa 09:00-20:00
 website: ""

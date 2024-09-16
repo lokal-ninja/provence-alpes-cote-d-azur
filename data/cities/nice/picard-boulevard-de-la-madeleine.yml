@@ -4,8 +4,9 @@ latitude: 43.6966
 longitude: 7.2413
 postcode: "06000"
 city: Nice
-street: "Boulevard de la Madeleine"
-housenumber: 43
-phone: "+33 4 93 44 86 36"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/673-picard-nice-madeleine"
+street: Boulevard de la Madeleine
+housenumber: "43"
+phone: +33 4 93 44 86 36
+opening_hours: Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30;
+    Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/673-picard-nice-madeleine

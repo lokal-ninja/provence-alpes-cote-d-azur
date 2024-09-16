@@ -4,8 +4,8 @@ latitude: 43.67739
 longitude: 4.62783
 postcode: "13200"
 city: Arles
-street: "Rue de l'Hôtel de Ville"
-housenumber: 25
-phone: "+33 9 86 33 62 08"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.cotondoux.com/"
+street: Rue de l'Hôtel de Ville
+housenumber: "25"
+phone: +33 9 86 33 62 08
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.cotondoux.com/

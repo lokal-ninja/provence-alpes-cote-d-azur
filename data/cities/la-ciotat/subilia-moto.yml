@@ -1,11 +1,11 @@
 id: 155897411
-type: way
+type: node
 latitude: 43.18368
 longitude: 5.60946
 postcode: "13600"
 city: La Ciotat
-street: "Avenue Ernest Subilia"
-housenumber: 233
+street: Avenue Ernest Subilia
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

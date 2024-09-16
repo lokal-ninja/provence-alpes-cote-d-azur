@@ -1,11 +1,11 @@
 id: 270960655
-type: way
+type: node
 latitude: 43.44434
 longitude: 6.70038
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Quartier de la tuiliere"
-housenumber: 
-phone: "+33 4 98 11 14 90"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.intersport.fr/Var-83/Puget-sur-Argens-83480/INTERSPORT-PUGET-SUR-ARGENS/04925_000/"
+street: Quartier de la tuiliere
+housenumber: ""
+phone: +33 4 98 11 14 90
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.intersport.fr/Var-83/Puget-sur-Argens-83480/INTERSPORT-PUGET-SUR-ARGENS/04925_000/

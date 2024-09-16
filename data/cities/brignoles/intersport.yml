@@ -1,11 +1,11 @@
 id: 120960216
-type: way
+type: node
 latitude: 43.4075
 longitude: 6.04723
 postcode: "83170"
 city: Brignoles
-street: "Quartier Saint Jean"
-housenumber: 
-phone: "+33 4 98 05 02 66"
-opening_hours: "Mo 09:00-12:30,14:00-19:30; Tu 09:00-19:30; We-Sa 09:00-12:30,14:00-19:30"
+street: Quartier Saint Jean
+housenumber: ""
+phone: +33 4 98 05 02 66
+opening_hours: Mo 09:00-12:30,14:00-19:30; Tu 09:00-19:30; We-Sa 09:00-12:30,14:00-19:30
 website: ""

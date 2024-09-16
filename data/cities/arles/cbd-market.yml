@@ -4,8 +4,8 @@ latitude: 43.67804
 longitude: 4.62767
 postcode: "13200"
 city: Arles
-street: "Rue de l'Hôtel de Ville"
-housenumber: 4
-phone: "+33 4 90 47 65 29"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.cbd-markets.fr/"
+street: Rue de l'Hôtel de Ville
+housenumber: "4"
+phone: +33 4 90 47 65 29
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.cbd-markets.fr/

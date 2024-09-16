@@ -4,8 +4,8 @@ latitude: 43.1227
 longitude: 5.94172
 postcode: "83000"
 city: Toulon
-street: "Rue Danton"
-housenumber: 16
+street: Rue Danton
+housenumber: "16"
 phone: "+33494462093"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-17:45"
-website: "https://m.facebook.com/laressourceriedelarade/"
+opening_hours: Mo-Fr 10:00-12:00, 14:00-17:45
+website: https://m.facebook.com/laressourceriedelarade/

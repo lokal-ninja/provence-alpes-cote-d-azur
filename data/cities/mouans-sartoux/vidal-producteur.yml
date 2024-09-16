@@ -1,11 +1,11 @@
 id: 1203929938
-type: way
+type: node
 latitude: 43.62011
 longitude: 6.97504
 postcode: "06370"
 city: Mouans-Sartoux
-street: "Chemin des Gourettes"
-housenumber: 154
-phone: "+334 93 75 75 72"
-opening_hours: "Mo-Fr 08:30-12:30,15:00-19:30; Sa 08:30-19:00"
+street: Chemin des Gourettes
+housenumber: "154"
+phone: +334 93 75 75 72
+opening_hours: Mo-Fr 08:30-12:30,15:00-19:30; Sa 08:30-19:00
 website: ""

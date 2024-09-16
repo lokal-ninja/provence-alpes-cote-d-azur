@@ -1,11 +1,11 @@
 id: 919021282
-type: way
+type: node
 latitude: 43.12862
 longitude: 5.98904
 postcode: "83160"
 city: La Valette-du-Var
-street: "Avenue Paul Valéry"
-housenumber: 219
-phone: "+33 4 94 23 53 01"
-opening_hours: "Mo-Sa 08:00-19:15; Su 08:00-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-supermarche-la-valette-du-var-paul-valery"
+street: Avenue Paul Valéry
+housenumber: "219"
+phone: +33 4 94 23 53 01
+opening_hours: Mo-Sa 08:00-19:15; Su 08:00-12:30
+website: https://magasins.spar.fr/fr/s/spar-supermarche-la-valette-du-var-paul-valery

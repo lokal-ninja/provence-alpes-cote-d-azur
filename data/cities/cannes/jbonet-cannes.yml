@@ -1,11 +1,11 @@
 id: 64947650
-type: way
+type: node
 latitude: 43.55254
 longitude: 7.0267
 postcode: "06400"
 city: Cannes
-street: "Rue d'Alger"
-housenumber: 02
+street: Rue d'Alger
+housenumber: "02"
 phone: ""
 opening_hours: ""
 website: ""

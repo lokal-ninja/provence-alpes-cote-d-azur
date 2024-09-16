@@ -1,11 +1,11 @@
 id: 1236637043
-type: way
+type: node
 latitude: 43.64877
 longitude: 5.2632
 postcode: "13410"
 city: Lambesc
-street: "Avenue des Quatre Termes"
-housenumber: 2
+street: Avenue des Quatre Termes
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.30495
 longitude: 5.41635
 postcode: "13012"
 city: Marseille
-street: "Avenue de Saint-Julien"
-housenumber: 48
-phone: "06 12 28 35 31"
-opening_hours: "Mo-Fr 10:00-19:00"
+street: Avenue de Saint-Julien
+housenumber: "48"
+phone: 06 12 28 35 31
+opening_hours: Mo-Fr 10:00-19:00
 website: ""

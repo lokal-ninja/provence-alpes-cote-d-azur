@@ -4,8 +4,8 @@ latitude: 43.80089
 longitude: 5.00487
 postcode: "13750"
 city: Plan-d'Orgon
-street: "Route de Marseille"
-housenumber: 1054
-phone: "+33 4 90 73 10 29"
-opening_hours: "24/7"
-website: "https://www.essofuelfinder.fr/fr-fr/"
+street: Route de Marseille
+housenumber: "1054"
+phone: +33 4 90 73 10 29
+opening_hours: 24/7
+website: https://www.essofuelfinder.fr/fr-fr/

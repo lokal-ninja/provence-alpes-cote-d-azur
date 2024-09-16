@@ -1,11 +1,11 @@
 id: 134730515
-type: way
+type: node
 latitude: 43.97878
 longitude: 4.88841
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 4 84 14 04 32"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://choo-design.fr/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 4 84 14 04 32
+opening_hours: Mo-Sa 10:00-19:30
+website: https://choo-design.fr/

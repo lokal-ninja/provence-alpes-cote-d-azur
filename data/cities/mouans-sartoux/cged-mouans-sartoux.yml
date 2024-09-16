@@ -1,11 +1,11 @@
 id: 64706921
-type: way
+type: node
 latitude: 43.614
 longitude: 6.96048
 postcode: "06371"
 city: Mouans-Sartoux
-street: "Chemin des Cardelines"
-housenumber: 35
+street: Chemin des Cardelines
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

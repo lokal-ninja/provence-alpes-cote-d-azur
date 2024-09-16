@@ -4,8 +4,8 @@ latitude: 43.95861
 longitude: 5.78113
 postcode: "04300"
 city: Forcalquier
-street: "Place Saint-Michel"
-housenumber: 
-phone: "+33 9 81 71 05 28"
-opening_hours: "by appointment"
+street: Place Saint-Michel
+housenumber: ""
+phone: +33 9 81 71 05 28
+opening_hours: '"by appointment"'
 website: ""

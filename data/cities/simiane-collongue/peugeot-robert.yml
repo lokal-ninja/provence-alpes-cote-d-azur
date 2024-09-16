@@ -1,11 +1,11 @@
 id: 160920994
-type: way
+type: node
 latitude: 43.43319
 longitude: 5.42004
 postcode: "13109"
 city: Simiane-Collongue
-street: "Chemin André Gide"
-housenumber: 735
-phone: "+33 4 42 22 81 08"
+street: Chemin André Gide
+housenumber: "735"
+phone: +33 4 42 22 81 08
 opening_hours: ""
-website: "https://concessions.peugeot.fr/simiane-collongue/"
+website: https://concessions.peugeot.fr/simiane-collongue/

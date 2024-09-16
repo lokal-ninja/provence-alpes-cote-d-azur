@@ -1,11 +1,11 @@
 id: 78570957
-type: way
+type: node
 latitude: 44.12218
 longitude: 4.79825
 postcode: ""
 city: Orange
-street: "Chemin de Courtebotte"
-housenumber: 
+street: Chemin de Courtebotte
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.ciffreobona.fr/"
+website: https://www.ciffreobona.fr/

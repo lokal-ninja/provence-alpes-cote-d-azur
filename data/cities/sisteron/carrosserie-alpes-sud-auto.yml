@@ -1,11 +1,11 @@
 id: 1139527617
-type: way
+type: node
 latitude: 44.23325
 longitude: 5.91523
 postcode: "04200"
 city: Sisteron
-street: "Allée des Chênes"
-housenumber: 19
+street: Allée des Chênes
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

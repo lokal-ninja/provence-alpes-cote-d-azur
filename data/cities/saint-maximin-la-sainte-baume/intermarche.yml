@@ -1,11 +1,11 @@
 id: 92447066
-type: way
+type: node
 latitude: 43.44676
 longitude: 5.86353
 postcode: "83470"
 city: Saint-Maximin-la-Sainte-Baume
-street: "Chemin de la Gare"
-housenumber: 
+street: Chemin de la Gare
+housenumber: ""
 phone: "+33494593250"
-opening_hours: "Mo-Sa 08:30-19:30; Su 8:30-12:30"
-website: "https://www.intermarche.com/magasins/12152/saint-maximin-la-sainte-baume-83470/infos-pratiques"
+opening_hours: Mo-Sa 08:30-19:30; Su 8:30-12:30
+website: https://www.intermarche.com/magasins/12152/saint-maximin-la-sainte-baume-83470/infos-pratiques

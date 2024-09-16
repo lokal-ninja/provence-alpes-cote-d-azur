@@ -4,8 +4,8 @@ latitude: 43.61978
 longitude: 6.97044
 postcode: "06370"
 city: Mouans-Sartoux
-street: "Rue Pasteur"
-housenumber: 7
+street: Rue Pasteur
+housenumber: "7"
 phone: ""
-opening_hours: "Tu 09:30-12:30; We-Sa 09:30-12:30,15:00-19:00"
-website: "http://www.mcequitable.fr"
+opening_hours: Tu 09:30-12:30; We-Sa 09:30-12:30,15:00-19:00
+website: http://www.mcequitable.fr

@@ -4,8 +4,8 @@ latitude: 43.49297
 longitude: 6.36173
 postcode: "83510"
 city: Lorgues
-street: "Boulevard Georges Clemenceau"
-housenumber: 15
-phone: "+33 4 83 11 16 84"
-opening_hours: "Mo-Sa 07:30-13:00,15:00-19:00; Su 08:00-13:00"
-website: "https://magasins.vival.fr/fr/s/vival-lorgues"
+street: Boulevard Georges Clemenceau
+housenumber: "15"
+phone: +33 4 83 11 16 84
+opening_hours: Mo-Sa 07:30-13:00,15:00-19:00; Su 08:00-13:00
+website: https://magasins.vival.fr/fr/s/vival-lorgues

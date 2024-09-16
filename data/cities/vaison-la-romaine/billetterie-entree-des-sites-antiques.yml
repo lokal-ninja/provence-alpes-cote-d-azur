@@ -1,11 +1,11 @@
 id: 288765686
-type: way
+type: node
 latitude: 44.24228
 longitude: 5.07354
 postcode: "84110"
 city: Vaison-la-Romaine
-street: "Rue Burrus"
-housenumber: 
+street: Rue Burrus
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-12:30,14:00-17:30"
+opening_hours: Mo-Su 10:00-12:30,14:00-17:30
 website: ""

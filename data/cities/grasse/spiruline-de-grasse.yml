@@ -4,8 +4,8 @@ latitude: 43.66214
 longitude: 6.89588
 postcode: "06130"
 city: Grasse
-street: "Chemin des Hautes Ribes"
-housenumber: 115
-phone: "+33 4 93 40 42 90"
-opening_hours: "Visites sur RV"
-website: "https://azur-naturel.fr"
+street: Chemin des Hautes Ribes
+housenumber: "115"
+phone: +33 4 93 40 42 90
+opening_hours: '"Visites sur RV"'
+website: https://azur-naturel.fr

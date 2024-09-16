@@ -4,8 +4,8 @@ latitude: 43.77504
 longitude: 7.50441
 postcode: "06500"
 city: Menton
-street: "Rue Saint-Michel"
-housenumber: 6
+street: Rue Saint-Michel
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/provence-alpes-cote-dazur/menton/menton/S-FRYROC156"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/provence-alpes-cote-dazur/menton/menton/S-FRYROC156

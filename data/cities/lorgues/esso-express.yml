@@ -1,11 +1,11 @@
 id: 264377701
-type: way
+type: node
 latitude: 43.49088
 longitude: 6.3561
 postcode: "83510"
 city: Lorgues
-street: "Avenue de Toulon"
-housenumber: 29
+street: Avenue de Toulon
+housenumber: "29"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

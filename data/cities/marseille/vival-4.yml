@@ -5,7 +5,7 @@ longitude: 5.4032
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 103
-phone: "+33 4 91 49 08 76"
-opening_hours: "Mo-Sa 08:00-13:00; Su 08:00-13:00"
-website: "https://magasins.vival.fr/fr/s/vival-marseille-la-blancarde"
+housenumber: "103"
+phone: +33 4 91 49 08 76
+opening_hours: Mo-Sa 08:00-13:00; Su 08:00-13:00
+website: https://magasins.vival.fr/fr/s/vival-marseille-la-blancarde

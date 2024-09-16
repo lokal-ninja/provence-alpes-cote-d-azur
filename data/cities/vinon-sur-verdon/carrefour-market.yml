@@ -1,11 +1,11 @@
 id: 215761847
-type: way
+type: node
 latitude: 43.72911
 longitude: 5.80255
 postcode: "83560"
 city: Vinon-sur-Verdon
-street: "Chemin du Plan"
-housenumber: 
-phone: "+33 4 92 71 74 30"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-13:00"
-website: "https://www.carrefour.fr/"
+street: Chemin du Plan
+housenumber: ""
+phone: +33 4 92 71 74 30
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-13:00
+website: https://www.carrefour.fr/

@@ -4,8 +4,8 @@ latitude: 43.52747
 longitude: 6.15182
 postcode: "83570"
 city: Cotignac
-street: "Rue Borghino et Arnoux"
-housenumber: 1
-phone: "+33 4 94 04 60 04"
-opening_hours: "Mo 14:00-18:00; Th-Sa 09:00-12:15, 14:00-18:00"
-website: "https://www.vigneronsdecotignac.com/"
+street: Rue Borghino et Arnoux
+housenumber: "1"
+phone: +33 4 94 04 60 04
+opening_hours: Mo 14:00-18:00; Th-Sa 09:00-12:15, 14:00-18:00
+website: https://www.vigneronsdecotignac.com/

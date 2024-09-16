@@ -1,11 +1,11 @@
 id: 102069820
-type: way
+type: node
 latitude: 43.67511
 longitude: 4.62264
 postcode: "13200"
 city: Arles
-street: "Rue Fleury Prudon"
-housenumber: 9
+street: Rue Fleury Prudon
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

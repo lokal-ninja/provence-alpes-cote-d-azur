@@ -1,11 +1,11 @@
 id: 157739027
-type: way
+type: node
 latitude: 43.29178
 longitude: 5.44589
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 
-phone: "+33 4 91 35 48 97"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/572-picard-marseille-la-pomme"
+housenumber: ""
+phone: +33 4 91 35 48 97
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/572-picard-marseille-la-pomme

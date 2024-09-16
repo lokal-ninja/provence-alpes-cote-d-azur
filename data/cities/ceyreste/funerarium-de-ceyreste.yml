@@ -1,11 +1,11 @@
 id: 901879454
-type: way
+type: node
 latitude: 43.20731
 longitude: 5.63188
 postcode: "13600"
 city: Ceyreste
-street: "Chemin Sainte-Brigitte"
-housenumber: 8
+street: Chemin Sainte-Brigitte
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

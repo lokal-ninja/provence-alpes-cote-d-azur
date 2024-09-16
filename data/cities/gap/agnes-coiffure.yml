@@ -4,8 +4,9 @@ latitude: 44.5443
 longitude: 6.06304
 postcode: "05000"
 city: Gap
-street: "Avenue François Mitterrand"
-housenumber: 11
-phone: "+33 4 92 51 10 55"
-opening_hours: "Tu 08:30-17:30; We 08:30-17:00; Th 08:30-16:00; Fr 08:30-17:30; Sa 08:30-14:00"
+street: Avenue François Mitterrand
+housenumber: "11"
+phone: +33 4 92 51 10 55
+opening_hours: Tu 08:30-17:30; We 08:30-17:00; Th 08:30-16:00; Fr 08:30-17:30; Sa
+    08:30-14:00
 website: ""

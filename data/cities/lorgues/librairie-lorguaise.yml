@@ -4,8 +4,8 @@ latitude: 43.49298
 longitude: 6.35964
 postcode: "83510"
 city: Lorgues
-street: "Boulevard de la République"
-housenumber: 16
-phone: "+33 4 94 84 34 64"
-opening_hours: "Mo-Sa 07:30-12:30,14:30-19:00; Su 07:30-12:30"
-website: "https://www.librairielorguaise.fr/"
+street: Boulevard de la République
+housenumber: "16"
+phone: +33 4 94 84 34 64
+opening_hours: Mo-Sa 07:30-12:30,14:30-19:00; Su 07:30-12:30
+website: https://www.librairielorguaise.fr/

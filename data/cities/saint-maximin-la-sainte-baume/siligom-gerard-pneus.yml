@@ -1,11 +1,11 @@
 id: 92468178
-type: way
+type: node
 latitude: 43.4559
 longitude: 5.84543
 postcode: "83470"
 city: Saint-Maximin-la-Sainte-Baume
-street: "Avenue de l'Aurélienne"
-housenumber: 166
+street: Avenue de l'Aurélienne
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-11:00"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-11:00
 website: ""

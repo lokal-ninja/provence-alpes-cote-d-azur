@@ -4,8 +4,8 @@ latitude: 43.45395
 longitude: 5.45352
 postcode: "13120"
 city: Gardanne
-street: "Avenue d'Arménie"
-housenumber: 1
-phone: "+33 4 42 90 01 88"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://marceletfils.com/pages/gardanne"
+street: Avenue d'Arménie
+housenumber: "1"
+phone: +33 4 42 90 01 88
+opening_hours: Mo-Sa 09:00-19:30
+website: https://marceletfils.com/pages/gardanne

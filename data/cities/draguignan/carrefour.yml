@@ -1,11 +1,11 @@
 id: 888916486
-type: way
+type: node
 latitude: 43.52872
 longitude: 6.44983
 postcode: "83300"
 city: Draguignan
-street: "Place Jacques Resplandin"
-housenumber: 
-phone: "+33 4 94 60 25 79"
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:30"
-website: "https://www.carrefour-lesalamandrier.fr"
+street: Place Jacques Resplandin
+housenumber: ""
+phone: +33 4 94 60 25 79
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:30
+website: https://www.carrefour-lesalamandrier.fr

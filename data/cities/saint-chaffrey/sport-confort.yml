@@ -4,8 +4,8 @@ latitude: 44.92262
 longitude: 6.61379
 postcode: "05330"
 city: Saint-Chaffrey
-street: "Route de Grenoble"
-housenumber: 600
-phone: "+33 4 92 24 08 77"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://sportconfort.com"
+street: Route de Grenoble
+housenumber: "600"
+phone: +33 4 92 24 08 77
+opening_hours: Mo-Su 09:00-19:00
+website: https://sportconfort.com

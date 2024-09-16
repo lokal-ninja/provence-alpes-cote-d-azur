@@ -1,11 +1,11 @@
 id: 102076556
-type: way
+type: node
 latitude: 43.6795
 longitude: 4.60339
 postcode: "13200"
 city: Arles
-street: "Chemin Séverin"
-housenumber: 4
-phone: "+33 4 90 18 38 38"
+street: Chemin Séverin
+housenumber: "4"
+phone: +33 4 90 18 38 38
 opening_hours: ""
-website: "https://www.dgf.fr/distributeur-alimentaire/dgf-provence-camargue-d29"
+website: https://www.dgf.fr/distributeur-alimentaire/dgf-provence-camargue-d29

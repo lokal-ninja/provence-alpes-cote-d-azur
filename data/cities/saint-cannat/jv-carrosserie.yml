@@ -1,11 +1,11 @@
 id: 641170567
-type: way
+type: node
 latitude: 43.61403
 longitude: 5.32023
 postcode: "13760"
 city: Saint-Cannat
-street: "Avenue de l'Europe"
-housenumber: 526
-phone: "+33 4 42 92 64 36"
+street: Avenue de l'Europe
+housenumber: "526"
+phone: +33 4 42 92 64 36
 opening_hours: ""
-website: "https://www.jv-carrosserie.fr/"
+website: https://www.jv-carrosserie.fr/

@@ -4,8 +4,8 @@ latitude: 43.53392
 longitude: 5.25509
 postcode: "13880"
 city: Velaux
-street: "Avenue Général Leclerc"
-housenumber: 30
-phone: "+33 4 65 94 91 95"
-opening_hours: "Tu-Fr 5:30-20:30; Sa-Su 06:00-20:30"
+street: Avenue Général Leclerc
+housenumber: "30"
+phone: +33 4 65 94 91 95
+opening_hours: Tu-Fr 5:30-20:30; Sa-Su 06:00-20:30
 website: ""

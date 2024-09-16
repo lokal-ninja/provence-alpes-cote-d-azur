@@ -1,11 +1,11 @@
 id: 165107855
-type: way
+type: node
 latitude: 43.12546
 longitude: 5.88115
 postcode: "83190"
 city: Ollioules
-street: "Chemin des Canniers"
-housenumber: 219
+street: Chemin des Canniers
+housenumber: "219"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-toulon-ollioules_ollioules_83190/37.html"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-toulon-ollioules_ollioules_83190/37.html

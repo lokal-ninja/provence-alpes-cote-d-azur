@@ -4,8 +4,8 @@ latitude: 43.78412
 longitude: 7.51813
 postcode: "06500"
 city: Menton
-street: "TERRE-PLEIN NOUVEAU PORT"
-housenumber: 19
-phone: "+33 6 26 03 31 37"
-opening_hours: "Mo-Sa 09:00-12:00, 15:00-19:00"
-website: "https://rbikementon.com/"
+street: TERRE-PLEIN NOUVEAU PORT
+housenumber: "19"
+phone: +33 6 26 03 31 37
+opening_hours: Mo-Sa 09:00-12:00, 15:00-19:00
+website: https://rbikementon.com/

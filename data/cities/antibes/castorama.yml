@@ -1,11 +1,11 @@
 id: 671784680
-type: way
+type: node
 latitude: 43.60307
 longitude: 7.07001
 postcode: "06600"
 city: Antibes
-street: "C.D. 35"
-housenumber: 
-phone: "+33 4 92 91 32 50"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-17:00"
-website: "https://www.castorama.fr/store/castorama-antibes/CAFR_ANT1429"
+street: C.D. 35
+housenumber: ""
+phone: +33 4 92 91 32 50
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-17:00
+website: https://www.castorama.fr/store/castorama-antibes/CAFR_ANT1429

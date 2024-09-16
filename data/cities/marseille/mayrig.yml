@@ -5,7 +5,7 @@ longitude: 5.43541
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 9
-phone: "+33 4 91 87 03 34"
+housenumber: "9"
+phone: +33 4 91 87 03 34
 opening_hours: ""
-website: "https://www.mayrig.com/"
+website: https://www.mayrig.com/

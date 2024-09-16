@@ -4,8 +4,8 @@ latitude: 43.28167
 longitude: 5.60545
 postcode: "13400"
 city: Aubagne
-street: "Rue du Dirigeable"
-housenumber: 111
-phone: "+33 4 42 72 10 65"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.natives-deco.fr/"
+street: Rue du Dirigeable
+housenumber: "111"
+phone: +33 4 42 72 10 65
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.natives-deco.fr/

@@ -1,11 +1,11 @@
 id: 165110673
-type: way
+type: node
 latitude: 43.12823
 longitude: 5.87759
 postcode: "83190"
 city: Ollioules
-street: "Chemin du Clos du Haut"
-housenumber: 8
-phone: "+33 4 94 18 92 98"
-opening_hours: "Mo-Fr 09:30-12:15,14:30-19:00; Sa 09:30-19:00"
-website: "https://magasins.mobilierdefrance.com/meubles/toulon-ollioules/583101"
+street: Chemin du Clos du Haut
+housenumber: "8"
+phone: +33 4 94 18 92 98
+opening_hours: Mo-Fr 09:30-12:15,14:30-19:00; Sa 09:30-19:00
+website: https://magasins.mobilierdefrance.com/meubles/toulon-ollioules/583101

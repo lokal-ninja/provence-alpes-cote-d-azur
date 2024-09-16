@@ -1,11 +1,11 @@
 id: 124192969
-type: way
+type: node
 latitude: 43.97853
 longitude: 4.8902
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 100
+street: Chemin du Pont Blanc
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Fr 10:00-21:00"
-website: "https://www.ikea.com/fr/fr/store/avignon"
+opening_hours: Mo-Sa 10:00-20:00; Fr 10:00-21:00
+website: https://www.ikea.com/fr/fr/store/avignon

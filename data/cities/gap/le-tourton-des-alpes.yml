@@ -4,8 +4,8 @@ latitude: 44.56084
 longitude: 6.07988
 postcode: "05000"
 city: Gap
-street: "Rue Jean Eymar"
-housenumber: 6
+street: Rue Jean Eymar
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Sa 09:00-13:00,16:00-19:00"
+opening_hours: Tu-Sa 09:00-13:00,16:00-19:00
 website: ""

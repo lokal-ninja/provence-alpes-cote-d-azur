@@ -4,8 +4,8 @@ latitude: 43.63978
 longitude: 6.98005
 postcode: "06370"
 city: Mouans-Sartoux
-street: "Route de Valbonne"
-housenumber: 92
-phone: "+33 9 75 47 67 52"
-opening_hours: "Tu-Sa 09:00-13:00,15:00-19:00"
-website: "https://epicerielessentiel.com"
+street: Route de Valbonne
+housenumber: "92"
+phone: +33 9 75 47 67 52
+opening_hours: Tu-Sa 09:00-13:00,15:00-19:00
+website: https://epicerielessentiel.com

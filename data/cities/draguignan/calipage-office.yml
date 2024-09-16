@@ -1,11 +1,11 @@
 id: 120901957
-type: way
+type: node
 latitude: 43.52199
 longitude: 6.46504
 postcode: "83300"
 city: Draguignan
-street: "Chemin des Incapis"
-housenumber: 544
-phone: "+33 4 94 50 45 00"
-opening_hours: "Mo-Fr 08:45-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00"
-website: "http://www.abs-calipage.com"
+street: Chemin des Incapis
+housenumber: "544"
+phone: +33 4 94 50 45 00
+opening_hours: Mo-Fr 08:45-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00
+website: http://www.abs-calipage.com

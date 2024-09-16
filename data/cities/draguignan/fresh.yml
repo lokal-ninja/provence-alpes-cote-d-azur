@@ -1,11 +1,11 @@
 id: 120882578
-type: way
+type: node
 latitude: 43.53218
 longitude: 6.44498
 postcode: "83300"
 city: Draguignan
-street: "Chemin de Sainte-Cile"
-housenumber: 44
-phone: "+33 4 89 53 70 53"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.fresh.fr/"
+street: Chemin de Sainte-Cile
+housenumber: "44"
+phone: +33 4 89 53 70 53
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.fresh.fr/

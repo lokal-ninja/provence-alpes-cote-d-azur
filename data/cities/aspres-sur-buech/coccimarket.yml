@@ -1,11 +1,11 @@
 id: 112910254
-type: way
+type: node
 latitude: 44.52162
 longitude: 5.75221
 postcode: "05140"
 city: Aspres-sur-Buëch
-street: "Avenue de la Gare"
-housenumber: 
-phone: "+33 9 84 55 09 45"
-opening_hours: "Mo-Sa 09:00-12:15,16:00-19:00; Su 09:00-12:15"
+street: Avenue de la Gare
+housenumber: ""
+phone: +33 9 84 55 09 45
+opening_hours: Mo-Sa 09:00-12:15,16:00-19:00; Su 09:00-12:15
 website: ""

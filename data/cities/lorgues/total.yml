@@ -4,8 +4,8 @@ latitude: 43.48814
 longitude: 6.35111
 postcode: "83510"
 city: Lorgues
-street: "Route de Carcès"
-housenumber: 278
-phone: "+33 4 94 73 70 29"
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/fr_FR/NF029737"
+street: Route de Carcès
+housenumber: "278"
+phone: +33 4 94 73 70 29
+opening_hours: 24/7
+website: https://store.totalenergies.fr/fr_FR/NF029737

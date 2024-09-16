@@ -1,11 +1,11 @@
 id: 740677550
-type: way
+type: node
 latitude: 43.68933
 longitude: 5.50313
 postcode: "84120"
 city: Pertuis
-street: "Avenue du Maréchal Leclerc"
-housenumber: 513
+street: Avenue du Maréchal Leclerc
+housenumber: "513"
 phone: ""
 opening_hours: ""
 website: ""

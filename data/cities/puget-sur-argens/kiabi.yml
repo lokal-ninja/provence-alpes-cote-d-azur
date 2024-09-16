@@ -1,11 +1,11 @@
 id: 270965983
-type: way
+type: node
 latitude: 43.44376
 longitude: 6.69968
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Quartier de la tuiliere"
-housenumber: 
+street: Quartier de la tuiliere
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.kiabi.com"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.kiabi.com

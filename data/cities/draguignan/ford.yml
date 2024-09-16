@@ -1,11 +1,11 @@
 id: 120883198
-type: way
+type: node
 latitude: 43.5318
 longitude: 6.44766
 postcode: "83300"
 city: Draguignan
-street: "Avenue Pierre Brossolette"
-housenumber: 724
-phone: "+33 4 94 50 55 00"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.fordfrejus.fr/"
+street: Avenue Pierre Brossolette
+housenumber: "724"
+phone: +33 4 94 50 55 00
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.fordfrejus.fr/

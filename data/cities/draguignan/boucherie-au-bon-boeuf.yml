@@ -4,8 +4,8 @@ latitude: 43.53619
 longitude: 6.46442
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Georges Clemenceau"
-housenumber: 38
-phone: "+33 4 94 68 03 82"
-opening_hours: "Mo off; Tu-Sa 07:30-13:00,15:30-19:00; Su 07:30-13:00"
+street: Boulevard Georges Clemenceau
+housenumber: "38"
+phone: +33 4 94 68 03 82
+opening_hours: Mo off; Tu-Sa 07:30-13:00,15:30-19:00; Su 07:30-13:00
 website: ""

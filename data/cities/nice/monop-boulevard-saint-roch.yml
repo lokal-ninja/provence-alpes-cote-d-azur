@@ -1,11 +1,11 @@
 id: 142215986
-type: way
+type: node
 latitude: 43.71199
 longitude: 7.2923
 postcode: "06300"
 city: Nice
-street: "Boulevard Saint-Roch"
-housenumber: 33
+street: Boulevard Saint-Roch
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 143128495
-type: way
+type: node
 latitude: 43.11438
 longitude: 5.84827
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Boulevard de Léry"
-housenumber: 683
+street: Boulevard de Léry
+housenumber: "683"
 phone: ""
 opening_hours: ""
 website: ""

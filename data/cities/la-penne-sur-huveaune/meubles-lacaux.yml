@@ -1,11 +1,11 @@
 id: 154754921
-type: way
+type: node
 latitude: 43.28621
 longitude: 5.51247
 postcode: "13821"
 city: La Penne-sur-Huveaune
-street: "Boulevard Claude Antonetti"
-housenumber: 8
+street: Boulevard Claude Antonetti
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 104812361
-type: way
+type: node
 latitude: 43.59447
 longitude: 5.12827
 postcode: "13680"
 city: Lançon-de-Provence
-street: "Rue de l'Abbé Dureau"
-housenumber: 
+street: Rue de l'Abbé Dureau
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 89329713
-type: way
+type: node
 latitude: 43.82408
 longitude: 5.80118
 postcode: "04100"
 city: Manosque
-street: "Avenue Joseph Cugnot"
-housenumber: 777
+street: Avenue Joseph Cugnot
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

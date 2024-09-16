@@ -1,11 +1,11 @@
 id: 209616764
-type: way
+type: node
 latitude: 43.10866
 longitude: 5.85186
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Avenue Marcel Paul"
-housenumber: 694
+street: Avenue Marcel Paul
+housenumber: "694"
 phone: ""
 opening_hours: ""
 website: ""

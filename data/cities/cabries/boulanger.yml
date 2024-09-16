@@ -1,11 +1,11 @@
 id: 167484360
-type: way
+type: node
 latitude: 43.41796
 longitude: 5.36345
 postcode: "13480"
 city: Cabriès
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu-Su 09:30-19:30"
-website: "https://www.boulanger.com/magasins/provence-alpes-cote-d-azur/bouches-du-rhone/cabries/zone-commerciale-plan-de-campagne"
+opening_hours: Mo 10:00-19:00; Tu-Su 09:30-19:30
+website: https://www.boulanger.com/magasins/provence-alpes-cote-d-azur/bouches-du-rhone/cabries/zone-commerciale-plan-de-campagne

@@ -1,11 +1,11 @@
 id: 153622182
-type: way
+type: node
 latitude: 43.79487
 longitude: 4.6891
 postcode: ""
 city: Tarascon
-street: "Rue des Charpentiers"
-housenumber: 21
-phone: "+33 4 88 09 02 99"
-opening_hours: "Tu-Fr 09:00-12:30,15:30-19:00; Sa 09:00-12:00,14:00-19:00"
-website: "https://www.integralpeche.fr/"
+street: Rue des Charpentiers
+housenumber: "21"
+phone: +33 4 88 09 02 99
+opening_hours: Tu-Fr 09:00-12:30,15:30-19:00; Sa 09:00-12:00,14:00-19:00
+website: https://www.integralpeche.fr/

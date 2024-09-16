@@ -4,8 +4,8 @@ latitude: 43.28882
 longitude: 5.59341
 postcode: "13400"
 city: Aubagne
-street: "Avenue des Caniers"
-housenumber: 506
-phone: "+33 4 42 03 28 46"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.khaan.fr/"
+street: Avenue des Caniers
+housenumber: "506"
+phone: +33 4 42 03 28 46
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.khaan.fr/

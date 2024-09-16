@@ -4,8 +4,8 @@ latitude: 43.49288
 longitude: 6.36281
 postcode: "83510"
 city: Lorgues
-street: "Rue de l'Église"
-housenumber: 1
-phone: "+33 6 27 13 58 51"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-12:30"
-website: "https://www.kinoalo.com/"
+street: Rue de l'Église
+housenumber: "1"
+phone: +33 6 27 13 58 51
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-12:30
+website: https://www.kinoalo.com/

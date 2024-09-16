@@ -4,8 +4,8 @@ latitude: 43.49223
 longitude: 6.36358
 postcode: "83510"
 city: Lorgues
-street: "Avenue des Quatre Pierres"
-housenumber: 1
-phone: "+33 6 29 97 46 74"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-12:00"
-website: "https://latelierdemilie.fr/"
+street: Avenue des Quatre Pierres
+housenumber: "1"
+phone: +33 6 29 97 46 74
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-12:00
+website: https://latelierdemilie.fr/

@@ -1,11 +1,11 @@
 id: 1303700165
-type: way
+type: node
 latitude: 43.521
 longitude: 6.47342
 postcode: "83300"
 city: Draguignan
-street: "Avenue du Général de Gaulle"
-housenumber: 1033
+street: Avenue du Général de Gaulle
+housenumber: "1033"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30"
-website: "https://boulangeries.marieblachere.com/draguignan/"
+opening_hours: Mo-Sa 06:30-19:30
+website: https://boulangeries.marieblachere.com/draguignan/

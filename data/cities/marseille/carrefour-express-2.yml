@@ -5,7 +5,7 @@ longitude: 5.38646
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 42
-phone: "+33 4 91 98 19 53"
-opening_hours: "Mo-Sa 08:00-21:00; su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-marseille-lodi"
+housenumber: "42"
+phone: +33 4 91 98 19 53
+opening_hours: Mo-Sa 08:00-21:00; su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-marseille-lodi

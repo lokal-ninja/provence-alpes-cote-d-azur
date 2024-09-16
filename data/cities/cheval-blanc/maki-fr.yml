@@ -4,8 +4,9 @@ latitude: 43.81601
 longitude: 5.06478
 postcode: "84460"
 city: Cheval-Blanc
-street: "Chemin d'Orgon à Robion"
+street: Chemin d'Orgon à Robion
 housenumber: 610C
 phone: ""
-opening_hours: "Mo-Tu 09:00-12:00, 14:00-17:00; We 09:00-12:00; Th-Fr 09:00-12:00, 14:00-17:00"
-website: "https://www.papiermaki.fr"
+opening_hours: Mo-Tu 09:00-12:00, 14:00-17:00; We 09:00-12:00; Th-Fr 09:00-12:00,
+    14:00-17:00
+website: https://www.papiermaki.fr

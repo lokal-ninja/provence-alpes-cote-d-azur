@@ -1,11 +1,11 @@
 id: 78261201
-type: way
+type: node
 latitude: 44.22586
 longitude: 4.93376
 postcode: "84290"
 city: Cairanne
-street: "Route de Carpentras"
-housenumber: 
-phone: "+33 4 90 30 87 29"
+street: Route de Carpentras
+housenumber: ""
+phone: +33 4 90 30 87 29
 opening_hours: ""
 website: ""

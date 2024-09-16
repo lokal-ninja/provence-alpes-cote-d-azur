@@ -4,8 +4,8 @@ latitude: 43.2444
 longitude: 6.57452
 postcode: "83580"
 city: Gassin
-street: "Route du Bourrian"
-housenumber: 825
+street: Route du Bourrian
+housenumber: "825"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://maisondesconfitures.fr/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://maisondesconfitures.fr/

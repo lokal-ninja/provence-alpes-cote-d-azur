@@ -4,8 +4,8 @@ latitude: 43.67834
 longitude: 4.62575
 postcode: "13200"
 city: Arles
-street: "Rue du Docteur Fanton"
-housenumber: 34
-phone: "+33 4 90 96 76 06"
-opening_hours: "Jul-Sep 09:30-19:00; Jun 19-30 09:30-19:00"
-website: "https://www.rencontres-arles.com/fr/informations-pratiques/"
+street: Rue du Docteur Fanton
+housenumber: "34"
+phone: +33 4 90 96 76 06
+opening_hours: Jul-Sep 09:30-19:00; Jun 19-30 09:30-19:00
+website: https://www.rencontres-arles.com/fr/informations-pratiques/

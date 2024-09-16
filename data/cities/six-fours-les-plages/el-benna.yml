@@ -1,11 +1,11 @@
 id: 143153203
-type: way
+type: node
 latitude: 43.11731
 longitude: 5.84309
 postcode: "83140"
 city: Six-Fours les Plages
-street: "Avenue de l'Europe"
-housenumber: 50
+street: Avenue de l'Europe
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

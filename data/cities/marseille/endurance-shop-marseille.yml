@@ -1,11 +1,11 @@
 id: 157788627
-type: way
+type: node
 latitude: 43.29977
 longitude: 5.47708
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 164
-phone: "+33 4 91 31 80 22"
-opening_hours: "Mo-Sa 10:00-19:00"
+housenumber: "164"
+phone: +33 4 91 31 80 22
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

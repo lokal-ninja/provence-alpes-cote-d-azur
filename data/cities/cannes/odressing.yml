@@ -4,8 +4,8 @@ latitude: 43.54825
 longitude: 7.04161
 postcode: "06400"
 city: Cannes
-street: "Avenue du Maréchal Juin"
-housenumber: 85
-phone: "+33 4 93 69 17 74"
-opening_hours: "Mo-Sa 09:00-18:30"
+street: Avenue du Maréchal Juin
+housenumber: "85"
+phone: +33 4 93 69 17 74
+opening_hours: Mo-Sa 09:00-18:30
 website: ""

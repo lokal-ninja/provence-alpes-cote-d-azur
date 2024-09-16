@@ -4,8 +4,9 @@ latitude: 43.56927
 longitude: 7.07825
 postcode: "06220"
 city: Golfe Juan
-street: "Avenue de la Liberté"
-housenumber: 142
-phone: "+33 4 93 63 15 20"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/368-picard-golfe-juan"
+street: Avenue de la Liberté
+housenumber: "142"
+phone: +33 4 93 63 15 20
+opening_hours: Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30;
+    Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/368-picard-golfe-juan

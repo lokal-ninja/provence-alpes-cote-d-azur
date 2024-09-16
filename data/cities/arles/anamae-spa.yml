@@ -1,11 +1,11 @@
 id: 1052632018
-type: way
+type: node
 latitude: 43.65242
 longitude: 4.64423
 postcode: "13200"
 city: Arles
-street: "Chemin de la Prairie"
-housenumber: 539
-phone: "+334 90 93 30 04"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.anamae-spa.fr/home"
+street: Chemin de la Prairie
+housenumber: "539"
+phone: +334 90 93 30 04
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.anamae-spa.fr/home

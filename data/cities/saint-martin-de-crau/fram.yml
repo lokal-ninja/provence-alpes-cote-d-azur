@@ -4,8 +4,9 @@ latitude: 43.63738
 longitude: 4.80702
 postcode: "13310"
 city: Saint-Martin-de-Crau
-street: "Avenue de la République"
-housenumber: 
+street: Avenue de la République
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Th 09:15-12:15,14:15-18:15; Mo 14:00-18:00; Fr,Sa 09:00-12:30, Fr 14:30-18:30"
+opening_hours: Tu-Th 09:15-12:15,14:15-18:15; Mo 14:00-18:00; Fr,Sa 09:00-12:30, Fr
+    14:30-18:30
 website: ""

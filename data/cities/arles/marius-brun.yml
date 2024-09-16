@@ -4,8 +4,8 @@ latitude: 43.67358
 longitude: 4.63867
 postcode: "13200"
 city: Arles
-street: "Rue Yvan Audouard"
-housenumber: 3
-phone: "+33 4 90 96 36 46"
+street: Rue Yvan Audouard
+housenumber: "3"
+phone: +33 4 90 96 36 46
 opening_hours: ""
-website: "https://brunrice.com/"
+website: https://brunrice.com/

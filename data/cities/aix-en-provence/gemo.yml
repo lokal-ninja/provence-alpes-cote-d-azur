@@ -1,11 +1,11 @@
 id: 88763570
-type: way
+type: node
 latitude: 43.50735
 longitude: 5.40178
 postcode: "13290"
 city: Aix-en-Provence
-street: "Rue Arnaud Borrili"
-housenumber: 20
+street: Rue Arnaud Borrili
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-20:00"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-20:00
 website: ""

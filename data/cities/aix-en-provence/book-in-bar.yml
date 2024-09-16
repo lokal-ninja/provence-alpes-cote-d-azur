@@ -4,8 +4,8 @@ latitude: 43.52572
 longitude: 5.4487
 postcode: "13100"
 city: Aix-en-Provence
-street: "Rue Joseph Cabassol"
-housenumber: 4
-phone: "+33 4 42 26 60 07"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bookinbar.com/"
+street: Rue Joseph Cabassol
+housenumber: "4"
+phone: +33 4 42 26 60 07
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bookinbar.com/

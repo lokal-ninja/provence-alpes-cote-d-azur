@@ -1,11 +1,11 @@
 id: 143140274
-type: way
+type: node
 latitude: 43.11562
 longitude: 5.84351
 postcode: "83140"
 city: Six-Fours les Plages
-street: "Rue des Métiers"
-housenumber: 60
+street: Rue des Métiers
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

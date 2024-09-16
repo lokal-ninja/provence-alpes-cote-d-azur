@@ -1,11 +1,11 @@
 id: 64719530
-type: way
+type: node
 latitude: 43.61955
 longitude: 6.97193
 postcode: "06370"
 city: Mouans-Sartoux
-street: "Avenue de Cannes"
-housenumber: 135
+street: Avenue de Cannes
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

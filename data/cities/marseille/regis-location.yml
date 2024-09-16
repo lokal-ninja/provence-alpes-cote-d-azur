@@ -5,7 +5,7 @@ longitude: 5.50771
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 176
-phone: "+33 4 91 87 81 81"
+housenumber: "176"
+phone: +33 4 91 87 81 81
 opening_hours: ""
-website: "https://regis-location.fr/trouver_votre_agence"
+website: https://regis-location.fr/trouver_votre_agence

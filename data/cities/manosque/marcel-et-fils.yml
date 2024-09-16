@@ -1,11 +1,11 @@
 id: 89325581
-type: way
+type: node
 latitude: 43.82375
 longitude: 5.79177
 postcode: "04100"
 city: Manosque
-street: "Avenue Maréchal de Lattre de Tassigny"
-housenumber: 101
+street: Avenue Maréchal de Lattre de Tassigny
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://marceletfils.com/pages/manosque"
+website: https://marceletfils.com/pages/manosque

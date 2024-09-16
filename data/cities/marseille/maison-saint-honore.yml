@@ -4,8 +4,8 @@ latitude: 43.28367
 longitude: 5.38543
 postcode: "13006"
 city: Marseille
-street: "Avenue du Prado"
-housenumber: 41
+street: Avenue du Prado
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:30"
+opening_hours: Mo-Sa 07:00-19:30
 website: ""

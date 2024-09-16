@@ -1,11 +1,11 @@
 id: 85433903
-type: way
+type: node
 latitude: 43.73432
 longitude: 5.37508
 postcode: "84160"
 city: Cadenet
-street: "Place Mirabeau"
-housenumber: 10
-phone: "+33 4 90 68 37 89"
-opening_hours: "Thu-Sat,Mon-Tue 06:00-13:00,15:30-18:30"
+street: Place Mirabeau
+housenumber: "10"
+phone: +33 4 90 68 37 89
+opening_hours: Thu-Sat,Mon-Tue 06:00-13:00,15:30-18:30
 website: ""

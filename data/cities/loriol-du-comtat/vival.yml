@@ -1,11 +1,12 @@
 id: 447480023
-type: way
+type: node
 latitude: 44.07648
 longitude: 5.00172
 postcode: "84870"
 city: Loriol-du-Comtat
-street: "Place du Village"
-housenumber: 155
-phone: "+33 4 90 65 75 62"
-opening_hours: "Mo-Tu 07:30-12:30, 15:30-19:30; We 07:30-12:30; Th-Sa 07:30-12:30, 15:30-19:30; Su 08:00-12:30"
-website: "https://magasins.vival.fr/fr/s/vival-loriol-du-comtat"
+street: Place du Village
+housenumber: "155"
+phone: +33 4 90 65 75 62
+opening_hours: Mo-Tu 07:30-12:30, 15:30-19:30; We 07:30-12:30; Th-Sa 07:30-12:30,
+    15:30-19:30; Su 08:00-12:30
+website: https://magasins.vival.fr/fr/s/vival-loriol-du-comtat

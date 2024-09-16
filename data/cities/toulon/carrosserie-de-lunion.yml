@@ -4,8 +4,8 @@ latitude: 43.12125
 longitude: 5.94331
 postcode: "83100"
 city: Toulon
-street: "Rue Paul Arène"
-housenumber: 6
-phone: "+33 4 94 41 72 06"
-opening_hours: "Mo-Fr 09:00-18:30"
+street: Rue Paul Arène
+housenumber: "6"
+phone: +33 4 94 41 72 06
+opening_hours: Mo-Fr 09:00-18:30
 website: ""

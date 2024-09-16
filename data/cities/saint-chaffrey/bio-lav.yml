@@ -1,11 +1,11 @@
 id: 74819845
-type: way
+type: node
 latitude: 44.92813
 longitude: 6.60492
 postcode: "05330"
 city: Saint-Chaffrey
-street: "Route du Pont Levis"
-housenumber: 30
-phone: "+33 4 92 57 12 42"
+street: Route du Pont Levis
+housenumber: "30"
+phone: +33 4 92 57 12 42
 opening_hours: ""
 website: ""

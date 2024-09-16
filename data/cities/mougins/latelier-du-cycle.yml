@@ -4,8 +4,8 @@ latitude: 43.60495
 longitude: 6.98989
 postcode: "06250"
 city: Mougins
-street: "Impasse Font-Roubert"
-housenumber: 62
+street: Impasse Font-Roubert
+housenumber: "62"
 phone: ""
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "http://www.latelierducycle.fr/"
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:00-18:00
+website: http://www.latelierducycle.fr/

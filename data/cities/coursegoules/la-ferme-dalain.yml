@@ -4,8 +4,8 @@ latitude: 43.7652
 longitude: 7.06789
 postcode: "06140"
 city: Coursegoules
-street: "Route de Saint-Barnabé"
-housenumber: 220
+street: Route de Saint-Barnabé
+housenumber: "220"
 phone: ""
-opening_hours: "Appelez svp"
+opening_hours: '"Appelez svp"'
 website: ""

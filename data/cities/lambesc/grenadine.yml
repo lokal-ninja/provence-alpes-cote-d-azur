@@ -1,11 +1,11 @@
 id: 53158148
-type: way
+type: node
 latitude: 43.65437
 longitude: 5.26184
 postcode: "13410"
 city: Lambesc
-street: "Place Jean Jaurès"
-housenumber: 7
+street: Place Jean Jaurès
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

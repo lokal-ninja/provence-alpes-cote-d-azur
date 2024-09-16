@@ -1,11 +1,11 @@
 id: 92592502
-type: way
+type: node
 latitude: 43.29278
 longitude: 5.56659
 postcode: "13400"
 city: Aubagne
-street: "Cours Barthélemy"
-housenumber: 12
+street: Cours Barthélemy
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

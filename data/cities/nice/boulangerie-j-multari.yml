@@ -4,8 +4,8 @@ latitude: 43.69673
 longitude: 7.2891
 postcode: "06300"
 city: Nice
-street: "Boulevard Carnot"
-housenumber: 34
-phone: "+33 4 23 20 01 27"
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://www.multari.fr/points-de-vente/"
+street: Boulevard Carnot
+housenumber: "34"
+phone: +33 4 23 20 01 27
+opening_hours: Mo-Su 06:00-20:00
+website: https://www.multari.fr/points-de-vente/

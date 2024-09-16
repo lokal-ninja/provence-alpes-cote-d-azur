@@ -5,7 +5,7 @@ longitude: 5.41953
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 4
-phone: "+33 4 91 06 34 11"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:30"
-website: "https://www.brossette.fr/infos-agence/marseille-malpasse-brossette-2405"
+housenumber: "4"
+phone: +33 4 91 06 34 11
+opening_hours: Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:30
+website: https://www.brossette.fr/infos-agence/marseille-malpasse-brossette-2405

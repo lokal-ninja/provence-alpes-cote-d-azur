@@ -4,8 +4,8 @@ latitude: 43.29241
 longitude: 5.56744
 postcode: "13400"
 city: Aubagne
-street: "Place des Quinze"
-housenumber: 5
+street: Place des Quinze
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Sa 09:00-13:00,14:00-19:00"
+opening_hours: Tu-Sa 09:00-13:00,14:00-19:00
 website: ""

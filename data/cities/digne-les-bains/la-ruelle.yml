@@ -4,8 +4,8 @@ latitude: 44.09273
 longitude: 6.23589
 postcode: "04000"
 city: Digne-les-Bains
-street: "Place du Général de Gaulle"
-housenumber: 18
-phone: "+33.4 92 31 50 19"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:30,13:30-19:00"
-website: "https://www.librairielaruelle.com/"
+street: Place du Général de Gaulle
+housenumber: "18"
+phone: +33.4 92 31 50 19
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:30,13:30-19:00
+website: https://www.librairielaruelle.com/

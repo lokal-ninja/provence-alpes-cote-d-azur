@@ -1,11 +1,11 @@
 id: 137376864
-type: way
+type: node
 latitude: 43.70442
 longitude: 7.28666
 postcode: ""
 city: Nice
-street: "Passage Barberis"
-housenumber: 73
+street: Passage Barberis
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

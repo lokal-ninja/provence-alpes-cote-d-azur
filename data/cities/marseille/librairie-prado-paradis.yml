@@ -5,7 +5,7 @@ longitude: 5.3884
 postcode: "13008"
 city: Marseille
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.librairiepradoparadis.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.librairiepradoparadis.fr/

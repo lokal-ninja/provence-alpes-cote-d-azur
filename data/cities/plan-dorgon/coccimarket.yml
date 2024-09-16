@@ -4,8 +4,8 @@ latitude: 43.80741
 longitude: 4.99648
 postcode: "13750"
 city: Plan-d'Orgon
-street: "Route de Marseille"
-housenumber: 65
-phone: "+33 4 90 73 58 85"
+street: Route de Marseille
+housenumber: "65"
+phone: +33 4 90 73 58 85
 opening_hours: ""
-website: "https://www.coccinelle.fr/"
+website: https://www.coccinelle.fr/

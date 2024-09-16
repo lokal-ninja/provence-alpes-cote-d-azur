@@ -4,8 +4,8 @@ latitude: 43.7228
 longitude: 7.11147
 postcode: "06140"
 city: Vence
-street: "Place du Grand Jardin"
-housenumber: 22
-phone: "+33 4 93 24 63 03"
-opening_hours: "Mo-Sa 09:30-12:30,15:00-19:00; Su 10:00-12:30"
-website: "https://www.leonidas.com/en/shops/vence/leonidas-vence"
+street: Place du Grand Jardin
+housenumber: "22"
+phone: +33 4 93 24 63 03
+opening_hours: Mo-Sa 09:30-12:30,15:00-19:00; Su 10:00-12:30
+website: https://www.leonidas.com/en/shops/vence/leonidas-vence

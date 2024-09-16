@@ -1,11 +1,11 @@
 id: 112903059
-type: way
+type: node
 latitude: 44.52937
 longitude: 5.80952
 postcode: "05400"
 city: Veynes
-street: "Avenue Jean Moulin"
-housenumber: 
-phone: "+33 9 70 35 15 56"
+street: Avenue Jean Moulin
+housenumber: ""
+phone: +33 9 70 35 15 56
 opening_hours: ""
 website: ""

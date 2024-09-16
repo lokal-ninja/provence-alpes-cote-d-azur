@@ -1,11 +1,11 @@
 id: 165112964
-type: way
+type: node
 latitude: 43.12245
 longitude: 5.88073
 postcode: "83190"
 city: Ollioules
-street: "Chemin des Canniers"
-housenumber: 468
+street: Chemin des Canniers
+housenumber: "468"
 phone: ""
 opening_hours: ""
 website: ""

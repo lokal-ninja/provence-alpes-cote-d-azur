@@ -1,11 +1,11 @@
 id: 120885402
-type: way
+type: node
 latitude: 43.52619
 longitude: 6.4557
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Saint-Exupéry"
-housenumber: 865
-phone: "+33 4 94 50 44 90"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00"
-website: "https://magasin.gammvert.fr/611547-gamm-vert-de-draguignan"
+street: Boulevard Saint-Exupéry
+housenumber: "865"
+phone: +33 4 94 50 44 90
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00
+website: https://magasin.gammvert.fr/611547-gamm-vert-de-draguignan

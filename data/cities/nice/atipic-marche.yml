@@ -1,11 +1,11 @@
 id: 140242318
-type: way
+type: node
 latitude: 43.68948
 longitude: 7.21967
 postcode: ""
 city: Nice
-street: "Avenue de Fabron"
-housenumber: 221
-phone: "04 93 72 10 68"
+street: Avenue de Fabron
+housenumber: "221"
+phone: 04 93 72 10 68
 opening_hours: ""
 website: ""

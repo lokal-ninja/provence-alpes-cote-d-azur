@@ -1,11 +1,11 @@
 id: 151889688
-type: way
+type: node
 latitude: 43.12456
 longitude: 5.87971
 postcode: "83190"
 city: Ollioules
-street: "Chemin des Canniers"
-housenumber: 
-phone: "+33 4 94 18 54 40"
-opening_hours: "Mo-Sa 07:30-19:30"
+street: Chemin des Canniers
+housenumber: ""
+phone: +33 4 94 18 54 40
+opening_hours: Mo-Sa 07:30-19:30
 website: ""

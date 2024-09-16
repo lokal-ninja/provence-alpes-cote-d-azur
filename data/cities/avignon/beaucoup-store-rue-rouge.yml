@@ -4,8 +4,8 @@ latitude: 43.94827
 longitude: 4.80713
 postcode: "84000"
 city: Avignon
-street: "Rue Rouge"
-housenumber: 3
+street: Rue Rouge
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://beaucoup-store.fr/"
+website: https://beaucoup-store.fr/

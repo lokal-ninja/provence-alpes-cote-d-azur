@@ -1,11 +1,11 @@
 id: 88089726
-type: way
+type: node
 latitude: 44.02287
 longitude: 5.10918
 postcode: "84210"
 city: Saint-Didier
-street: "Rue des Chênes Kermès"
-housenumber: 141
+street: Rue des Chênes Kermès
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Sa 07:30-12:00,13:30-17:00"
+opening_hours: Mo-Sa 07:30-12:00,13:30-17:00
 website: ""

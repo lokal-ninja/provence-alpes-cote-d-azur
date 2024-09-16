@@ -5,7 +5,7 @@ longitude: 5.38918
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 2
-phone: "+33 4 65 96 53 20"
-opening_hours: "Mo-Sa 09:00-20:00, Su 09:00-12:00"
-website: "https://www.facebook.com/EPICERIEVRACADIT"
+housenumber: "2"
+phone: +33 4 65 96 53 20
+opening_hours: Mo-Sa 09:00-20:00, Su 09:00-12:00
+website: https://www.facebook.com/EPICERIEVRACADIT

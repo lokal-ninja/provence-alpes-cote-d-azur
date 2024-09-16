@@ -4,8 +4,8 @@ latitude: 43.27564
 longitude: 5.3842
 postcode: "13008"
 city: Marseille
-street: "Rue Paradis"
-housenumber: 426
+street: Rue Paradis
+housenumber: "426"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:30"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:30
 website: ""

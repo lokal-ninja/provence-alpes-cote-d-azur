@@ -1,11 +1,11 @@
 id: 145372803
-type: way
+type: node
 latitude: 43.12269
 longitude: 5.9345
 postcode: "83000"
 city: Toulon
-street: "Rue Alezard"
-housenumber: 83
+street: Rue Alezard
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 287305371
-type: way
+type: node
 latitude: 43.68178
 longitude: 5.50377
 postcode: "84120"
 city: Pertuis
-street: "Rue Léonard de Vinci"
-housenumber: 203
+street: Rue Léonard de Vinci
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00,14:00-19:00"
+opening_hours: Mo-Sa 08:00-12:00,14:00-19:00
 website: ""

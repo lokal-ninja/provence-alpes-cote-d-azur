@@ -1,11 +1,11 @@
 id: 108754906
-type: way
+type: node
 latitude: 43.72316
 longitude: 7.29038
 postcode: ""
 city: Nice
-street: "Route de Turin"
+street: Route de Turin
 housenumber: 170-174
-phone: "04 97 12 69 50"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-13:00"
-website: "https://www.e.leclerc/mag/e-leclerc-nice-pont-michel"
+phone: 04 97 12 69 50
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-13:00
+website: https://www.e.leclerc/mag/e-leclerc-nice-pont-michel

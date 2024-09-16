@@ -4,8 +4,8 @@ latitude: 43.50987
 longitude: 5.40873
 postcode: "13547"
 city: Aix-en-Provence
-street: "Chemin de la Pioline"
-housenumber: 90
+street: Chemin de la Pioline
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.bioandco.bio/magasins_bioandco_bio"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.bioandco.bio/magasins_bioandco_bio

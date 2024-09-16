@@ -4,8 +4,8 @@ latitude: 43.8542
 longitude: 4.76665
 postcode: "13690"
 city: Graveson
-street: "Chemin des Aréniers"
-housenumber: 48
-phone: "+33 4 90 95 71 12"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 10:00-12:30,15:00-19:30"
-website: "https://vilavigne.fr/"
+street: Chemin des Aréniers
+housenumber: "48"
+phone: +33 4 90 95 71 12
+opening_hours: Mo 14:30-19:00; Tu-Sa 10:00-12:30,15:00-19:30
+website: https://vilavigne.fr/

@@ -4,8 +4,9 @@ latitude: 44.42941
 longitude: 5.71689
 postcode: "05700"
 city: Serres
-street: "Place de la Liberté"
-housenumber: 3
-phone: "+33 4 92 67 04 46"
-opening_hours: "Mo-We 07:00-12:15,15:15-19:00; Th 07:00-12:15; Fr-Sa 07:00-12:15, 15:15-19:00; Su 09:00-12:00"
+street: Place de la Liberté
+housenumber: "3"
+phone: +33 4 92 67 04 46
+opening_hours: Mo-We 07:00-12:15,15:15-19:00; Th 07:00-12:15; Fr-Sa 07:00-12:15, 15:15-19:00;
+    Su 09:00-12:00
 website: ""

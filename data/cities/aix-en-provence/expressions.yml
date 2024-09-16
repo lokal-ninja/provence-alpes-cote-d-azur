@@ -1,11 +1,11 @@
 id: 88612877
-type: way
+type: node
 latitude: 43.52584
 longitude: 5.45297
 postcode: "13100"
 city: Aix-en-Provence
-street: "Rue Cardinale"
-housenumber: 1
+street: Rue Cardinale
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.abgertz.fr/"
+website: http://www.abgertz.fr/

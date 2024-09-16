@@ -1,11 +1,11 @@
 id: 734158415
-type: way
+type: node
 latitude: 43.30659
 longitude: 5.36373
 postcode: "13002"
 city: Marseille
-street: "Boulevard Jacques Saadé Quai du Lazaret"
-housenumber: 9
-phone: "+33 4 20 10 54 00"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.apple.com/fr/retail/marseille"
+street: Boulevard Jacques Saadé Quai du Lazaret
+housenumber: "9"
+phone: +33 4 20 10 54 00
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.apple.com/fr/retail/marseille

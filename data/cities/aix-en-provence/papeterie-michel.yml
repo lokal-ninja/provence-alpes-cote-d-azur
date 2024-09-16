@@ -4,8 +4,10 @@ latitude: 43.52726
 longitude: 5.45106
 postcode: "13100"
 city: Aix-en-Provence
-street: "Cours Mirabeau"
-housenumber: 59
+street: Cours Mirabeau
+housenumber: "59"
 phone: ""
-opening_hours: "Mo 10:00-19:00 open Le service photocopies est fermé de 12 h à 15 h.; Tu-Sa 09:30-19:00 open Le service photocopies est fermé de 12 h à 15 h.; PH closed"
+opening_hours: Mo 10:00-19:00 open "Le service photocopies est fermé de 12 h à 15
+    h."; Tu-Sa 09:30-19:00 open "Le service photocopies est fermé de 12 h à 15 h.";
+    PH closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.52064
 longitude: 6.47192
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Jean Mermoz"
-housenumber: 489
-phone: "+33 4 94 68 38 66"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:30"
-website: "https://www.cashcarrelage.fr/contact.html"
+street: Boulevard Jean Mermoz
+housenumber: "489"
+phone: +33 4 94 68 38 66
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:30
+website: https://www.cashcarrelage.fr/contact.html

@@ -4,8 +4,8 @@ latitude: 43.69437
 longitude: 7.28753
 postcode: "06300"
 city: Nice
-street: "Boulevard Franck Pilatte"
-housenumber: 7
+street: Boulevard Franck Pilatte
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Th 10:00-19:00; Fr-Sa 09:00-19:00"
-website: "https://barberhouse.fr/"
+opening_hours: Mo,Su off; Tu-Th 10:00-19:00; Fr-Sa 09:00-19:00
+website: https://barberhouse.fr/

@@ -1,11 +1,11 @@
 id: 1165119001
-type: way
+type: node
 latitude: 43.70491
 longitude: 7.26252
 postcode: ""
 city: Nice
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-16:30; Su 12:00-17:30"
+opening_hours: Mo-Sa 08:00-16:30; Su 12:00-17:30
 website: ""

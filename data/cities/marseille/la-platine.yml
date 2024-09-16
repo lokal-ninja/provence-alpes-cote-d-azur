@@ -5,7 +5,7 @@ longitude: 5.39044
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 64
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "http://www.laplatine.com"
+website: http://www.laplatine.com

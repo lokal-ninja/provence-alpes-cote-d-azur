@@ -4,8 +4,8 @@ latitude: 43.46101
 longitude: 6.63781
 postcode: "83520"
 city: Roquebrune-sur-Argens
-street: "Rue de la Tuilerie"
-housenumber: 128
-phone: "+33 4 94 19 33 80"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00"
-website: "https://reseau.citroen.fr/reparateur-roquebrune-sur-argens"
+street: Rue de la Tuilerie
+housenumber: "128"
+phone: +33 4 94 19 33 80
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:00
+website: https://reseau.citroen.fr/reparateur-roquebrune-sur-argens

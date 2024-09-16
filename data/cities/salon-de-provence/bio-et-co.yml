@@ -4,8 +4,8 @@ latitude: 43.62235
 longitude: 5.08864
 postcode: "13300"
 city: Salon-de-Provence
-street: "Chemin des Cardelines"
-housenumber: 
+street: Chemin des Cardelines
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00; Su 09:00-13:00"
-website: "https://www.bioandco.bio/magasins_bioandco_bio"
+opening_hours: Mo-Sa 08:30-19:00; Su 09:00-13:00
+website: https://www.bioandco.bio/magasins_bioandco_bio

@@ -4,8 +4,8 @@ latitude: 43.28833
 longitude: 5.59798
 postcode: "13400"
 city: Aubagne
-street: "Rue des Quatre Termes"
-housenumber: 100
-phone: "+33 6 72 48 16 11"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.adopteunbarbier.com/"
+street: Rue des Quatre Termes
+housenumber: "100"
+phone: +33 6 72 48 16 11
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.adopteunbarbier.com/

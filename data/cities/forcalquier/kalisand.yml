@@ -4,8 +4,8 @@ latitude: 43.95855
 longitude: 5.78051
 postcode: "04300"
 city: Forcalquier
-street: "Grande Rue"
-housenumber: 10
-phone: "+33 6 46623149;+33 4 13370520"
-opening_hours: "Mo 10:00-13:30; Th-Sa 10:00-13:00; Mo-Sa 15:00-19:00"
-website: "https://www.kalisand.com"
+street: Grande Rue
+housenumber: "10"
+phone: +33 6 46623149;+33 4 13370520
+opening_hours: Mo 10:00-13:30; Th-Sa 10:00-13:00; Mo-Sa 15:00-19:00
+website: https://www.kalisand.com

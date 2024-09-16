@@ -4,8 +4,8 @@ latitude: 43.13682
 longitude: 6.00543
 postcode: "83160"
 city: La Valette-du-Var
-street: "Avenue de l'Université"
-housenumber: 115
-phone: "+33 4 98 04 39 80"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.intersport.fr/Var-83/LAVALETTEDUVAR-83160/INTERSPORT-LAVALETTEDUVAR/00831_000/"
+street: Avenue de l'Université
+housenumber: "115"
+phone: +33 4 98 04 39 80
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.intersport.fr/Var-83/LAVALETTEDUVAR-83160/INTERSPORT-LAVALETTEDUVAR/00831_000/

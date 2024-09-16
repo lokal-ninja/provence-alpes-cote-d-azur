@@ -1,11 +1,11 @@
 id: 130473691
-type: way
+type: node
 latitude: 43.42764
 longitude: 6.78966
 postcode: "83700"
 city: Saint-Raphaël
-street: "Boulevard Jean Moulin"
-housenumber: 1254
-phone: "+33 4 94 53 02 00"
+street: Boulevard Jean Moulin
+housenumber: "1254"
+phone: +33 4 94 53 02 00
 opening_hours: ""
-website: "https://www.marcel-et-fils.com/saint-raphael/"
+website: https://www.marcel-et-fils.com/saint-raphael/

@@ -4,8 +4,8 @@ latitude: 43.52237
 longitude: 5.25395
 postcode: "13880"
 city: Velaux
-street: "Place François Caire"
-housenumber: 15
+street: Place François Caire
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:30,16:00-19:30; Sa 08:00-19:30; Su 08:00-12:30"
-website: "https://lapecheauvillage.com/"
+opening_hours: Tu-Fr 08:00-12:30,16:00-19:30; Sa 08:00-19:30; Su 08:00-12:30
+website: https://lapecheauvillage.com/

@@ -4,8 +4,8 @@ latitude: 43.12498
 longitude: 5.93541
 postcode: "83000"
 city: Toulon
-street: "Rue Picot"
-housenumber: 42
+street: Rue Picot
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://seagale.fr"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://seagale.fr

@@ -4,8 +4,8 @@ latitude: 43.70129
 longitude: 7.28792
 postcode: "06300"
 city: Nice
-street: "Boulevard de Riquier"
-housenumber: 9
-phone: "+33 4 93 26 48 24"
+street: Boulevard de Riquier
+housenumber: "9"
+phone: +33 4 93 26 48 24
 opening_hours: ""
-website: "https://coiffure-nice.fr/"
+website: https://coiffure-nice.fr/

@@ -1,11 +1,11 @@
 id: 452539453
-type: way
+type: node
 latitude: 43.12588
 longitude: 5.8626
 postcode: "83190"
 city: Ollioules
-street: "Chemin de Piedardant"
-housenumber: 123
+street: Chemin de Piedardant
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.49335
 longitude: 6.53511
 postcode: "83920"
 city: La Motte
-street: "Avenue Frédéric Mistral"
-housenumber: 6
-phone: "+33 4 94 76 10 30"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr-Sa 09:00-19:00"
+street: Avenue Frédéric Mistral
+housenumber: "6"
+phone: +33 4 94 76 10 30
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr-Sa 09:00-19:00
 website: ""

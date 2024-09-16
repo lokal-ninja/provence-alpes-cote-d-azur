@@ -1,11 +1,11 @@
 id: 1236632914
-type: way
+type: node
 latitude: 43.65241
 longitude: 5.26403
 postcode: "13410"
 city: Lambesc
-street: "Route d'Aix"
-housenumber: 3
+street: Route d'Aix
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

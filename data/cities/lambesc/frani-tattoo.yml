@@ -1,11 +1,11 @@
 id: 53263476
-type: way
+type: node
 latitude: 43.65485
 longitude: 5.26247
 postcode: "13410"
 city: Lambesc
-street: "Rue du Parage"
-housenumber: 5
+street: Rue du Parage
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

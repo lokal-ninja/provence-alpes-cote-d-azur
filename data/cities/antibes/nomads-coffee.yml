@@ -4,8 +4,8 @@ latitude: 43.58089
 longitude: 7.1272
 postcode: "06600"
 city: Antibes
-street: "Rue Sade"
-housenumber: 3
-phone: "+33 7 60 35 45 19"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://www.nomads-coffee.com/"
+street: Rue Sade
+housenumber: "3"
+phone: +33 7 60 35 45 19
+opening_hours: Mo-Su 08:00-17:00
+website: https://www.nomads-coffee.com/

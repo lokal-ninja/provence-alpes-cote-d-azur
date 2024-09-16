@@ -4,8 +4,8 @@ latitude: 43.49396
 longitude: 6.35671
 postcode: "83510"
 city: Lorgues
-street: "Chemin de l'Étang"
-housenumber: 8
-phone: "+33 4 98 17 19 26"
-opening_hours: "Tu-Fr 09:00-13:00,17:00-19:00; Sa 09:00-13:00"
+street: Chemin de l'Étang
+housenumber: "8"
+phone: +33 4 98 17 19 26
+opening_hours: Tu-Fr 09:00-13:00,17:00-19:00; Sa 09:00-13:00
 website: ""

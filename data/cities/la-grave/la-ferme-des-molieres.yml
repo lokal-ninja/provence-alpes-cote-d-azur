@@ -1,11 +1,11 @@
 id: 787400568
-type: way
+type: node
 latitude: 45.04744
 longitude: 6.30689
 postcode: "05320"
 city: La Grave
-street: "Montée des Molières"
-housenumber: 
+street: Montée des Molières
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 9:00-11:00 17:00-18:30"
+opening_hours: Mo-Su 9:00-11:00 17:00-18:30
 website: ""

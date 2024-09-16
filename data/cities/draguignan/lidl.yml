@@ -4,8 +4,8 @@ latitude: 43.54593
 longitude: 6.44383
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Léon Gambetta"
-housenumber: 
+street: Boulevard Léon Gambetta
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.lidl.fr/fr/index.htm"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.lidl.fr/fr/index.htm

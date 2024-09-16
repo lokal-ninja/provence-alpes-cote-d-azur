@@ -4,8 +4,8 @@ latitude: 43.6762
 longitude: 4.62685
 postcode: "13200"
 city: Arles
-street: "Rue de la République"
-housenumber: 58
-phone: "+33 4 90 96 93 62"
-opening_hours: "Mo-Sa 10:15-13:00,14:30-18:45"
-website: "https://fr.loccitane.com/bp/Arles,74,1,b02OCST027.htm"
+street: Rue de la République
+housenumber: "58"
+phone: +33 4 90 96 93 62
+opening_hours: Mo-Sa 10:15-13:00,14:30-18:45
+website: https://fr.loccitane.com/bp/Arles,74,1,b02OCST027.htm

@@ -1,11 +1,11 @@
 id: 83765080
-type: way
+type: node
 latitude: 43.91958
 longitude: 4.86817
 postcode: "84000"
 city: Avignon
-street: "Avenue Marcou Delanglade"
-housenumber: 330
+street: Avenue Marcou Delanglade
+housenumber: "330"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id

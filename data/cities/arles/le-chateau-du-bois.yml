@@ -4,8 +4,8 @@ latitude: 43.67634
 longitude: 4.62617
 postcode: "13200"
 city: Arles
-street: "Rue de la République"
-housenumber: 42
-phone: "+33 4 90 52 01 35"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-18:00"
-website: "http://www.lechateaudubois.com/fr/"
+street: Rue de la République
+housenumber: "42"
+phone: +33 4 90 52 01 35
+opening_hours: Tu-Sa 10:00-13:00,14:00-18:00
+website: http://www.lechateaudubois.com/fr/

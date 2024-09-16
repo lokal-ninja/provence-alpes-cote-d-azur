@@ -1,11 +1,11 @@
 id: 102104678
-type: way
+type: node
 latitude: 43.67556
 longitude: 4.62833
 postcode: "13200"
 city: Arles
-street: "Boulevard des Lices"
-housenumber: 10
-phone: "+33 4 90 18 25 91"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.souleiado.com"
+street: Boulevard des Lices
+housenumber: "10"
+phone: +33 4 90 18 25 91
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.souleiado.com

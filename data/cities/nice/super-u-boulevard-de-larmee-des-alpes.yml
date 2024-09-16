@@ -1,11 +1,11 @@
 id: 948164118
-type: way
+type: node
 latitude: 43.70719
 longitude: 7.29225
 postcode: "06300"
 city: Nice
-street: "Boulevard de l'Armée des Alpes"
-housenumber: 19
+street: Boulevard de l'Armée des Alpes
+housenumber: "19"
 phone: "+33422533383"
-opening_hours: "Mo-Sa 08:30-21:00; Su 08:30-13:00"
-website: "https://www.magasins-u.com/magasin/superu-nicearmeedesalpes"
+opening_hours: Mo-Sa 08:30-21:00; Su 08:30-13:00
+website: https://www.magasins-u.com/magasin/superu-nicearmeedesalpes

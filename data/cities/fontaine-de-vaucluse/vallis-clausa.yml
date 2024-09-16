@@ -1,11 +1,13 @@
 id: 1058482543
-type: way
+type: node
 latitude: 43.9217
 longitude: 5.13018
 postcode: "84800"
 city: Fontaine-de-Vaucluse
-street: "Chemin de la Fontaine"
-housenumber: 
+street: Chemin de la Fontaine
+housenumber: ""
 phone: ""
-opening_hours: "Jan,Dec 10:00-12:30,14:00-17:30; Feb-Mar,Nov 10:00-12:30,14:00-18:00; Apr,Oct 10:00-12:30,14:00-18:30; May-Jun,Sep 10:00-12:30,14:00-19:00; Jul-Aug 10:00-19:30; Dec 25,Jan 01 off"
-website: "https://www.moulin-vallisclausa.com/"
+opening_hours: Jan,Dec 10:00-12:30,14:00-17:30; Feb-Mar,Nov 10:00-12:30,14:00-18:00;
+    Apr,Oct 10:00-12:30,14:00-18:30; May-Jun,Sep 10:00-12:30,14:00-19:00; Jul-Aug
+    10:00-19:30; Dec 25,Jan 01 off
+website: https://www.moulin-vallisclausa.com/

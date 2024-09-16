@@ -1,11 +1,11 @@
 id: 125324798
-type: way
+type: node
 latitude: 43.92829
 longitude: 4.83671
 postcode: "84000"
 city: Avignon
 street: ""
-housenumber: 
-phone: "+33 4 90 25 95 78"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.jules.com/fr-fr/magasins/160013346/"
+housenumber: ""
+phone: +33 4 90 25 95 78
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.jules.com/fr-fr/magasins/160013346/

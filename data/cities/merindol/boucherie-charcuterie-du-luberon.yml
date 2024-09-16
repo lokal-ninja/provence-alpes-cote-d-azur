@@ -1,11 +1,11 @@
 id: 85625761
-type: way
+type: node
 latitude: 43.75605
 longitude: 5.20314
 postcode: "84360"
 city: Mérindol
-street: "Rue du Vieux Four"
-housenumber: 15
+street: Rue du Vieux Four
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

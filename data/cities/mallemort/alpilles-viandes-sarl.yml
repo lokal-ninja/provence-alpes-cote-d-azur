@@ -4,8 +4,9 @@ latitude: 43.73542
 longitude: 5.17317
 postcode: "13370"
 city: Mallemort
-street: "Route du Pont"
-housenumber: 
-phone: "04 90 59 48 91"
-opening_hours: "Tu-Fr 08:30-12:30, Tu-Sa 15:30-19:00, Sa 08:30-12:30,15:00-19:00, Su 08:30-12:30"
+street: Route du Pont
+housenumber: ""
+phone: 04 90 59 48 91
+opening_hours: Tu-Fr 08:30-12:30, Tu-Sa 15:30-19:00, Sa 08:30-12:30,15:00-19:00, Su
+    08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 91450885
-type: way
+type: node
 latitude: 43.93301
 longitude: 4.909
 postcode: "84310"
 city: Morières-lès-Avignon
-street: "Avenue Maurice Racamond"
-housenumber: 501
+street: Avenue Maurice Racamond
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

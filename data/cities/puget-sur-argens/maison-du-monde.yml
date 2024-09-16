@@ -1,11 +1,11 @@
 id: 656068343
-type: way
+type: node
 latitude: 43.44488
 longitude: 6.70189
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Quartier des Salles"
-housenumber: 
-phone: "+33 4 94 83 87 84"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.maisonsdumonde.com"
+street: Quartier des Salles
+housenumber: ""
+phone: +33 4 94 83 87 84
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.maisonsdumonde.com

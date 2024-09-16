@@ -1,11 +1,11 @@
 id: 158404887
-type: way
+type: node
 latitude: 43.63374
 longitude: 4.80279
 postcode: "13310"
 city: Saint-Martin-de-Crau
-street: "Rue des Bergers"
-housenumber: 34
-phone: "+33 4 90 47 40 08"
+street: Rue des Bergers
+housenumber: "34"
+phone: +33 4 90 47 40 08
 opening_hours: ""
 website: ""

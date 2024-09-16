@@ -1,11 +1,11 @@
 id: 138658091
-type: way
+type: node
 latitude: 43.73197
 longitude: 7.18677
 postcode: ""
 city: Nice
-street: "Boulevard du Mercantour"
-housenumber: 642
-phone: "+33 6 44 60 83 83"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-19:00"
-website: "https://www.leroymerlin.fr/magasins/nice.html"
+street: Boulevard du Mercantour
+housenumber: "642"
+phone: +33 6 44 60 83 83
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-19:00
+website: https://www.leroymerlin.fr/magasins/nice.html

@@ -1,11 +1,11 @@
 id: 78620703
-type: way
+type: node
 latitude: 44.11797
 longitude: 4.83901
 postcode: "84100"
 city: Orange
-street: "4 rue d’Espagne"
-housenumber: 
+street: 4 rue d’Espagne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su closed"
-website: "https://www.action.com/fr-fr/points-de-vente/orange-4-rue-despagne/"
+opening_hours: Mo-Sa 09:00-19:00; Su closed
+website: https://www.action.com/fr-fr/points-de-vente/orange-4-rue-despagne/

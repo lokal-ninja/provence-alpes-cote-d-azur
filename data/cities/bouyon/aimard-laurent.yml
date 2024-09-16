@@ -4,8 +4,8 @@ latitude: 43.82867
 longitude: 7.12139
 postcode: "06510"
 city: Bouyon
-street: "Route de l'Adrech"
-housenumber: 590
-phone: "+33 6 11 83 11 71"
-opening_hours: "Vente directe toute l'année + vente sur internet"
+street: Route de l'Adrech
+housenumber: "590"
+phone: +33 6 11 83 11 71
+opening_hours: '"Vente directe toute l''année + vente sur internet"'
 website: ""

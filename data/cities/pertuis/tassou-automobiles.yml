@@ -1,11 +1,11 @@
 id: 321099427
-type: way
+type: node
 latitude: 43.68303
 longitude: 5.50368
 postcode: "84120"
 city: Pertuis
-street: "Rue Léonard de Vinci"
-housenumber: 97
+street: Rue Léonard de Vinci
+housenumber: "97"
 phone: ""
 opening_hours: ""
-website: "http://www.volkswagen-seat-tassouautomobiles.fr/"
+website: http://www.volkswagen-seat-tassouautomobiles.fr/

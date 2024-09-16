@@ -1,11 +1,11 @@
 id: 89331072
-type: way
+type: node
 latitude: 43.82409
 longitude: 5.79976
 postcode: "04100"
 city: Manosque
-street: "Avenue Blaise Pascal"
-housenumber: 337
-phone: "+33 4 92 72 05 83"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00"
-website: "https://www.ad-auto.fr/"
+street: Avenue Blaise Pascal
+housenumber: "337"
+phone: +33 4 92 72 05 83
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00
+website: https://www.ad-auto.fr/

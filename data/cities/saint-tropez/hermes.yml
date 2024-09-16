@@ -4,8 +4,8 @@ latitude: 43.27087
 longitude: 6.63729
 postcode: "83990"
 city: Saint-Tropez
-street: "Rue Henri Seillon"
-housenumber: 2
+street: Rue Henri Seillon
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00, 15:00-18:30"
+opening_hours: Mo-Sa 10:00-13:00, 15:00-18:30
 website: ""

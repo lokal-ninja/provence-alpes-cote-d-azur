@@ -1,11 +1,11 @@
 id: 82908497
-type: way
+type: node
 latitude: 43.92234
 longitude: 5.05799
 postcode: "84800"
 city: L'Isle-sur-la-Sorgue
-street: "Cours Fernande Peyre"
-housenumber: 241
-phone: "+33 4 90 38 16 76"
-opening_hours: "Tu-Sa 07:00-20:00; Su 07:30-19:30"
+street: Cours Fernande Peyre
+housenumber: "241"
+phone: +33 4 90 38 16 76
+opening_hours: Tu-Sa 07:00-20:00; Su 07:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 297871772
-type: way
+type: node
 latitude: 43.60882
 longitude: 6.9813
 postcode: "06250"
 city: Mougins
-street: "Avenue Saint-Martin"
-housenumber: 667
-phone: "+33 4 92 92 87 99"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:00"
-website: "https://www.grandfrais.com/mougins/magasin-159.html"
+street: Avenue Saint-Martin
+housenumber: "667"
+phone: +33 4 92 92 87 99
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:00
+website: https://www.grandfrais.com/mougins/magasin-159.html

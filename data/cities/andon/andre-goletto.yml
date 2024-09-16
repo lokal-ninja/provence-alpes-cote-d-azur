@@ -4,8 +4,8 @@ latitude: 43.77153
 longitude: 6.81657
 postcode: "06750"
 city: Andon
-street: "Route du Castellaras"
-housenumber: 2250
-phone: "+33 6 67 28 67 63;+33 4 93 60 45 28"
-opening_hours: "Vente directe à la ferme toute l'année"
+street: Route du Castellaras
+housenumber: "2250"
+phone: +33 6 67 28 67 63;+33 4 93 60 45 28
+opening_hours: '"Vente directe à la ferme toute l''année"'
 website: ""

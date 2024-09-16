@@ -4,8 +4,8 @@ latitude: 43.53676
 longitude: 6.46343
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Georges Clemenceau"
-housenumber: 14
-phone: "+33 4 98 10 34 83"
-opening_hours: "Mo off; Tu-Sa 07:30-13:00,15:00-19:30; Su 07:30-13:00"
-website: "http://www.patisseriegirard.com/"
+street: Boulevard Georges Clemenceau
+housenumber: "14"
+phone: +33 4 98 10 34 83
+opening_hours: Mo off; Tu-Sa 07:30-13:00,15:00-19:30; Su 07:30-13:00
+website: http://www.patisseriegirard.com/

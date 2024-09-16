@@ -5,7 +5,8 @@ longitude: 4.80941
 postcode: "84000"
 city: Avignon
 street: ""
-housenumber: 7
-phone: "+33 4 90 27 92 61"
-opening_hours: "Apr 09:00-12:30,14:00-18:30; May-Aug 09:00-18:30; Su off; Sep-Nov 09:00-13:00,15:00-18:30; Su off"
-website: "https://www.provence-bike.com/"
+housenumber: "7"
+phone: +33 4 90 27 92 61
+opening_hours: Apr 09:00-12:30,14:00-18:30; May-Aug 09:00-18:30; Su off; Sep-Nov 09:00-13:00,15:00-18:30;
+    Su off
+website: https://www.provence-bike.com/

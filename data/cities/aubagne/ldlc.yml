@@ -4,8 +4,8 @@ latitude: 43.28657
 longitude: 5.59403
 postcode: "13400"
 city: Aubagne
-street: "Avenue des Caniers"
-housenumber: 6
-phone: "+33 4 28 70 45 15"
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "https://www.ldlc.com/magasins-ldlc/magasin-470084/13-ldlc-aubagne/"
+street: Avenue des Caniers
+housenumber: "6"
+phone: +33 4 28 70 45 15
+opening_hours: Mo-Sa 10:00-18:30
+website: https://www.ldlc.com/magasins-ldlc/magasin-470084/13-ldlc-aubagne/

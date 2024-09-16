@@ -4,8 +4,8 @@ latitude: 43.83148
 longitude: 5.78433
 postcode: "04100"
 city: Manosque
-street: "Avenue Jean Giono"
-housenumber: 1
+street: Avenue Jean Giono
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://laverie04.fr"
+opening_hours: Mo-Su 06:00-21:00
+website: https://laverie04.fr

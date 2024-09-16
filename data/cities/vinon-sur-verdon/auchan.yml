@@ -1,11 +1,11 @@
 id: 91132320
-type: way
+type: node
 latitude: 43.73234
 longitude: 5.8178
 postcode: "83560"
 city: Vinon-sur-Verdon
-street: "Route des Gorges"
-housenumber: 495
+street: Route des Gorges
+housenumber: "495"
 phone: ""
 opening_hours: ""
-website: "https://www.auchan.fr/magasins/supermarche/auchan-supermarche-vinon-sur-verdon/s-249"
+website: https://www.auchan.fr/magasins/supermarche/auchan-supermarche-vinon-sur-verdon/s-249

@@ -4,8 +4,8 @@ latitude: 43.29135
 longitude: 5.56953
 postcode: "13400"
 city: Aubagne
-street: "Rue de la République"
-housenumber: 51
+street: Rue de la République
+housenumber: "51"
 phone: ""
-opening_hours: "Mo 09:00-19:00; Tu-Sa 09:30-19:00; Su, PH off"
-website: "http://www.citron-vert.fr"
+opening_hours: Mo 09:00-19:00; Tu-Sa 09:30-19:00; Su, PH off
+website: http://www.citron-vert.fr

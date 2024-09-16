@@ -1,11 +1,11 @@
 id: 68970487
-type: way
+type: node
 latitude: 43.30253
 longitude: 5.39783
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
-website: "https://www.monoprix.fr/171.html"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:00
+website: https://www.monoprix.fr/171.html

@@ -1,11 +1,11 @@
 id: 712000475
-type: way
+type: node
 latitude: 44.51665
 longitude: 5.74609
 postcode: "05140"
 city: Aspres-sur-Buëch
-street: "ZA La Condamine"
-housenumber: 
+street: ZA La Condamine
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.argousier.com/"
+website: https://www.argousier.com/

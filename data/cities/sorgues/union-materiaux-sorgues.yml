@@ -1,11 +1,11 @@
 id: 97495184
-type: way
+type: node
 latitude: 43.99096
 longitude: 4.88977
 postcode: "84700"
 city: Sorgues
-street: "Route de Vedène"
-housenumber: 2188
+street: Route de Vedène
+housenumber: "2188"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

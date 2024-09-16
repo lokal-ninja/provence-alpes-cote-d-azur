@@ -1,11 +1,11 @@
 id: 165099474
-type: way
+type: node
 latitude: 43.12186
 longitude: 5.8476
 postcode: "83190"
 city: Ollioules
-street: "Chemin de la Capellane"
-housenumber: 39
+street: Chemin de la Capellane
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

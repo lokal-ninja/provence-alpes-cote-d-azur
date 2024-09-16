@@ -1,11 +1,11 @@
 id: 139798099
-type: way
+type: node
 latitude: 43.64481
 longitude: 6.88745
 postcode: "06530"
 city: Peymeinade
-street: "Avenue de Boutigny"
-housenumber: 
+street: Avenue de Boutigny
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:45"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:45
 website: ""

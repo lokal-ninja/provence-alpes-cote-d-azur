@@ -4,8 +4,8 @@ latitude: 43.28586
 longitude: 5.59528
 postcode: "13685"
 city: Aubagne
-street: "Avenue de la Roubine"
-housenumber: 75
-phone: "+33 4 42 84 48 96"
-opening_hours: "Mo-Th 09:00-17:30"
-website: "https://www.hygiemedical.com/"
+street: Avenue de la Roubine
+housenumber: "75"
+phone: +33 4 42 84 48 96
+opening_hours: Mo-Th 09:00-17:30
+website: https://www.hygiemedical.com/

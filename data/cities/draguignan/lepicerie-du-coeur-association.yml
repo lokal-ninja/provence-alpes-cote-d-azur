@@ -4,8 +4,8 @@ latitude: 43.53998
 longitude: 6.46365
 postcode: "83300"
 city: Draguignan
-street: "Boulevard de la Liberté"
-housenumber: 25
-phone: "+33 6 51 13 80 89"
-opening_hours: "Mo-Sa 09:00-16:30; Su off"
-website: "https://www.lepicerieducoeur.com/"
+street: Boulevard de la Liberté
+housenumber: "25"
+phone: +33 6 51 13 80 89
+opening_hours: Mo-Sa 09:00-16:30; Su off
+website: https://www.lepicerieducoeur.com/

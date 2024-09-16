@@ -4,8 +4,8 @@ latitude: 43.69325
 longitude: 7.19442
 postcode: "06200"
 city: Nice
-street: "Boulevard du Mercantour"
-housenumber: 338
+street: Boulevard du Mercantour
+housenumber: "338"
 phone: ""
 opening_hours: ""
-website: "https://agences.aramisauto.com/concession/nice/NIC06"
+website: https://agences.aramisauto.com/concession/nice/NIC06

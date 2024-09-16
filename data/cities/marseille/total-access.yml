@@ -1,11 +1,11 @@
 id: 68948515
-type: way
+type: node
 latitude: 43.3162
 longitude: 5.38284
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 83
+housenumber: "83"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

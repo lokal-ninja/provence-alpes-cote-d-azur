@@ -4,8 +4,8 @@ latitude: 43.44469
 longitude: 6.63806
 postcode: "83520"
 city: Roquebrune-sur-Argens
-street: "Rue Grande André Cabasse"
-housenumber: 36
+street: Rue Grande André Cabasse
+housenumber: "36"
 phone: "+33626412951"
-opening_hours: "Mo-Tu, Th-Sa 09:00-13:00; Jul-Aug Mo-Tu, Th-Sa 09:00-13:00, 16:00-19:00"
-website: "https://www.affuteur-remouleur-var.fr/"
+opening_hours: Mo-Tu, Th-Sa 09:00-13:00; Jul-Aug Mo-Tu, Th-Sa 09:00-13:00, 16:00-19:00
+website: https://www.affuteur-remouleur-var.fr/

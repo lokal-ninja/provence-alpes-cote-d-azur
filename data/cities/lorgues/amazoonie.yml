@@ -1,11 +1,11 @@
 id: 264382739
-type: way
+type: node
 latitude: 43.49246
 longitude: 6.37712
 postcode: "83510"
 city: Lorgues
-street: "Route de Draguignan"
-housenumber: 697
-phone: "+33 4 89 53 53 44"
-opening_hours: "Mo-Sa 09:00-12:15,14:00-18:30; Su 09:00-12:00"
+street: Route de Draguignan
+housenumber: "697"
+phone: +33 4 89 53 53 44
+opening_hours: Mo-Sa 09:00-12:15,14:00-18:30; Su 09:00-12:00
 website: ""

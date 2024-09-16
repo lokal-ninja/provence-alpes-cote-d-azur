@@ -1,11 +1,11 @@
 id: 1134268514
-type: way
+type: node
 latitude: 44.31158
 longitude: 4.6857
 postcode: "84840"
 city: Lapalud
-street: "Avenue de Montélimar"
-housenumber: 81
+street: Avenue de Montélimar
+housenumber: "81"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

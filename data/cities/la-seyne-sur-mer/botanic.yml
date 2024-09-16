@@ -1,11 +1,11 @@
 id: 200824545
-type: way
+type: node
 latitude: 43.10716
 longitude: 5.85242
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Avenue de Lisbonne"
-housenumber: 
+street: Avenue de Lisbonne
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

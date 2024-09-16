@@ -1,11 +1,11 @@
 id: 68078138
-type: way
+type: node
 latitude: 43.60155
 longitude: 7.0803
 postcode: "06600"
 city: Antibes
-street: "Allée Belle Vue"
-housenumber: 
+street: Allée Belle Vue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

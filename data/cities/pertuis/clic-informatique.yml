@@ -4,8 +4,8 @@ latitude: 43.69231
 longitude: 5.50004
 postcode: "84120"
 city: Pertuis
-street: "Rue Giraud"
-housenumber: 73
-phone: "+33 4 90 77 15 52"
+street: Rue Giraud
+housenumber: "73"
+phone: +33 4 90 77 15 52
 opening_hours: ""
-website: "http://www.informatique-pertuis.fr"
+website: http://www.informatique-pertuis.fr

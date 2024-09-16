@@ -4,8 +4,8 @@ latitude: 43.6927
 longitude: 7.24681
 postcode: "06000"
 city: Nice
-street: "Rue Louis de Coppet"
-housenumber: 22
-phone: "+33 4 93 97 24 34"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 10:00-13:00"
-website: "https://www.corep.fr/agence/corep-nice-droit/"
+street: Rue Louis de Coppet
+housenumber: "22"
+phone: +33 4 93 97 24 34
+opening_hours: Mo-Fr 09:00-18:30, Sa 10:00-13:00
+website: https://www.corep.fr/agence/corep-nice-droit/

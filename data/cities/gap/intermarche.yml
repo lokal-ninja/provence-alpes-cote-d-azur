@@ -1,11 +1,11 @@
 id: 90896157
-type: way
+type: node
 latitude: 44.56437
 longitude: 6.08446
 postcode: "05000"
 city: Gap
-street: "Avenue du Commandant Dumont"
-housenumber: 10
+street: Avenue du Commandant Dumont
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

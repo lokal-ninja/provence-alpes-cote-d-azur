@@ -1,11 +1,11 @@
 id: 209616812
-type: way
+type: node
 latitude: 43.10819
 longitude: 5.85158
 postcode: "83500"
 city: La Seyne-sur-Mer
-street: "Avenue de Lisbonne"
-housenumber: 99
+street: Avenue de Lisbonne
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://la-seyne.cash-piscines.com/cash-piscines-la-seyne-sur-mer-b-661302"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://la-seyne.cash-piscines.com/cash-piscines-la-seyne-sur-mer-b-661302

@@ -4,8 +4,8 @@ latitude: 43.69367
 longitude: 7.25074
 postcode: "06000"
 city: Nice
-street: "Rue de France"
-housenumber: 124
-phone: "04 93 35 13 62"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-18:00"
-website: "https://jmmotors.fr/content/magasin-nice"
+street: Rue de France
+housenumber: "124"
+phone: 04 93 35 13 62
+opening_hours: Mo-Sa 09:00-12:30,14:00-18:00
+website: https://jmmotors.fr/content/magasin-nice

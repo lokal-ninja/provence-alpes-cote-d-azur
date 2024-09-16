@@ -1,11 +1,11 @@
 id: 120889250
-type: way
+type: node
 latitude: 43.52255
 longitude: 6.46422
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Saint-Exupéry"
-housenumber: 7
-phone: "+33 4 94 68 03 48"
-opening_hours: "Tu-Fr 09:00-12:00,14:30-19:00; Sa 09:00-12:00,14:30-18:00"
-website: "https://benati-motos.com"
+street: Boulevard Saint-Exupéry
+housenumber: "7"
+phone: +33 4 94 68 03 48
+opening_hours: Tu-Fr 09:00-12:00,14:30-19:00; Sa 09:00-12:00,14:30-18:00
+website: https://benati-motos.com

@@ -4,8 +4,8 @@ latitude: 43.70876
 longitude: 7.26354
 postcode: ""
 city: Nice
-street: "Rue Veillon"
-housenumber: 4
+street: Rue Veillon
+housenumber: "4"
 phone: ""
-opening_hours: "07:00-20:30"
-website: "https://www.aulavoirdefrance.fr/laverie-laundry-nice-liberation.html"
+opening_hours: 07:00-20:30
+website: https://www.aulavoirdefrance.fr/laverie-laundry-nice-liberation.html

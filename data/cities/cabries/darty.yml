@@ -1,11 +1,11 @@
 id: 136064469
-type: way
+type: node
 latitude: 43.41653
 longitude: 5.36141
 postcode: "13480"
 city: Cabriès
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "09:30-19:30"
-website: "https://www.darty.com/nav/extra/popup/affiche_magasin?codeStore=991002&nta=true"
+opening_hours: 09:30-19:30
+website: https://www.darty.com/nav/extra/popup/affiche_magasin?codeStore=991002&nta=true

@@ -1,11 +1,11 @@
 id: 78619418
-type: way
+type: node
 latitude: 44.11905
 longitude: 4.84402
 postcode: ""
 city: Orange
-street: "Rue d'Italie"
-housenumber: 
+street: Rue d'Italie
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30"
+opening_hours: Mo-Fr 08:30-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.5297
 longitude: 5.44916
 postcode: "13090"
 city: Aix-en-Provence
-street: "Rue Granet"
-housenumber: 3
-phone: "+33 4 42 21 93 41"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://magasins.naturalia.fr/naturalia/fr/store/france/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/granet/4006"
+street: Rue Granet
+housenumber: "3"
+phone: +33 4 42 21 93 41
+opening_hours: Mo-Sa 09:00-20:00
+website: https://magasins.naturalia.fr/naturalia/fr/store/france/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/granet/4006

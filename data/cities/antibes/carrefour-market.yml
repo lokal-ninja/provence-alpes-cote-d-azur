@@ -1,11 +1,11 @@
 id: 68075631
-type: way
+type: node
 latitude: 43.60733
 longitude: 7.1237
 postcode: "06600"
 city: Antibes
-street: "Route de Nice"
-housenumber: 809
-phone: "+33 4 92 90 43 80"
-opening_hours: "Mo-Sa 07:30-20:30"
-website: "https://www.carrefour.fr/magasin/market-antibes-nice"
+street: Route de Nice
+housenumber: "809"
+phone: +33 4 92 90 43 80
+opening_hours: Mo-Sa 07:30-20:30
+website: https://www.carrefour.fr/magasin/market-antibes-nice

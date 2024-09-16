@@ -1,11 +1,11 @@
 id: 112994168
-type: way
+type: node
 latitude: 44.56719
 longitude: 5.7408
 postcode: "05140"
 city: La Faurie
-street: "Route de Grenoble"
-housenumber: 
-phone: "+33 6 76 62 28 14"
-opening_hours: "Mo,We,Fr 11:30-13:00,16:00-18:00"
+street: Route de Grenoble
+housenumber: ""
+phone: +33 6 76 62 28 14
+opening_hours: Mo,We,Fr 11:30-13:00,16:00-18:00
 website: ""

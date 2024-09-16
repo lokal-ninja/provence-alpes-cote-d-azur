@@ -4,8 +4,8 @@ latitude: 43.12132
 longitude: 5.93039
 postcode: "83000"
 city: Toulon
-street: "Avenue de la République"
-housenumber: 83
+street: Avenue de la République
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.83259
 longitude: 7.14518
 postcode: "06510"
 city: Le Broc
-street: "Chemin de Fougassière"
-housenumber: 1006
-phone: "+33 6 87 26 14 76"
-opening_hours: "Vente directe à la ferme suivant disponibilité"
+street: Chemin de Fougassière
+housenumber: "1006"
+phone: +33 6 87 26 14 76
+opening_hours: '"Vente directe à la ferme suivant disponibilité"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.71656
 longitude: 7.01506
 postcode: "06140"
 city: Tourrettes-sur-loup
-street: "Route des Courmettes"
-housenumber: 3868
-phone: "+33 4 93 24 14 63;+33 6 26 48 24 60"
-opening_hours: "Jan-Mar,May-Sep sur commande"
-website: "http://www.border06.com/"
+street: Route des Courmettes
+housenumber: "3868"
+phone: +33 4 93 24 14 63;+33 6 26 48 24 60
+opening_hours: Jan-Mar,May-Sep "sur commande"
+website: http://www.border06.com/

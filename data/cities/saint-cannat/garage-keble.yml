@@ -1,11 +1,11 @@
 id: 62989700
-type: way
+type: node
 latitude: 43.61421
 longitude: 5.31992
 postcode: "13760"
 city: Saint-Cannat
-street: "Avenue de l'Europe"
-housenumber: 526
-phone: "+33 4 42 50 65 35"
+street: Avenue de l'Europe
+housenumber: "526"
+phone: +33 4 42 50 65 35
 opening_hours: ""
 website: ""

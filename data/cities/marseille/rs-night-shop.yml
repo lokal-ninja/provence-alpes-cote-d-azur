@@ -5,7 +5,7 @@ longitude: 5.35165
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 431
-phone: "+33 6 29 64 55 17;+33 7 79 41 12 21"
-opening_hours: "10:00-05:00"
+housenumber: "431"
+phone: +33 6 29 64 55 17;+33 7 79 41 12 21
+opening_hours: 10:00-05:00
 website: ""

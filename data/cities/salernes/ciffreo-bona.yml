@@ -1,11 +1,11 @@
 id: 490376860
-type: way
+type: node
 latitude: 43.55906
 longitude: 6.2566
 postcode: "83690"
 city: Salernes
-street: "route de Draguignan"
-housenumber: 1089
+street: route de Draguignan
+housenumber: "1089"
 phone: ""
-opening_hours: "Mo-Fr 7:30-12:00,13:30-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 7:30-12:00,13:30-17:30; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 142324047
-type: way
+type: node
 latitude: 43.71379
 longitude: 7.29246
 postcode: ""
 city: Nice
-street: "Rue Chanoine Bailet"
-housenumber: 4
+street: Rue Chanoine Bailet
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:00"
-website: "https://agences.cged.fr/cged/fr/agency/france/provence-alpes-cote-d-azur/alpes-maritimes/nice/nice-saint-roch/5p8"
+opening_hours: Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:00
+website: https://agences.cged.fr/cged/fr/agency/france/provence-alpes-cote-d-azur/alpes-maritimes/nice/nice-saint-roch/5p8

@@ -1,11 +1,11 @@
 id: 125139279
-type: way
+type: node
 latitude: 44.1099
 longitude: 4.854
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.celio.com/"
+website: https://www.celio.com/

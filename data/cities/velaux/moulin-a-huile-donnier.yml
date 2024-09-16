@@ -1,11 +1,11 @@
 id: 158574045
-type: way
+type: node
 latitude: 43.52574
 longitude: 5.24523
 postcode: "13880"
 city: Velaux
-street: "Avenue Jean Pallet"
-housenumber: 
+street: Avenue Jean Pallet
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,15:00-19:00"
+opening_hours: Mo-Sa 09:00-12:00,15:00-19:00
 website: ""

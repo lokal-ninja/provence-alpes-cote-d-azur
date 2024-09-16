@@ -1,11 +1,11 @@
 id: 134675525
-type: way
+type: node
 latitude: 43.9786
 longitude: 4.8882
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 4 90 88 65 35"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.hdmedia.fr/visite-virtuelle/hd/cbpldp4bf-rive-gauche.html"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 4 90 88 65 35
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.hdmedia.fr/visite-virtuelle/hd/cbpldp4bf-rive-gauche.html

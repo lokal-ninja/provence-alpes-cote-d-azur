@@ -1,11 +1,11 @@
 id: 96130893
-type: way
+type: node
 latitude: 44.11075
 longitude: 4.85127
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.cuisinella.com/"
+website: http://www.cuisinella.com/

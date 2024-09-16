@@ -1,11 +1,11 @@
 id: 125139289
-type: way
+type: node
 latitude: 44.10928
 longitude: 4.8532
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.zeeman.com/home.aspx?lang=fr-FR"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.zeeman.com/home.aspx?lang=fr-FR

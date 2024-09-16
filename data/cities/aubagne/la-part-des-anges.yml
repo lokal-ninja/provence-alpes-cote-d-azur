@@ -4,8 +4,8 @@ latitude: 43.28621
 longitude: 5.59517
 postcode: "13685"
 city: Aubagne
-street: "Avenue du Douard"
-housenumber: 551
-phone: "+33 4 42 70 44 27"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.lapartdesanges.com/"
+street: Avenue du Douard
+housenumber: "551"
+phone: +33 4 42 70 44 27
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.lapartdesanges.com/

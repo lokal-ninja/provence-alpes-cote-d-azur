@@ -4,8 +4,8 @@ latitude: 43.70988
 longitude: 7.26063
 postcode: "06000"
 city: Nice
-street: "Boulevard Joseph Garnier"
-housenumber: 7
-phone: "+33 4 93 84 52 29"
-opening_hours: "Mo-Sa 07:30-12:00; Mo-Sa 13:30-18:00"
-website: "https://www.cagnol-pneus.com/"
+street: Boulevard Joseph Garnier
+housenumber: "7"
+phone: +33 4 93 84 52 29
+opening_hours: Mo-Sa 07:30-12:00; Mo-Sa 13:30-18:00
+website: https://www.cagnol-pneus.com/

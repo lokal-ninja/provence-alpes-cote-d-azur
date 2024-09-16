@@ -5,7 +5,8 @@ longitude: 4.80691
 postcode: "84000"
 city: Avignon
 street: ""
-housenumber: 13
-phone: "+33 4 90 85 50 50"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:30-13:00,14:00-18:30; Sa 09:30-12:00,14:00-18:00; PH off"
+housenumber: "13"
+phone: +33 4 90 85 50 50
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:30-13:00,14:00-18:30; Sa 09:30-12:00,14:00-18:00;
+    PH off
 website: ""

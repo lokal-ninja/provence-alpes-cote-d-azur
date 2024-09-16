@@ -1,6 +1,6 @@
 ---
 title: Nice
 url: /nice/
-latitude: 43.697
-longitude: 7.289
+latitude: 43.709
+longitude: 7.264
 ---

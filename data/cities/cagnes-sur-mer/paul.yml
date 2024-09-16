@@ -4,8 +4,8 @@ latitude: 43.65466
 longitude: 7.15817
 postcode: "06800"
 city: Cagnes-sur-Mer
-street: "Promenade de la Plage"
-housenumber: 25
+street: Promenade de la Plage
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://www.paul.fr/"
+opening_hours: Mo-Su 06:00-20:00
+website: https://www.paul.fr/

@@ -4,8 +4,9 @@ latitude: 43.55248
 longitude: 7.01217
 postcode: "06400"
 city: Cannes
-street: "Place du Marché Forville"
-housenumber: 11
-phone: "+33 4 92 98 91 15"
-opening_hours: "Mo 08:30 - 19:30; Tu 08:30 - 19:30; We 08:30 - 19:30; Th 08:30 - 19:30; Fr 08:30 - 19:30; Sa 08:30 - 19:30; Su 08:30 - 12:45"
-website: "https://magasins.picard.fr/169-picard-cannes-forville"
+street: Place du Marché Forville
+housenumber: "11"
+phone: +33 4 92 98 91 15
+opening_hours: Mo 08:30 - 19:30; Tu 08:30 - 19:30; We 08:30 - 19:30; Th 08:30 - 19:30;
+    Fr 08:30 - 19:30; Sa 08:30 - 19:30; Su 08:30 - 12:45
+website: https://magasins.picard.fr/169-picard-cannes-forville

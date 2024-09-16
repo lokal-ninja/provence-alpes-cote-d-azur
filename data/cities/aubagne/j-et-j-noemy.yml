@@ -1,11 +1,11 @@
 id: 92601257
-type: way
+type: node
 latitude: 43.29131
 longitude: 5.56935
 postcode: "13400"
 city: Aubagne
-street: "Rue de la République"
-housenumber: 62
+street: Rue de la République
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

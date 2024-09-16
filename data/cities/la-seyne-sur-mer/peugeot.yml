@@ -1,11 +1,11 @@
 id: 209616728
-type: way
+type: node
 latitude: 43.10874
 longitude: 5.85516
 postcode: "83500"
 city: La Seyne-sur-Mer
-street: "Avenue de Lisbonne"
-housenumber: 420
-phone: "+33 4 94 10 55 10"
+street: Avenue de Lisbonne
+housenumber: "420"
+phone: +33 4 94 10 55 10
 opening_hours: ""
-website: "https://concessions.peugeot.fr/lenormandy/"
+website: https://concessions.peugeot.fr/lenormandy/

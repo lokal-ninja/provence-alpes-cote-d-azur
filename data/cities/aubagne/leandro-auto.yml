@@ -4,8 +4,8 @@ latitude: 43.28332
 longitude: 5.6031
 postcode: "13400"
 city: Aubagne
-street: "Avenue de la Fleuride"
-housenumber: 281
-phone: "+33 4 42 32 37 11"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.leboncoin.fr/boutique/20604/leandro_auto.htm"
+street: Avenue de la Fleuride
+housenumber: "281"
+phone: +33 4 42 32 37 11
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.leboncoin.fr/boutique/20604/leandro_auto.htm

@@ -4,8 +4,8 @@ latitude: 43.65767
 longitude: 7.14521
 postcode: "06800"
 city: Cagnes-sur-Mer
-street: "Rue Pasteur"
-housenumber: 20
+street: Rue Pasteur
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "http://autoban.fr/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: http://autoban.fr/

@@ -4,8 +4,8 @@ latitude: 43.31921
 longitude: 5.42281
 postcode: "13012"
 city: Marseille
-street: "Avenue de Montolivet"
-housenumber: 416
-phone: "+33 4 91 61 12 49"
-opening_hours: "Tu-Sa 09:00-12:30,15:00-19:00"
+street: Avenue de Montolivet
+housenumber: "416"
+phone: +33 4 91 61 12 49
+opening_hours: Tu-Sa 09:00-12:30,15:00-19:00
 website: ""

@@ -4,8 +4,10 @@ latitude: 43.56959
 longitude: 7.00252
 postcode: "06110"
 city: Le cannet rocheville
-street: "Boulevard du Four à Chaux"
-housenumber: 204
-phone: "+33 4 92 18 17 34"
-opening_hours: "Mo 09:00 - 13:00; Mo 14:30 - 19:30; Tu 09:00 - 13:00; Tu 14:30 - 19:30; We 09:00 - 13:00; We 14:30 - 19:30; Th 09:00 - 13:00; Th 14:30 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/470-picard-le-cannet-rocheville"
+street: Boulevard du Four à Chaux
+housenumber: "204"
+phone: +33 4 92 18 17 34
+opening_hours: Mo 09:00 - 13:00; Mo 14:30 - 19:30; Tu 09:00 - 13:00; Tu 14:30 - 19:30;
+    We 09:00 - 13:00; We 14:30 - 19:30; Th 09:00 - 13:00; Th 14:30 - 19:30; Fr 09:00
+    - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/470-picard-le-cannet-rocheville

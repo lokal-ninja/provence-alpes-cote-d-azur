@@ -1,11 +1,11 @@
 id: 154595276
-type: way
+type: node
 latitude: 43.27963
 longitude: 5.41741
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 11
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

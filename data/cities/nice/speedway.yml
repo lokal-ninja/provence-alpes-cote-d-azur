@@ -4,8 +4,8 @@ latitude: 43.70156
 longitude: 7.28429
 postcode: "06300"
 city: Nice
-street: "Rue Auguste Gal"
-housenumber: 1
+street: Rue Auguste Gal
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.speedway.fr/pages/1-magasins/21-speedway-nice.html"
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.speedway.fr/pages/1-magasins/21-speedway-nice.html

@@ -1,11 +1,11 @@
 id: 234882927
-type: way
+type: node
 latitude: 43.38331
 longitude: 6.30478
 postcode: "83340"
 city: Le Luc
-street: "Rue Nicolas Boileau"
-housenumber: 
-phone: "+33 4 94 47 49 05"
+street: Rue Nicolas Boileau
+housenumber: ""
+phone: +33 4 94 47 49 05
 opening_hours: ""
-website: "https://www.gifi.fr/"
+website: https://www.gifi.fr/

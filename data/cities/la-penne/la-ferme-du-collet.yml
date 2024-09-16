@@ -4,8 +4,8 @@ latitude: 43.92405
 longitude: 6.94668
 postcode: "06260"
 city: La Penne
-street: "Route du Chanan"
-housenumber: 4350
-phone: "+33 4 93 05 84 50"
-opening_hours: "Vente directe à la ferme"
+street: Route du Chanan
+housenumber: "4350"
+phone: +33 4 93 05 84 50
+opening_hours: '"Vente directe à la ferme"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.70317
 longitude: 7.28289
 postcode: "06300"
 city: Nice
-street: "Rue Scaliero"
-housenumber: 8
-phone: "+33 4 93 55 14 12"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-19:00"
-website: "https://garagedefabri.webnode.fr/"
+street: Rue Scaliero
+housenumber: "8"
+phone: +33 4 93 55 14 12
+opening_hours: Mo-Fr 08:00-12:00,13:30-19:00
+website: https://garagedefabri.webnode.fr/

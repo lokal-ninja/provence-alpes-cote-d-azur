@@ -4,8 +4,8 @@ latitude: 43.64102
 longitude: 4.79761
 postcode: "13310"
 city: Saint-Martin-de-Crau
-street: "Rue Isaac Newton"
-housenumber: 5
-phone: "+33 9 81 10 00 32"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; We off; Sa 09:00-12:00 Sur rendez-vous"
-website: "https://www.dermolifting.fr"
+street: Rue Isaac Newton
+housenumber: "5"
+phone: +33 9 81 10 00 32
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; We off; Sa 09:00-12:00 "Sur rendez-vous"
+website: https://www.dermolifting.fr

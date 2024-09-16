@@ -1,11 +1,11 @@
 id: 78618018
-type: way
+type: node
 latitude: 44.11602
 longitude: 4.84287
 postcode: ""
 city: Orange
-street: "Rue Cinsault"
-housenumber: 
+street: Rue Cinsault
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-13:00"
-website: "https://www.weldom.fr/"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-13:00
+website: https://www.weldom.fr/

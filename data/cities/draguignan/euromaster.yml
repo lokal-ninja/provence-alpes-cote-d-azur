@@ -1,11 +1,11 @@
 id: 120882554
-type: way
+type: node
 latitude: 43.52725
 longitude: 6.47105
 postcode: "83300"
 city: Draguignan
-street: "Avenue du Général de Gaulle"
-housenumber: 
-phone: "+33 4 94 50 45 70"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00"
-website: "https://centres.euromaster.fr/132-euromaster-draguignan-centre-auto-vl-voiture"
+street: Avenue du Général de Gaulle
+housenumber: ""
+phone: +33 4 94 50 45 70
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00
+website: https://centres.euromaster.fr/132-euromaster-draguignan-centre-auto-vl-voiture

@@ -4,8 +4,8 @@ latitude: 43.53687
 longitude: 6.46322
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Georges Clemenceau"
-housenumber: 8
-phone: "+33 4 94 68 04 11"
-opening_hours: "Mo 14:30-19:00, Tu-Sa 9:30-12:30,14:30-19:00; Su off"
-website: "https://optiquedracenoise.fr/"
+street: Boulevard Georges Clemenceau
+housenumber: "8"
+phone: +33 4 94 68 04 11
+opening_hours: Mo 14:30-19:00, Tu-Sa 9:30-12:30,14:30-19:00; Su off
+website: https://optiquedracenoise.fr/

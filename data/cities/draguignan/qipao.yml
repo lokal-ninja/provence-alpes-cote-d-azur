@@ -1,11 +1,11 @@
 id: 888916504
-type: way
+type: node
 latitude: 43.52788
 longitude: 6.45144
 postcode: "83300"
 city: Draguignan
-street: "Place Jacques Resplandin"
-housenumber: 
-phone: "+33 4 22 56 00 60"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.qipao.fr/salons/draguignan-137"
+street: Place Jacques Resplandin
+housenumber: ""
+phone: +33 4 22 56 00 60
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.qipao.fr/salons/draguignan-137

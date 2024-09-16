@@ -1,11 +1,11 @@
 id: 64066719
-type: way
+type: node
 latitude: 43.54302
 longitude: 5.35963
 postcode: "13510"
 city: Éguilles
-street: ""
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+street: Route de Berre
+housenumber: ""
+phone: "+33426850630"
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.ma-ferme.eu/

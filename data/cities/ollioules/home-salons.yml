@@ -1,11 +1,11 @@
 id: 165103748
-type: way
+type: node
 latitude: 43.1284
 longitude: 5.87584
 postcode: "83190"
 city: Ollioules
-street: "Chemin du Clos du Haut"
-housenumber: 
-phone: "+33 4 94 92 00 74"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.homesalons-ollioules.fr/"
+street: Chemin du Clos du Haut
+housenumber: ""
+phone: +33 4 94 92 00 74
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.homesalons-ollioules.fr/

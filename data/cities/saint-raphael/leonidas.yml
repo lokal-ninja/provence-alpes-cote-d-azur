@@ -4,8 +4,8 @@ latitude: 43.42571
 longitude: 6.7686
 postcode: "83700"
 city: Saint-Raphaël
-street: "Rue Marius Allongues"
-housenumber: 35
-phone: "+33 4 94 82 30 51"
-opening_hours: "Tu-Sa 09:00-12:00,15:15-19:00"
-website: "https://www.leonidas.com/en/shops/saint-raphael/leonidas-saint-raphael"
+street: Rue Marius Allongues
+housenumber: "35"
+phone: +33 4 94 82 30 51
+opening_hours: Tu-Sa 09:00-12:00,15:15-19:00
+website: https://www.leonidas.com/en/shops/saint-raphael/leonidas-saint-raphael

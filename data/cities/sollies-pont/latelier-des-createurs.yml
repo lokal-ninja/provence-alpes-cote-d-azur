@@ -1,11 +1,12 @@
 id: 129943194
-type: way
+type: node
 latitude: 43.19834
 longitude: 6.03548
 postcode: "83210"
 city: Solliès-Pont
-street: "Chemin des Bancaous"
-housenumber: 1
-phone: "+33 6 24 29 91 19"
-opening_hours: "Mo-Tu 09:00-12:00,16:00-19; Wed 10:00-19:00; Th-Fr 09:00-12:00,16:00-19:00; Sa 10:00-19:00"
+street: Chemin des Bancaous
+housenumber: "1"
+phone: +33 6 24 29 91 19
+opening_hours: Mo-Tu 09:00-12:00,16:00-19; Wed 10:00-19:00; Th-Fr 09:00-12:00,16:00-19:00;
+    Sa 10:00-19:00
 website: ""

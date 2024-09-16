@@ -4,8 +4,8 @@ latitude: 43.42453
 longitude: 6.76865
 postcode: "83700"
 city: Saint-Raphaël
-street: "Avenue Victor Hugo"
-housenumber: 47
-phone: "+33 4 94 17 54 33"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:00"
+street: Avenue Victor Hugo
+housenumber: "47"
+phone: +33 4 94 17 54 33
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:00
 website: ""

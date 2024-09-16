@@ -1,11 +1,11 @@
 id: 88770574
-type: way
+type: node
 latitude: 43.50793
 longitude: 5.40624
 postcode: "13290"
 city: Aix-en-Provence
-street: "Rue Beauvoisin"
-housenumber: 30
+street: Rue Beauvoisin
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

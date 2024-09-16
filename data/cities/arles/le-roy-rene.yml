@@ -4,8 +4,8 @@ latitude: 43.67625
 longitude: 4.627
 postcode: "13200"
 city: Arles
-street: "Rue de la République"
-housenumber: 47
-phone: "+33 4 90 96 36 56"
-opening_hours: "Mo-We 10:00-13:00,14:00-19:00; Th-Sa 10:00-19:00; Su 11:00-17:00"
+street: Rue de la République
+housenumber: "47"
+phone: +33 4 90 96 36 56
+opening_hours: Mo-We 10:00-13:00,14:00-19:00; Th-Sa 10:00-19:00; Su 11:00-17:00
 website: ""

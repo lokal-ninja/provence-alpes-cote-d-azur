@@ -1,11 +1,11 @@
 id: 90927782
-type: way
+type: node
 latitude: 44.0591
 longitude: 5.04894
 postcode: "84200"
 city: Carpentras
-street: "Avenue Notre-Dame de Santé"
-housenumber: 258
-phone: "+33 4 90600225"
+street: Avenue Notre-Dame de Santé
+housenumber: "258"
+phone: +33 4 90600225
 opening_hours: ""
-website: "https://espace2roues84.com/"
+website: https://espace2roues84.com/

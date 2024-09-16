@@ -1,11 +1,11 @@
 id: 102072765
-type: way
+type: node
 latitude: 43.76108
 longitude: 4.94993
 postcode: "13810"
 city: Eygalières
-street: "Rue de la République"
-housenumber: 48
+street: Rue de la République
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

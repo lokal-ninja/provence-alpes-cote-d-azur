@@ -4,8 +4,8 @@ latitude: 43.65563
 longitude: 7.15227
 postcode: "06800"
 city: Cagnes-sur-Mer
-street: "Avenue de Nice"
-housenumber: 5
-phone: "+33 4 93 22 63 22"
+street: Avenue de Nice
+housenumber: "5"
+phone: +33 4 93 22 63 22
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

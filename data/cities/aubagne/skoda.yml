@@ -1,11 +1,11 @@
 id: 653333842
-type: way
+type: node
 latitude: 43.28181
 longitude: 5.60536
 postcode: "13400"
 city: Aubagne
-street: "Rue du Dirigeable"
-housenumber: 111
+street: Rue du Dirigeable
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://concessionnaires.skoda.fr/bouches-du-rhone-13/roure-automobiles-sarl-85"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://concessionnaires.skoda.fr/bouches-du-rhone-13/roure-automobiles-sarl-85

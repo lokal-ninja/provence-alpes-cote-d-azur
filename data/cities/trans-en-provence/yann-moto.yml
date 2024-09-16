@@ -4,8 +4,8 @@ latitude: 43.50607
 longitude: 6.48272
 postcode: "83720"
 city: Trans-en-Provence
-street: "Route de Draguignan"
-housenumber: 698
-phone: "+33 4 98 10 39 45"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.yannmoto.fr/"
+street: Route de Draguignan
+housenumber: "698"
+phone: +33 4 98 10 39 45
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.yannmoto.fr/

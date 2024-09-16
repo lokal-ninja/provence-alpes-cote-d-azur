@@ -4,8 +4,9 @@ latitude: 43.67498
 longitude: 7.18875
 postcode: "06700"
 city: Saint Laurent du Var
-street: "Avenue du Général Leclerc"
-housenumber: 375
-phone: "+33 4 97 19 07 72"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/830-picard-saint-laurent-du-var"
+street: Avenue du Général Leclerc
+housenumber: "375"
+phone: +33 4 97 19 07 72
+opening_hours: Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30;
+    Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/830-picard-saint-laurent-du-var

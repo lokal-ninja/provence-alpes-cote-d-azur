@@ -1,11 +1,11 @@
 id: 209614953
-type: way
+type: node
 latitude: 43.1143
 longitude: 5.85036
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Avenue de Bruxelles"
-housenumber: 242
+street: Avenue de Bruxelles
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

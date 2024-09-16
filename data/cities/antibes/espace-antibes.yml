@@ -1,11 +1,11 @@
 id: 68045195
-type: way
+type: node
 latitude: 43.60235
 longitude: 7.08612
 postcode: "06600"
 city: Antibes
-street: "Chemin de Saint-Claude"
-housenumber: 2793
+street: Chemin de Saint-Claude
+housenumber: "2793"
 phone: ""
 opening_hours: ""
 website: ""

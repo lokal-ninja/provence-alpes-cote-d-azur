@@ -4,8 +4,8 @@ latitude: 43.55248
 longitude: 7.02356
 postcode: "06400"
 city: Cannes
-street: "Rue d'Antibes"
-housenumber: 81
+street: Rue d'Antibes
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 834343553
-type: way
+type: node
 latitude: 43.6901
 longitude: 7.22669
 postcode: ""
 city: Nice
-street: "Chemin du Vallon de Barla"
-housenumber: 87
+street: Chemin du Vallon de Barla
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

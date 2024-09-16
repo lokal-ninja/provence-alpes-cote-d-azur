@@ -4,8 +4,8 @@ latitude: 43.28598
 longitude: 5.59544
 postcode: "13783"
 city: Aubagne
-street: "Avenue de la Roubine"
-housenumber: 75
-phone: "+33 4 42 70 31 28"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.rhone-elastomeres.com/"
+street: Avenue de la Roubine
+housenumber: "75"
+phone: +33 4 42 70 31 28
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.rhone-elastomeres.com/

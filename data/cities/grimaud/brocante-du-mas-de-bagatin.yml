@@ -1,11 +1,11 @@
 id: 848091352
-type: way
+type: node
 latitude: 43.27578
 longitude: 6.54733
 postcode: "83310"
 city: Grimaud
-street: "Route de Sainte-Maxime"
-housenumber: 868
+street: Route de Sainte-Maxime
+housenumber: "868"
 phone: ""
-opening_hours: "Su 08:00-15:00"
+opening_hours: Su 08:00-15:00
 website: ""

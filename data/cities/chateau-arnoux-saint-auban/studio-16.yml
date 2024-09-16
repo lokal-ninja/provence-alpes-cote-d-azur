@@ -1,11 +1,11 @@
 id: 112537868
-type: way
+type: node
 latitude: 44.10103
 longitude: 6.00991
 postcode: "04160"
 city: Château-Arnoux-Saint-Auban
-street: "Allée des Érables"
-housenumber: 16
+street: Allée des Érables
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Sa 09:00-18:00"
+opening_hours: Tu-Sa 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.7384
 longitude: 7.42773
 postcode: "98000"
 city: Monaco
-street: "Avenue de Monte-Carlo"
-housenumber: 21
+street: Avenue de Monte-Carlo
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 11:00-13:00,14:15-20:00"
+opening_hours: Mo-Sa 11:00-13:00,14:15-20:00
 website: ""

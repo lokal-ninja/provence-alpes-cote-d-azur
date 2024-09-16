@@ -1,11 +1,11 @@
 id: 28504257
-type: way
+type: node
 latitude: 43.55175
 longitude: 6.94765
 postcode: "06210"
 city: Mandelieu-la-Napoule
-street: "Avenue du Marechal Lyautey"
-housenumber: 
+street: Avenue du Marechal Lyautey
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_34"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_34

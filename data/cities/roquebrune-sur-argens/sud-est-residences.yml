@@ -4,8 +4,8 @@ latitude: 43.46371
 longitude: 6.63878
 postcode: "83520"
 city: Roquebrune-sur-Argens
-street: "DN7"
-housenumber: 2630
-phone: "+33 4 94 19 53 75"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://sudestresidences.com"
+street: DN7
+housenumber: "2630"
+phone: +33 4 94 19 53 75
+opening_hours: Mo-Fr 14:00-18:00
+website: https://sudestresidences.com

@@ -1,11 +1,11 @@
 id: 270955290
-type: way
+type: node
 latitude: 43.44754
 longitude: 6.69711
 postcode: "83480"
 city: Puget-sur-Argens
-street: "D N7"
-housenumber: 
-phone: "+33 4 94 45 58 68"
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://lesboulangeriesdusoleil.fr/"
+street: D N7
+housenumber: ""
+phone: +33 4 94 45 58 68
+opening_hours: Mo-Su 06:00-20:00
+website: https://lesboulangeriesdusoleil.fr/

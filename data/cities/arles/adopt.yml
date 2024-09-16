@@ -1,11 +1,11 @@
 id: 1051894041
-type: way
+type: node
 latitude: 43.66606
 longitude: 4.63867
 postcode: "13200"
 city: Arles
 street: ""
-housenumber: 
-phone: "+33 4 90 96 76 40"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.adopt.fr"
+housenumber: ""
+phone: +33 4 90 96 76 40
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.adopt.fr

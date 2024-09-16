@@ -1,11 +1,11 @@
 id: 69858227
-type: way
+type: node
 latitude: 43.44088
 longitude: 6.70658
 postcode: "83600"
 city: Fréjus
-street: "RDN7"
-housenumber: 1856
-phone: "+33 4 94 51 09 54"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:30-18:30"
-website: "https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-provence-alpes-cote-azur-frejus"
+street: RDN7
+housenumber: "1856"
+phone: +33 4 94 51 09 54
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:30-18:30
+website: https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-provence-alpes-cote-azur-frejus

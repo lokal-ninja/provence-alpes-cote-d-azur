@@ -4,8 +4,8 @@ latitude: 43.94866
 longitude: 4.80945
 postcode: "84000"
 city: Avignon
-street: "Rue Florence"
-housenumber: 15
-phone: "+33 4 90 14 18 20"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.teleservices-multimedia.fr/"
+street: Rue Florence
+housenumber: "15"
+phone: +33 4 90 14 18 20
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.teleservices-multimedia.fr/

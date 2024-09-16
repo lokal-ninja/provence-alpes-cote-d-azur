@@ -1,11 +1,11 @@
 id: 165113201
-type: way
+type: node
 latitude: 43.12334
 longitude: 5.82367
 postcode: "83190"
 city: Ollioules
-street: "Route de Sanary"
-housenumber: 
-phone: "+33 4 94 88 08 08"
-opening_hours: "Mo-Th 08:30-19:30; Fr-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.intermarche.com/magasins/12128/ollioules-83190/infos-pratiques"
+street: Route de Sanary
+housenumber: ""
+phone: +33 4 94 88 08 08
+opening_hours: Mo-Th 08:30-19:30; Fr-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.intermarche.com/magasins/12128/ollioules-83190/infos-pratiques

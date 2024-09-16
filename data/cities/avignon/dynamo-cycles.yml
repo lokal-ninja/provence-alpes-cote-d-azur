@@ -5,7 +5,7 @@ longitude: 4.82824
 postcode: "84000"
 city: Avignon
 street: ""
-housenumber: 109
-phone: "+33 4 90 01 86 68"
-opening_hours: "Tu-Sa 09:30-12:30,14:30-19:00"
-website: "https://dynamo-cycles.com/"
+housenumber: "109"
+phone: +33 4 90 01 86 68
+opening_hours: Tu-Sa 09:30-12:30,14:30-19:00
+website: https://dynamo-cycles.com/

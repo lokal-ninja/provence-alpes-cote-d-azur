@@ -4,8 +4,8 @@ latitude: 43.43836
 longitude: 6.71644
 postcode: "83600"
 city: Fréjus
-street: "Avenue André Citroën"
-housenumber: 18
-phone: "+33 4 94 40 24 24"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Fr 10:00-12:00,14:00-18:00"
-website: "https://www.home-design.schmidt"
+street: Avenue André Citroën
+housenumber: "18"
+phone: +33 4 94 40 24 24
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Fr 10:00-12:00,14:00-18:00
+website: https://www.home-design.schmidt

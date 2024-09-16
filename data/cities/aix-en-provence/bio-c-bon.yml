@@ -4,8 +4,8 @@ latitude: 43.52514
 longitude: 5.44382
 postcode: "13100"
 city: Aix-en-Provence
-street: "Avenue des Belges"
-housenumber: 3
+street: Avenue des Belges
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-aix-belges"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-aix-belges

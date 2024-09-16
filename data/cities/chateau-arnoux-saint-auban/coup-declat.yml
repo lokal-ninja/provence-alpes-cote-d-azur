@@ -1,11 +1,11 @@
 id: 112536085
-type: way
+type: node
 latitude: 44.1013
 longitude: 6.00849
 postcode: "04160"
 city: Château-Arnoux-Saint-Auban
-street: "Place du Commerce"
-housenumber: 14
+street: Place du Commerce
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

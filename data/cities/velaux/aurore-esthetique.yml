@@ -4,8 +4,8 @@ latitude: 43.52341
 longitude: 5.25804
 postcode: "13880"
 city: Velaux
-street: "Avenue Jules Andraud"
-housenumber: 39
-phone: "+33 4 42 74 87 19"
-opening_hours: "Mo-Tu 09:00-12:00,14:00-19:00; Th-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00"
-website: "http://www.aurore-esthetique.fr"
+street: Avenue Jules Andraud
+housenumber: "39"
+phone: +33 4 42 74 87 19
+opening_hours: Mo-Tu 09:00-12:00,14:00-19:00; Th-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00
+website: http://www.aurore-esthetique.fr

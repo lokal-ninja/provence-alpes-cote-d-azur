@@ -1,11 +1,11 @@
 id: 230670553
-type: way
+type: node
 latitude: 43.4616
 longitude: 6.63521
 postcode: "83520"
 city: Roquebrune-sur-Argens
-street: "Impasse des Figuiers"
-housenumber: 
-phone: "+33 4 94 45 25 50"
-opening_hours: "Mo-Sa 08:30-19:30; Su 8:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-roquebrune-sur-argens"
+street: Impasse des Figuiers
+housenumber: ""
+phone: +33 4 94 45 25 50
+opening_hours: Mo-Sa 08:30-19:30; Su 8:30-12:30
+website: https://www.carrefour.fr/magasin/market-roquebrune-sur-argens

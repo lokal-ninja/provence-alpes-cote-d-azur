@@ -1,11 +1,11 @@
 id: 53180577
-type: way
+type: node
 latitude: 43.65317
 longitude: 5.26277
 postcode: "13410"
 city: Lambesc
-street: "Rue Eugène Pelletand"
-housenumber: 4
+street: Rue Eugène Pelletand
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

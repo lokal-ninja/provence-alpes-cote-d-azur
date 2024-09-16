@@ -1,11 +1,11 @@
 id: 68061647
-type: way
+type: node
 latitude: 43.60446
 longitude: 7.12276
 postcode: "06600"
 city: Antibes
-street: "Route de Nice"
-housenumber: 501
+street: Route de Nice
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://www.guidoplaisance.fr/en/"
+website: https://www.guidoplaisance.fr/en/

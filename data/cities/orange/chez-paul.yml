@@ -4,8 +4,8 @@ latitude: 44.13677
 longitude: 4.80568
 postcode: "84100"
 city: Orange
-street: "Rue Saint-Martin"
-housenumber: 41
+street: Rue Saint-Martin
+housenumber: "41"
 phone: "+33607299733"
-opening_hours: "Tu-Fr 07:45-12:30,15:00-19:00; Sa 08:00-12:30,15:00-18:00"
+opening_hours: Tu-Fr 07:45-12:30,15:00-19:00; Sa 08:00-12:30,15:00-18:00
 website: ""

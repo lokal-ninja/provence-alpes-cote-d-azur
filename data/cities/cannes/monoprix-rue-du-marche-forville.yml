@@ -4,8 +4,8 @@ latitude: 43.55215
 longitude: 7.0114
 postcode: "06400"
 city: Cannes
-street: "Rue du Marché Forville"
-housenumber: 3
+street: Rue du Marché Forville
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:30-22:00"
-website: "https://www.monoprix.fr/2147.html"
+opening_hours: Mo-Sa 07:30-22:00; Su 08:30-22:00
+website: https://www.monoprix.fr/2147.html

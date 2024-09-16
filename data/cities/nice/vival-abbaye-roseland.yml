@@ -1,11 +1,11 @@
 id: 139112453
-type: way
+type: node
 latitude: 43.68876
 longitude: 7.23027
 postcode: "06200"
 city: Nice
-street: "Boulevard Napoléon III"
-housenumber: 44
-phone: "+33 4 93 86 23 56"
-opening_hours: "Mo-Sa 08:30-14:00,16:00-20:00; Su 08:30-13:00"
-website: "https://magasins.vival.fr/fr/vival-nice-napoleon-iii"
+street: Boulevard Napoléon III
+housenumber: "44"
+phone: +33 4 93 86 23 56
+opening_hours: Mo-Sa 08:30-14:00,16:00-20:00; Su 08:30-13:00
+website: https://magasins.vival.fr/fr/vival-nice-napoleon-iii

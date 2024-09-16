@@ -1,11 +1,11 @@
 id: 270955146
-type: way
+type: node
 latitude: 43.44611
 longitude: 6.69922
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Boulevard de l'Industrie"
-housenumber: 
-phone: "+33 4 94 19 69 90"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.retif.eu"
+street: Boulevard de l'Industrie
+housenumber: ""
+phone: +33 4 94 19 69 90
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.retif.eu

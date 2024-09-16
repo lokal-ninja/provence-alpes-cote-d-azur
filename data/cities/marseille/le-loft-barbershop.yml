@@ -4,8 +4,8 @@ latitude: 43.27948
 longitude: 5.39511
 postcode: "13008"
 city: Marseille
-street: "Rue Liandier"
-housenumber: 111
+street: Rue Liandier
+housenumber: "111"
 phone: "+33687958572"
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

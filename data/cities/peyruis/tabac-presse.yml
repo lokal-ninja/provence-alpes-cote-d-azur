@@ -1,11 +1,11 @@
 id: 153633428
-type: way
+type: node
 latitude: 44.02625
 longitude: 5.93678
 postcode: "04310"
 city: Peyruis
-street: "Avenue de la Libération"
-housenumber: 
+street: Avenue de la Libération
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

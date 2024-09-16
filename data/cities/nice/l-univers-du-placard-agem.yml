@@ -4,8 +4,8 @@ latitude: 43.69425
 longitude: 7.24367
 postcode: "06000"
 city: Nice
-street: "Boulevard de la Madeleine"
-housenumber: 18
+street: Boulevard de la Madeleine
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:40"
-website: "https://www.agem-nice.fr/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:40
+website: https://www.agem-nice.fr/

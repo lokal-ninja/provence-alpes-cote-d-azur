@@ -4,8 +4,8 @@ latitude: 43.29149
 longitude: 5.59908
 postcode: "13400"
 city: Aubagne
-street: "Rue du Vallat"
-housenumber: 220
-phone: "+33 4 42 71 94 76"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Rue du Vallat
+housenumber: "220"
+phone: +33 4 42 71 94 76
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

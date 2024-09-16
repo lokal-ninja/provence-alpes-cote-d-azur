@@ -4,8 +4,8 @@ latitude: 43.52248
 longitude: 5.25433
 postcode: "13880"
 city: Velaux
-street: "Rue Victor Hugo"
-housenumber: 21
-phone: "+33 4 42 89 32 39"
-opening_hours: "Tu-Sa 09:00-12:00, 14:00-18:00"
+street: Rue Victor Hugo
+housenumber: "21"
+phone: +33 4 42 89 32 39
+opening_hours: Tu-Sa 09:00-12:00, 14:00-18:00
 website: ""

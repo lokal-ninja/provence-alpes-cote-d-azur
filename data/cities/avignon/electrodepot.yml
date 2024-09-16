@@ -5,7 +5,7 @@ longitude: 4.86805
 postcode: "84140"
 city: Avignon
 street: ""
-housenumber: 809
+housenumber: "809"
 phone: "+33490132050"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:30; Sa 09:30-19:30"
-website: "https://www.electrodepot.fr/nos-magasins/magasin-avignon"
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:30; Sa 09:30-19:30
+website: https://www.electrodepot.fr/nos-magasins/magasin-avignon

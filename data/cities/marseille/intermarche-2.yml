@@ -1,11 +1,11 @@
 id: 312639894
-type: way
+type: node
 latitude: 43.35151
 longitude: 5.34251
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 472
+housenumber: "472"
 phone: "+33496161270"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.intermarche.com/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.intermarche.com/

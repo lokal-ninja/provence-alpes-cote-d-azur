@@ -1,11 +1,11 @@
 id: 102066314
-type: way
+type: node
 latitude: 43.66482
 longitude: 4.63648
 postcode: "13200"
 city: Arles
-street: "Rue de Sagné"
-housenumber: 
+street: Rue de Sagné
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:30-12:00"
+opening_hours: Mo-Sa 08:00-19:00; Su 08:30-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.70788
 longitude: 7.29294
 postcode: ""
 city: Nice
-street: "Boulevard de l'Armée des Alpes"
-housenumber: 20
-phone: "+33 4 93 89 62 26"
-opening_hours: "Tu-Sa 08:30-12:00,14:30-19:00; Mo 14:30-19:00"
-website: "https://www.larouelibre.fr/"
+street: Boulevard de l'Armée des Alpes
+housenumber: "20"
+phone: +33 4 93 89 62 26
+opening_hours: Tu-Sa 08:30-12:00,14:30-19:00; Mo 14:30-19:00
+website: https://www.larouelibre.fr/

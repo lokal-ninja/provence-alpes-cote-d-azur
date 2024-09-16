@@ -1,11 +1,11 @@
 id: 68065451
-type: way
+type: node
 latitude: 43.59132
 longitude: 7.10927
 postcode: "06600"
 city: Antibes
-street: "Avenue Philippe Rochat"
-housenumber: 78
+street: Avenue Philippe Rochat
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

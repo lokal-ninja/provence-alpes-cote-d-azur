@@ -4,8 +4,8 @@ latitude: 43.12604
 longitude: 5.9288
 postcode: "83000"
 city: Toulon
-street: "Avenue Vauban"
-housenumber: 16
-phone: "+33 4 94 05 34 48"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-21:00"
+street: Avenue Vauban
+housenumber: "16"
+phone: +33 4 94 05 34 48
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-21:00
 website: ""

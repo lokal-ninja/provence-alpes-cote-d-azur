@@ -4,8 +4,8 @@ latitude: 43.29277
 longitude: 5.56855
 postcode: "13400"
 city: Aubagne
-street: "Rue Rastègue"
-housenumber: 10
-phone: "+33 6 10 37 41 69"
-opening_hours: "Tu-Su 9:00-18:00"
+street: Rue Rastègue
+housenumber: "10"
+phone: +33 6 10 37 41 69
+opening_hours: Tu-Su 9:00-18:00
 website: ""

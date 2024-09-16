@@ -1,11 +1,11 @@
 id: 112533649
-type: way
+type: node
 latitude: 44.072
 longitude: 5.99529
 postcode: "04600"
 city: Château-Arnoux-Saint-Auban
-street: "Place Péchiney"
-housenumber: 7
+street: Place Péchiney
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

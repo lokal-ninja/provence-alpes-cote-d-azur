@@ -1,11 +1,11 @@
 id: 53273929
-type: way
+type: node
 latitude: 43.65282
 longitude: 5.26268
 postcode: "13410"
 city: Lambesc
-street: "Place des Héros et Martyrs"
-housenumber: 4
+street: Place des Héros et Martyrs
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

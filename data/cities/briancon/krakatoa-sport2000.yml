@@ -4,8 +4,8 @@ latitude: 44.89668
 longitude: 6.63071
 postcode: "05100"
 city: Briançon
-street: "Rue Frogier"
-housenumber: 7
-phone: "+33 4 92 23 41 45"
-opening_hours: "Mo-Su 08:30-18:30"
-website: "http://location-ski-serre-chevalier.fr"
+street: Rue Frogier
+housenumber: "7"
+phone: +33 4 92 23 41 45
+opening_hours: Mo-Su 08:30-18:30
+website: http://location-ski-serre-chevalier.fr

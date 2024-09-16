@@ -1,11 +1,11 @@
 id: 172153146
-type: way
+type: node
 latitude: 43.80056
 longitude: 5.83439
 postcode: "04210"
 city: Valensole
-street: "Lieu-dit Les Quatre Chemins"
-housenumber: 
-phone: "+33 4 92 72 14 96"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.couleurs-paysannes.fr/"
+street: Lieu-dit Les Quatre Chemins
+housenumber: ""
+phone: +33 4 92 72 14 96
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.couleurs-paysannes.fr/

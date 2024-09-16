@@ -1,11 +1,11 @@
 id: 157734597
-type: way
+type: node
 latitude: 43.29144
 longitude: 5.44558
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.loxam.fr/"
+website: https://www.loxam.fr/

@@ -1,11 +1,11 @@
 id: 130471997
-type: way
+type: node
 latitude: 43.42583
 longitude: 6.76644
 postcode: "83700"
 city: Saint-Raphaël
-street: "Rue Charles Hatrel"
-housenumber: 162
-phone: "+33 4 94 82 25 05"
-opening_hours: "Mo-Sa 06:00-12:30,15:30-19:30;Su 06:00-12:30"
+street: Rue Charles Hatrel
+housenumber: "162"
+phone: +33 4 94 82 25 05
+opening_hours: Mo-Sa 06:00-12:30,15:30-19:30;Su 06:00-12:30
 website: ""

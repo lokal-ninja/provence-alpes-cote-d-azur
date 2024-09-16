@@ -1,11 +1,11 @@
 id: 1051904773
-type: way
+type: node
 latitude: 43.66655
 longitude: 4.63857
 postcode: "13200"
 city: Arles
-street: "Rue du Maréchal Juin"
-housenumber: 
-phone: "+33 4 51 26 09 64"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://studiocommejaime.com/minceur/centres/arles/"
+street: Rue du Maréchal Juin
+housenumber: ""
+phone: +33 4 51 26 09 64
+opening_hours: Mo-Sa 09:30-19:30
+website: https://studiocommejaime.com/minceur/centres/arles/

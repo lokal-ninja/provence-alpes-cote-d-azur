@@ -4,8 +4,8 @@ latitude: 43.5508
 longitude: 7.02661
 postcode: "06400"
 city: Cannes
-street: "Rue Médecin-Lieutenant Bertrand Lépine"
-housenumber: 5
-phone: "+33 4 93 39 09 06"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.coiffeurcannes.com/"
+street: Rue Médecin-Lieutenant Bertrand Lépine
+housenumber: "5"
+phone: +33 4 93 39 09 06
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.coiffeurcannes.com/

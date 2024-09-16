@@ -4,8 +4,8 @@ latitude: 44.12128
 longitude: 4.83883
 postcode: ""
 city: Orange
-street: "Route de Jonquières"
-housenumber: 
+street: Route de Jonquières
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00,Su 09:00-12:30"
-website: "https://www.carrefour.fr/"
+opening_hours: Mo-Sa 08:00-21:00,Su 09:00-12:30
+website: https://www.carrefour.fr/

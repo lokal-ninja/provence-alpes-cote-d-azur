@@ -4,8 +4,8 @@ latitude: 43.12645
 longitude: 5.93144
 postcode: "83000"
 city: Toulon
-street: "Rue de Chabannes"
-housenumber: 4
-phone: "+33 4 83 99 83 40"
-opening_hours: "Mo-Sa 09:30-12:30,15:30-18:30"
+street: Rue de Chabannes
+housenumber: "4"
+phone: +33 4 83 99 83 40
+opening_hours: Mo-Sa 09:30-12:30,15:30-18:30
 website: ""

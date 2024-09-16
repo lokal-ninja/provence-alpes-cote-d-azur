@@ -4,8 +4,8 @@ latitude: 44.69312
 longitude: 5.94096
 postcode: "05250"
 city: Le Dévoluy
-street: "Impasse du Saut du Loup"
-housenumber: 2
-phone: "+ 33 04 92 58 82 05"
-opening_hours: "Mo-Sa 08:30-12:30,16:00-18:30; Su 08:30-12:30"
-website: "https://www.lasouloise.com/sup%C3%A9rette"
+street: Impasse du Saut du Loup
+housenumber: "2"
+phone: + 33 04 92 58 82 05
+opening_hours: Mo-Sa 08:30-12:30,16:00-18:30; Su 08:30-12:30
+website: https://www.lasouloise.com/sup%C3%A9rette

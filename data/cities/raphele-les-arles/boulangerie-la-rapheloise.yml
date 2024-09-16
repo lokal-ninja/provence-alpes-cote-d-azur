@@ -1,11 +1,11 @@
 id: 102100823
-type: way
+type: node
 latitude: 43.64461
 longitude: 4.71834
 postcode: "13280"
 city: Raphèle-lès-Arles
-street: "Route de la Crau"
-housenumber: 32
-phone: "+33 9 70 97 57 62"
-opening_hours: "Tu-Sa 06:00-13:00,16:00-19:00; Su 07:00-13:30,15:30-19:00"
+street: Route de la Crau
+housenumber: "32"
+phone: +33 9 70 97 57 62
+opening_hours: Tu-Sa 06:00-13:00,16:00-19:00; Su 07:00-13:30,15:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 209614702
-type: way
+type: node
 latitude: 43.11228
 longitude: 5.85227
 postcode: "83500"
 city: La Seyne-sur-Mer
-street: "Avenue du Luxembourg"
-housenumber: 180
+street: Avenue du Luxembourg
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

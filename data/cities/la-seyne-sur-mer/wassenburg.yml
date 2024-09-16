@@ -1,11 +1,11 @@
 id: 209614935
-type: way
+type: node
 latitude: 43.11557
 longitude: 5.8514
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Allée d'Helsinki"
-housenumber: 41
+street: Allée d'Helsinki
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

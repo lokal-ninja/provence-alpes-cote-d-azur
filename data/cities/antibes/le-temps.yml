@@ -4,8 +4,8 @@ latitude: 43.60496
 longitude: 7.12336
 postcode: "06600"
 city: Antibes
-street: "Route de Nice"
-housenumber: 558
-phone: "+33 4 97 04 30 51"
-opening_hours: "Mo,Tu,Fr 09:00-18:00; Sa 10:00-17:00"
-website: "https://www.le-temps.fr/"
+street: Route de Nice
+housenumber: "558"
+phone: +33 4 97 04 30 51
+opening_hours: Mo,Tu,Fr 09:00-18:00; Sa 10:00-17:00
+website: https://www.le-temps.fr/

@@ -4,8 +4,8 @@ latitude: 43.52838
 longitude: 5.4494
 postcode: "13100"
 city: Aix-en-Provence
-street: "Rue des Bagniers"
-housenumber: 6
+street: Rue des Bagniers
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/provence-alpes-cote-dazur/aix-en-provence/aix-en-provence/S-FRYROC16"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/provence-alpes-cote-dazur/aix-en-provence/aix-en-provence/S-FRYROC16

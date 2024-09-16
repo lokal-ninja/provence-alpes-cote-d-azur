@@ -4,8 +4,8 @@ latitude: 43.52261
 longitude: 5.25449
 postcode: "13880"
 city: Velaux
-street: "Rue Victor Hugo"
-housenumber: 27
-phone: "+33 4 42445484"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-17:00; Sa 08:30-12:00"
-website: "https://www.funerailleseuropeennes.fr"
+street: Rue Victor Hugo
+housenumber: "27"
+phone: +33 4 42445484
+opening_hours: Mo-Fr 08:30-12:00, 14:00-17:00; Sa 08:30-12:00
+website: https://www.funerailleseuropeennes.fr

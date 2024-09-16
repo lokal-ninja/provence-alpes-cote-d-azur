@@ -4,8 +4,8 @@ latitude: 43.67693
 longitude: 4.62404
 postcode: "13200"
 city: Arles
-street: "Rue des Porcelets"
-housenumber: 17
-phone: "+33 4 88 09 08 01"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-19:00"
-website: "https://www.terra-ludi.fr/"
+street: Rue des Porcelets
+housenumber: "17"
+phone: +33 4 88 09 08 01
+opening_hours: Tu-Sa 10:00-13:00,15:00-19:00
+website: https://www.terra-ludi.fr/

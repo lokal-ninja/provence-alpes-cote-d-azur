@@ -4,8 +4,8 @@ latitude: 43.67573
 longitude: 4.62483
 postcode: "13200"
 city: Arles
-street: "Rue Gambetta"
-housenumber: 34
-phone: "+33 4 90 96 69 95"
-opening_hours: "Mo 14:00-18:00; Tu-Sa 08:45-12:00,14:00-18:30"
-website: "http://www.grossiste-coiffureetbeaute13.com/"
+street: Rue Gambetta
+housenumber: "34"
+phone: +33 4 90 96 69 95
+opening_hours: Mo 14:00-18:00; Tu-Sa 08:45-12:00,14:00-18:30
+website: http://www.grossiste-coiffureetbeaute13.com/

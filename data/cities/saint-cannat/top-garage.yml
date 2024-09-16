@@ -1,11 +1,11 @@
 id: 62979477
-type: way
+type: node
 latitude: 43.61356
 longitude: 5.31931
 postcode: "13760"
 city: Saint-Cannat
-street: "Avenue de l'Europe"
-housenumber: 613
+street: Avenue de l'Europe
+housenumber: "613"
 phone: ""
 opening_hours: ""
 website: ""

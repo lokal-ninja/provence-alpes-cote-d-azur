@@ -4,8 +4,9 @@ latitude: 43.42358
 longitude: 6.42756
 postcode: "83550"
 city: Vidauban
-street: "Avenue du Président Wilson"
-housenumber: 86
+street: Avenue du Président Wilson
+housenumber: "86"
 phone: "0494995483"
-opening_hours: "fermé le samedi après-midi, le dimanche, le lundi matin et les jours fériés."
-website: "https://velo-pro-shop.com/"
+opening_hours: fermé le samedi après-midi, le dimanche, le lundi matin et les jours
+    fériés.
+website: https://velo-pro-shop.com/

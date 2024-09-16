@@ -1,11 +1,11 @@
 id: 125286907
-type: way
+type: node
 latitude: 44.1206
 longitude: 4.83831
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.sephora.fr/"
+website: https://www.sephora.fr/

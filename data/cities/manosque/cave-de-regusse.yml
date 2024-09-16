@@ -1,11 +1,11 @@
 id: 89319087
-type: way
+type: node
 latitude: 43.81946
 longitude: 5.79461
 postcode: "04100"
 city: Manosque
-street: "Avenue de la Libération"
-housenumber: 406
+street: Avenue de la Libération
+housenumber: "406"
 phone: ""
 opening_hours: ""
 website: ""

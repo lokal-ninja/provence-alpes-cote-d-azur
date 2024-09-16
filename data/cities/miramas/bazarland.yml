@@ -1,11 +1,11 @@
 id: 86077612
-type: way
+type: node
 latitude: 43.5994
 longitude: 5.00352
 postcode: "13140"
 city: Miramas
-street: "Boulevard de France"
-housenumber: 
-phone: "+33 4 42 56 61 45"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Boulevard de France
+housenumber: ""
+phone: +33 4 42 56 61 45
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

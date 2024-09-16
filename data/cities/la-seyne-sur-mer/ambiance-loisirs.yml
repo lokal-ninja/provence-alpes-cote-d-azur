@@ -1,11 +1,11 @@
 id: 209617838
-type: way
+type: node
 latitude: 43.11906
 longitude: 5.8569
 postcode: "83500"
 city: La Seyne-sur-Mer
-street: "Avenue Robert Brun"
-housenumber: 1751
+street: Avenue Robert Brun
+housenumber: "1751"
 phone: ""
 opening_hours: ""
 website: ""

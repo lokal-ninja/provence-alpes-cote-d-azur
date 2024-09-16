@@ -4,8 +4,8 @@ latitude: 43.72531
 longitude: 7.25569
 postcode: ""
 city: Nice
-street: "Boulevard de Gorbella"
-housenumber: 69
+street: Boulevard de Gorbella
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://boutique.abi06.fr/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://boutique.abi06.fr/

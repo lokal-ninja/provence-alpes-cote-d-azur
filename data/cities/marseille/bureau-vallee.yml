@@ -4,8 +4,8 @@ latitude: 43.28621
 longitude: 5.37999
 postcode: "13006"
 city: Marseille
-street: "Rue Paradis"
-housenumber: 169
-phone: "+33 4 91 58 61 01"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://magasins.bureau-vallee.fr/fr/france-33/bouches-du-rhone-13/marseille-6-13206/marseille-6-BV322"
+street: Rue Paradis
+housenumber: "169"
+phone: +33 4 91 58 61 01
+opening_hours: Mo-Su 09:00-18:00
+website: https://magasins.bureau-vallee.fr/fr/france-33/bouches-du-rhone-13/marseille-6-13206/marseille-6-BV322

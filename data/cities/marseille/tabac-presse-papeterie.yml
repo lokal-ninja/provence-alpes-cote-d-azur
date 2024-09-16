@@ -4,8 +4,8 @@ latitude: 43.3601
 longitude: 5.33085
 postcode: "13016"
 city: Marseille
-street: "Rue Rabelais"
-housenumber: 174
+street: Rue Rabelais
+housenumber: "174"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:00,15:00-19:30; Sa 07:30-13:00,16:00-19:30; Su off"
+opening_hours: Mo-Fr 07:00-13:00,15:00-19:30; Sa 07:30-13:00,16:00-19:30; Su off
 website: ""

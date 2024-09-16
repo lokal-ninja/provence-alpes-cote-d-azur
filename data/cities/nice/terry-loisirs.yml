@@ -1,11 +1,11 @@
 id: 921078448
-type: way
+type: node
 latitude: 43.74579
 longitude: 7.18724
 postcode: "06200"
 city: Nice
-street: "Boulevard du Mercantour"
-housenumber: 768
-phone: "+33 4 93 08 11 58"
+street: Boulevard du Mercantour
+housenumber: "768"
+phone: +33 4 93 08 11 58
 opening_hours: ""
-website: "https://www.terry-loisirs.com/"
+website: https://www.terry-loisirs.com/

@@ -1,11 +1,11 @@
 id: 134730502
-type: way
+type: node
 latitude: 43.97855
 longitude: 4.88849
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+334 90 22 74 59"
-opening_hours: "Mo-Sa 10:00-19:30"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +334 90 22 74 59
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

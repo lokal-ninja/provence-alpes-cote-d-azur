@@ -1,11 +1,11 @@
 id: 242022762
-type: way
+type: node
 latitude: 43.3265
 longitude: 6.61767
 postcode: "83120"
 city: Sainte-Maxime
-street: "Route du Plan de la Tour"
-housenumber: 164
-phone: "+33 4 94 96 27 28"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Route du Plan de la Tour
+housenumber: "164"
+phone: +33 4 94 96 27 28
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

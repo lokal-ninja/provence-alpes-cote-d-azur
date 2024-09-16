@@ -1,11 +1,11 @@
 id: 54046827
-type: way
+type: node
 latitude: 43.64618
 longitude: 5.25682
 postcode: "13410"
 city: Lambesc
 street: ""
-housenumber: N
+housenumber: "N"
 phone: ""
 opening_hours: ""
 website: ""

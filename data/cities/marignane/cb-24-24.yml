@@ -1,11 +1,11 @@
 id: 202478850
-type: way
+type: node
 latitude: 43.41925
 longitude: 5.22341
 postcode: "13700"
 city: Marignane
-street: "Avenue du Maréchal Juin"
-housenumber: 24
+street: Avenue du Maréchal Juin
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

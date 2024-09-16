@@ -1,11 +1,11 @@
 id: 151889681
-type: way
+type: node
 latitude: 43.12497
 longitude: 5.87933
 postcode: "83190"
 city: Ollioules
-street: "Chemin de Lagoubran"
-housenumber: 765
+street: Chemin de Lagoubran
+housenumber: "765"
 phone: ""
 opening_hours: ""
 website: ""

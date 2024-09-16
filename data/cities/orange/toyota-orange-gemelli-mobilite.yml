@@ -1,11 +1,11 @@
 id: 79250310
-type: way
+type: node
 latitude: 44.11869
 longitude: 4.83531
 postcode: ""
 city: Orange
-street: "RN7 Sud"
-housenumber: 
+street: RN7 Sud
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-12:00, 14:00-18:00"
-website: "https://www.gemelli-mobilite.com/concessions/toyota-orange/?ref_brand=toyota"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-12:00, 14:00-18:00
+website: https://www.gemelli-mobilite.com/concessions/toyota-orange/?ref_brand=toyota

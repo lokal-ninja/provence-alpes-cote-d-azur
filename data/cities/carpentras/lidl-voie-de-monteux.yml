@@ -1,11 +1,11 @@
 id: 1166063349
-type: way
+type: node
 latitude: 44.04548
 longitude: 5.02633
 postcode: "84200"
 city: Carpentras
-street: "Voie de Monteux"
-housenumber: 310
+street: Voie de Monteux
+housenumber: "310"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

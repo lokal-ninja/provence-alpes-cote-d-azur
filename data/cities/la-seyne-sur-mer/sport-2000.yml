@@ -1,11 +1,11 @@
 id: 185540037
-type: way
+type: node
 latitude: 43.10791
 longitude: 5.8588
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Avenue Marcel Paul"
-housenumber: 
-phone: "+33 4 94 10 21 81;+33 4 94 10 21 81"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.sport2000.fr/magasin/sport-2000/sport-2000-la-seyne-sur-mer.html"
+street: Avenue Marcel Paul
+housenumber: ""
+phone: +33 4 94 10 21 81;+33 4 94 10 21 81
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.sport2000.fr/magasin/sport-2000/sport-2000-la-seyne-sur-mer.html

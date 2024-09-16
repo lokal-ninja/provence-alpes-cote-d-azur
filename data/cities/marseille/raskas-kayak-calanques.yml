@@ -4,8 +4,8 @@ latitude: 43.25241
 longitude: 5.38073
 postcode: "13008"
 city: Marseille
-street: "Impasse du Docteur Bonfils"
-housenumber: 47
+street: Impasse du Docteur Bonfils
+housenumber: "47"
 phone: "+33620468382"
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://www.raskas-kayak.fr/"
+opening_hours: Mo-Su 09:00-17:00
+website: https://www.raskas-kayak.fr/

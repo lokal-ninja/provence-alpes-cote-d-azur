@@ -1,11 +1,11 @@
 id: 76207848
-type: way
+type: node
 latitude: 44.11529
 longitude: 4.90306
 postcode: "84150"
 city: Jonquières
-street: "Avenue de la Libération"
-housenumber: 22
+street: Avenue de la Libération
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

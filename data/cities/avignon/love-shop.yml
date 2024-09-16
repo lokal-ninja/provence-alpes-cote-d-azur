@@ -4,8 +4,8 @@ latitude: 43.94392
 longitude: 4.80598
 postcode: "84000"
 city: Avignon
-street: "Rue de la Bourse"
-housenumber: 15
+street: Rue de la Bourse
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://bodyhouse.fr/"
+website: https://bodyhouse.fr/

@@ -4,8 +4,8 @@ latitude: 43.62658
 longitude: 6.22366
 postcode: "83630"
 city: Aups
-street: "Avenue Georges Clemenceau"
-housenumber: 4
-phone: "+33 4 94 70 27 23"
-opening_hours: "07:30-12:30,15:30-19:30"
-website: "https://magasins.vival.fr/fr/vival-aups"
+street: Avenue Georges Clemenceau
+housenumber: "4"
+phone: +33 4 94 70 27 23
+opening_hours: 07:30-12:30,15:30-19:30
+website: https://magasins.vival.fr/fr/vival-aups

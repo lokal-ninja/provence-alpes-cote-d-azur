@@ -4,8 +4,8 @@ latitude: 43.43835
 longitude: 6.71672
 postcode: "83600"
 city: Fréjus
-street: "Rue Georges Besse"
-housenumber: 72
-phone: "+33 4 94 53 35 44"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.meubles-xxl-frejus.com"
+street: Rue Georges Besse
+housenumber: "72"
+phone: +33 4 94 53 35 44
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.meubles-xxl-frejus.com

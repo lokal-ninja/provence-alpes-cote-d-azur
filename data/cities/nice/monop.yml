@@ -4,8 +4,8 @@ latitude: 43.69266
 longitude: 7.24989
 postcode: ""
 city: Nice
-street: "Promenade des Anglais"
-housenumber: 77
+street: Promenade des Anglais
+housenumber: "77"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.monoprix.fr/1921.html"
+opening_hours: 24/7
+website: https://www.monoprix.fr/1921.html

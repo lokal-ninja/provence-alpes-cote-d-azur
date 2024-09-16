@@ -1,11 +1,11 @@
 id: 798022991
-type: way
+type: node
 latitude: 43.85827
 longitude: 5.59728
 postcode: "04280"
 city: Céreste
-street: "Avenue de la Gare"
-housenumber: 47
+street: Avenue de la Gare
+housenumber: "47"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

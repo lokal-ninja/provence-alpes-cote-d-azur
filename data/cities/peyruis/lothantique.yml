@@ -1,11 +1,11 @@
 id: 153636132
-type: way
+type: node
 latitude: 44.03499
 longitude: 5.96006
 postcode: "04310"
 city: Peyruis
-street: "Espace Saint Pierre"
-housenumber: 7
-phone: "+33 4 92 68 60 30"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
-website: "https://www.lothantique.com/home.html"
+street: Espace Saint Pierre
+housenumber: "7"
+phone: +33 4 92 68 60 30
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
+website: https://www.lothantique.com/home.html

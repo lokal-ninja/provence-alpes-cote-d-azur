@@ -1,11 +1,11 @@
 id: 134730513
-type: way
+type: node
 latitude: 43.97826
 longitude: 4.88864
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 9 82 50 03 78"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://tilleulmenthe.fr/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 9 82 50 03 78
+opening_hours: Mo-Sa 10:00-19:30
+website: https://tilleulmenthe.fr/

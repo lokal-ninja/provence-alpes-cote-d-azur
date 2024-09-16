@@ -1,11 +1,11 @@
 id: 78618940
-type: way
+type: node
 latitude: 44.11828
 longitude: 4.8389
 postcode: ""
 city: Orange
-street: "Rue d'Espagne"
-housenumber: 
-phone: "+33 4 12 01 01 21"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://magasin.netto.fr/484-netto-orange"
+street: Rue d'Espagne
+housenumber: ""
+phone: +33 4 12 01 01 21
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://magasin.netto.fr/484-netto-orange

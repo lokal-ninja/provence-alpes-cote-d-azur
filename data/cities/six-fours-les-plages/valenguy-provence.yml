@@ -1,11 +1,11 @@
 id: 143152491
-type: way
+type: node
 latitude: 43.11298
 longitude: 5.8437
 postcode: "83140"
 city: Six-Fours-les-Plages
-street: "Rue de La Garde"
-housenumber: 117
+street: Rue de La Garde
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

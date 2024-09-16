@@ -4,8 +4,8 @@ latitude: 43.11642
 longitude: 5.84909
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Boulevard de Léry"
-housenumber: 830
-phone: "+33 4 98 00 30 03"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00"
+street: Boulevard de Léry
+housenumber: "830"
+phone: +33 4 98 00 30 03
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:00
 website: ""

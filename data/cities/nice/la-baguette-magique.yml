@@ -4,8 +4,8 @@ latitude: 43.7171
 longitude: 7.25326
 postcode: ""
 city: Nice
-street: "Boulevard de Cessole"
-housenumber: 82
-phone: "+33 8 92 31 62 05"
-opening_hours: "Tu-Sa 07:00-19:30; Su 07:00-13:30"
+street: Boulevard de Cessole
+housenumber: "82"
+phone: +33 8 92 31 62 05
+opening_hours: Tu-Sa 07:00-19:30; Su 07:00-13:30
 website: ""

@@ -1,11 +1,11 @@
 id: 209614914
-type: way
+type: node
 latitude: 43.1167
 longitude: 5.85213
 postcode: "83500"
 city: La Seyne sur Mer
-street: "Chemin de la Farlède"
-housenumber: 118
+street: Chemin de la Farlède
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

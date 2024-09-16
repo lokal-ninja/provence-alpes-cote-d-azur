@@ -1,11 +1,11 @@
 id: 158365448
-type: way
+type: node
 latitude: 43.34712
 longitude: 5.46324
 postcode: "13380"
 city: Plan-de-Cuques
-street: "Avenue Frédéric Chevillon"
-housenumber: 69
+street: Avenue Frédéric Chevillon
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

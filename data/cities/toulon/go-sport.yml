@@ -4,8 +4,8 @@ latitude: 43.11995
 longitude: 5.93503
 postcode: "83000"
 city: Toulon
-street: "Rue du Murier"
-housenumber: 1
+street: Rue du Murier
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.go-sport.com/stores?lang=default#/stores/1089"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.go-sport.com/stores?lang=default#/stores/1089

@@ -1,11 +1,11 @@
 id: 69808027
-type: way
+type: node
 latitude: 43.42743
 longitude: 6.74419
 postcode: "83600"
 city: Fréjus
-street: "Avenue de Provence"
-housenumber: 632
-phone: "+33 4 42 10 14 01"
-opening_hours: "Mo-Su 06:30-21:00"
-website: "https://www.carrefour.fr/magasin/express-frejus"
+street: Avenue de Provence
+housenumber: "632"
+phone: +33 4 42 10 14 01
+opening_hours: Mo-Su 06:30-21:00
+website: https://www.carrefour.fr/magasin/express-frejus

@@ -5,7 +5,7 @@ longitude: 5.3773
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: ""
-opening_hours: "Su 09:00-13:00; Mo-Sa 07:00-21:00"
+opening_hours: Su 09:00-13:00; Mo-Sa 07:00-21:00
 website: ""

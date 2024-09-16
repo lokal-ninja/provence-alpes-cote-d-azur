@@ -4,8 +4,8 @@ latitude: 43.94385
 longitude: 4.80598
 postcode: "84000"
 city: Avignon
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 1
-phone: "+33 4 32 74 18 32"
-opening_hours: "Mo-Fr 8:00-12:30,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.orizo.fr/"
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "1"
+phone: +33 4 32 74 18 32
+opening_hours: Mo-Fr 8:00-12:30,13:30-18:00; Sa 09:00-12:00
+website: https://www.orizo.fr/

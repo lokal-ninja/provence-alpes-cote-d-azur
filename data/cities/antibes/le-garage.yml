@@ -1,11 +1,11 @@
 id: 68053647
-type: way
+type: node
 latitude: 43.57985
 longitude: 7.12518
 postcode: "06600"
 city: Antibes
-street: "Rue du Général Vandenberg"
-housenumber: 7
+street: Rue du Général Vandenberg
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.le-garage.net/"
+website: https://www.le-garage.net/

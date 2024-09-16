@@ -4,8 +4,8 @@ latitude: 43.86749
 longitude: 6.95532
 postcode: "06910"
 city: Sigale
-street: "Route d'Aiglun"
-housenumber: 2321
-phone: "+33 4 93 05 64 22"
-opening_hours: "Appeler par téléphone"
+street: Route d'Aiglun
+housenumber: "2321"
+phone: +33 4 93 05 64 22
+opening_hours: '"Appeler par téléphone"'
 website: ""

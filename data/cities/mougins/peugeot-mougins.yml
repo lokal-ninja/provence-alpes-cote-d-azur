@@ -4,8 +4,8 @@ latitude: 43.58488
 longitude: 7.00902
 postcode: "06250"
 city: Mougins
-street: "Route du Cannet"
-housenumber: 235
+street: Route du Cannet
+housenumber: "235"
 phone: ""
-opening_hours: "Mo-Fr 07:45-19:00; Sa 08:45-19:00"
-website: "https://concessions.peugeot.fr/peugeotazur-mougins"
+opening_hours: Mo-Fr 07:45-19:00; Sa 08:45-19:00
+website: https://concessions.peugeot.fr/peugeotazur-mougins

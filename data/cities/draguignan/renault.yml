@@ -1,11 +1,11 @@
 id: 120884669
-type: way
+type: node
 latitude: 43.51589
 longitude: 6.47686
 postcode: "83300"
 city: Draguignan
-street: "Avenue du Général de Gaulle"
-housenumber: 
+street: Avenue du Général de Gaulle
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

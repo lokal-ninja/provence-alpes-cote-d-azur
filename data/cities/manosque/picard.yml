@@ -1,11 +1,11 @@
 id: 89337449
-type: way
+type: node
 latitude: 43.8181
 longitude: 5.79692
 postcode: "04100"
 city: Manosque
-street: "Avenue de la Libération"
+street: Avenue de la Libération
 housenumber: 664A
-phone: "+33 4 92 74 52 63"
-opening_hours: "Mo-Th 09:00-13:00,14:30-19:30; Fr-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/549-picard-manosque"
+phone: +33 4 92 74 52 63
+opening_hours: Mo-Th 09:00-13:00,14:30-19:30; Fr-Sa 09:00-19:30
+website: https://magasins.picard.fr/549-picard-manosque

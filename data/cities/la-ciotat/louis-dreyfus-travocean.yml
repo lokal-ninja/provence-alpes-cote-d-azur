@@ -1,11 +1,11 @@
 id: 680700585
-type: way
+type: node
 latitude: 43.20794
 longitude: 5.59445
 postcode: "13600"
 city: La Ciotat
-street: "Avenue des Grenadiers"
-housenumber: 78
+street: Avenue des Grenadiers
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

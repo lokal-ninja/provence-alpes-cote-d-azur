@@ -4,8 +4,8 @@ latitude: 43.31824
 longitude: 5.37015
 postcode: "13003"
 city: Marseille
-street: "Boulevard de Briançon"
-housenumber: 29
-phone: "+33 6 49 33 60 54"
-opening_hours: "We 14:00-19:00; Fr-Sa 14:00-18:00"
-website: "https://recyclerie-sportive.org/"
+street: Boulevard de Briançon
+housenumber: "29"
+phone: +33 6 49 33 60 54
+opening_hours: We 14:00-19:00; Fr-Sa 14:00-18:00
+website: https://recyclerie-sportive.org/

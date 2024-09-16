@@ -1,11 +1,11 @@
 id: 165113279
-type: way
+type: node
 latitude: 43.12339
 longitude: 5.8758
 postcode: "83190"
 city: Ollioules
-street: "Chemin de la Bouyère"
-housenumber: 55
+street: Chemin de la Bouyère
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

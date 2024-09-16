@@ -4,8 +4,9 @@ latitude: 43.29363
 longitude: 5.59187
 postcode: "13400"
 city: Aubagne
-street: "Chemin des Paluds, ccal auchan"
-housenumber: 
+street: Chemin des Paluds, ccal auchan
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:30-20:00; Tu 09:30-20:00; We 09:30-20:00; Th 09:30-20:00; Fr 09:30-20:00; Sa 09:30-20:00"
-website: "https://www.fram.fr/"
+opening_hours: Mo 09:30-20:00; Tu 09:30-20:00; We 09:30-20:00; Th 09:30-20:00; Fr
+    09:30-20:00; Sa 09:30-20:00
+website: https://www.fram.fr/

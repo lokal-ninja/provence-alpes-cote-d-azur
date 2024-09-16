@@ -1,11 +1,11 @@
 id: 1172438445
-type: way
+type: node
 latitude: 44.56018
 longitude: 6.07764
 postcode: "05000"
 city: Gap
-street: "Rue Jean Eymar"
-housenumber: 45
+street: Rue Jean Eymar
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 06:45-19:30"
+opening_hours: Mo-Sa 06:45-19:30
 website: ""

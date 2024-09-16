@@ -1,11 +1,11 @@
 id: 68056902
-type: way
+type: node
 latitude: 43.59424
 longitude: 7.09865
 postcode: "06600"
 city: Antibes
-street: "Route de Grasse"
-housenumber: 754
+street: Route de Grasse
+housenumber: "754"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:30; Sa 9:00-13:00"
-website: "https://centres.euromaster.fr/"
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:30; Sa 9:00-13:00
+website: https://centres.euromaster.fr/

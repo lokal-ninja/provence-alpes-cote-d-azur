@@ -1,11 +1,11 @@
 id: 745388824
-type: way
+type: node
 latitude: 43.67954
 longitude: 5.49831
 postcode: "84120"
 city: Pertuis
-street: "Route d'Aix"
-housenumber: 624
+street: Route d'Aix
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

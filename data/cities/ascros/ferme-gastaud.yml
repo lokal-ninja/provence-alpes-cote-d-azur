@@ -4,8 +4,8 @@ latitude: 43.9169
 longitude: 7.04226
 postcode: "06260"
 city: Ascros
-street: "Les Crottes"
-housenumber: 
-phone: "+33 6 75 71 47 08"
-opening_hours: "Sur commande"
+street: Les Crottes
+housenumber: ""
+phone: +33 6 75 71 47 08
+opening_hours: '"Sur commande"'
 website: ""

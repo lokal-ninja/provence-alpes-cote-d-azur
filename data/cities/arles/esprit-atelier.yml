@@ -4,8 +4,8 @@ latitude: 43.6734
 longitude: 4.63878
 postcode: "13200"
 city: Arles
-street: "Rue Yvan Audouard"
-housenumber: 3
-phone: "+33 9 54 40 51 18"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.coiffure-arles-espritatelier.fr"
+street: Rue Yvan Audouard
+housenumber: "3"
+phone: +33 9 54 40 51 18
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.coiffure-arles-espritatelier.fr

@@ -1,11 +1,11 @@
 id: 239585651
-type: way
+type: node
 latitude: 43.933
 longitude: 5.06486
 postcode: "84800"
 city: L'Isle-sur-la-Sorgue
-street: "Route de Carpentras"
-housenumber: 
+street: Route de Carpentras
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

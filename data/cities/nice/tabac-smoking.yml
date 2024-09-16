@@ -4,8 +4,8 @@ latitude: 43.73046
 longitude: 7.18823
 postcode: "06200"
 city: Nice
-street: "Boulevard du Mercantour"
-housenumber: 606
+street: Boulevard du Mercantour
+housenumber: "606"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.centre-commercial.fr/lingostiere/boutiques/"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.centre-commercial.fr/lingostiere/boutiques/

@@ -1,11 +1,12 @@
 id: 92688896
-type: way
+type: node
 latitude: 43.92814
 longitude: 4.99868
 postcode: "84250"
 city: Le Thor
-street: "Avenue de la Libération"
-housenumber: 
-phone: "+334 90 33 86 77"
-opening_hours: "Mo 08:00-12:00, 14:00-18:00; Tu-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00, 14:00-18:00"
-website: "https://www.graines-girerd.com/"
+street: Avenue de la Libération
+housenumber: ""
+phone: +334 90 33 86 77
+opening_hours: Mo 08:00-12:00, 14:00-18:00; Tu-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,
+    14:00-18:00
+website: https://www.graines-girerd.com/

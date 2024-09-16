@@ -4,8 +4,8 @@ latitude: 43.7014
 longitude: 7.24652
 postcode: "06000"
 city: Nice
-street: "Avenue d'Estienne d'Orves"
-housenumber: 66
-phone: "+33 4 93 86 92 72"
-opening_hours: "Tu-Fr 07:00-12:45,16:00-19:45; Sa 07:00-13:00,16:00-19:45; Su 07:00-13:00"
-website: "https://www.ponsoler.com/"
+street: Avenue d'Estienne d'Orves
+housenumber: "66"
+phone: +33 4 93 86 92 72
+opening_hours: Tu-Fr 07:00-12:45,16:00-19:45; Sa 07:00-13:00,16:00-19:45; Su 07:00-13:00
+website: https://www.ponsoler.com/

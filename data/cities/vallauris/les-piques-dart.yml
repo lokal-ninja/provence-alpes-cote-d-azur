@@ -4,8 +4,8 @@ latitude: 43.57778
 longitude: 7.05098
 postcode: "06220"
 city: Vallauris
-street: "Avenue de Cannes"
-housenumber: 25
+street: Avenue de Cannes
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://lespiquesdart.fr"
+website: http://lespiquesdart.fr

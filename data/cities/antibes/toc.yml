@@ -4,8 +4,8 @@ latitude: 43.58098
 longitude: 7.12662
 postcode: "06600"
 city: Antibes
-street: "Rue Sade"
-housenumber: 9
+street: Rue Sade
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.toc.fr/info/41-magasin-toc-antibes"
+website: https://www.toc.fr/info/41-magasin-toc-antibes

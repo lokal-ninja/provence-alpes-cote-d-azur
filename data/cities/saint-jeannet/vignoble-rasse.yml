@@ -4,8 +4,8 @@ latitude: 43.75159
 longitude: 7.15985
 postcode: "06640"
 city: Saint-Jeannet
-street: "Chemin des Sausses"
-housenumber: 800
-phone: "+33 6 70 55 70 11;+33 6 63 33 07 25"
-opening_hours: "Vente directe à la ferme toute l'année et par internet"
-website: "http://www.vindazur.surinternet.com"
+street: Chemin des Sausses
+housenumber: "800"
+phone: +33 6 70 55 70 11;+33 6 63 33 07 25
+opening_hours: '"Vente directe à la ferme toute l''année et par internet"'
+website: http://www.vindazur.surinternet.com

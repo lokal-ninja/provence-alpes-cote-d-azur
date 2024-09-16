@@ -1,11 +1,11 @@
 id: 134516768
-type: way
+type: node
 latitude: 44.12058
 longitude: 4.83975
 postcode: ""
 city: Orange
-street: "Route de Jonquières"
-housenumber: 
+street: Route de Jonquières
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.centre-lecoudoulet.com/"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.centre-lecoudoulet.com/

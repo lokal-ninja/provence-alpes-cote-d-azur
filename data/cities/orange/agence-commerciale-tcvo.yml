@@ -4,8 +4,8 @@ latitude: 44.13583
 longitude: 4.81143
 postcode: "84100"
 city: Orange
-street: "Cours Pourtoules"
-housenumber: 201
+street: Cours Pourtoules
+housenumber: "201"
 phone: "+33490341559"
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,13:30-17:15; We 08:30-12:30"
-website: "https://www.tcvo.fr/"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,13:30-17:15; We 08:30-12:30
+website: https://www.tcvo.fr/

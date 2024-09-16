@@ -4,8 +4,8 @@ latitude: 43.7086
 longitude: 7.29256
 postcode: "06300"
 city: Nice
-street: "Boulevard Saint-Roch"
-housenumber: 1
-phone: "+33 4 43 86 05 57"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://www.otera.fr/magasins/otera-nice"
+street: Boulevard Saint-Roch
+housenumber: "1"
+phone: +33 4 43 86 05 57
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://www.otera.fr/magasins/otera-nice

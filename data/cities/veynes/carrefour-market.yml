@@ -1,11 +1,11 @@
 id: 112905125
-type: way
+type: node
 latitude: 44.54331
 longitude: 5.84528
 postcode: "05400"
 city: Veynes
-street: "Route de Gap"
-housenumber: 
-phone: "+33 4 92 21 86 45"
-opening_hours: "Mo-Sa 08:30-19:30 Di 08:30-12:30"
+street: Route de Gap
+housenumber: ""
+phone: +33 4 92 21 86 45
+opening_hours: Mo-Sa 08:30-19:30 Di 08:30-12:30
 website: ""

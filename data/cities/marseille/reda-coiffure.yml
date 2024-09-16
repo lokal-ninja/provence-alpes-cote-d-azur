@@ -5,7 +5,7 @@ longitude: 5.40259
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 99
-phone: "+33 7 53 60 99 70"
+housenumber: "99"
+phone: +33 7 53 60 99 70
 opening_hours: ""
 website: ""

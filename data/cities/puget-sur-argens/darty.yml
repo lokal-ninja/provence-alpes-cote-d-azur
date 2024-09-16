@@ -1,11 +1,11 @@
 id: 270955222
-type: way
+type: node
 latitude: 43.44557
 longitude: 6.70338
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Quartier les Salles"
-housenumber: 
+street: Quartier les Salles
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

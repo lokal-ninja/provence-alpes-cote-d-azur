@@ -4,8 +4,8 @@ latitude: 44.53333
 longitude: 5.81954
 postcode: "05400"
 city: Veynes
-street: "Avenue des Martyrs"
-housenumber: 6
-phone: "+33 4 92 23 06 86"
-opening_hours: "Tu-Sa 09:00-12:00,15:00-18:30"
+street: Avenue des Martyrs
+housenumber: "6"
+phone: +33 4 92 23 06 86
+opening_hours: Tu-Sa 09:00-12:00,15:00-18:30
 website: ""

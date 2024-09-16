@@ -1,11 +1,11 @@
 id: 78620773
-type: way
+type: node
 latitude: 44.12001
 longitude: 4.84434
 postcode: "84000"
 city: Orange
-street: "Rue d'Italie"
-housenumber: 36
+street: Rue d'Italie
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.nozarrivages.com/magasin/orange/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.nozarrivages.com/magasin/orange/

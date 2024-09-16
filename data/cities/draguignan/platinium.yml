@@ -4,8 +4,9 @@ latitude: 43.53663
 longitude: 6.46458
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Jean Jaurès"
-housenumber: 40
-phone: "+33 4 94 85 81 27"
-opening_hours: "Mo 09:00-17:00; Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:00; Su off"
+street: Boulevard Jean Jaurès
+housenumber: "40"
+phone: +33 4 94 85 81 27
+opening_hours: Mo 09:00-17:00; Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:00;
+    Su off
 website: ""

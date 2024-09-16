@@ -4,8 +4,8 @@ latitude: 43.29468
 longitude: 5.56723
 postcode: "13400"
 city: Aubagne
-street: "Avenue Jeanne d'Arc"
-housenumber: 6
+street: Avenue Jeanne d'Arc
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-12:00; PH off
 website: ""

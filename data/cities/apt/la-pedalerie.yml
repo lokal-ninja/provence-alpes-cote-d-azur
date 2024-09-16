@@ -4,8 +4,8 @@ latitude: 43.87973
 longitude: 5.38518
 postcode: "84400"
 city: Apt
-street: "Avenue Victor Hugo"
-housenumber: 669
+street: Avenue Victor Hugo
+housenumber: "669"
 phone: "+33490755307"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.lapedalerie.fr/"
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.lapedalerie.fr/

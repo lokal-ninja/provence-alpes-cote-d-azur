@@ -5,7 +5,7 @@ longitude: 5.40054
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 185
-phone: "+33 4 91 62 32 20"
-opening_hours: "Tu-Sa 08:00-12:30,16:00-19:15"
+housenumber: "185"
+phone: +33 4 91 62 32 20
+opening_hours: Tu-Sa 08:00-12:30,16:00-19:15
 website: ""

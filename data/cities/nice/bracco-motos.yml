@@ -4,8 +4,8 @@ latitude: 43.70899
 longitude: 7.25293
 postcode: ""
 city: Nice
-street: "Avenue de Pessicart"
-housenumber: 19
+street: Avenue de Pessicart
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,14:00-18:30; Fr 07:00-12:00,14:00-18:00"
-website: "http://www.bracco-motos.fr/"
+opening_hours: Mo-Th 07:00-12:00,14:00-18:30; Fr 07:00-12:00,14:00-18:00
+website: http://www.bracco-motos.fr/

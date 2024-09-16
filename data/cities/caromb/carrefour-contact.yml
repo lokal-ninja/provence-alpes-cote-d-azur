@@ -4,8 +4,8 @@ latitude: 44.10103
 longitude: 5.10227
 postcode: "84330"
 city: Caromb
-street: "Route de Carpentras"
-housenumber: 
-phone: "+33 4 90 28 81 56"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:00"
-website: "https://www.carrefour.fr/magasin/contact-caromb"
+street: Route de Carpentras
+housenumber: ""
+phone: +33 4 90 28 81 56
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:00
+website: https://www.carrefour.fr/magasin/contact-caromb

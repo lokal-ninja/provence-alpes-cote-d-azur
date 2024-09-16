@@ -4,8 +4,8 @@ latitude: 43.67624
 longitude: 4.62669
 postcode: "13200"
 city: Arles
-street: "Rue de la République"
-housenumber: 52
-phone: "+33 4 90 96 11 16"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://christian-lacroix.com/"
+street: Rue de la République
+housenumber: "52"
+phone: +33 4 90 96 11 16
+opening_hours: Mo-Sa 10:00-19:30
+website: https://christian-lacroix.com/

@@ -4,8 +4,8 @@ latitude: 43.68756
 longitude: 7.19737
 postcode: ""
 city: Nice
-street: "Boulevard du Mercantour"
-housenumber: 280
-phone: "+33 4 93 83 42 41"
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/en_EN/NF007086"
+street: Boulevard du Mercantour
+housenumber: "280"
+phone: +33 4 93 83 42 41
+opening_hours: 24/7
+website: https://store.totalenergies.fr/en_EN/NF007086

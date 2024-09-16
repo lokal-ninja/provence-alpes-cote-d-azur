@@ -4,8 +4,8 @@ latitude: 43.12637
 longitude: 5.96886
 postcode: "83100"
 city: Toulon
-street: "Avenue Commandant Jean Loste"
-housenumber: 28
-phone: "+33 7 50 06 77 05"
-opening_hours: "We-Sa 09:30-13:00, We-Fr 14:00-17:30"
+street: Avenue Commandant Jean Loste
+housenumber: "28"
+phone: +33 7 50 06 77 05
+opening_hours: We-Sa 09:30-13:00, We-Fr 14:00-17:30
 website: ""

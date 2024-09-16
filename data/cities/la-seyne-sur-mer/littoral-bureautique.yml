@@ -1,11 +1,11 @@
 id: 209429667
-type: way
+type: node
 latitude: 43.11056
 longitude: 5.85023
 postcode: "83500"
 city: La Seyne-sur-Mer
-street: "Allée de Paris"
-housenumber: 155
+street: Allée de Paris
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

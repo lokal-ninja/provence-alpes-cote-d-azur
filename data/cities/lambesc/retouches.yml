@@ -1,11 +1,11 @@
 id: 53158984
-type: way
+type: node
 latitude: 43.65342
 longitude: 5.2623
 postcode: "13410"
 city: Lambesc
-street: "Rue Grande"
-housenumber: 22
+street: Rue Grande
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

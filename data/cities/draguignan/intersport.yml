@@ -1,11 +1,11 @@
 id: 362021899
-type: way
+type: node
 latitude: 43.52668
 longitude: 6.45285
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Salamandrier"
-housenumber: 263
-phone: "+33 4 94 39 80 80"
-opening_hours: "Mo-Sa 09:30-19:30; Su off"
-website: "https://www.intersport.fr/"
+street: Boulevard Salamandrier
+housenumber: "263"
+phone: +33 4 94 39 80 80
+opening_hours: Mo-Sa 09:30-19:30; Su off
+website: https://www.intersport.fr/

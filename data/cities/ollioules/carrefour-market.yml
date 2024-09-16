@@ -1,11 +1,11 @@
 id: 414766306
-type: way
+type: node
 latitude: 43.12777
 longitude: 5.88209
 postcode: "13190"
 city: Ollioules
-street: "Route Nationale 8"
-housenumber: 3256
-phone: "+33 4 94 22 43 65"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-ollioules"
+street: Route Nationale 8
+housenumber: "3256"
+phone: +33 4 94 22 43 65
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-ollioules

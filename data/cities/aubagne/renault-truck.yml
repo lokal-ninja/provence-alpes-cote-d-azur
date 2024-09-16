@@ -4,8 +4,8 @@ latitude: 43.28805
 longitude: 5.60054
 postcode: "13400"
 city: Aubagne
-street: "Avenue des Paluds"
-housenumber: 471
-phone: "+33 4 42 70 02 99"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.renault-trucks.net/"
+street: Avenue des Paluds
+housenumber: "471"
+phone: +33 4 42 70 02 99
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.renault-trucks.net/

@@ -4,8 +4,8 @@ latitude: 43.50998
 longitude: 6.47843
 postcode: "83720"
 city: Trans-en-Provence
-street: "Route du Plan"
-housenumber: 1555
-phone: "+33 4 94 60 69 79"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/trans-en-provence"
+street: Route du Plan
+housenumber: "1555"
+phone: +33 4 94 60 69 79
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/trans-en-provence

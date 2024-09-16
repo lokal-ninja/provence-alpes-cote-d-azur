@@ -4,8 +4,8 @@ latitude: 44.56388
 longitude: 6.49525
 postcode: "05200"
 city: Embrun
-street: "Place de la Mazelière"
-housenumber: 
-phone: "+33 4 92 43 21 12"
-opening_hours: "Tu,We,Fr,Sa 08:30-12:30,15:00-19:00; Th 10:00-12:30,16:00-19:00"
-website: "https://www.bio-delices.fr"
+street: Place de la Mazelière
+housenumber: ""
+phone: +33 4 92 43 21 12
+opening_hours: Tu,We,Fr,Sa 08:30-12:30,15:00-19:00; Th 10:00-12:30,16:00-19:00
+website: https://www.bio-delices.fr

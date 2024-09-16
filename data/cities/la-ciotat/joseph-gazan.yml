@@ -1,11 +1,11 @@
 id: 155909826
-type: way
+type: node
 latitude: 43.20624
 longitude: 5.60816
 postcode: "13600"
 city: La Ciotat
-street: "Voie Atlas"
-housenumber: 291
+street: Voie Atlas
+housenumber: "291"
 phone: ""
 opening_hours: ""
 website: ""

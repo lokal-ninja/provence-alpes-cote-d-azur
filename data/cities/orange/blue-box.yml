@@ -1,11 +1,11 @@
 id: 125143524
-type: way
+type: node
 latitude: 44.1092
 longitude: 4.8531
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.blue-box.fr/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.blue-box.fr/

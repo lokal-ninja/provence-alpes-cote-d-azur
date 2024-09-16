@@ -4,8 +4,8 @@ latitude: 43.55166
 longitude: 7.01904
 postcode: "06400"
 city: Cannes
-street: "Rue des Belges"
-housenumber: 10
+street: Rue des Belges
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.linvosges.com/fr/nos-magasins/cannes/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.linvosges.com/fr/nos-magasins/cannes/

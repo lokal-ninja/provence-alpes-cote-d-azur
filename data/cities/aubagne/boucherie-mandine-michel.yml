@@ -4,8 +4,8 @@ latitude: 43.29211
 longitude: 5.56923
 postcode: "13400"
 city: Aubagne
-street: "Boulevard Jean Jaurès"
-housenumber: 2
+street: Boulevard Jean Jaurès
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00, Su 6:30-12:30"
+opening_hours: Mo-Sa 08:00-18:00, Su 6:30-12:30
 website: ""

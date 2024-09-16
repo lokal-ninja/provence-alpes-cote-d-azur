@@ -4,8 +4,9 @@ latitude: 43.46062
 longitude: 5.41379
 postcode: "13320"
 city: Bouc-Bel-Air
-street: "Avenue de la Gratiane"
-housenumber: 
-phone: "+33 4 22 91 32 66"
-opening_hours: "Mo off; Tu 09:00-13:00,15:00-19:00; We 09:00-19:00; Th 09:00-13:00,15:00-19:00; Fr 09:00-13:00,15:00-19:00; Sa 09:00-19:00; Su 09:00-12:30"
-website: "https://laventurecreative.com"
+street: Avenue de la Gratiane
+housenumber: ""
+phone: +33 4 22 91 32 66
+opening_hours: Mo off; Tu 09:00-13:00,15:00-19:00; We 09:00-19:00; Th 09:00-13:00,15:00-19:00;
+    Fr 09:00-13:00,15:00-19:00; Sa 09:00-19:00; Su 09:00-12:30
+website: https://laventurecreative.com

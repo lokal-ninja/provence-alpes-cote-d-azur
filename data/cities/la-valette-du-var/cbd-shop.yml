@@ -1,11 +1,11 @@
 id: 918379335
-type: way
+type: node
 latitude: 43.1282
 longitude: 5.98836
 postcode: "83160"
 city: La Valette du Var
-street: "Avenue Paul Valéry"
-housenumber: 347
+street: Avenue Paul Valéry
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

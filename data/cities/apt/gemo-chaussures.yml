@@ -1,11 +1,11 @@
 id: 83435439
-type: way
+type: node
 latitude: 43.8854
 longitude: 5.3729
 postcode: "84400"
 city: Apt
-street: "Avenue de Lançon"
-housenumber: 1069
-phone: "+33 4 90746176"
+street: Avenue de Lançon
+housenumber: "1069"
+phone: +33 4 90746176
 opening_hours: ""
 website: ""

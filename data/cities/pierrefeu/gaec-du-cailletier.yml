@@ -4,8 +4,8 @@ latitude: 43.86256
 longitude: 7.08878
 postcode: "06910"
 city: Pierrefeu
-street: "Route du Vieux Pierrefeu"
-housenumber: 740
-phone: "+33 4 93 08 55 93"
-opening_hours: "Appeler par téléphone"
+street: Route du Vieux Pierrefeu
+housenumber: "740"
+phone: +33 4 93 08 55 93
+opening_hours: '"Appeler par téléphone"'
 website: ""

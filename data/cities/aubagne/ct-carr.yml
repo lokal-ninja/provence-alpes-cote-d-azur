@@ -4,8 +4,8 @@ latitude: 43.28282
 longitude: 5.60572
 postcode: "13400"
 city: Aubagne
-street: "Rue du Dirigeable"
-housenumber: 108
-phone: "+33 4 42 32 16 56"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-18:00"
-website: "https://www.ctcarr.com/"
+street: Rue du Dirigeable
+housenumber: "108"
+phone: +33 4 42 32 16 56
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-18:00
+website: https://www.ctcarr.com/

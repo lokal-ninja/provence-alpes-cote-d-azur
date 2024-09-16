@@ -1,11 +1,11 @@
 id: 101235070
-type: way
+type: node
 latitude: 43.4231
 longitude: 5.28535
 postcode: "13127"
 city: Vitrolles
-street: "Avenue Jean Monnet"
-housenumber: 1
+street: Avenue Jean Monnet
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

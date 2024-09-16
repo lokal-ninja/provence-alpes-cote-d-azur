@@ -4,8 +4,8 @@ latitude: 43.95969
 longitude: 5.78167
 postcode: "04300"
 city: Forcalquier
-street: "Place du Bourguet"
-housenumber: 9
+street: Place du Bourguet
+housenumber: "9"
 phone: ""
-opening_hours: "Jul-Aug: Tu-Sa 09:30-12:15,14:30-19:00; Jul-Aug: Mo 09:30-19:00"
+opening_hours: 'Jul-Aug: Tu-Sa 09:30-12:15,14:30-19:00; Jul-Aug: Mo 09:30-19:00'
 website: ""

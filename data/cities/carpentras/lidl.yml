@@ -4,8 +4,8 @@ latitude: 44.0368
 longitude: 5.05016
 postcode: "84200"
 city: Carpentras
-street: "Avenue Dwight Eisenhower"
-housenumber: 1205
-phone: "+33 8 00 00 54 35"
-opening_hours: "Mo-Sa 08:30-20:00"
+street: Avenue Dwight Eisenhower
+housenumber: "1205"
+phone: +33 8 00 00 54 35
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

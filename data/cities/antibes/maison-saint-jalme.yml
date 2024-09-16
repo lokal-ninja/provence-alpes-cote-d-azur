@@ -1,11 +1,11 @@
 id: 68051072
-type: way
+type: node
 latitude: 43.59877
 longitude: 7.12095
 postcode: "06600"
 city: Antibes
-street: "Avenue de Nice"
-housenumber: 72
+street: Avenue de Nice
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30; Su,PH 07:00-18:30"
+opening_hours: Mo-Sa 06:30-19:30; Su,PH 07:00-18:30
 website: ""

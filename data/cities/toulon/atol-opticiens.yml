@@ -4,8 +4,8 @@ latitude: 43.12575
 longitude: 5.92886
 postcode: "83000"
 city: Toulon
-street: "Boulevard du Général Leclerc"
-housenumber: 72
-phone: "+33 4 94 09 02 23"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.opticiens-atol.com/pages/marque-atol/detail-magasin.php?id=220501"
+street: Boulevard du Général Leclerc
+housenumber: "72"
+phone: +33 4 94 09 02 23
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:00-19:00
+website: https://www.opticiens-atol.com/pages/marque-atol/detail-magasin.php?id=220501

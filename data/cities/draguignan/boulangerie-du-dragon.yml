@@ -4,8 +4,9 @@ latitude: 43.54072
 longitude: 6.46538
 postcode: "83300"
 city: Draguignan
-street: "Place de Portaiguières"
-housenumber: 15
+street: Place de Portaiguières
+housenumber: "15"
 phone: ""
-opening_hours: "Mo off; Tu-We 06:00-13:00, 15:30-18:30; Th 06:00-13:00, 15:30-17:00; Fr 06:00-13:00; Sa 06:00-13:30; Su 06:00-13:00"
+opening_hours: Mo off; Tu-We 06:00-13:00, 15:30-18:30; Th 06:00-13:00, 15:30-17:00;
+    Fr 06:00-13:00; Sa 06:00-13:30; Su 06:00-13:00
 website: ""

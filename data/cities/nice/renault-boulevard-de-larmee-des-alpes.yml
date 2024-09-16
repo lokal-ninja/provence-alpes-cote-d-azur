@@ -1,11 +1,11 @@
 id: 137400588
-type: way
+type: node
 latitude: 43.70573
 longitude: 7.29157
 postcode: ""
 city: Nice
-street: "Boulevard de l'Armée des Alpes"
-housenumber: 2
+street: Boulevard de l'Armée des Alpes
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.retail-renault-group.fr/concessions-renault/45-nice-riquier"
+website: https://www.retail-renault-group.fr/concessions-renault/45-nice-riquier

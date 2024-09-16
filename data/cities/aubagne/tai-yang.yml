@@ -4,8 +4,8 @@ latitude: 43.2848
 longitude: 5.59568
 postcode: "13783"
 city: Aubagne
-street: "Avenue du Marin Blanc"
-housenumber: 165
-phone: "+33 4 42 82 41 50"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.taiyangchine.com/"
+street: Avenue du Marin Blanc
+housenumber: "165"
+phone: +33 4 42 82 41 50
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.taiyangchine.com/

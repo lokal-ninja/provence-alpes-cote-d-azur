@@ -1,11 +1,11 @@
 id: 101235253
-type: way
+type: node
 latitude: 43.42565
 longitude: 5.27022
 postcode: "13127"
 city: Vitrolles
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 618351261
-type: way
+type: node
 latitude: 43.21374
 longitude: 5.53809
 postcode: "13260"
 city: Cassis
-street: "Quai Saint-Pierre"
-housenumber: 
+street: Quai Saint-Pierre
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.calanquesdecassis.com"
+website: https://www.calanquesdecassis.com

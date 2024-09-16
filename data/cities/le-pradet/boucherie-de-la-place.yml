@@ -4,8 +4,8 @@ latitude: 43.1064
 longitude: 6.02201
 postcode: "83220"
 city: Le Pradet
-street: "Place Paul Flamenq"
-housenumber: 8
-phone: "+33 4 94 75 59 59"
-opening_hours: "7:30-13:00,15:30-19:45"
-website: "http://www.boucheriedelaplace.fr/annee/site_boucherie.swf"
+street: Place Paul Flamenq
+housenumber: "8"
+phone: +33 4 94 75 59 59
+opening_hours: 7:30-13:00,15:30-19:45
+website: http://www.boucheriedelaplace.fr/annee/site_boucherie.swf

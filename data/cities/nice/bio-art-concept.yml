@@ -4,8 +4,8 @@ latitude: 43.70081
 longitude: 7.28759
 postcode: "06300"
 city: Nice
-street: "Boulevard de Riquier"
-housenumber: 1
-phone: "+33 4 93 89 08 48"
+street: Boulevard de Riquier
+housenumber: "1"
+phone: +33 4 93 89 08 48
 opening_hours: ""
-website: "https://bioartconcept.com/"
+website: https://bioartconcept.com/

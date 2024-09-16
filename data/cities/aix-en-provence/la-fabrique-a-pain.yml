@@ -1,11 +1,11 @@
 id: 302781019
-type: way
+type: node
 latitude: 43.52248
 longitude: 5.46096
 postcode: "13100"
 city: Aix-en-Provence
-street: "Rue Pierre de Coubertin"
-housenumber: 4
+street: Rue Pierre de Coubertin
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; PH 09:00-13:00"
+opening_hours: Mo-Sa 09:30-19:30; PH 09:00-13:00
 website: ""

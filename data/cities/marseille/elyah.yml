@@ -4,8 +4,8 @@ latitude: 43.35978
 longitude: 5.34936
 postcode: "13015"
 city: Marseille
-street: "Rue de Marseille"
-housenumber: 2
+street: Rue de Marseille
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

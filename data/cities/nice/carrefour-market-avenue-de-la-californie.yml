@@ -4,8 +4,8 @@ latitude: 43.6786
 longitude: 7.22884
 postcode: ""
 city: Nice
-street: "Avenue de la Californie"
-housenumber: 258
-phone: "+33 4 92 29 45 10"
-opening_hours: "Mo-Sa 07:30-22:00; Su 07:30-20:00"
-website: "https://www.carrefour.fr/magasin/market-nice-californie"
+street: Avenue de la Californie
+housenumber: "258"
+phone: +33 4 92 29 45 10
+opening_hours: Mo-Sa 07:30-22:00; Su 07:30-20:00
+website: https://www.carrefour.fr/magasin/market-nice-californie

@@ -1,11 +1,11 @@
 id: 68073979
-type: way
+type: node
 latitude: 43.60381
 longitude: 7.08789
 postcode: "06600"
 city: Antibes
-street: "Chemin de Saint-Claude"
-housenumber: 
-phone: "+33 4 92 91 46 79"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-12:30"
-website: "https://www.carrefour.fr/magasin/antibes"
+street: Chemin de Saint-Claude
+housenumber: ""
+phone: +33 4 92 91 46 79
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-12:30
+website: https://www.carrefour.fr/magasin/antibes

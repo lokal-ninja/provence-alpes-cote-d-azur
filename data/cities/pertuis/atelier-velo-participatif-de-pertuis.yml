@@ -4,8 +4,8 @@ latitude: 43.69577
 longitude: 5.50492
 postcode: "84120"
 city: Pertuis
-street: "Place de la Tour Saint-Jacques"
-housenumber: 48
+street: Place de la Tour Saint-Jacques
+housenumber: "48"
 phone: ""
-opening_hours: "We 18:00-20:00; sa 10:00-12:00"
-website: "http://adava.fr/wp/pertuis"
+opening_hours: We 18:00-20:00; sa 10:00-12:00
+website: http://adava.fr/wp/pertuis

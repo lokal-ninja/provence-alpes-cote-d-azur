@@ -1,11 +1,11 @@
 id: 101044690
-type: way
+type: node
 latitude: 43.45469
 longitude: 5.4675
 postcode: "13120"
 city: Gardanne
-street: "Boulevard Carnot"
-housenumber: 16
-phone: "+33 4 42 58 31 93"
-opening_hours: "Tu-Sa 09:00-12:00,15:00-19:00; Su 09:00-12:00; PH off"
-website: "https://www.art-de-la-table-gardanne.fr/"
+street: Boulevard Carnot
+housenumber: "16"
+phone: +33 4 42 58 31 93
+opening_hours: Tu-Sa 09:00-12:00,15:00-19:00; Su 09:00-12:00; PH off
+website: https://www.art-de-la-table-gardanne.fr/

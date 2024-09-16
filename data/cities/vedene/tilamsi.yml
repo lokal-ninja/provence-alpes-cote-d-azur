@@ -1,11 +1,11 @@
 id: 134730501
-type: way
+type: node
 latitude: 43.97842
 longitude: 4.8891
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 4 86 34 56 56"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "http://tilasmiindianstore.com/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 4 86 34 56 56
+opening_hours: Mo-Sa 10:00-19:30
+website: http://tilasmiindianstore.com/

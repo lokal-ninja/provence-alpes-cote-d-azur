@@ -4,8 +4,8 @@ latitude: 43.12148
 longitude: 5.93255
 postcode: "83000"
 city: Toulon
-street: "Rue Augustin Daumas"
-housenumber: 27
+street: Rue Augustin Daumas
+housenumber: "27"
 phone: ""
-opening_hours: "11:00-19:00"
+opening_hours: 11:00-19:00
 website: ""

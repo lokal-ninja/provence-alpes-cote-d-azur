@@ -4,8 +4,8 @@ latitude: 43.28716
 longitude: 5.60431
 postcode: "13785"
 city: Aubagne
-street: "Avenue de Jouques"
-housenumber: 305
-phone: "+33 4 42 62 42 52"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.niceforyou.com/"
+street: Avenue de Jouques
+housenumber: "305"
+phone: +33 4 42 62 42 52
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.niceforyou.com/

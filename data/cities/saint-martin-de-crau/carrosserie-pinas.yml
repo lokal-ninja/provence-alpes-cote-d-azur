@@ -1,11 +1,11 @@
 id: 158399095
-type: way
+type: node
 latitude: 43.63351
 longitude: 4.80402
 postcode: "13310"
 city: Saint-Martin-de-Crau
-street: "Avenue du Foirail"
-housenumber: 6
-phone: "+33 4 90 47 25 60"
+street: Avenue du Foirail
+housenumber: "6"
+phone: +33 4 90 47 25 60
 opening_hours: ""
 website: ""

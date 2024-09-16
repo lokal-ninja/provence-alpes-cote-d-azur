@@ -4,8 +4,8 @@ latitude: 43.67292
 longitude: 4.6377
 postcode: "13200"
 city: Arles
-street: "Boulevard Victor Hugo"
-housenumber: 35
-phone: "+33 4 90 96 76 06"
-opening_hours: "Jul-Sep 10:00-19:30"
-website: "https://www.rencontres-arles.com/fr/informations-pratiques/"
+street: Boulevard Victor Hugo
+housenumber: "35"
+phone: +33 4 90 96 76 06
+opening_hours: Jul-Sep 10:00-19:30
+website: https://www.rencontres-arles.com/fr/informations-pratiques/

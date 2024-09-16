@@ -1,11 +1,11 @@
 id: 120903654
-type: way
+type: node
 latitude: 43.53979
 longitude: 6.46071
 postcode: "83300"
 city: Draguignan
-street: "Rue Jean Aicard"
-housenumber: 186
-phone: "+33 4 94 67 16 55"
-opening_hours: "Tu-Sa 07:00-19:30; Su 07:00-13:00"
+street: Rue Jean Aicard
+housenumber: "186"
+phone: +33 4 94 67 16 55
+opening_hours: Tu-Sa 07:00-19:30; Su 07:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.78578
 longitude: 6.95842
 postcode: "06620"
 city: Cipières
-street: "Route de Gréolières"
-housenumber: 2235
-phone: "+33 6 16 47 78 06"
-opening_hours: "Vente directe à la ferme"
+street: Route de Gréolières
+housenumber: "2235"
+phone: +33 6 16 47 78 06
+opening_hours: '"Vente directe à la ferme"'
 website: ""

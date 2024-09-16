@@ -1,11 +1,11 @@
 id: 91166441
-type: way
+type: node
 latitude: 43.92186
 longitude: 5.91418
 postcode: "04700"
 city: Oraison
-street: "Avenue Charles Richaud"
-housenumber: 
+street: Avenue Charles Richaud
+housenumber: ""
 phone: "0983890138"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00
 website: ""

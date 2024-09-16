@@ -1,11 +1,11 @@
 id: 302376817
-type: way
+type: node
 latitude: 44.08511
 longitude: 6.20701
 postcode: "04000"
 city: Digne les Bains
-street: "Avenue du Colonel Noël"
-housenumber: 10
+street: Avenue du Colonel Noël
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

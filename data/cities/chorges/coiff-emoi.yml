@@ -4,8 +4,8 @@ latitude: 44.54518
 longitude: 6.27781
 postcode: "05230"
 city: Chorges
-street: "Grande Rue"
-housenumber: 65
+street: Grande Rue
+housenumber: "65"
 phone: ""
-opening_hours: "Tu,We 09:00-12:00,14:00-18:00; Th,Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00"
+opening_hours: Tu,We 09:00-12:00,14:00-18:00; Th,Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00
 website: ""

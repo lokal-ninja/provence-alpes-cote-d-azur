@@ -1,11 +1,11 @@
 id: 120897069
-type: way
+type: node
 latitude: 43.53004
 longitude: 6.44899
 postcode: "83300"
 city: Draguignan
-street: "Voie Georges Pompidou"
-housenumber: 242
+street: Voie Georges Pompidou
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

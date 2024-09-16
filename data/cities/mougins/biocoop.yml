@@ -4,8 +4,8 @@ latitude: 43.61313
 longitude: 6.97056
 postcode: "06250"
 city: Mougins
-street: "Route de La Roquette"
-housenumber: 609
-phone: "+33 4 92 99 12 68"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://mougins.biocoop.net"
+street: Route de La Roquette
+housenumber: "609"
+phone: +33 4 92 99 12 68
+opening_hours: Mo-Sa 08:30-19:30
+website: https://mougins.biocoop.net

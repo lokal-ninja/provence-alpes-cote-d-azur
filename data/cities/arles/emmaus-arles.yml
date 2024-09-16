@@ -1,11 +1,11 @@
 id: 648226940
-type: way
+type: node
 latitude: 43.66952
 longitude: 4.60362
 postcode: "13200"
 city: Arles
 street: ""
-housenumber: 
-phone: "+33 4 90 49 79 76"
+housenumber: ""
+phone: +33 4 90 49 79 76
 opening_hours: ""
-website: "http://www.emmaus-arles.com/magasin-arles.html"
+website: http://www.emmaus-arles.com/magasin-arles.html

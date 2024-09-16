@@ -4,8 +4,8 @@ latitude: 43.66998
 longitude: 7.22117
 postcode: ""
 city: Nice
-street: "Boulevard René Cassin"
-housenumber: 77
-phone: "+33 4 93 72 19 89"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/city-nice-aeroport"
+street: Boulevard René Cassin
+housenumber: "77"
+phone: +33 4 93 72 19 89
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/city-nice-aeroport

@@ -1,11 +1,11 @@
 id: 86106387
-type: way
+type: node
 latitude: 44.1752
 longitude: 5.13235
 postcode: "84340"
 city: Malaucène
-street: "Cours des Isnards"
-housenumber: 1
+street: Cours des Isnards
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Sa 06:00-13:00,15:30-19:00; Su 06:00-13:00"
+opening_hours: Tu-Sa 06:00-13:00,15:30-19:00; Su 06:00-13:00
 website: ""

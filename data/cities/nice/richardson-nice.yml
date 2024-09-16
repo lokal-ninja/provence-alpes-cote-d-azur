@@ -4,8 +4,8 @@ latitude: 43.71647
 longitude: 7.28457
 postcode: "06300"
 city: Nice
-street: "Route de Turin"
-housenumber: 70
+street: Route de Turin
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.richardson.fr/tous-les-magasins/agence/nice"
+website: https://www.richardson.fr/tous-les-magasins/agence/nice

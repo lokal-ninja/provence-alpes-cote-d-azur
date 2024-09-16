@@ -4,8 +4,8 @@ latitude: 43.5751
 longitude: 7.02192
 postcode: "06110"
 city: Le Cannet
-street: "Rue de Cannes"
-housenumber: 1
+street: Rue de Cannes
+housenumber: "1"
 phone: "+33493691096"
-opening_hours: "Tu-Sa 09:00-13:00,16:00-20:00; Su 10:00-13:00"
-website: "https://www.mons-fromages.com/"
+opening_hours: Tu-Sa 09:00-13:00,16:00-20:00; Su 10:00-13:00
+website: https://www.mons-fromages.com/

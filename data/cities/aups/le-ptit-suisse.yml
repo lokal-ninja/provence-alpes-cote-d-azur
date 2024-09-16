@@ -4,8 +4,8 @@ latitude: 43.62849
 longitude: 6.22406
 postcode: "83630"
 city: Aups
-street: "Rue Maréchal Foch"
-housenumber: 9
-phone: "+33 7 76 85 50 07"
-opening_hours: "Tu-Sa 09:30-12:30,16:00-19:00; Su 09:30-12:30"
+street: Rue Maréchal Foch
+housenumber: "9"
+phone: +33 7 76 85 50 07
+opening_hours: Tu-Sa 09:30-12:30,16:00-19:00; Su 09:30-12:30
 website: ""

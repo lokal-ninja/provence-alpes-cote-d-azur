@@ -1,11 +1,11 @@
 id: 91361716
-type: way
+type: node
 latitude: 43.95817
 longitude: 5.59132
 postcode: "04150"
 city: simiane la rotonde
-street: "boulinette"
-housenumber: 
+street: boulinette
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.valsaintes.org/"
+website: https://www.valsaintes.org/

@@ -1,11 +1,11 @@
 id: 154572234
-type: way
+type: node
 latitude: 43.279
 longitude: 5.4259
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 90
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://marseille.aushopping.com/"
+website: https://marseille.aushopping.com/

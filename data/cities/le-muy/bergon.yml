@@ -1,11 +1,11 @@
 id: 269048669
-type: way
+type: node
 latitude: 43.47013
 longitude: 6.57777
 postcode: "83490"
 city: Le Muy
-street: "Route de Fréjus"
-housenumber: 286
-phone: "+33 4 94 19 80 90"
-opening_hours: "Mo-Sa 08:30-12:00,14:00-18:30"
-website: "https://www.bergon-nature-jardin.com/"
+street: Route de Fréjus
+housenumber: "286"
+phone: +33 4 94 19 80 90
+opening_hours: Mo-Sa 08:30-12:00,14:00-18:30
+website: https://www.bergon-nature-jardin.com/

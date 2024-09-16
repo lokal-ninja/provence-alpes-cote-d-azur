@@ -4,8 +4,8 @@ latitude: 43.67717
 longitude: 4.62465
 postcode: "13200"
 city: Arles
-street: "Place Antonelle"
-housenumber: 7
-phone: "+33 4 90 52 23 10"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-arles"
+street: Place Antonelle
+housenumber: "7"
+phone: +33 4 90 52 23 10
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-arles

@@ -4,8 +4,8 @@ latitude: 43.94949
 longitude: 4.81141
 postcode: "84000"
 city: Avignon
-street: "Rue de la Croix"
-housenumber: 25
+street: Rue de la Croix
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

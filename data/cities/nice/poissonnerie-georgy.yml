@@ -4,8 +4,8 @@ latitude: 43.72773
 longitude: 7.25574
 postcode: ""
 city: Nice
-street: "Boulevard Comte de Falicon"
-housenumber: 12
-phone: "+33 6 09 21 55 74"
-opening_hours: "Tu-Sa 06:00-13:30"
+street: Boulevard Comte de Falicon
+housenumber: "12"
+phone: +33 6 09 21 55 74
+opening_hours: Tu-Sa 06:00-13:30
 website: ""

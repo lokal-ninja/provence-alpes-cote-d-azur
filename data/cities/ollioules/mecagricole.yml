@@ -1,11 +1,11 @@
 id: 1068544182
-type: way
+type: node
 latitude: 43.12659
 longitude: 5.82717
 postcode: "83190"
 city: Ollioules
-street: "Route de Sanary"
-housenumber: 2480
+street: Route de Sanary
+housenumber: "2480"
 phone: ""
 opening_hours: ""
 website: ""

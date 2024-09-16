@@ -4,8 +4,8 @@ latitude: 43.53542
 longitude: 6.4619
 postcode: "83300"
 city: Draguignan
-street: "Boulevard du Général Leclerc"
-housenumber: 35
-phone: "+33 8 92 01 10 10"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://magasin.darty.com/309-darty-draguignan"
+street: Boulevard du Général Leclerc
+housenumber: "35"
+phone: +33 8 92 01 10 10
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://magasin.darty.com/309-darty-draguignan

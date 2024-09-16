@@ -1,11 +1,11 @@
 id: 134730494
-type: way
+type: node
 latitude: 43.97848
 longitude: 4.88931
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 4 90 27 90 88"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.homesalons.fr/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 4 90 27 90 88
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.homesalons.fr/

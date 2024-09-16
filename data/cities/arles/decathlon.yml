@@ -1,11 +1,11 @@
 id: 102106260
-type: way
+type: node
 latitude: 43.66515
 longitude: 4.63468
 postcode: "13200"
 city: Arles
-street: "Zone Commerciale Fourchon"
-housenumber: 
+street: Zone Commerciale Fourchon
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_130"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_130

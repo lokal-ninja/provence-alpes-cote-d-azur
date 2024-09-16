@@ -4,8 +4,8 @@ latitude: 43.70496
 longitude: 7.29096
 postcode: ""
 city: Nice
-street: "Boulevard de Riquier"
-housenumber: 54
-phone: "+33 4 93 55 04 55"
+street: Boulevard de Riquier
+housenumber: "54"
+phone: +33 4 93 55 04 55
 opening_hours: ""
-website: "https://boucherie-riquier.business.site/"
+website: https://boucherie-riquier.business.site/

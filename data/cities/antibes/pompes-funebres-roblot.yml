@@ -1,11 +1,11 @@
 id: 68052921
-type: way
+type: node
 latitude: 43.60161
 longitude: 7.12178
 postcode: "06600"
 city: Antibes
-street: "Chemin des 4 Chemins"
-housenumber: 100
-phone: "+33 4 93 74 45 45"
+street: Chemin des 4 Chemins
+housenumber: "100"
+phone: +33 4 93 74 45 45
 opening_hours: ""
 website: ""

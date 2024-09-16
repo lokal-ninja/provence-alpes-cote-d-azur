@@ -4,8 +4,8 @@ latitude: 43.28477
 longitude: 5.59272
 postcode: "13685"
 city: Aubagne
-street: "Avenue des Caniers"
-housenumber: 58
-phone: "+33 4 42 82 30 60"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.soleil-rouge.net/"
+street: Avenue des Caniers
+housenumber: "58"
+phone: +33 4 42 82 30 60
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.soleil-rouge.net/

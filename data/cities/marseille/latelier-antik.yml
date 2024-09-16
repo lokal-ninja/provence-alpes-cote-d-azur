@@ -4,8 +4,8 @@ latitude: 43.36012
 longitude: 5.31548
 postcode: "13016"
 city: Marseille
-street: "Plage de l'Estaque"
-housenumber: 30
-phone: "+33 4 91 03 73 02"
-opening_hours: "Mo-Su 05:30-20:30"
+street: Plage de l'Estaque
+housenumber: "30"
+phone: +33 4 91 03 73 02
+opening_hours: Mo-Su 05:30-20:30
 website: ""

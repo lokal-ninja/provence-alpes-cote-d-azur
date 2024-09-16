@@ -5,7 +5,7 @@ longitude: 4.86418
 postcode: "84140"
 city: Avignon
 street: ""
-housenumber: 419
+housenumber: "419"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.action.com/fr-fr/points-de-vente/avignon-zone-commercial-mistral-7---419-rue-pierre-beregovoy/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.action.com/fr-fr/points-de-vente/avignon-zone-commercial-mistral-7---419-rue-pierre-beregovoy/

@@ -1,11 +1,11 @@
 id: 114840561
-type: way
+type: node
 latitude: 43.79307
 longitude: 4.83543
 postcode: "13210"
 city: Saint-Rémy-de-Provence
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 3
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

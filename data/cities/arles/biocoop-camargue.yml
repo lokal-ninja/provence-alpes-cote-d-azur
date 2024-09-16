@@ -1,11 +1,11 @@
 id: 114834330
-type: way
+type: node
 latitude: 43.7921
 longitude: 4.82672
 postcode: "13200"
 city: Arles
-street: "Avenue du Maréchal Juin"
-housenumber: 7
+street: Avenue du Maréchal Juin
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

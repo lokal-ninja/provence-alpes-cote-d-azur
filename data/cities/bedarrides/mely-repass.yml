@@ -1,11 +1,11 @@
 id: 90000508
-type: way
+type: node
 latitude: 44.03965
 longitude: 4.89649
 postcode: "84370"
 city: Bédarrides
-street: "Avenue du Cours"
-housenumber: 
-phone: "+33 4 90 31 15 72"
+street: Avenue du Cours
+housenumber: ""
+phone: +33 4 90 31 15 72
 opening_hours: ""
 website: ""

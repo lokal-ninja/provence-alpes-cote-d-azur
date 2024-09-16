@@ -1,11 +1,11 @@
 id: 138573709
-type: way
+type: node
 latitude: 43.74213
 longitude: 7.24031
 postcode: ""
 city: Nice
-street: "Route de Saint-Pancrace"
-housenumber: 18
-phone: "+33 4 93 28 40 42"
-opening_hours: "Mo-Sa 07:00-19:30; Su 08:00-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-nice-saint-pancrace"
+street: Route de Saint-Pancrace
+housenumber: "18"
+phone: +33 4 93 28 40 42
+opening_hours: Mo-Sa 07:00-19:30; Su 08:00-12:30
+website: https://magasins.spar.fr/fr/s/spar-nice-saint-pancrace

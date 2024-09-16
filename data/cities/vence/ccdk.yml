@@ -4,8 +4,8 @@ latitude: 43.72213
 longitude: 7.11291
 postcode: "06140"
 city: Vence
-street: "Avenue Marcellin Maurel"
-housenumber: 25
+street: Avenue Marcellin Maurel
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Sa 09:30-13:00, 15:00-19:00"
-website: "https://www.ccdk.fr/"
+opening_hours: Tu-Sa 09:30-13:00, 15:00-19:00
+website: https://www.ccdk.fr/

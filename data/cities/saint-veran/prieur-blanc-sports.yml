@@ -1,11 +1,11 @@
 id: 99637896
-type: way
+type: node
 latitude: 44.70166
 longitude: 6.86727
 postcode: "05350"
 city: Saint-Véran
-street: "Le Chatelet"
-housenumber: 
+street: Le Chatelet
+housenumber: ""
 phone: "+33492458957"
 opening_hours: ""
-website: "https://www.prieurblancsports.fr"
+website: https://www.prieurblancsports.fr

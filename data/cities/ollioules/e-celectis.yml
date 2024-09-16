@@ -1,11 +1,11 @@
 id: 165103741
-type: way
+type: node
 latitude: 43.12645
 longitude: 5.84702
 postcode: "83190"
 city: Ollioules
-street: "Route de la Seyne"
-housenumber: 293
-phone: "+33 4 98 03 81 34"
+street: Route de la Seyne
+housenumber: "293"
+phone: +33 4 98 03 81 34
 opening_hours: ""
-website: "https://www.celectisbeaute.com/building=yes"
+website: https://www.celectisbeaute.com/building=yes

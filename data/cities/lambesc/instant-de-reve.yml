@@ -1,11 +1,11 @@
 id: 53158136
-type: way
+type: node
 latitude: 43.65443
 longitude: 5.26181
 postcode: "13410"
 city: Lambesc
-street: "Place des Poilus"
-housenumber: 10
+street: Place des Poilus
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

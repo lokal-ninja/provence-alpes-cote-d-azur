@@ -4,8 +4,8 @@ latitude: 43.5711
 longitude: 7.08302
 postcode: "06220"
 city: Vallauris
-street: "Avenue de la Liberté"
-housenumber: 204
-phone: "+33 4 93 63 82 95"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.midas.fr/"
+street: Avenue de la Liberté
+housenumber: "204"
+phone: +33 4 93 63 82 95
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.midas.fr/

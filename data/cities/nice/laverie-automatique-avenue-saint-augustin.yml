@@ -4,8 +4,8 @@ latitude: 43.67736
 longitude: 7.2261
 postcode: ""
 city: Nice
-street: "Avenue Saint-Augustin"
-housenumber: 40
+street: Avenue Saint-Augustin
+housenumber: "40"
 phone: ""
-opening_hours: "07:30-20:00"
+opening_hours: 07:30-20:00
 website: ""

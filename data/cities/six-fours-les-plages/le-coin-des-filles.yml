@@ -1,11 +1,11 @@
 id: 911275618
-type: way
+type: node
 latitude: 43.11427
 longitude: 5.84447
 postcode: "83140"
 city: Six-Fours les Plages
-street: "Rue de l'Artisanat"
-housenumber: 25
+street: Rue de l'Artisanat
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

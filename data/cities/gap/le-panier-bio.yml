@@ -1,11 +1,11 @@
 id: 90895433
-type: way
+type: node
 latitude: 44.56017
 longitude: 6.07854
 postcode: "05000"
 city: Gap
-street: "Rue de l'Imprimerie"
-housenumber: 
+street: Rue de l'Imprimerie
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

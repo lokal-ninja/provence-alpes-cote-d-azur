@@ -4,8 +4,8 @@ latitude: 43.70118
 longitude: 7.28447
 postcode: "06300"
 city: Nice
-street: "Rue François Guisol"
-housenumber: 1
-phone: "+33 4 93 56 42 91"
+street: Rue François Guisol
+housenumber: "1"
+phone: +33 4 93 56 42 91
 opening_hours: ""
-website: "https://www.tabac-le-guisol.fr/"
+website: https://www.tabac-le-guisol.fr/

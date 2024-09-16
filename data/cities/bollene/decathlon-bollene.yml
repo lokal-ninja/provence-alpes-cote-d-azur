@@ -1,11 +1,11 @@
 id: 73785107
-type: way
+type: node
 latitude: 44.29861
 longitude: 4.7525
 postcode: "84500"
 city: Bollène
-street: "Quartier Saint Pierre"
-housenumber: 
-phone: "+33 4 32 80 33 60"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_211"
+street: Quartier Saint Pierre
+housenumber: ""
+phone: +33 4 32 80 33 60
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_211

@@ -4,8 +4,8 @@ latitude: 43.30706
 longitude: 5.36417
 postcode: "13002"
 city: Marseille
-street: "Terrasses du Port"
-housenumber: 
+street: Terrasses du Port
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.decathlon.fr/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.decathlon.fr/

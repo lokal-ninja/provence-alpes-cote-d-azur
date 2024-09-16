@@ -1,11 +1,11 @@
 id: 120890124
-type: way
+type: node
 latitude: 43.52209
 longitude: 6.46437
 postcode: "83300"
 city: Draguignan
-street: "Chemin des Incapis"
-housenumber: 482
-phone: "+33 4 94 68 29 28"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00"
+street: Chemin des Incapis
+housenumber: "482"
+phone: +33 4 94 68 29 28
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00
 website: ""

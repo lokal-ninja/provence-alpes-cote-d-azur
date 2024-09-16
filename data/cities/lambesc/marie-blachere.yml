@@ -1,11 +1,11 @@
 id: 53730626
-type: way
+type: node
 latitude: 43.64874
 longitude: 5.2624
 postcode: "13410"
 city: Lambesc
-street: "Avenue du 8 Mai 1945"
-housenumber: 5
+street: Avenue du 8 Mai 1945
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

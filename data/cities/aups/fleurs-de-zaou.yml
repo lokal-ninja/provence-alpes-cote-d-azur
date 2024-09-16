@@ -4,8 +4,8 @@ latitude: 43.62598
 longitude: 6.22344
 postcode: "83630"
 city: Aups
-street: "Avenue Georges Clemenceau"
-housenumber: 18
-phone: "+33 4 94 67 05 20"
-opening_hours: "Tu-Fr 08:30-12:00,15:00-19:15; Sa 08:30-12:00,15:00-19:00; Su 09:00-12:30"
+street: Avenue Georges Clemenceau
+housenumber: "18"
+phone: +33 4 94 67 05 20
+opening_hours: Tu-Fr 08:30-12:00,15:00-19:15; Sa 08:30-12:00,15:00-19:00; Su 09:00-12:30
 website: ""

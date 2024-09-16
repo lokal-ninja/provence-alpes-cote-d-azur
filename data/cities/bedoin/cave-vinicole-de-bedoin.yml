@@ -1,11 +1,11 @@
 id: 366511525
-type: way
+type: node
 latitude: 44.11609
 longitude: 5.17635
 postcode: "84410"
 city: Bédoin
-street: "Route de Carpentras"
-housenumber: 620
+street: Route de Carpentras
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "http://www.bedoin.com/"
+website: http://www.bedoin.com/

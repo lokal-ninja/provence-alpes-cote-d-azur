@@ -4,8 +4,8 @@ latitude: 43.94843
 longitude: 4.80677
 postcode: ""
 city: Avignon
-street: "Place du Change"
-housenumber: 15
-phone: "+33 9 80 48 55 16"
-opening_hours: "Mo-Sa 10:00-14:00,15:00-19:00"
-website: "https://www.signorinitartufi.com/"
+street: Place du Change
+housenumber: "15"
+phone: +33 9 80 48 55 16
+opening_hours: Mo-Sa 10:00-14:00,15:00-19:00
+website: https://www.signorinitartufi.com/

@@ -4,8 +4,8 @@ latitude: 43.9589
 longitude: 5.77993
 postcode: "04300"
 city: Forcalquier
-street: "Boulevard Latourette"
-housenumber: 14
-phone: "+33 6 03 01 65 86"
-opening_hours: "Mo 08:00-19:00, We-Sa 08:00-19:00"
-website: "https://boulangerie-lasource.fr/"
+street: Boulevard Latourette
+housenumber: "14"
+phone: +33 6 03 01 65 86
+opening_hours: Mo 08:00-19:00, We-Sa 08:00-19:00
+website: https://boulangerie-lasource.fr/

@@ -1,11 +1,11 @@
 id: 63804080
-type: way
+type: node
 latitude: 43.59818
 longitude: 6.98404
 postcode: "06250"
 city: Mougins
-street: "Avenue de Pibonson"
-housenumber: 176
-phone: "+33 4 93 90 10 15"
+street: Avenue de Pibonson
+housenumber: "176"
+phone: +33 4 93 90 10 15
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.72189
 longitude: 7.11022
 postcode: "06140"
 city: Vence
-street: "Place du Grand Jardin"
-housenumber: 40
+street: Place du Grand Jardin
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://magasins.utile-upf.fr/252-utile-vence"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://magasins.utile-upf.fr/252-utile-vence

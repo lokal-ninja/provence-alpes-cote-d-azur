@@ -1,11 +1,11 @@
 id: 158390765
-type: way
+type: node
 latitude: 43.63816
 longitude: 4.81124
 postcode: "13310"
 city: Saint-Martin-de-Crau
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

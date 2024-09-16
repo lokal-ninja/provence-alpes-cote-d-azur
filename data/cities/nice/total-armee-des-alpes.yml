@@ -1,11 +1,11 @@
 id: 142215920
-type: way
+type: node
 latitude: 43.70716
 longitude: 7.29261
 postcode: "06300"
 city: Nice
-street: "Boulevard de l'Armée des Alpes"
-housenumber: 10
+street: Boulevard de l'Armée des Alpes
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/fr_FR/NF001623"
+opening_hours: 24/7
+website: https://store.totalenergies.fr/fr_FR/NF001623

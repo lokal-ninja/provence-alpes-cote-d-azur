@@ -1,11 +1,11 @@
 id: 120894902
-type: way
+type: node
 latitude: 43.5222
 longitude: 6.46446
 postcode: "83300"
 city: Draguignan
-street: "Chemin des Incapis"
-housenumber: 482
-phone: "+33 6 14 55 43 97"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:15-14:00"
-website: "https://www.eurorepar.fr/garage-draguipneus-draguignan-8381.html"
+street: Chemin des Incapis
+housenumber: "482"
+phone: +33 6 14 55 43 97
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:15-14:00
+website: https://www.eurorepar.fr/garage-draguipneus-draguignan-8381.html

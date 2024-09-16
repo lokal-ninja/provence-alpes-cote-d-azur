@@ -1,11 +1,11 @@
 id: 155910956
-type: way
+type: node
 latitude: 43.19988
 longitude: 5.59562
 postcode: "13600"
 city: La Ciotat
-street: "Avenue du Serpolet"
-housenumber: 82
+street: Avenue du Serpolet
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

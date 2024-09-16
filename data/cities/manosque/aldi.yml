@@ -1,11 +1,11 @@
 id: 167487760
-type: way
+type: node
 latitude: 43.8219
 longitude: 5.79908
 postcode: "04100"
 city: Manosque
-street: "Avenue Joseph Cugnot"
-housenumber: 457
-phone: "+33 4 92 75 02 99"
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-12:30"
-website: "https://www.aldi.fr/"
+street: Avenue Joseph Cugnot
+housenumber: "457"
+phone: +33 4 92 75 02 99
+opening_hours: Mo-Sa 08:30-20:30; Su 09:00-12:30
+website: https://www.aldi.fr/

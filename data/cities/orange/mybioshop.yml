@@ -1,11 +1,11 @@
 id: 338492469
-type: way
+type: node
 latitude: 44.12047
 longitude: 4.84152
 postcode: ""
 city: Orange
-street: "Rue d'Italie"
-housenumber: 
+street: Rue d'Italie
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.naturel-bio.fr/"
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.naturel-bio.fr/

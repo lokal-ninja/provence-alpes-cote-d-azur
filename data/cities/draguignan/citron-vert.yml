@@ -4,8 +4,8 @@ latitude: 43.52829
 longitude: 6.47233
 postcode: "83300"
 city: Draguignan
-street: "Avenue du Général de Gaulle"
-housenumber: 177
-phone: "+33 4 94 68 13 85"
-opening_hours: "Tu-Sa 09:30-18:30; Su-Mo off"
-website: "https://citron-vert.fr/"
+street: Avenue du Général de Gaulle
+housenumber: "177"
+phone: +33 4 94 68 13 85
+opening_hours: Tu-Sa 09:30-18:30; Su-Mo off
+website: https://citron-vert.fr/

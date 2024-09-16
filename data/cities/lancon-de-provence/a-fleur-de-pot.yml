@@ -4,8 +4,8 @@ latitude: 43.59433
 longitude: 5.12899
 postcode: "13680"
 city: Lançon-de-Provence
-street: "Rue de l'Abbé Dureau"
-housenumber: 1
-phone: "+33 4 90 42 85 38"
-opening_hours: "Tu-Sa 09:00-12:30,15:30-19:00; Su 09:00-12:30"
+street: Rue de l'Abbé Dureau
+housenumber: "1"
+phone: +33 4 90 42 85 38
+opening_hours: Tu-Sa 09:00-12:30,15:30-19:00; Su 09:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 92610653
-type: way
+type: node
 latitude: 43.29791
 longitude: 5.59403
 postcode: "13400"
 city: Aubagne
-street: "Z.I les Paluds"
-housenumber: 
-phone: "+33 4 42 18 01 01"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Z.I les Paluds
+housenumber: ""
+phone: +33 4 42 18 01 01
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 134730508
-type: way
+type: node
 latitude: 43.97847
 longitude: 4.88859
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 4 90 14 94 75"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "http://www.ullapopoken.fr/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 4 90 14 94 75
+opening_hours: Mo-Sa 10:00-19:30
+website: http://www.ullapopoken.fr/

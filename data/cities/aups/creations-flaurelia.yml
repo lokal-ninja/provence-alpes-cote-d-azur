@@ -4,8 +4,8 @@ latitude: 43.62803
 longitude: 6.22432
 postcode: "83630"
 city: Aups
-street: "Rue Gabriel Péri"
-housenumber: 9
-phone: "+33 4 94 70 03 41"
-opening_hours: "Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30"
+street: Rue Gabriel Péri
+housenumber: "9"
+phone: +33 4 94 70 03 41
+opening_hours: Tu-Sa 09:00-12:30,15:00-19:00; Su 09:00-12:30
 website: ""

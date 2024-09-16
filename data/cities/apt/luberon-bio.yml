@@ -4,8 +4,8 @@ latitude: 43.88767
 longitude: 5.37613
 postcode: "84400"
 city: Apt
-street: "Avenue de Roumanille"
-housenumber: 266
-phone: "+33 4 90 74 53 75"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "luberonbio.fr"
+street: Avenue de Roumanille
+housenumber: "266"
+phone: +33 4 90 74 53 75
+opening_hours: Mo-Sa 09:00-19:00
+website: luberonbio.fr

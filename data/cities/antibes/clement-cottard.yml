@@ -1,11 +1,11 @@
 id: 68052646
-type: way
+type: node
 latitude: 43.60025
 longitude: 7.12205
 postcode: "06600"
 city: Antibes
-street: "Chemin des Frères Garbero"
-housenumber: 1
-phone: "+33 4 93 33 98 32"
+street: Chemin des Frères Garbero
+housenumber: "1"
+phone: +33 4 93 33 98 32
 opening_hours: ""
 website: ""

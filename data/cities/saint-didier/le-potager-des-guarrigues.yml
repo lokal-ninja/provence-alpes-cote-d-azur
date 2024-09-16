@@ -1,11 +1,11 @@
 id: 88088803
-type: way
+type: node
 latitude: 44.02325
 longitude: 5.11138
 postcode: "84210"
 city: Saint-Didier
-street: "Avenue des Garrigues"
-housenumber: 642
+street: Avenue des Garrigues
+housenumber: "642"
 phone: ""
 opening_hours: ""
 website: ""

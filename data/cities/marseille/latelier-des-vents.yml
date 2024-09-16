@@ -1,11 +1,11 @@
 id: 69138591
-type: way
+type: node
 latitude: 43.29467
 longitude: 5.38207
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 37
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

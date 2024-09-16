@@ -1,11 +1,11 @@
 id: 517425283
-type: way
+type: node
 latitude: 43.52443
 longitude: 6.47111
 postcode: "83300"
 city: Draguignan
-street: "Avenue du Général de Gaulle"
-housenumber: 
-phone: "+33 4 94 85 60 22"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.halleausommeil.fr/"
+street: Avenue du Général de Gaulle
+housenumber: ""
+phone: +33 4 94 85 60 22
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
+website: https://www.halleausommeil.fr/

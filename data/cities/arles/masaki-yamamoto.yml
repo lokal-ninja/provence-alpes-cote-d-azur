@@ -4,8 +4,8 @@ latitude: 43.67902
 longitude: 4.62941
 postcode: "13200"
 city: Arles
-street: "Rue du 4 Septembre"
-housenumber: 37
-phone: "+33 4 90 96 17 22"
-opening_hours: "Tu,Sa 07:30-19:00; Su 07:15-13:00"
+street: Rue du 4 Septembre
+housenumber: "37"
+phone: +33 4 90 96 17 22
+opening_hours: Tu,Sa 07:30-19:00; Su 07:15-13:00
 website: ""

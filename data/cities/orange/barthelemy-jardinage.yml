@@ -1,11 +1,11 @@
 id: 79249645
-type: way
+type: node
 latitude: 44.12116
 longitude: 4.83096
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.barthelemy-jardinage.com/"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.barthelemy-jardinage.com/

@@ -1,11 +1,11 @@
 id: 125616529
-type: way
+type: node
 latitude: 43.92875
 longitude: 4.8364
 postcode: "84000"
 city: Avignon
-street: "Avenue pierre semard"
-housenumber: 162
+street: Avenue pierre semard
+housenumber: "162"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/provence-alpes-cote-dazur/avignon/avignon-c-cial-cap-sud/S-FRYROC558"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/provence-alpes-cote-dazur/avignon/avignon-c-cial-cap-sud/S-FRYROC558

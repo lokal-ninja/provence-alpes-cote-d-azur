@@ -1,11 +1,11 @@
 id: 513961593
-type: way
+type: node
 latitude: 44.23669
 longitude: 5.90826
 postcode: "04200"
 city: Sisteron
-street: "Allée des Cèdres"
-housenumber: 5
+street: Allée des Cèdres
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

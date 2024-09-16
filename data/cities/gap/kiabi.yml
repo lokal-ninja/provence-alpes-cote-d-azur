@@ -1,11 +1,11 @@
 id: 521183675
-type: way
+type: node
 latitude: 44.56464
 longitude: 6.09799
 postcode: "05000"
 city: Gap
-street: "Route des Fauvins"
-housenumber: 
+street: Route des Fauvins
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

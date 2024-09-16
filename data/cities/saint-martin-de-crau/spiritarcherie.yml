@@ -1,11 +1,11 @@
 id: 158392428
-type: way
+type: node
 latitude: 43.64249
 longitude: 4.79456
 postcode: "13310"
 city: Saint Martin de Crau
-street: "Rue Copernic"
-housenumber: 2
-phone: "+33 4 90 98 08 60"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.spiritarcherie.fr/"
+street: Rue Copernic
+housenumber: "2"
+phone: +33 4 90 98 08 60
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.spiritarcherie.fr/

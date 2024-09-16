@@ -4,8 +4,9 @@ latitude: 43.68975
 longitude: 7.24112
 postcode: "06000"
 city: Nice
-street: "Avenue de la Californie"
+street: Avenue de la Californie
 housenumber: 48-50
-phone: "+33 4 93 44 99 44"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/667-picard-nice-californie"
+phone: +33 4 93 44 99 44
+opening_hours: Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30;
+    Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/667-picard-nice-californie

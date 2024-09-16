@@ -1,11 +1,11 @@
 id: 120881719
-type: way
+type: node
 latitude: 43.53438
 longitude: 6.45808
 postcode: "83300"
 city: Draguignan
-street: "Rue Notre-Dame-du-Peuple"
-housenumber: 46
+street: Rue Notre-Dame-du-Peuple
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

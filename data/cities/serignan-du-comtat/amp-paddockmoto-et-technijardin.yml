@@ -1,11 +1,11 @@
 id: 540459226
-type: way
+type: node
 latitude: 44.18372
 longitude: 4.84969
 postcode: "84830"
 city: serignan du comtat
-street: "Chemin du Roard"
-housenumber: 
+street: Chemin du Roard
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

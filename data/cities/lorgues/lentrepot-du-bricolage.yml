@@ -1,11 +1,11 @@
 id: 235756265
-type: way
+type: node
 latitude: 43.49205
 longitude: 6.37657
 postcode: "83510"
 city: Lorgues
-street: "Route de Draguignan"
-housenumber: 650
-phone: "+33 4 98 10 69 10"
-opening_hours: "Mo-Sa 07:30-19:00"
-website: "https://www.entrepot-du-bricolage.fr"
+street: Route de Draguignan
+housenumber: "650"
+phone: +33 4 98 10 69 10
+opening_hours: Mo-Sa 07:30-19:00
+website: https://www.entrepot-du-bricolage.fr

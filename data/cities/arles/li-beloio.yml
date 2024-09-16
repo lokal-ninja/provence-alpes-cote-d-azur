@@ -4,8 +4,8 @@ latitude: 43.67645
 longitude: 4.63057
 postcode: "13200"
 city: Arles
-street: "Rue Porte de Laure"
-housenumber: 11
-phone: "+33 4 90 49 64 33"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
-website: "http://lecostumedarles.fr/Li-Beloio"
+street: Rue Porte de Laure
+housenumber: "11"
+phone: +33 4 90 49 64 33
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
+website: http://lecostumedarles.fr/Li-Beloio

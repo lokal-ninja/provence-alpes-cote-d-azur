@@ -4,8 +4,8 @@ latitude: 43.03997
 longitude: 6.10975
 postcode: "83400"
 city: Hyères
-street: "Avenue René de Knyff"
-housenumber: 1
-phone: "+33 4 94 58 25 07"
-opening_hours: "08:30-12:00,14:00-18:00"
-website: "https://www.ulysseplongee.fr/"
+street: Avenue René de Knyff
+housenumber: "1"
+phone: +33 4 94 58 25 07
+opening_hours: 08:30-12:00,14:00-18:00
+website: https://www.ulysseplongee.fr/

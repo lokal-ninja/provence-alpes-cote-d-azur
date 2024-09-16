@@ -1,11 +1,11 @@
 id: 140225830
-type: way
+type: node
 latitude: 43.68874
 longitude: 7.20145
 postcode: "06200"
 city: Nice
-street: "Avenue Simone Veil"
-housenumber: 108
-phone: "+33 4 93 72 45 45"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.toyota.fr/reseau/novellipse_nice"
+street: Avenue Simone Veil
+housenumber: "108"
+phone: +33 4 93 72 45 45
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.toyota.fr/reseau/novellipse_nice

@@ -4,8 +4,8 @@ latitude: 43.68589
 longitude: 7.23644
 postcode: ""
 city: Nice
-street: "Promenade des Anglais"
-housenumber: 217
-phone: "+33 4 93 86 31 35"
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/en_EN/NF006668"
+street: Promenade des Anglais
+housenumber: "217"
+phone: +33 4 93 86 31 35
+opening_hours: 24/7
+website: https://store.totalenergies.fr/en_EN/NF006668

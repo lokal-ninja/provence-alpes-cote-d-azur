@@ -1,11 +1,11 @@
 id: 125143155
-type: way
+type: node
 latitude: 44.10927
 longitude: 4.85215
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
-website: "https://www.c-and-a.com/fr"
+opening_hours: Mo-Sa 09:00-17:30
+website: https://www.c-and-a.com/fr

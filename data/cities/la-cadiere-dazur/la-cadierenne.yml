@@ -1,11 +1,11 @@
 id: 258968712
-type: way
+type: node
 latitude: 43.19289
 longitude: 5.76095
 postcode: "83740"
 city: La Cadière-d'Azur
-street: "Quartier Le Vallon"
-housenumber: 
-phone: "+33 4 94 90 11 06"
+street: Quartier Le Vallon
+housenumber: ""
+phone: +33 4 94 90 11 06
 opening_hours: ""
-website: "https://www.cadierenne.com/"
+website: https://www.cadierenne.com/

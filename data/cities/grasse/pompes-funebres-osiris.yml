@@ -4,8 +4,8 @@ latitude: 43.64652
 longitude: 6.91408
 postcode: "06130"
 city: Grasse
-street: "Avenue de la Libération"
-housenumber: 59
+street: Avenue de la Libération
+housenumber: "59"
 phone: "+33493402424"
-opening_hours: "24/7"
-website: "http://www.osiris.rip/"
+opening_hours: 24/7
+website: http://www.osiris.rip/

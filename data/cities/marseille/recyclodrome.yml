@@ -4,8 +4,8 @@ latitude: 43.29467
 longitude: 5.38058
 postcode: "13001"
 city: Marseille
-street: "Rue d'Aubagne"
-housenumber: 47
+street: Rue d'Aubagne
+housenumber: "47"
 phone: ""
-opening_hours: "We-Sa 14:00-19:00"
-website: "https://www.recyclodrome.org/"
+opening_hours: We-Sa 14:00-19:00
+website: https://www.recyclodrome.org/

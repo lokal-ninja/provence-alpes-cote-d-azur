@@ -4,8 +4,8 @@ latitude: 43.24545
 longitude: 5.38444
 postcode: "13008"
 city: Marseille
-street: "Rue Musso"
-housenumber: 17
+street: Rue Musso
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "http://bioveyre.fr/"
+opening_hours: Mo-Sa 09:00-19:30
+website: http://bioveyre.fr/

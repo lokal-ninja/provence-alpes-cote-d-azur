@@ -1,11 +1,11 @@
 id: 689611556
-type: way
+type: node
 latitude: 43.1159
 longitude: 5.84154
 postcode: "83140"
 city: Six-Fours les Plages
-street: "Rue d'Ollioules"
-housenumber: 44
+street: Rue d'Ollioules
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

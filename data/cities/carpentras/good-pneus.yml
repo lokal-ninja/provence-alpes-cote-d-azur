@@ -1,11 +1,11 @@
 id: 90924679
-type: way
+type: node
 latitude: 44.04186
 longitude: 5.04862
 postcode: "84200"
 city: Carpentras
-street: "Avenue Dwight Eisenhower"
-housenumber: 1036
-phone: "+33 6 19 07 00 64"
+street: Avenue Dwight Eisenhower
+housenumber: "1036"
+phone: +33 6 19 07 00 64
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.72493
 longitude: 7.27456
 postcode: "06000"
 city: Nice
-street: "Avenue de la Reine Victoria"
-housenumber: 51
+street: Avenue de la Reine Victoria
+housenumber: "51"
 phone: "0493620185"
-opening_hours: "24/7"
-website: "https://www.raygot-pompesfunebres.com/"
+opening_hours: 24/7
+website: https://www.raygot-pompesfunebres.com/

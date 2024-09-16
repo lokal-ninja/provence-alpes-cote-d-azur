@@ -4,8 +4,8 @@ latitude: 43.52573
 longitude: 5.44554
 postcode: "13100"
 city: Aix-en-Provence
-street: "Place du Général de Gaulle"
-housenumber: 2
-phone: "+33 4 88 80 78 00"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.apple.com/fr/retail/aix-en-provence"
+street: Place du Général de Gaulle
+housenumber: "2"
+phone: +33 4 88 80 78 00
+opening_hours: Mo-Fr 10:00-19:30; Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.apple.com/fr/retail/aix-en-provence

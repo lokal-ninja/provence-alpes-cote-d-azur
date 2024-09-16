@@ -4,8 +4,8 @@ latitude: 43.67816
 longitude: 4.62724
 postcode: "13200"
 city: Arles
-street: "Rue du Docteur Fanton"
-housenumber: 12
+street: Rue du Docteur Fanton
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Su 10:00-13:00,14:00-19:00"
+opening_hours: Mo-Su 10:00-13:00,14:00-19:00
 website: ""

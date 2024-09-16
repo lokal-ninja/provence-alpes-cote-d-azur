@@ -1,11 +1,11 @@
 id: 800350380
-type: way
+type: node
 latitude: 43.69329
 longitude: 5.48906
 postcode: "84120"
 city: Pertuis
-street: "boulevard de la Sainte-Barbe"
-housenumber: 75
+street: boulevard de la Sainte-Barbe
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,13:45-19:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,13:45-19:00
 website: ""

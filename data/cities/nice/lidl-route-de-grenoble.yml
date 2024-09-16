@@ -1,11 +1,11 @@
 id: 143789625
-type: way
+type: node
 latitude: 43.67894
 longitude: 7.20224
 postcode: ""
 city: Nice
-street: "Route de Grenoble"
-housenumber: 210
+street: Route de Grenoble
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/nice/210-route-de-grenoble/"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/nice/210-route-de-grenoble/

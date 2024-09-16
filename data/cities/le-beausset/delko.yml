@@ -1,11 +1,11 @@
 id: 254764611
-type: way
+type: node
 latitude: 43.20242
 longitude: 5.80865
 postcode: "83330"
 city: Le beausset
-street: "Chemin des Ancolies"
-housenumber: 766
-phone: "+33 4 94 24 13 77"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00"
+street: Chemin des Ancolies
+housenumber: "766"
+phone: +33 4 94 24 13 77
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00
 website: ""

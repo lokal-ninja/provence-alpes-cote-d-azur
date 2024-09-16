@@ -1,11 +1,11 @@
 id: 1051894042
-type: way
+type: node
 latitude: 43.66607
 longitude: 4.63873
 postcode: "13200"
 city: Arles
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

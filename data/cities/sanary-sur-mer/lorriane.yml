@@ -4,8 +4,9 @@ latitude: 43.11763
 longitude: 5.79971
 postcode: "83110"
 city: Sanary-sur-Mer
-street: "Avenue du Maréchal Gallieni"
-housenumber: 8
-phone: "+33 7 77 00 23 06"
-opening_hours: "Tu,We 08:00-13:00,16:30-19:00; Th 08:00-13:00; Fr,Sa 08:00-13:00,16:30-19:00; Su 09:00-13:00"
+street: Avenue du Maréchal Gallieni
+housenumber: "8"
+phone: +33 7 77 00 23 06
+opening_hours: Tu,We 08:00-13:00,16:30-19:00; Th 08:00-13:00; Fr,Sa 08:00-13:00,16:30-19:00;
+    Su 09:00-13:00
 website: ""

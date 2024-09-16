@@ -4,8 +4,8 @@ latitude: 43.12429
 longitude: 5.79142
 postcode: "83110"
 city: Sanary-sur-Mer
-street: "Route de Bandol"
-housenumber: 200
-phone: "+33 4 94 88 20 27"
-opening_hours: "08:30-20:00"
-website: "https://magasins.vival.fr/fr/vival-sanary-sur-mer"
+street: Route de Bandol
+housenumber: "200"
+phone: +33 4 94 88 20 27
+opening_hours: 08:30-20:00
+website: https://magasins.vival.fr/fr/vival-sanary-sur-mer

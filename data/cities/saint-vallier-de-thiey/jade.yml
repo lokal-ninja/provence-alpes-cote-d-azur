@@ -4,8 +4,8 @@ latitude: 43.6988
 longitude: 6.84831
 postcode: "06460"
 city: Saint-Vallier-de-Thiey
-street: "Place de l'Apié"
-housenumber: 5
-phone: "+33 4 93 42 63 59"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.boutique-jade.com"
+street: Place de l'Apié
+housenumber: "5"
+phone: +33 4 93 42 63 59
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.boutique-jade.com

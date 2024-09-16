@@ -4,8 +4,9 @@ latitude: 43.54946
 longitude: 6.9764
 postcode: "06150"
 city: Cannes la Bocca
-street: "Avenue Francis Tonner"
-housenumber: 95
-phone: "+33 4 93 90 24 11"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/171-picard-cannes-la-bocca"
+street: Avenue Francis Tonner
+housenumber: "95"
+phone: +33 4 93 90 24 11
+opening_hours: Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30;
+    Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/171-picard-cannes-la-bocca

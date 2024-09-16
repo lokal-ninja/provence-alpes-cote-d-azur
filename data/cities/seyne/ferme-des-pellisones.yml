@@ -1,11 +1,11 @@
 id: 103365902
-type: way
+type: node
 latitude: 44.35956
 longitude: 6.337
 postcode: "04140"
 city: Seyne
-street: "Quartier La Pointe"
-housenumber: 
+street: Quartier La Pointe
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

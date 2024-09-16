@@ -1,11 +1,11 @@
 id: 292437504
-type: way
+type: node
 latitude: 44.1123
 longitude: 4.845
 postcode: ""
 city: Orange
-street: "Rue Grenache"
-housenumber: 
+street: Rue Grenache
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.groupedewillermin.fr/index.html"
+website: http://www.groupedewillermin.fr/index.html

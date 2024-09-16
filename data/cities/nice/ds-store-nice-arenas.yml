@@ -4,8 +4,8 @@ latitude: 43.67055
 longitude: 7.22109
 postcode: "06200"
 city: Nice
-street: "Boulevard René Cassin"
-housenumber: 74
+street: Boulevard René Cassin
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-18:00"
-website: "https://www.groupechopard.com/ds/contact/ds-store-nice-arenas/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-18:00
+website: https://www.groupechopard.com/ds/contact/ds-store-nice-arenas/

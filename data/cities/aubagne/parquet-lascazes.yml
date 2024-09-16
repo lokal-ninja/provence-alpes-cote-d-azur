@@ -4,8 +4,8 @@ latitude: 43.28766
 longitude: 5.60295
 postcode: "13685"
 city: Aubagne
-street: "Avenue de Jouques"
-housenumber: 180
-phone: "+33 4 42 70 01 61"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.parquet-lascazes.fr/"
+street: Avenue de Jouques
+housenumber: "180"
+phone: +33 4 42 70 01 61
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.parquet-lascazes.fr/

@@ -1,11 +1,11 @@
 id: 165103893
-type: way
+type: node
 latitude: 43.1232
 longitude: 5.8486
 postcode: "83190"
 city: Ollioules
-street: "Chemin de Piédardan"
-housenumber: 
+street: Chemin de Piédardan
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

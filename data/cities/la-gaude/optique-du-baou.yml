@@ -1,11 +1,11 @@
 id: 626445533
-type: way
+type: node
 latitude: 43.72202
 longitude: 7.15208
 postcode: "06610"
 city: La Gaude
-street: "Rue Louis Michel Féraud"
-housenumber: 7
+street: Rue Louis Michel Féraud
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://optiquedubaou.fr/"
+website: https://optiquedubaou.fr/

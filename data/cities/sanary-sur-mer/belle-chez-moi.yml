@@ -4,8 +4,8 @@ latitude: 43.11843
 longitude: 5.80763
 postcode: "83110"
 city: Sanary-sur-Mer
-street: "Avenue des Poilus"
-housenumber: 243
-phone: "+33 4 89 96 09 17;+33 6 30 60 71 24"
-opening_hours: "Tu-Fr 09:00-18:30 sur rendez-vous; Sa 09:00-18:00 sur rendez-vous"
-website: "https://www.belle-chez-moi.fr/"
+street: Avenue des Poilus
+housenumber: "243"
+phone: +33 4 89 96 09 17;+33 6 30 60 71 24
+opening_hours: Tu-Fr 09:00-18:30 "sur rendez-vous"; Sa 09:00-18:00 "sur rendez-vous"
+website: https://www.belle-chez-moi.fr/

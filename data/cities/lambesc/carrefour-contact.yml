@@ -1,11 +1,11 @@
 id: 27408562
-type: way
+type: node
 latitude: 43.64869
 longitude: 5.26539
 postcode: "13410"
 city: Lambesc
 street: ""
-housenumber: 
-phone: "+33 4 42 92 81 27"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-lambesc"
+housenumber: ""
+phone: +33 4 42 92 81 27
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-lambesc

@@ -4,8 +4,8 @@ latitude: 43.28931
 longitude: 5.59782
 postcode: "13685"
 city: Aubagne
-street: "Avenue des Paluds"
-housenumber: 729
-phone: "+33 4 42 84 67 00"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.portail.rexel.fr"
+street: Avenue des Paluds
+housenumber: "729"
+phone: +33 4 42 84 67 00
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.portail.rexel.fr

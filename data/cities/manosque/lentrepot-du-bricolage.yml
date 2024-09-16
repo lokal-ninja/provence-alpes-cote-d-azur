@@ -1,11 +1,11 @@
 id: 89317809
-type: way
+type: node
 latitude: 43.8207
 longitude: 5.79537
 postcode: "04100"
 city: Manosque
-street: "Boulevard Saint-Joseph"
-housenumber: 82
+street: Boulevard Saint-Joseph
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

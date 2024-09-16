@@ -1,11 +1,11 @@
 id: 400244947
-type: way
+type: node
 latitude: 43.60669
 longitude: 5.75706
 postcode: "83560"
 city: Rians
-street: "Place du Posteuil"
-housenumber: 8
+street: Place du Posteuil
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

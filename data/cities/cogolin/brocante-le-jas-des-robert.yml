@@ -1,11 +1,11 @@
 id: 983196289
-type: way
+type: node
 latitude: 43.24514
 longitude: 6.55126
 postcode: "83310"
 city: Cogolin
-street: "Chemin de la Mort du Luc"
-housenumber: 
+street: Chemin de la Mort du Luc
+housenumber: ""
 phone: ""
-opening_hours: "Su 06:00-14:00"
+opening_hours: Su 06:00-14:00
 website: ""

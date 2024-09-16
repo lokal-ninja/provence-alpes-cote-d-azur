@@ -1,11 +1,11 @@
 id: 67409816
-type: way
+type: node
 latitude: 43.65143
 longitude: 6.92246
 postcode: "06130"
 city: Grasse
-street: "Avenue Sidi Brahim"
-housenumber: 2
-phone: "+33 493707889"
+street: Avenue Sidi Brahim
+housenumber: "2"
+phone: +33 493707889
 opening_hours: ""
 website: ""

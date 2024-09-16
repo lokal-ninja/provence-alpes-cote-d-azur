@@ -1,11 +1,11 @@
 id: 656095250
-type: way
+type: node
 latitude: 44.54745
 longitude: 6.48178
 postcode: "05200"
 city: Baratier
-street: "Zone Commerciale Baratier"
-housenumber: 94
+street: Zone Commerciale Baratier
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

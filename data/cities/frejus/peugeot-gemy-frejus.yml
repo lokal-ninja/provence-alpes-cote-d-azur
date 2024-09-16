@@ -1,11 +1,11 @@
 id: 69780696
-type: way
+type: node
 latitude: 43.43862
 longitude: 6.7143
 postcode: "83600"
 city: Fréjus
-street: "Z.I. La Palud - Nationale 7"
-housenumber: 996
-phone: "+33 4 94 17 83 83"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.gemy-frejus.fr"
+street: Z.I. La Palud - Nationale 7
+housenumber: "996"
+phone: +33 4 94 17 83 83
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.gemy-frejus.fr

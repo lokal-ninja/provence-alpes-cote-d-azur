@@ -1,11 +1,11 @@
 id: 134730490
-type: way
+type: node
 latitude: 43.97899
 longitude: 4.88848
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 4 90 01 25 05"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.interiors.fr/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 4 90 01 25 05
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.interiors.fr/

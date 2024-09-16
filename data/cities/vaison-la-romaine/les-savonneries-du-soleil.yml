@@ -4,8 +4,8 @@ latitude: 44.2401
 longitude: 5.0745
 postcode: "84110"
 city: Vaison-la-Romaine
-street: "Grande Rue"
-housenumber: 31
-phone: "+33 4 90 41 73 11"
-opening_hours: "PH,Mo-Su 10:00-13:00, Tu-Sa 14:00-19:00, PH,Su,Mo 14:00-18:00"
+street: Grande Rue
+housenumber: "31"
+phone: +33 4 90 41 73 11
+opening_hours: PH,Mo-Su 10:00-13:00, Tu-Sa 14:00-19:00, PH,Su,Mo 14:00-18:00
 website: ""

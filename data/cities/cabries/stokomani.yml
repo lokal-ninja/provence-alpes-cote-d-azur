@@ -5,7 +5,7 @@ longitude: 5.36
 postcode: "13480"
 city: Cabriès
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.stokomani.fr/magasins/plan-de-campagne"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.stokomani.fr/magasins/plan-de-campagne

@@ -1,11 +1,11 @@
 id: 152341501
-type: way
+type: node
 latitude: 44.12002
 longitude: 4.84355
 postcode: ""
 city: Orange
-street: "Rue d'Italie"
-housenumber: 
+street: Rue d'Italie
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cera-mod.fr/"
+website: https://www.cera-mod.fr/

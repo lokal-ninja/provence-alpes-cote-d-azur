@@ -4,8 +4,8 @@ latitude: 43.70263
 longitude: 7.26649
 postcode: "06000"
 city: Nice
-street: "Avenue Jean Médecin"
-housenumber: 35
-phone: "+33 4 97 08 05 96"
-opening_hours: "Mo-Sa 11:00-19:30; So 13:00-19:00"
-website: "https://www.passagedudesir.fr"
+street: Avenue Jean Médecin
+housenumber: "35"
+phone: +33 4 97 08 05 96
+opening_hours: Mo-Sa 11:00-19:30; So 13:00-19:00
+website: https://www.passagedudesir.fr

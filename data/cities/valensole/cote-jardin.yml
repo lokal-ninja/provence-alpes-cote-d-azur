@@ -1,11 +1,11 @@
 id: 91918043
-type: way
+type: node
 latitude: 43.83553
 longitude: 5.97846
 postcode: "04210"
 city: Valensole
-street: "Route de Manosque"
-housenumber: 1
+street: Route de Manosque
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:15,15:00-19:00"
+opening_hours: Mo-Sa 08:30-12:15,15:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 64069217
-type: way
+type: node
 latitude: 43.54559
 longitude: 5.36025
 postcode: "13510"
 city: Éguilles
-street: "Rue Corindon"
-housenumber: 150
+street: Rue Corindon
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://trocnroll.com/"
+website: https://trocnroll.com/

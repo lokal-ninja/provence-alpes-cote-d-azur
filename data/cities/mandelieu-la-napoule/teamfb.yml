@@ -4,8 +4,8 @@ latitude: 43.55618
 longitude: 6.95182
 postcode: "06210"
 city: Mandelieu-la-Napoule
-street: "Allée Louis Blériot"
-housenumber: 245
-phone: "+33 497066100"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,PH off"
-website: "http://www.team-fb.com"
+street: Allée Louis Blériot
+housenumber: "245"
+phone: +33 497066100
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,PH off
+website: http://www.team-fb.com

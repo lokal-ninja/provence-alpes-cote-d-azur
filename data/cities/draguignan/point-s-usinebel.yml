@@ -1,11 +1,11 @@
 id: 120896560
-type: way
+type: node
 latitude: 43.52712
 longitude: 6.45
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Salamandrier"
-housenumber: 
+street: Boulevard Salamandrier
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

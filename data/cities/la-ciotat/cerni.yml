@@ -1,11 +1,11 @@
 id: 155913419
-type: way
+type: node
 latitude: 43.2057
 longitude: 5.60433
 postcode: "13600"
 city: La Ciotat
-street: "Avenue de la Tramontane"
-housenumber: 318
+street: Avenue de la Tramontane
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

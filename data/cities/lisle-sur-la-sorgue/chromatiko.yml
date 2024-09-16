@@ -1,11 +1,11 @@
 id: 308414130
-type: way
+type: node
 latitude: 43.91743
 longitude: 5.05169
 postcode: "84800"
 city: L'Isle-sur-la-Sorgue
-street: "Avenue de la Libération"
-housenumber: 49
+street: Avenue de la Libération
+housenumber: "49"
 phone: ""
-opening_hours: "10:00-12:30, 14:00-19:00"
-website: "https://www.chromatiko.fr/"
+opening_hours: 10:00-12:30, 14:00-19:00
+website: https://www.chromatiko.fr/

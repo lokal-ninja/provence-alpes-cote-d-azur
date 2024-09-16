@@ -1,11 +1,11 @@
 id: 744849972
-type: way
+type: node
 latitude: 43.68185
 longitude: 5.50479
 postcode: "84120"
 city: Pertuis
-street: "Rue Benjamin Franklin"
-housenumber: 193
+street: Rue Benjamin Franklin
+housenumber: "193"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 43.1203
 longitude: 5.80498
 postcode: "83110"
 city: Sanary-sur-Mer
-street: "Avenue Joseph Lautier"
-housenumber: 269
-phone: "+33 4 89 66 35 49"
-opening_hours: "Mo 09:00-12:00; Tu 09:00-19:00; We 09:00-12:00; Th-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Avenue Joseph Lautier
+housenumber: "269"
+phone: +33 4 89 66 35 49
+opening_hours: Mo 09:00-12:00; Tu 09:00-19:00; We 09:00-12:00; Th-Fr 09:00-19:00;
+    Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 68052592
-type: way
+type: node
 latitude: 43.58143
 longitude: 7.12481
 postcode: "06600"
 city: Antibes
-street: "Rue du Docteur François Delmas"
-housenumber: 6
+street: Rue du Docteur François Delmas
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

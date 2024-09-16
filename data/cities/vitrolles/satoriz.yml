@@ -1,11 +1,11 @@
 id: 101283944
-type: way
+type: node
 latitude: 43.43439
 longitude: 5.26282
 postcode: "13127"
 city: Vitrolles
-street: "Avenue Denis Padovani"
-housenumber: 
+street: Avenue Denis Padovani
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.satoriz.fr/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.satoriz.fr/

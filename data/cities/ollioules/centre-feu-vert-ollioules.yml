@@ -1,11 +1,11 @@
 id: 776999179
-type: way
+type: node
 latitude: 43.1223
 longitude: 5.84903
 postcode: "83190"
 city: Ollioules
-street: "Chemin de la Capellane"
-housenumber: 
+street: Chemin de la Capellane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://www.feuvert.fr/centres-auto/ollioules/feu-vert-ollioules/482.html"
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://www.feuvert.fr/centres-auto/ollioules/feu-vert-ollioules/482.html

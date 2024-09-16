@@ -1,11 +1,11 @@
 id: 586557223
-type: way
+type: node
 latitude: 43.85925
 longitude: 5.60205
 postcode: "04280"
 city: Céreste
-street: "Route des Prés"
-housenumber: 557
-phone: "+33 9 83 56 92 15"
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:30; Sa 10:00-13:00,14:30-18:00"
+street: Route des Prés
+housenumber: "557"
+phone: +33 9 83 56 92 15
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:30; Sa 10:00-13:00,14:30-18:00
 website: ""

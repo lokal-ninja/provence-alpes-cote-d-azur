@@ -4,8 +4,8 @@ latitude: 43.95982
 longitude: 5.78149
 postcode: "04300"
 city: Forcalquier
-street: "Place du Bourguet"
-housenumber: 8
+street: Place du Bourguet
+housenumber: "8"
 phone: "+33486566145"
-opening_hours: "Mo,Tu,Th-Sa 09:30-13:00,15:00-19:30"
-website: "https://labondance.net/"
+opening_hours: Mo,Tu,Th-Sa 09:30-13:00,15:00-19:30
+website: https://labondance.net/

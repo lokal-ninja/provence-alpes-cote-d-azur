@@ -1,11 +1,11 @@
 id: 89337880
-type: way
+type: node
 latitude: 43.81964
 longitude: 5.79916
 postcode: "04100"
 city: Manosque
-street: "Avenue du 1er Mai"
-housenumber: 299
+street: Avenue du 1er Mai
+housenumber: "299"
 phone: ""
 opening_hours: ""
-website: "https://www.yesss-fr.com/"
+website: https://www.yesss-fr.com/

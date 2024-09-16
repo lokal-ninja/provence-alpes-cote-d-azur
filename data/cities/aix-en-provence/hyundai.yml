@@ -1,11 +1,11 @@
 id: 295843677
-type: way
+type: node
 latitude: 43.50857
 longitude: 5.40236
 postcode: "13290"
 city: Aix-en-Provence
-street: "Rue Bastide de Verdaches"
-housenumber: 130
-phone: "+334 42 38 13 13"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.cap-milanesio.fr/"
+street: Rue Bastide de Verdaches
+housenumber: "130"
+phone: +334 42 38 13 13
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.cap-milanesio.fr/

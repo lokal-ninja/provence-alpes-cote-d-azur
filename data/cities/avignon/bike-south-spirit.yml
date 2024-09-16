@@ -5,7 +5,7 @@ longitude: 4.80488
 postcode: "84000"
 city: Avignon
 street: ""
-housenumber: 54
-phone: "+33 6 75 54 21 88"
+housenumber: "54"
+phone: +33 6 75 54 21 88
 opening_hours: ""
-website: "https://www.southspiritbike.com/"
+website: https://www.southspiritbike.com/

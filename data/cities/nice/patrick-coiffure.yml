@@ -4,8 +4,8 @@ latitude: 43.68506
 longitude: 7.22496
 postcode: "06200"
 city: Nice
-street: "Boulevard Napoléon III"
-housenumber: 88
-phone: "+33 4 93 83 88 74"
-opening_hours: "Tu-Sa 08:30-18:00"
+street: Boulevard Napoléon III
+housenumber: "88"
+phone: +33 4 93 83 88 74
+opening_hours: Tu-Sa 08:30-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.57463
 longitude: 6.98551
 postcode: ""
 city: Mougins
-street: "Chemin de Carimaï"
-housenumber: 1034
-phone: "+33 4 93 43 17 53"
-opening_hours: "06:30-20:00"
-website: "https://www.latartetropezienne.fr/magasins-details?magasin=32"
+street: Chemin de Carimaï
+housenumber: "1034"
+phone: +33 4 93 43 17 53
+opening_hours: 06:30-20:00
+website: https://www.latartetropezienne.fr/magasins-details?magasin=32

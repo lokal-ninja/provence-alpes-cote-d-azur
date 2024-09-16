@@ -4,8 +4,8 @@ latitude: 43.69812
 longitude: 7.28766
 postcode: "06300"
 city: Nice
-street: "Boulevard Carnot"
-housenumber: 10
-phone: "+33 4 93 89 83 91"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://ilove-rotisserie.com/Adresses"
+street: Boulevard Carnot
+housenumber: "10"
+phone: +33 4 93 89 83 91
+opening_hours: Mo-Su 09:00-22:00
+website: https://ilove-rotisserie.com/Adresses

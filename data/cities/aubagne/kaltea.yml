@@ -4,8 +4,8 @@ latitude: 43.28279
 longitude: 5.60476
 postcode: "13400"
 city: Aubagne
-street: "Avenue de la Fleuride"
-housenumber: 80
-phone: "+33 4 42 73 90 78"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.kaltea.fr/"
+street: Avenue de la Fleuride
+housenumber: "80"
+phone: +33 4 42 73 90 78
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.kaltea.fr/

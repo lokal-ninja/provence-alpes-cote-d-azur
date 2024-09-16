@@ -1,11 +1,11 @@
 id: 68050477
-type: way
+type: node
 latitude: 43.60033
 longitude: 7.07811
 postcode: "06600"
 city: Antibes
-street: "Chemin des Terriers Nord"
-housenumber: 
+street: Chemin des Terriers Nord
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_3"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_3

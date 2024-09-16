@@ -4,8 +4,8 @@ latitude: 43.60571
 longitude: 7.12359
 postcode: "06600"
 city: Antibes
-street: "Route de Nice"
-housenumber: 646
-phone: "+33 4 93 61 27 33"
-opening_hours: "Mo-We,Fr-Sa 08:30-12:30,14:00-18:00; Th 14:00-18:00; PH off"
-website: "https://antibescycles.weebly.com/"
+street: Route de Nice
+housenumber: "646"
+phone: +33 4 93 61 27 33
+opening_hours: Mo-We,Fr-Sa 08:30-12:30,14:00-18:00; Th 14:00-18:00; PH off
+website: https://antibescycles.weebly.com/

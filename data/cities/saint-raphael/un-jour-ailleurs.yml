@@ -4,8 +4,8 @@ latitude: 43.42292
 longitude: 6.76717
 postcode: "83700"
 city: Saint-Raphaël
-street: "Boulevard Félix Martin"
-housenumber: 110
-phone: "+33 4 94 95 62 91"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.unjourailleurs.com/fr/"
+street: Boulevard Félix Martin
+housenumber: "110"
+phone: +33 4 94 95 62 91
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.unjourailleurs.com/fr/

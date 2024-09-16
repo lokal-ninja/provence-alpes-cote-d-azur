@@ -4,8 +4,8 @@ latitude: 43.69372
 longitude: 7.25087
 postcode: "06000"
 city: Nice
-street: "Rue de France"
-housenumber: 120
-phone: "+33 4 23 20 61 01"
-opening_hours: "Mo off; Tu-Su 09:00-20:00"
-website: "https://thea-traiteur-epicerie.eatbu.com/?lang=fr"
+street: Rue de France
+housenumber: "120"
+phone: +33 4 23 20 61 01
+opening_hours: Mo off; Tu-Su 09:00-20:00
+website: https://thea-traiteur-epicerie.eatbu.com/?lang=fr

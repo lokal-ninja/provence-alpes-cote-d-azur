@@ -1,11 +1,11 @@
 id: 84763457
-type: way
+type: node
 latitude: 43.676
 longitude: 5.50117
 postcode: "84120"
 city: Pertuis
-street: "Rue Roberval"
-housenumber: 167
+street: Rue Roberval
+housenumber: "167"
 phone: ""
 opening_hours: ""
-website: "https://www.camions-vaucluse.fr"
+website: https://www.camions-vaucluse.fr

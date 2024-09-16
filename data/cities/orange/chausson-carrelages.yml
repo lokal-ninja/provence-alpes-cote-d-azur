@@ -1,11 +1,11 @@
 id: 78620639
-type: way
+type: node
 latitude: 44.11451
 longitude: 4.84499
 postcode: ""
 city: Orange
-street: "Rue Carignan"
-housenumber: 
+street: Rue Carignan
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.chausson-materiaux.fr/"
+website: https://www.chausson-materiaux.fr/

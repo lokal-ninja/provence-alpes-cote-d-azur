@@ -4,8 +4,8 @@ latitude: 43.493
 longitude: 6.53524
 postcode: "83920"
 city: La Motte
-street: "Boulevard André Bouis"
-housenumber: 4
-phone: "+33 4 94 70 27 80"
-opening_hours: "Mo-Sa 09:00-12:15,15:00-18:30; Jul-Aug Mo-Sa 09:00-12:30,15:00-19:00"
-website: "https://www.eouve-vin-bio.fr"
+street: Boulevard André Bouis
+housenumber: "4"
+phone: +33 4 94 70 27 80
+opening_hours: Mo-Sa 09:00-12:15,15:00-18:30; Jul-Aug Mo-Sa 09:00-12:30,15:00-19:00
+website: https://www.eouve-vin-bio.fr

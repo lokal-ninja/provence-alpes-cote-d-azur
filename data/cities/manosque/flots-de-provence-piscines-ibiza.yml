@@ -4,8 +4,8 @@ latitude: 43.82289
 longitude: 5.79856
 postcode: "04100"
 city: Manosque
-street: "Traverse des Métiers"
-housenumber: 2
-phone: "+33 4 92 72 61 22"
-opening_hours: "Mo 15:00-18:00; Tu-Fr 09:00-12:00, 14:30-18:30; Sa 09:00-12:00, 15:00-18:00"
-website: "https://www.flotsdeprovence.com/"
+street: Traverse des Métiers
+housenumber: "2"
+phone: +33 4 92 72 61 22
+opening_hours: Mo 15:00-18:00; Tu-Fr 09:00-12:00, 14:30-18:30; Sa 09:00-12:00, 15:00-18:00
+website: https://www.flotsdeprovence.com/

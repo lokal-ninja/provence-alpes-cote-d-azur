@@ -1,11 +1,11 @@
 id: 78620459
-type: way
+type: node
 latitude: 44.12176
 longitude: 4.84118
 postcode: ""
 city: Orange
-street: "Rue de Belgique"
-housenumber: 255
-phone: "+33 4 90 61 95 60"
+street: Rue de Belgique
+housenumber: "255"
+phone: +33 4 90 61 95 60
 opening_hours: ""
-website: "https://easy-deal.fr/"
+website: https://easy-deal.fr/

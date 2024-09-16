@@ -5,7 +5,7 @@ longitude: 5.36844
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 3
-phone: "+33 4 91 91 17 35"
-opening_hours: "07:30-21:00"
-website: "https://magasins.vival.fr/fr/vival-marseille-roches"
+housenumber: "3"
+phone: +33 4 91 91 17 35
+opening_hours: 07:30-21:00
+website: https://magasins.vival.fr/fr/vival-marseille-roches

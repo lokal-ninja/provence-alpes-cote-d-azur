@@ -1,11 +1,11 @@
 id: 63882513
-type: way
+type: node
 latitude: 43.65882
 longitude: 7.14411
 postcode: "06800"
 city: Cagnes-sur-Mer
-street: "Rue des Reynes"
-housenumber: 42
+street: Rue des Reynes
+housenumber: "42"
 phone: ""
-opening_hours: "Mo 13:30-18:00; Tu-Fr 08:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo 13:30-18:00; Tu-Fr 08:30-18:00; Sa 09:00-13:00
 website: ""

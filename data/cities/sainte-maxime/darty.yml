@@ -1,11 +1,11 @@
 id: 911151916
-type: way
+type: node
 latitude: 43.31918
 longitude: 6.62827
 postcode: "83120"
 city: Sainte-Maxime
-street: "Route de Plan de la Tour"
-housenumber: 86
+street: Route de Plan de la Tour
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "https://magasin.darty.com/405-darty-sainte-maxime"
+website: https://magasin.darty.com/405-darty-sainte-maxime

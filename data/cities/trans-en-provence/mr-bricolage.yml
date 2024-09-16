@@ -1,11 +1,11 @@
 id: 66173477
-type: way
+type: node
 latitude: 43.50822
 longitude: 6.47826
 postcode: "83720"
 city: Trans-en-Provence
-street: "Route du Plan"
-housenumber: 
+street: Route du Plan
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-19:00; Sa 08:30-19:00; Su off"
+opening_hours: Mo-Fr 08:30-12:30, 14:00-19:00; Sa 08:30-19:00; Su off
 website: ""

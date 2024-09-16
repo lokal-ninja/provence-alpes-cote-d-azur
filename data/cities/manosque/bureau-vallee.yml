@@ -4,8 +4,8 @@ latitude: 43.81839
 longitude: 5.79491
 postcode: "04100"
 city: Manosque
-street: "Avenue des Près Combaux"
-housenumber: 361
-phone: "+33 4 92 87 67 25"
-opening_hours: "Mo-Sa 09:30-12:30, 13:30-19:00"
-website: "https://www.bureau-vallee.fr/"
+street: Avenue des Près Combaux
+housenumber: "361"
+phone: +33 4 92 87 67 25
+opening_hours: Mo-Sa 09:30-12:30, 13:30-19:00
+website: https://www.bureau-vallee.fr/

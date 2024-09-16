@@ -1,11 +1,11 @@
 id: 210446101
-type: way
+type: node
 latitude: 43.59431
 longitude: 6.46674
 postcode: "83300"
 city: Châteaudouble
 street: ""
-housenumber: 
-phone: "+33 4 94 70 90 00"
-opening_hours: "Mo-Su 08:30-13:00,15:00-19:00"
-website: "https://ferme-de-la-pastourelle.com"
+housenumber: ""
+phone: +33 4 94 70 90 00
+opening_hours: Mo-Su 08:30-13:00,15:00-19:00
+website: https://ferme-de-la-pastourelle.com

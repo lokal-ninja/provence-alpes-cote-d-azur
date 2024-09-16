@@ -1,11 +1,11 @@
 id: 99748886
-type: way
+type: node
 latitude: 43.87782
 longitude: 4.85014
 postcode: "13160"
 city: Châteaurenard
-street: "Chemin Sainte-Anne"
-housenumber: 
+street: Chemin Sainte-Anne
+housenumber: ""
 phone: "+33490943040"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://magasin.mr-bricolage.fr/276-mr-bricolage-chateaurenard"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://magasin.mr-bricolage.fr/276-mr-bricolage-chateaurenard

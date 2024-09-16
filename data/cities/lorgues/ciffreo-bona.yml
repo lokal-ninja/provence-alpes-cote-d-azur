@@ -1,11 +1,11 @@
 id: 264382871
-type: way
+type: node
 latitude: 43.49201
 longitude: 6.37906
 postcode: "83510"
 city: Lorgues
-street: "Chemin des Pailles"
-housenumber: 28
-phone: "+33 4 98 10 68 15"
-opening_hours: "Mo-Fr 07:00-12:00,13:30-17:00; Sa 08:00-12:00"
-website: "https://www.ciffreobona.fr/"
+street: Chemin des Pailles
+housenumber: "28"
+phone: +33 4 98 10 68 15
+opening_hours: Mo-Fr 07:00-12:00,13:30-17:00; Sa 08:00-12:00
+website: https://www.ciffreobona.fr/

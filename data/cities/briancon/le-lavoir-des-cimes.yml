@@ -4,8 +4,9 @@ latitude: 44.89515
 longitude: 6.63432
 postcode: "05100"
 city: Briançon
-street: "Avenue René Froger"
-housenumber: 6
+street: Avenue René Froger
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 09:00-12:00,14:00-18:00; Tu 09:00-12:00,14:00-18:00; Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-18:00; Su 09:00-12:00,14:00-18:00"
-website: "https://www.lelavoirdescimes.fr/"
+opening_hours: Mo 09:00-12:00,14:00-18:00; Tu 09:00-12:00,14:00-18:00; Th 09:00-12:00,14:00-18:00;
+    Fr 09:00-12:00,14:00-18:00; Su 09:00-12:00,14:00-18:00
+website: https://www.lelavoirdescimes.fr/

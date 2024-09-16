@@ -4,8 +4,8 @@ latitude: 43.52233
 longitude: 5.25337
 postcode: "13880"
 city: Velaux
-street: "Rue Curie"
-housenumber: 1
-phone: "+33 04 42 87 73 78"
-opening_hours: "We 14:00-19:00; Th-Sa 10:00-19:00; Su 10:00-13:00"
+street: Rue Curie
+housenumber: "1"
+phone: +33 04 42 87 73 78
+opening_hours: We 14:00-19:00; Th-Sa 10:00-19:00; Su 10:00-13:00
 website: ""

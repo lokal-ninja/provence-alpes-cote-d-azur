@@ -4,8 +4,8 @@ latitude: 43.56423
 longitude: 6.36824
 postcode: "83780"
 city: Flayosc
-street: "Route de Saint-Lambert"
-housenumber: 2132
-phone: "+33 4 94 70 35 34"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-12:00, 14:30-18:00; Su off"
-website: "http://www.pepiniere-mandarin.com/"
+street: Route de Saint-Lambert
+housenumber: "2132"
+phone: +33 4 94 70 35 34
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-12:00, 14:30-18:00; Su off
+website: http://www.pepiniere-mandarin.com/

@@ -4,8 +4,8 @@ latitude: 43.68283
 longitude: 6.86081
 postcode: "06460"
 city: St Vallier de Thiey
-street: "Route de Cabris"
-housenumber: 50
-phone: "+33 6 16 33 29 31"
-opening_hours: "Vente directe toute l'année"
-website: "https://delanatureauxhommes.fr/"
+street: Route de Cabris
+housenumber: "50"
+phone: +33 6 16 33 29 31
+opening_hours: '"Vente directe toute l''année"'
+website: https://delanatureauxhommes.fr/

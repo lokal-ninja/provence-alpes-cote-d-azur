@@ -4,8 +4,8 @@ latitude: 43.44357
 longitude: 6.63742
 postcode: "83520"
 city: Roquebrune-sur-Argens
-street: "Rue Grande André Cabasse"
-housenumber: 3
-phone: "+33 6 62 64 28 13"
-opening_hours: "Tu,We,Sa 09:30-19:30; Th 10:00-19:00; Fr 09:30-19:00"
-website: "https://www.boiteamalice.net"
+street: Rue Grande André Cabasse
+housenumber: "3"
+phone: +33 6 62 64 28 13
+opening_hours: Tu,We,Sa 09:30-19:30; Th 10:00-19:00; Fr 09:30-19:00
+website: https://www.boiteamalice.net

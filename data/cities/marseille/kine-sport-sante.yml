@@ -4,8 +4,8 @@ latitude: 43.30343
 longitude: 5.36653
 postcode: "13002"
 city: Marseille
-street: "Av. Robert Schuman"
-housenumber: 43
+street: Av. Robert Schuman
+housenumber: "43"
 phone: "0495091486"
-opening_hours: "Mo 08:00 20:00; Tu-We 07:00 20:00; Th 08:00 20:00; Fr 07:00 20:00"
-website: "https://www.doctolib.fr/cabinet-de-kinesitherapie/marseille/cabinet-de-kinesitherapie-kine-sport-sante"
+opening_hours: Mo 08:00 20:00; Tu-We 07:00 20:00; Th 08:00 20:00; Fr 07:00 20:00
+website: https://www.doctolib.fr/cabinet-de-kinesitherapie/marseille/cabinet-de-kinesitherapie-kine-sport-sante

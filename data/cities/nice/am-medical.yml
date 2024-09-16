@@ -4,8 +4,8 @@ latitude: 43.70959
 longitude: 7.26007
 postcode: ""
 city: Nice
-street: "Rue Alfred Binet"
-housenumber: 3
+street: Rue Alfred Binet
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://ammedical.eu/"
+website: https://ammedical.eu/

@@ -4,8 +4,8 @@ latitude: 43.63186
 longitude: 4.80581
 postcode: "13310"
 city: Saint-Martin-de-Crau
-street: "Avenue Marcel Pagnol"
-housenumber: 1
-phone: "+33 4 90 49 71 44"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30"
-website: "https://www.pleincielcrau.fr/"
+street: Avenue Marcel Pagnol
+housenumber: "1"
+phone: +33 4 90 49 71 44
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30
+website: https://www.pleincielcrau.fr/

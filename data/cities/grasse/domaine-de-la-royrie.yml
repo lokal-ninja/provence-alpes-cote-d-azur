@@ -4,8 +4,9 @@ latitude: 43.66312
 longitude: 6.89797
 postcode: "06530"
 city: Grasse
-street: "Chemin des Hautes Ribes"
-housenumber: 88
-phone: "+33 6 70 04 95 62;+33 6 09 86 63 27"
-opening_hours: "Vente par internet et à la boutique de la Royrie place aux aires à Grasse"
-website: "http://www.oleologie.fr"
+street: Chemin des Hautes Ribes
+housenumber: "88"
+phone: +33 6 70 04 95 62;+33 6 09 86 63 27
+opening_hours: '"Vente par internet et à la boutique de la Royrie place aux aires
+    à Grasse"'
+website: http://www.oleologie.fr

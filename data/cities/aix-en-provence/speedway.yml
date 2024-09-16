@@ -4,8 +4,8 @@ latitude: 43.51637
 longitude: 5.42938
 postcode: "13090"
 city: Aix-en-Provence
-street: "Chemin Roger Martin"
-housenumber: 300
-phone: "+33 4 42 68 13 37"
-opening_hours: "Mo 14:00-19:00, Tu-Sa 09:00-19:00"
-website: "https://www.speedway.fr/pages/1-magasins/1-speedway-aix-en-provence.html"
+street: Chemin Roger Martin
+housenumber: "300"
+phone: +33 4 42 68 13 37
+opening_hours: Mo 14:00-19:00, Tu-Sa 09:00-19:00
+website: https://www.speedway.fr/pages/1-magasins/1-speedway-aix-en-provence.html

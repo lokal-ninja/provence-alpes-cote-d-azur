@@ -1,11 +1,11 @@
 id: 302780270
-type: way
+type: node
 latitude: 43.52249
 longitude: 5.46116
 postcode: "13100"
 city: Aix-en-Provence
-street: "Rue Pierre de Coubertin"
-housenumber: 4
+street: Rue Pierre de Coubertin
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:00"
-website: "https://www.materre.net/"
+opening_hours: Mo-Sa 08:30-18:00
+website: https://www.materre.net/

@@ -1,11 +1,11 @@
 id: 1099718793
-type: way
+type: node
 latitude: 43.44697
 longitude: 6.47648
 postcode: "83460"
 city: Les Arcs sur Argens
-street: "Rond point Cellier des archers la Haute Cognasse LA HTE COGNASSE"
-housenumber: 
-phone: "+33 4 94 99 51 00"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Su off"
-website: "https://www.gammvert.fr/"
+street: Rond point Cellier des archers la Haute Cognasse LA HTE COGNASSE
+housenumber: ""
+phone: +33 4 94 99 51 00
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Su off
+website: https://www.gammvert.fr/

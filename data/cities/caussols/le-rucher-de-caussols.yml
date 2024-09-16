@@ -4,8 +4,9 @@ latitude: 43.72775
 longitude: 6.87526
 postcode: "06460"
 city: Caussols
-street: "Chemin des Claps"
+street: Chemin des Claps
 housenumber: 772 B
-phone: "+33 6 82 40 15 55"
-opening_hours: "Vente sur les marchés de Grasse, Cannes et Saint-Vallier, les fêtes et foires"
-website: "http://www.lerucherdecaussols.com/"
+phone: +33 6 82 40 15 55
+opening_hours: '"Vente sur les marchés de Grasse, Cannes et Saint-Vallier, les fêtes
+    et foires"'
+website: http://www.lerucherdecaussols.com/

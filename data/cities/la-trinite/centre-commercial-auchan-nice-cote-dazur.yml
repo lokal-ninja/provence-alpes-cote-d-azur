@@ -1,11 +1,11 @@
 id: 143254396
-type: way
+type: node
 latitude: 43.74246
 longitude: 7.3176
 postcode: "06340"
 city: La Trinité
-street: "Route de Laghet"
-housenumber: 1
+street: Route de Laghet
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://nice.aushopping.com/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://nice.aushopping.com/

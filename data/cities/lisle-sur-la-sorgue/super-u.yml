@@ -1,11 +1,11 @@
 id: 82914663
-type: way
+type: node
 latitude: 43.92498
 longitude: 5.06291
 postcode: "84800"
 city: L'Isle-sur-la-Sorgue
-street: "Route de Carpentras"
-housenumber: 
-phone: "+33 4 90 21 27 20"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.magasins-u.com/magasin/superu-lislesursorgue"
+street: Route de Carpentras
+housenumber: ""
+phone: +33 4 90 21 27 20
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.magasins-u.com/magasin/superu-lislesursorgue

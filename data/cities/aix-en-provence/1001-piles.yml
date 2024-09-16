@@ -4,8 +4,8 @@ latitude: 43.5239
 longitude: 5.44478
 postcode: "13090"
 city: Aix-en-Provence
-street: "Rue Gustave Desplaces"
-housenumber: 8
-phone: "+33 4 42 61 73 64"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-12:30,13:00-18:00"
-website: "https://www.1001piles.com/magasins/%2813%29-aix-en-provence.aspx"
+street: Rue Gustave Desplaces
+housenumber: "8"
+phone: +33 4 42 61 73 64
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-12:30,13:00-18:00
+website: https://www.1001piles.com/magasins/%2813%29-aix-en-provence.aspx

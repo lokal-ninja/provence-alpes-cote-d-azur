@@ -1,11 +1,11 @@
 id: 102074826
-type: way
+type: node
 latitude: 43.67393
 longitude: 4.63369
 postcode: "13200"
 city: Arles
-street: "Place de la Croisière"
-housenumber: 
-phone: "+33 7 82 14 24 68"
+street: Place de la Croisière
+housenumber: ""
+phone: +33 7 82 14 24 68
 opening_hours: ""
-website: "http://www.convibicy.fr/"
+website: http://www.convibicy.fr/

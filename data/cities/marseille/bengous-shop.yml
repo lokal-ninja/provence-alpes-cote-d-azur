@@ -5,7 +5,7 @@ longitude: 5.39249
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 54
-phone: "+33 6 52 55 68 17"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://bengous-shop.com/"
+housenumber: "54"
+phone: +33 6 52 55 68 17
+opening_hours: Tu-Sa 10:00-19:00
+website: https://bengous-shop.com/

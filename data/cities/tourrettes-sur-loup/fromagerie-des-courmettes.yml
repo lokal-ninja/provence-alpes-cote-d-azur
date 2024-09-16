@@ -4,8 +4,8 @@ latitude: 43.71812
 longitude: 7.02442
 postcode: "06140"
 city: Tourrettes-sur-loup
-street: "Route des courmettes"
-housenumber: 3860
-phone: "+33 6 14 01 21 97"
-opening_hours: "Vente directe à la ferme de février à novembre"
-website: "http://www.chevredescourmettes.com"
+street: Route des courmettes
+housenumber: "3860"
+phone: +33 6 14 01 21 97
+opening_hours: '"Vente directe à la ferme de février à novembre"'
+website: http://www.chevredescourmettes.com

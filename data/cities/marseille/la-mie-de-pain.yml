@@ -5,7 +5,7 @@ longitude: 5.42698
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 328
-phone: "+33 4 91 74 78 05"
-opening_hours: "06:00-20:00"
-website: "https://www.lamiedepain-boulangerie.fr/boulangerie-la-mie-de-pain-marseille/"
+housenumber: "328"
+phone: +33 4 91 74 78 05
+opening_hours: 06:00-20:00
+website: https://www.lamiedepain-boulangerie.fr/boulangerie-la-mie-de-pain-marseille/

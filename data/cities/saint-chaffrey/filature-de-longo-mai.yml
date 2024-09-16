@@ -1,11 +1,11 @@
 id: 74821366
-type: way
+type: node
 latitude: 44.9318
 longitude: 6.58789
 postcode: "05330"
 city: Saint-Chaffrey
-street: "Route Neuve"
-housenumber: 58
+street: Route Neuve
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 15:00-18:00"
+opening_hours: Mo-Sa 15:00-18:00
 website: ""

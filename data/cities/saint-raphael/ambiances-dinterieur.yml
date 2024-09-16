@@ -4,8 +4,8 @@ latitude: 43.42234
 longitude: 6.7692
 postcode: "83700"
 city: Saint-Raphaël
-street: "Rue Jean Aicard"
-housenumber: 156
+street: Rue Jean Aicard
+housenumber: "156"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,Mo-Sa 14:00-18:00"
-website: "https://www.ambiancesinterieur.com/"
+opening_hours: Mo-Sa 09:00-12:00,Mo-Sa 14:00-18:00
+website: https://www.ambiancesinterieur.com/

@@ -1,11 +1,11 @@
 id: 1244171807
-type: way
+type: node
 latitude: 43.67654
 longitude: 5.4985
 postcode: "84120"
 city: Pertuis
-street: "Route d'Aix"
-housenumber: 975
-phone: "+33 4 90 79 71 20"
-opening_hours: "We-Sa 9:00-12:00,14:00-18:00"
+street: Route d'Aix
+housenumber: "975"
+phone: +33 4 90 79 71 20
+opening_hours: We-Sa 9:00-12:00,14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.3439
 longitude: 5.44114
 postcode: "13013"
 city: Marseille
-street: "Louis le Prince Ringuet"
-housenumber: 4
+street: Louis le Prince Ringuet
+housenumber: "4"
 phone: "+33620921257"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.laveries-lam.fr/"
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.laveries-lam.fr/

@@ -4,8 +4,8 @@ latitude: 43.29223
 longitude: 5.56881
 postcode: "13400"
 city: Aubagne
-street: "Rue de la République"
-housenumber: 21
-phone: "+33 4 42 62 63 77"
-opening_hours: "Tu-Th, Sa 09:30-18:30; Fr 09:30-13:30"
-website: "https://librairie-lesfurtifs.com/"
+street: Rue de la République
+housenumber: "21"
+phone: +33 4 42 62 63 77
+opening_hours: Tu-Th, Sa 09:30-18:30; Fr 09:30-13:30
+website: https://librairie-lesfurtifs.com/

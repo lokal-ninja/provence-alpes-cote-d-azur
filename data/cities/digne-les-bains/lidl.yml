@@ -1,11 +1,11 @@
 id: 596192675
-type: way
+type: node
 latitude: 44.07012
 longitude: 6.17967
 postcode: "04000"
 city: Digne-les-Bains
-street: "Route de Marseille"
-housenumber: 
+street: Route de Marseille
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

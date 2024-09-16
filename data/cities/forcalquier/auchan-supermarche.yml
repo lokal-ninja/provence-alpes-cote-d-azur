@@ -1,11 +1,11 @@
 id: 85915980
-type: way
+type: node
 latitude: 43.95104
 longitude: 5.77044
 postcode: "04300"
 city: Forcalquier
-street: "Route de Mane"
-housenumber: 118
-phone: "+33 4 92 75 72 00"
+street: Route de Mane
+housenumber: "118"
+phone: +33 4 92 75 72 00
 opening_hours: ""
-website: "https://www.auchan.fr/magasins/supermarche/forcalquier/s-336"
+website: https://www.auchan.fr/magasins/supermarche/forcalquier/s-336

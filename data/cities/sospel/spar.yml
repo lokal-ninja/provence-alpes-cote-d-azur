@@ -1,11 +1,11 @@
 id: 115765241
-type: way
+type: node
 latitude: 43.87803
 longitude: 7.44643
 postcode: ""
 city: Sospel
 street: ""
-housenumber: 
-phone: "+33 4 93 87 75 30"
-opening_hours: "Mo-Sa 08:00-19:15; Su 08:00-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-sospel"
+housenumber: ""
+phone: +33 4 93 87 75 30
+opening_hours: Mo-Sa 08:00-19:15; Su 08:00-12:30
+website: https://magasins.spar.fr/fr/s/spar-sospel

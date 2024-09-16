@@ -1,11 +1,11 @@
 id: 142215947
-type: way
+type: node
 latitude: 43.71116
 longitude: 7.29297
 postcode: "06300"
 city: Nice
-street: "Boulevard Saint-Roch"
-housenumber: 34
-phone: "+33 4 93 26 89 33"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.carrefour.fr/magasin/express-nice-saint-roch"
+street: Boulevard Saint-Roch
+housenumber: "34"
+phone: +33 4 93 26 89 33
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.carrefour.fr/magasin/express-nice-saint-roch

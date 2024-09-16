@@ -1,11 +1,11 @@
 id: 78618332
-type: way
+type: node
 latitude: 44.11376
 longitude: 4.84502
 postcode: ""
 city: Orange
-street: "Rue Carignan"
-housenumber: 
+street: Rue Carignan
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.fordorange.fr"
+website: https://www.fordorange.fr

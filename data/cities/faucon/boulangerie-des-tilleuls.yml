@@ -1,11 +1,11 @@
 id: 79979200
-type: way
+type: node
 latitude: 44.25929
 longitude: 5.14588
 postcode: "84110"
 city: Faucon
-street: "Le Village"
-housenumber: 
+street: Le Village
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

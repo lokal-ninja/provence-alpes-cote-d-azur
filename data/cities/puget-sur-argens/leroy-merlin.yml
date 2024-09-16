@@ -1,11 +1,11 @@
 id: 651783521
-type: way
+type: node
 latitude: 43.45732
 longitude: 6.6927
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Boulevard Jean Moulin"
-housenumber: 327
-phone: "+33 6 44 64 44 14"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leroymerlin.fr/"
+street: Boulevard Jean Moulin
+housenumber: "327"
+phone: +33 6 44 64 44 14
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leroymerlin.fr/

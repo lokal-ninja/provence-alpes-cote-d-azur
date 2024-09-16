@@ -1,11 +1,11 @@
 id: 989253586
-type: way
+type: node
 latitude: 43.64095
 longitude: 6.80978
 postcode: "06530"
 city: Saint Cézaire sur Siagne
-street: "Chemin des Tuves"
-housenumber: 211
-phone: "+33 6 30 56 06 36"
-opening_hours: "AMAP de St Jacques, marchés de St Cézaire, Callian, Peymeinade"
+street: Chemin des Tuves
+housenumber: "211"
+phone: +33 6 30 56 06 36
+opening_hours: AMAP de St Jacques, marchés de St Cézaire, Callian, Peymeinade
 website: ""

@@ -1,11 +1,11 @@
 id: 1196305187
-type: way
+type: node
 latitude: 43.29174
 longitude: 5.59751
 postcode: "13400"
 city: Aubagne
-street: "Rue de la Maïre"
-housenumber: 
+street: Rue de la Maïre
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

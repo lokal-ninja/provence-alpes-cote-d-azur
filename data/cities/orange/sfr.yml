@@ -1,11 +1,11 @@
 id: 125456179
-type: way
+type: node
 latitude: 44.12071
 longitude: 4.83917
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.sfr.fr/"
+website: https://www.sfr.fr/

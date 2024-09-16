@@ -1,11 +1,11 @@
 id: 529486781
-type: way
+type: node
 latitude: 43.10833
 longitude: 6.03818
 postcode: "83220"
 city: Le Pradet
-street: "Chemin de la Bayette"
-housenumber: 266
-phone: "+33 494120388"
+street: Chemin de la Bayette
+housenumber: "266"
+phone: +33 494120388
 opening_hours: ""
-website: "https://www.voussert.fr/"
+website: https://www.voussert.fr/

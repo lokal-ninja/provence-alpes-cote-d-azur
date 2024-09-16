@@ -1,11 +1,11 @@
 id: 145376070
-type: way
+type: node
 latitude: 43.12131
 longitude: 5.93367
 postcode: "83000"
 city: Toulon
-street: "Place de la Cathédrale"
-housenumber: 36
-phone: "+33 9 87 38 11 06"
-opening_hours: "Tu-Sa 10:00-18:30"
-website: "https://lutilidee.fr/"
+street: Place de la Cathédrale
+housenumber: "36"
+phone: +33 9 87 38 11 06
+opening_hours: Tu-Sa 10:00-18:30
+website: https://lutilidee.fr/

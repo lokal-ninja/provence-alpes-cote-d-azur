@@ -4,8 +4,8 @@ latitude: 43.67909
 longitude: 4.62809
 postcode: "13200"
 city: Arles
-street: "Rue Réattu"
-housenumber: 2
+street: Rue Réattu
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.bistanclac.com/"
+website: http://www.bistanclac.com/

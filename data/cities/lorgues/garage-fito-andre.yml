@@ -4,8 +4,8 @@ latitude: 43.48834
 longitude: 6.35134
 postcode: "83510"
 city: Lorgues
-street: "Route de Carcès"
-housenumber: 234
-phone: "+33 4 94 73 73 38"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-18:00"
+street: Route de Carcès
+housenumber: "234"
+phone: +33 4 94 73 73 38
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-18:00
 website: ""

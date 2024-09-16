@@ -4,8 +4,8 @@ latitude: 43.58081
 longitude: 7.12296
 postcode: "06160"
 city: Antibes
-street: "Rue de la République"
-housenumber: 19
+street: Rue de la République
+housenumber: "19"
 phone: ""
-opening_hours: "Mo 10:00-13:00, 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.espace-montres.com"
+opening_hours: Mo 10:00-13:00, 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.espace-montres.com

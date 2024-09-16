@@ -4,8 +4,9 @@ latitude: 43.74276
 longitude: 7.42598
 postcode: "06240"
 city: Beausoleil
-street: "Rue du marché"
-housenumber: 
-phone: "+33 4 93 78 74 62"
-opening_hours: "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45"
-website: "https://magasins.picard.fr/87-picard-beausoleil"
+street: Rue du marché
+housenumber: ""
+phone: +33 4 93 78 74 62
+opening_hours: Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30;
+    Fr 09:00 - 19:30; Sa 09:00 - 19:30; Su 09:00 - 12:45
+website: https://magasins.picard.fr/87-picard-beausoleil

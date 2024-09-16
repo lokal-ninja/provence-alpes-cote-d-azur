@@ -1,11 +1,11 @@
 id: 452539771
-type: way
+type: node
 latitude: 43.1271
 longitude: 5.86069
 postcode: "83190"
 city: Ollioules
-street: "Avenue Jean Monnet"
-housenumber: 1256
+street: Avenue Jean Monnet
+housenumber: "1256"
 phone: ""
 opening_hours: ""
 website: ""

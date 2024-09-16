@@ -1,11 +1,11 @@
 id: 161239103
-type: way
+type: node
 latitude: 43.92232
 longitude: 6.1363
 postcode: "04270"
 city: Bras-d'Asse
-street: "La Bégude"
-housenumber: 
+street: La Bégude
+housenumber: ""
 phone: "+33492344009"
 opening_hours: ""
 website: ""

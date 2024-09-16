@@ -1,11 +1,11 @@
 id: 92610868
-type: way
+type: node
 latitude: 43.2858
 longitude: 5.60114
 postcode: "13400"
 city: Aubagne
-street: "Avenue des Paluds"
-housenumber: 153
+street: Avenue des Paluds
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00
 website: ""

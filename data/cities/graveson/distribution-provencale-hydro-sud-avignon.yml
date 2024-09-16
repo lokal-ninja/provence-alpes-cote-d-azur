@@ -4,8 +4,8 @@ latitude: 43.88521
 longitude: 4.7788
 postcode: "13690"
 city: Graveson
-street: "Rue Jean Deurrieu"
-housenumber: 125
-phone: "+33 4 90 94 96 14"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://piscines-hydrosud.fr/"
+street: Rue Jean Deurrieu
+housenumber: "125"
+phone: +33 4 90 94 96 14
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://piscines-hydrosud.fr/

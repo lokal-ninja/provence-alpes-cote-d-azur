@@ -1,11 +1,11 @@
 id: 173371881
-type: way
+type: node
 latitude: 45.04545
 longitude: 6.30692
 postcode: "05320"
 city: La Grave
-street: "Departementale 1091"
-housenumber: 
-phone: "+33 4 76 79 92 21"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-19:00; Sa,Su 08:00-20:00"
-website: "https://www.skiset.com/station-ski/la-grave/"
+street: Departementale 1091
+housenumber: ""
+phone: +33 4 76 79 92 21
+opening_hours: Mo-Fr 08:30-12:30,14:30-19:00; Sa,Su 08:00-20:00
+website: https://www.skiset.com/station-ski/la-grave/

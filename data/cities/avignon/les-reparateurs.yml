@@ -5,7 +5,7 @@ longitude: 4.80986
 postcode: "84000"
 city: Avignon
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://lesreparateurs.fr/"
+website: http://lesreparateurs.fr/

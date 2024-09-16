@@ -4,8 +4,8 @@ latitude: 43.25875
 longitude: 5.41735
 postcode: "13009"
 city: Marseille
-street: "Boulevard du Cabot"
-housenumber: 53
+street: Boulevard du Cabot
+housenumber: "53"
 phone: "0495089338"
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

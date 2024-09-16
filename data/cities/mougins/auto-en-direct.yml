@@ -1,11 +1,11 @@
 id: 493711068
-type: way
+type: node
 latitude: 43.60968
 longitude: 6.98051
 postcode: "06250"
 city: Mougins
-street: "Avenue Saint-Martin"
-housenumber: 785
-phone: "+33 4 92 99 19 44"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.aedca.fr/"
+street: Avenue Saint-Martin
+housenumber: "785"
+phone: +33 4 92 99 19 44
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.aedca.fr/

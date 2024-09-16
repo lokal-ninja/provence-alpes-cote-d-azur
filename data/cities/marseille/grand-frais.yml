@@ -1,11 +1,11 @@
 id: 600221056
-type: way
+type: node
 latitude: 43.3441
 longitude: 5.44773
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 262
-phone: "+33 4 91 05 92 86"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://www.grandfrais.com/magasins/marseille-einstein-13eme"
+housenumber: "262"
+phone: +33 4 91 05 92 86
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://www.grandfrais.com/magasins/marseille-einstein-13eme

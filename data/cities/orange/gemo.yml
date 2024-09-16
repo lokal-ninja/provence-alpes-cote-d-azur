@@ -1,11 +1,11 @@
 id: 125151714
-type: way
+type: node
 latitude: 44.11051
 longitude: 4.85375
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.gemo.fr/"
+website: https://www.gemo.fr/

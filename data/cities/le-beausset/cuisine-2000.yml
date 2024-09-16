@@ -1,11 +1,11 @@
 id: 254685063
-type: way
+type: node
 latitude: 43.20341
 longitude: 5.80809
 postcode: "83330"
 city: Le beausset
-street: "RN 8"
-housenumber: 
-phone: "+33 4 94 98 78 07"
+street: RN 8
+housenumber: ""
+phone: +33 4 94 98 78 07
 opening_hours: ""
-website: "http://www.habitat-var.com/cuisine-2000/index.html"
+website: http://www.habitat-var.com/cuisine-2000/index.html

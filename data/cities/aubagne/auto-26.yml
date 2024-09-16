@@ -1,11 +1,11 @@
 id: 92606714
-type: way
+type: node
 latitude: 43.28372
 longitude: 5.60326
 postcode: "13400"
 city: Aubagne
-street: "Avenue de la Fleuride"
-housenumber: 281
+street: Avenue de la Fleuride
+housenumber: "281"
 phone: ""
 opening_hours: ""
 website: ""

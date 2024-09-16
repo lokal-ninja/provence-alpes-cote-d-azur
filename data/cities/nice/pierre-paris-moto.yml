@@ -4,8 +4,8 @@ latitude: 43.70358
 longitude: 7.28454
 postcode: "06300"
 city: Nice
-street: "Rue Smolett"
-housenumber: 23
-phone: "+33 4 93 26 42 26"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30"
+street: Rue Smolett
+housenumber: "23"
+phone: +33 4 93 26 42 26
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30
 website: ""

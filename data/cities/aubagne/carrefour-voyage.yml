@@ -4,8 +4,8 @@ latitude: 43.29025
 longitude: 5.5706
 postcode: "13400"
 city: Aubagne
-street: "Rue d'Isly"
-housenumber: 2
+street: Rue d'Isly
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:15,14:00-18:30; Sa 09:00-12:00"
-website: "https://voyages.carrefour.fr"
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:00-12:15,14:00-18:30; Sa 09:00-12:00
+website: https://voyages.carrefour.fr

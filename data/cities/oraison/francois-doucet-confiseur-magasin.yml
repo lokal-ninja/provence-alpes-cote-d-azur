@@ -1,11 +1,11 @@
 id: 91164901
-type: way
+type: node
 latitude: 43.91096
 longitude: 5.90749
 postcode: "04700"
 city: Oraison
-street: "Avenue de Traversetolo"
-housenumber: 592
+street: Avenue de Traversetolo
+housenumber: "592"
 phone: ""
 opening_hours: ""
 website: ""

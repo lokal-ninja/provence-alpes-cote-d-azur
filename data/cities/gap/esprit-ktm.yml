@@ -4,8 +4,8 @@ latitude: 44.56803
 longitude: 6.10858
 postcode: "05000"
 city: Gap
-street: "Rue des Performances"
-housenumber: 6
-phone: "+33 492580868"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-17:30; Sa,Su,PH off"
-website: "https://www.esprit-ktm.com"
+street: Rue des Performances
+housenumber: "6"
+phone: +33 492580868
+opening_hours: Mo-Fr 09:00-12:00, 14:00-17:30; Sa,Su,PH off
+website: https://www.esprit-ktm.com

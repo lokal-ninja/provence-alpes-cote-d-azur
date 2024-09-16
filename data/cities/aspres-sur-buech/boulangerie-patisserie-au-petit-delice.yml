@@ -1,11 +1,11 @@
 id: 112910361
-type: way
+type: node
 latitude: 44.52127
 longitude: 5.75139
 postcode: "05140"
 city: Aspres-sur-Buëch
-street: "Rue des Jardins"
-housenumber: 
+street: Rue des Jardins
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

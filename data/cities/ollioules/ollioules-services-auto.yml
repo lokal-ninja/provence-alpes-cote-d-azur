@@ -1,11 +1,11 @@
 id: 882821519
-type: way
+type: node
 latitude: 43.1217
 longitude: 5.84234
 postcode: "83190"
 city: Ollioules
-street: "Chemin de Six-Fours"
-housenumber: 
+street: Chemin de Six-Fours
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

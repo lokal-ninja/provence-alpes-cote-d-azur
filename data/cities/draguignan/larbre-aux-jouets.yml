@@ -4,8 +4,8 @@ latitude: 43.5388
 longitude: 6.46467
 postcode: "83300"
 city: Draguignan
-street: "Place du Marché"
-housenumber: 1
-phone: "+33 6 86 10 12 53"
-opening_hours: "Mo-Su 09:30-19:30"
+street: Place du Marché
+housenumber: "1"
+phone: +33 6 86 10 12 53
+opening_hours: Mo-Su 09:30-19:30
 website: ""

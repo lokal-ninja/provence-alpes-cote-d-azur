@@ -1,11 +1,11 @@
 id: 40404373
-type: way
+type: node
 latitude: 43.11626
 longitude: 6.10703
 postcode: "83400"
 city: Hyères
-street: "Zac du Roubaud St. Jean"
-housenumber: 
+street: Zac du Roubaud St. Jean
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.centrazur.net/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.centrazur.net/

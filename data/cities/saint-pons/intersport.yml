@@ -1,11 +1,11 @@
 id: 163865848
-type: way
+type: node
 latitude: 44.38524
 longitude: 6.6049
 postcode: "04400"
 city: Saint-Pons
-street: "Les graves du riou Bourdoux"
-housenumber: 
-phone: "+33 4 92 81 07 83"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
+street: Les graves du riou Bourdoux
+housenumber: ""
+phone: +33 4 92 81 07 83
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
 website: ""

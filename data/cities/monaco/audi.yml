@@ -4,8 +4,8 @@ latitude: 43.73017
 longitude: 7.41388
 postcode: "98000"
 city: Monaco
-street: "Boulevard Charles Iii"
-housenumber: 15
+street: Boulevard Charles Iii
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-19:00; Sa 10:00-12:00, 14:00-17:00"
-website: "https://www.audimonaco.com/fr.html"
+opening_hours: Mo-Fr 09:00-12:30, 14:30-19:00; Sa 10:00-12:00, 14:00-17:00
+website: https://www.audimonaco.com/fr.html

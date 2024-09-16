@@ -1,11 +1,11 @@
 id: 125143522
-type: way
+type: node
 latitude: 44.10912
 longitude: 4.85299
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.dalery.com/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.dalery.com/

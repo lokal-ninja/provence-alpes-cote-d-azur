@@ -4,8 +4,8 @@ latitude: 44.53416
 longitude: 5.82353
 postcode: "05400"
 city: Veynes
-street: "Rue Berthelot"
-housenumber: 8
-phone: "+33 4 92 58 67 33"
-opening_hours: "Mo 16:30-19:30; Th 09:00-12:30; We 16:00-19:00; Sa 09:30-12:30"
+street: Rue Berthelot
+housenumber: "8"
+phone: +33 4 92 58 67 33
+opening_hours: Mo 16:30-19:30; Th 09:00-12:30; We 16:00-19:00; Sa 09:30-12:30
 website: ""

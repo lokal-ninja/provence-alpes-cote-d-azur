@@ -1,11 +1,11 @@
 id: 67333004
-type: way
+type: node
 latitude: 43.66069
 longitude: 6.92465
 postcode: "06130"
 city: Grasse
-street: "Place Martelly"
-housenumber: 
-phone: "+33 4 93 36 44 36"
-opening_hours: "Mo-Sa 08:45-20:00; Su 09:00-12:45"
-website: "https://www.monoprix.fr/299.html"
+street: Place Martelly
+housenumber: ""
+phone: +33 4 93 36 44 36
+opening_hours: Mo-Sa 08:45-20:00; Su 09:00-12:45
+website: https://www.monoprix.fr/299.html

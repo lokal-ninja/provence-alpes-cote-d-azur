@@ -4,8 +4,8 @@ latitude: 43.69096
 longitude: 7.24345
 postcode: ""
 city: Nice
-street: "Avenue de la Californie"
-housenumber: 20
-phone: "04 97 07 08 16"
-opening_hours: "Tu-Sa 09:00-18:00; Mo,Su off"
-website: "https://www.artecnic.fr/"
+street: Avenue de la Californie
+housenumber: "20"
+phone: 04 97 07 08 16
+opening_hours: Tu-Sa 09:00-18:00; Mo,Su off
+website: https://www.artecnic.fr/

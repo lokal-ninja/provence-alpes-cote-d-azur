@@ -4,8 +4,8 @@ latitude: 43.6932
 longitude: 7.24346
 postcode: "06000"
 city: Nice
-street: "Avenue de Bellet"
-housenumber: 31
+street: Avenue de Bellet
+housenumber: "31"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

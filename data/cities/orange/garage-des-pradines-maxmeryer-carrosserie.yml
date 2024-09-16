@@ -1,11 +1,11 @@
 id: 78625418
-type: way
+type: node
 latitude: 44.16153
 longitude: 4.79039
 postcode: ""
 city: Orange
-street: "Route de Lyon"
-housenumber: 
+street: Route de Lyon
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

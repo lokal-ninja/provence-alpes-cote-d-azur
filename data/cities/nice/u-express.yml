@@ -1,11 +1,11 @@
 id: 139670069
-type: way
+type: node
 latitude: 43.72753
 longitude: 7.26622
 postcode: ""
 city: Nice
-street: "Avenue Henry Dunant"
-housenumber: 106
-phone: "+33 4 92 07 04 85"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-13:30"
-website: "https://www.magasins-u.com/magasin/uexpress-nicedunant"
+street: Avenue Henry Dunant
+housenumber: "106"
+phone: +33 4 92 07 04 85
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-13:30
+website: https://www.magasins-u.com/magasin/uexpress-nicedunant

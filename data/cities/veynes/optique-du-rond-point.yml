@@ -4,8 +4,8 @@ latitude: 44.53343
 longitude: 5.82102
 postcode: "05400"
 city: Veynes
-street: "Boulevard Gambetta"
-housenumber: 23
-phone: "+33 4 92 57 17 99"
-opening_hours: "Tu-Sa 09:00-12:00,15:00-18:30"
+street: Boulevard Gambetta
+housenumber: "23"
+phone: +33 4 92 57 17 99
+opening_hours: Tu-Sa 09:00-12:00,15:00-18:30
 website: ""

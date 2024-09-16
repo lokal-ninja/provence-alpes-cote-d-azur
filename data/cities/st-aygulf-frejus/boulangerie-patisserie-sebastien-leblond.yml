@@ -1,11 +1,11 @@
 id: 475339045
-type: way
+type: node
 latitude: 43.38683
 longitude: 6.72311
 postcode: "83370"
 city: St. Aygulf, Fréjus
 street: ""
-housenumber: 748
+housenumber: "748"
 phone: ""
-opening_hours: "Tu-Su 06:30-19:30"
+opening_hours: Tu-Su 06:30-19:30
 website: ""

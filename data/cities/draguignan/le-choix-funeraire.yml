@@ -4,8 +4,8 @@ latitude: 43.53731
 longitude: 6.463
 postcode: "83300"
 city: Draguignan
-street: "Boulevard Georges Clemenceau"
-housenumber: 9
-phone: "+33 4 98 09 27 72"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00; Su off"
-website: "https://www.le-choix-funeraire.com/"
+street: Boulevard Georges Clemenceau
+housenumber: "9"
+phone: +33 4 98 09 27 72
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00; Su off
+website: https://www.le-choix-funeraire.com/

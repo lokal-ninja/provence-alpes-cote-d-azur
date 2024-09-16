@@ -4,8 +4,8 @@ latitude: 43.28844
 longitude: 5.5938
 postcode: "13400"
 city: Aubagne
-street: "Avenue des Caniers"
-housenumber: 506
-phone: "+33 4 42 04 99 21"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.salon.camillealbne.com/"
+street: Avenue des Caniers
+housenumber: "506"
+phone: +33 4 42 04 99 21
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.salon.camillealbne.com/

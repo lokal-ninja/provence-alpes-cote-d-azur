@@ -4,8 +4,8 @@ latitude: 43.70021
 longitude: 7.2853
 postcode: "06300"
 city: Nice
-street: "Rue Bavastro"
-housenumber: 10
+street: Rue Bavastro
+housenumber: "10"
 phone: ""
-opening_hours: "Mo off; Tu-Sa 07:45-12:30,16:00-19:30; Su 07:45-12:30"
-website: "https://www.maisonquirino.fr/"
+opening_hours: Mo off; Tu-Sa 07:45-12:30,16:00-19:30; Su 07:45-12:30
+website: https://www.maisonquirino.fr/

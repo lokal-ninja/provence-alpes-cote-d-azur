@@ -4,8 +4,8 @@ latitude: 43.95735
 longitude: 5.02978
 postcode: "84740"
 city: Velleron
-street: "Avenue du Général de Gaulle"
-housenumber: 62
-phone: "+33 4 13 95 01 96"
-opening_hours: "Tu-Sa 06:30-13:00; Su 06:30-12:30"
+street: Avenue du Général de Gaulle
+housenumber: "62"
+phone: +33 4 13 95 01 96
+opening_hours: Tu-Sa 06:30-13:00; Su 06:30-12:30
 website: ""

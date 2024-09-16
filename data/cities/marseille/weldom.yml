@@ -5,7 +5,7 @@ longitude: 5.42053
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 170
-phone: "+33 4 91 41 38 94"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.weldom.fr/weldom/nos-magasins/410.html"
+housenumber: "170"
+phone: +33 4 91 41 38 94
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.weldom.fr/weldom/nos-magasins/410.html

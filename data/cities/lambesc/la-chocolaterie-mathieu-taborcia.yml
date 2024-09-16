@@ -1,11 +1,11 @@
 id: 53178558
-type: way
+type: node
 latitude: 43.65413
 longitude: 5.2622
 postcode: "13410"
 city: Lambesc
-street: "Place Jean Jaurès"
-housenumber: 4
+street: Place Jean Jaurès
+housenumber: "4"
 phone: "+33987165262"
 opening_hours: ""
-website: "https://chocolat.taborcia.fr/"
+website: https://chocolat.taborcia.fr/

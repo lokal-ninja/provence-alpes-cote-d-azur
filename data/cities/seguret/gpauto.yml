@@ -1,11 +1,11 @@
 id: 80355200
-type: way
+type: node
 latitude: 44.22146
 longitude: 5.00824
 postcode: "84110"
 city: Séguret
-street: "Route de Vaison"
-housenumber: 
+street: Route de Vaison
+housenumber: ""
 phone: "+33486715061"
 opening_hours: ""
-website: "https://www.gp-auto.fr/"
+website: https://www.gp-auto.fr/

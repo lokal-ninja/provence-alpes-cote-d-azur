@@ -1,11 +1,11 @@
 id: 38283465
-type: way
+type: node
 latitude: 43.70786
 longitude: 7.25909
 postcode: ""
 city: Nice
-street: "Rue Pierre Pietri"
-housenumber: 6
+street: Rue Pierre Pietri
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

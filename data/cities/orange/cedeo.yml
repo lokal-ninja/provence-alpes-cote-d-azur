@@ -1,11 +1,11 @@
 id: 152341500
-type: way
+type: node
 latitude: 44.11996
 longitude: 4.84372
 postcode: ""
 city: Orange
-street: "Rue d'Italie"
-housenumber: 
+street: Rue d'Italie
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cedeo.fr/"
+website: https://www.cedeo.fr/

@@ -4,8 +4,8 @@ latitude: 44.42795
 longitude: 5.718
 postcode: "05700"
 city: Serres
-street: "Rue Marius Meyère"
-housenumber: 4
-phone: "+33 4 92 67 12 71"
-opening_hours: "Tu-Sa 06:15-13:00,15:15-19:30; Su 06:30-13:00,17:00-19:30"
-website: "https://www.sisteron-buech.fr/fr/commerce-service/boulangerie-epi"
+street: Rue Marius Meyère
+housenumber: "4"
+phone: +33 4 92 67 12 71
+opening_hours: Tu-Sa 06:15-13:00,15:15-19:30; Su 06:30-13:00,17:00-19:30
+website: https://www.sisteron-buech.fr/fr/commerce-service/boulangerie-epi

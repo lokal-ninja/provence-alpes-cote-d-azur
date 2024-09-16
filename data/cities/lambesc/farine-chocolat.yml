@@ -1,11 +1,11 @@
 id: 53155519
-type: way
+type: node
 latitude: 43.65384
 longitude: 5.26209
 postcode: "13410"
 city: Lambesc
-street: "Place de la République"
-housenumber: 5
+street: Place de la République
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

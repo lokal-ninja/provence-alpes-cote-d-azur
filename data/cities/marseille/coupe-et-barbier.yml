@@ -4,8 +4,8 @@ latitude: 43.30722
 longitude: 5.39989
 postcode: "13004"
 city: Marseille
-street: "Avenue des Chartreux"
-housenumber: 130
+street: Avenue des Chartreux
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:30"
+opening_hours: Mo-Su 09:00-19:30
 website: ""

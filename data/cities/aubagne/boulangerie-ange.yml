@@ -1,11 +1,11 @@
 id: 92598015
-type: way
+type: node
 latitude: 43.2849
 longitude: 5.58262
 postcode: "13400"
 city: Aubagne
-street: "quartier des Fillols"
-housenumber: 0
-phone: "+33 4 42 83 71 58"
-opening_hours: "Mo-Su 06:30-20:30"
+street: quartier des Fillols
+housenumber: "0"
+phone: +33 4 42 83 71 58
+opening_hours: Mo-Su 06:30-20:30
 website: ""

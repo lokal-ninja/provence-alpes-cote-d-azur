@@ -1,11 +1,12 @@
 id: 99548764
-type: way
+type: node
 latitude: 44.7936
 longitude: 6.92696
 postcode: "05460"
 city: Abriès
-street: "Rue du Haut-Guil"
-housenumber: 
-phone: "+33 4 92 46 73 30"
-opening_hours: "Dec 23-Mar 31: Mo-Su 08:00-19:00; Jun 10-Nov 04: Mo-Su 08:00-19:00; PH off"
+street: Rue du Haut-Guil
+housenumber: ""
+phone: +33 4 92 46 73 30
+opening_hours: 'Dec 23-Mar 31: Mo-Su 08:00-19:00; Jun 10-Nov 04: Mo-Su 08:00-19:00;
+    PH off'
 website: ""

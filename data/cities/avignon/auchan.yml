@@ -1,11 +1,11 @@
 id: 83774179
-type: way
+type: node
 latitude: 43.92114
 longitude: 4.8668
 postcode: "84000"
 city: Avignon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

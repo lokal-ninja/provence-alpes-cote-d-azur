@@ -4,8 +4,8 @@ latitude: 43.48921
 longitude: 6.35731
 postcode: "83510"
 city: Lorgues
-street: "Clos Saint-Roch"
-housenumber: 12
-phone: "+33 4 94 67 62 26"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00"
-website: "https://www.mth-piscines.com/"
+street: Clos Saint-Roch
+housenumber: "12"
+phone: +33 4 94 67 62 26
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00
+website: https://www.mth-piscines.com/

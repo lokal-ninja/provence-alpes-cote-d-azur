@@ -1,11 +1,11 @@
 id: 83784848
-type: way
+type: node
 latitude: 43.92092
 longitude: 4.86558
 postcode: "84140"
 city: Montfavet
-street: "Route de Marseille"
-housenumber: 1741
+street: Route de Marseille
+housenumber: "1741"
 phone: ""
 opening_hours: ""
-website: "https://mistral-7.aushopping.com/fr"
+website: https://mistral-7.aushopping.com/fr

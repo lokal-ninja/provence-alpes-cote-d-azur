@@ -5,7 +5,7 @@ longitude: 5.35956
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 16
-phone: "+33 4 91 31 36 65"
-opening_hours: "Mo-Sa 05:30-19:45; Su 06:30-13:00"
-website: "http://www.magpresse.com/adherents/details/49ffffdc-8ac8-44b0-b498-01ec12b4eb83"
+housenumber: "16"
+phone: +33 4 91 31 36 65
+opening_hours: Mo-Sa 05:30-19:45; Su 06:30-13:00
+website: http://www.magpresse.com/adherents/details/49ffffdc-8ac8-44b0-b498-01ec12b4eb83

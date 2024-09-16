@@ -1,11 +1,11 @@
 id: 624088754
-type: way
+type: node
 latitude: 43.89273
 longitude: 4.94458
 postcode: "84510"
 city: Caumont-sur-Durance
-street: "Faubourg Saint-Sébastien"
-housenumber: 3
+street: Faubourg Saint-Sébastien
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:30-12:30,15:00-19:30; Su 07:30-13:30"
+opening_hours: Mo-Sa 07:30-12:30,15:00-19:30; Su 07:30-13:30
 website: ""

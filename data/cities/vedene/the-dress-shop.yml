@@ -1,11 +1,11 @@
 id: 134675523
-type: way
+type: node
 latitude: 43.97853
 longitude: 4.88824
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 9 67 58 19 86"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.thedressshop-liviacreation.com/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 9 67 58 19 86
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.thedressshop-liviacreation.com/

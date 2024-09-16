@@ -4,8 +4,9 @@ latitude: 43.50847
 longitude: 5.40155
 postcode: "13290"
 city: Aix-en-Provence
-street: "Rue Bastide de Verdaches"
-housenumber: 280
-phone: "+334 42 64 64 70"
-opening_hours: "Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-16:30; Sa-Su off; PH off"
-website: "https://agences.sonepar.fr/sonepar/fr/agency/france/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/aix-en-provence/2ta"
+street: Rue Bastide de Verdaches
+housenumber: "280"
+phone: +334 42 64 64 70
+opening_hours: Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-16:30; Sa-Su off;
+    PH off
+website: https://agences.sonepar.fr/sonepar/fr/agency/france/provence-alpes-cote-d-azur/bouches-du-rhone/aix-en-provence/aix-en-provence/2ta

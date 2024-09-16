@@ -1,11 +1,11 @@
 id: 125151710
-type: way
+type: node
 latitude: 44.11012
 longitude: 4.85276
 postcode: ""
 city: Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.devred.com/"
+website: https://www.devred.com/

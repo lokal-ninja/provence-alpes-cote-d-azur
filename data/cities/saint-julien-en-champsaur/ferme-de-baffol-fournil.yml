@@ -1,11 +1,11 @@
 id: 454446647
-type: way
+type: node
 latitude: 44.67081
 longitude: 6.13219
 postcode: "05500"
 city: Saint-Julien-en-Champsaur
-street: "Route des granges"
-housenumber: 2
-phone: "+33 6 61 03 13 07"
-opening_hours: "PH,Tu,Th,Su 11:00-12:00,14:00-16:00"
-website: "https://fermedebaffol.fr"
+street: Route des granges
+housenumber: "2"
+phone: +33 6 61 03 13 07
+opening_hours: PH,Tu,Th,Su 11:00-12:00,14:00-16:00
+website: https://fermedebaffol.fr

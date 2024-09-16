@@ -1,11 +1,11 @@
 id: 578959646
-type: way
+type: node
 latitude: 43.63668
 longitude: 4.80091
 postcode: "13310"
 city: Saint-Martin-De-Crau
-street: "Boulevard de Provence"
-housenumber: 
-phone: "+33 4 90479554"
+street: Boulevard de Provence
+housenumber: ""
+phone: +33 4 90479554
 opening_hours: ""
-website: "https://www.saintmartindecrau.fr/IMG/pdf/Annexe_-_Reglement_Interieur_chambre_funeraire_2013.pdf"
+website: https://www.saintmartindecrau.fr/IMG/pdf/Annexe_-_Reglement_Interieur_chambre_funeraire_2013.pdf

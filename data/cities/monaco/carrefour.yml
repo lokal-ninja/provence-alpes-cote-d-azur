@@ -4,8 +4,8 @@ latitude: 43.7409
 longitude: 7.42362
 postcode: "98000"
 city: Monaco
-street: "Rue des Genêts"
-housenumber: 1
+street: Rue des Genêts
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
 website: ""

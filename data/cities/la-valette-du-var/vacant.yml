@@ -1,11 +1,11 @@
 id: 918830945
-type: way
+type: node
 latitude: 43.12832
 longitude: 5.98886
 postcode: "83160"
 city: La Valette-du-Var
-street: "Mail Jules Muraire"
-housenumber: 29
+street: Mail Jules Muraire
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

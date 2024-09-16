@@ -4,8 +4,8 @@ latitude: 43.71002
 longitude: 7.26127
 postcode: ""
 city: Nice
-street: "Boulevard Joseph Garnier"
-housenumber: 1
+street: Boulevard Joseph Garnier
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://la-fisherie.fr/fr"
+website: https://la-fisherie.fr/fr

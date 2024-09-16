@@ -1,11 +1,11 @@
 id: 287309842
-type: way
+type: node
 latitude: 43.68156
 longitude: 5.50215
 postcode: "84120"
 city: Pertuis
-street: "Rue Léonard de Vinci"
-housenumber: 360
-phone: "+33 4 90 79 36 73"
-opening_hours: "Mo-Sa 08:30-20:00; Su 8:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-pertuis"
+street: Rue Léonard de Vinci
+housenumber: "360"
+phone: +33 4 90 79 36 73
+opening_hours: Mo-Sa 08:30-20:00; Su 8:30-12:30
+website: https://www.carrefour.fr/magasin/market-pertuis

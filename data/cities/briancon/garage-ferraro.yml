@@ -4,8 +4,8 @@ latitude: 44.90167
 longitude: 6.64412
 postcode: "05100"
 city: Briançon
-street: "Champ de Mars"
-housenumber: 1
-phone: "+33 4 92 20 28 26"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 09:00-12:00"
+street: Champ de Mars
+housenumber: "1"
+phone: +33 4 92 20 28 26
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 09:00-12:00
 website: ""

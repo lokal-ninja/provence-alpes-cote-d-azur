@@ -1,11 +1,11 @@
 id: 390342571
-type: way
+type: node
 latitude: 43.63322
 longitude: 4.80304
 postcode: "13310"
 city: Saint-Martin-de-Crau
-street: "Rue de la Transumance"
-housenumber: 7
+street: Rue de la Transumance
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

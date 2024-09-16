@@ -1,11 +1,11 @@
 id: 86147859
-type: way
+type: node
 latitude: 43.52239
 longitude: 5.15169
 postcode: "13130"
 city: Berre-l'Étang
-street: "Route des Baïsses"
-housenumber: 2300
+street: Route des Baïsses
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

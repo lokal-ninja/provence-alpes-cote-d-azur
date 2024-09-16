@@ -4,8 +4,8 @@ latitude: 43.12261
 longitude: 5.94575
 postcode: "83100"
 city: Toulon
-street: "Avenue François Cuzin"
-housenumber: 366
-phone: "+33 4 94 94 56 01"
-opening_hours: "Tu,Th,Fr 09:00-19:00; We,Sa 09:00-18:00"
+street: Avenue François Cuzin
+housenumber: "366"
+phone: +33 4 94 94 56 01
+opening_hours: Tu,Th,Fr 09:00-19:00; We,Sa 09:00-18:00
 website: ""

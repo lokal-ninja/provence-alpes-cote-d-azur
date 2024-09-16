@@ -1,11 +1,11 @@
 id: 402366234
-type: way
+type: node
 latitude: 43.43629
 longitude: 5.25685
 postcode: "13127"
 city: Vitrolles
-street: "Avenue Padovani"
-housenumber: 
+street: Avenue Padovani
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_48"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_48

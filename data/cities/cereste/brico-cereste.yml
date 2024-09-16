@@ -4,8 +4,8 @@ latitude: 43.85805
 longitude: 5.59814
 postcode: "04280"
 city: Céreste
-street: "Avenue de la Gare"
-housenumber: 45
-phone: "+33 4 92 72 76 48"
-opening_hours: "Mo-Sa 09:00-12:30, 15:00-19:00; We off; Su 09:00-12:30"
+street: Avenue de la Gare
+housenumber: "45"
+phone: +33 4 92 72 76 48
+opening_hours: Mo-Sa 09:00-12:30, 15:00-19:00; We off; Su 09:00-12:30
 website: ""

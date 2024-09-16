@@ -4,8 +4,8 @@ latitude: 43.79249
 longitude: 7.0574
 postcode: "06140"
 city: Coursegoules
-street: "Route de Bézaudun"
-housenumber: 1700
-phone: "+33 6 25 12 70 64;+33 6 95 77 12 67"
-opening_hours: "Téléphoner pour réserver, livraison possible selon les distances"
+street: Route de Bézaudun
+housenumber: "1700"
+phone: +33 6 25 12 70 64;+33 6 95 77 12 67
+opening_hours: '"Téléphoner pour réserver, livraison possible selon les distances"'
 website: ""

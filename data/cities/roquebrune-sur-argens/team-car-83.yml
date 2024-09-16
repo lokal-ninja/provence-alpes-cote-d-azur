@@ -4,8 +4,8 @@ latitude: 43.46283
 longitude: 6.64259
 postcode: "83520"
 city: Roquebrune-sur-Argens
-street: "DN7"
-housenumber: 2968
-phone: "+33 4 94 95 54 28"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00, 14:00-17:00"
-website: "https://www.teamcar83.fr/"
+street: DN7
+housenumber: "2968"
+phone: +33 4 94 95 54 28
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00, 14:00-17:00
+website: https://www.teamcar83.fr/

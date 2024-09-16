@@ -1,11 +1,11 @@
 id: 134730492
-type: way
+type: node
 latitude: 43.97876
 longitude: 4.88938
 postcode: "84270"
 city: Vedène
-street: "Chemin du Pont Blanc"
-housenumber: 130
-phone: "+33 9 82 42 38 62"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.xxl.fr/"
+street: Chemin du Pont Blanc
+housenumber: "130"
+phone: +33 9 82 42 38 62
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.xxl.fr/

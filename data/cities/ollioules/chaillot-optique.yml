@@ -1,11 +1,11 @@
 id: 405167412
-type: way
+type: node
 latitude: 43.12759
 longitude: 5.88106
 postcode: "13190"
 city: Ollioules
-street: "Avenue Frédéric Mistral"
-housenumber: 428
+street: Avenue Frédéric Mistral
+housenumber: "428"
 phone: ""
 opening_hours: ""
 website: ""

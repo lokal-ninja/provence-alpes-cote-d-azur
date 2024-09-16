@@ -1,11 +1,11 @@
 id: 270965328
-type: way
+type: node
 latitude: 43.44661
 longitude: 6.69853
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Boulevard de l'Industrie"
-housenumber: 41
-phone: "+33 4 94 45 44 80"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://maxibazar.fr/"
+street: Boulevard de l'Industrie
+housenumber: "41"
+phone: +33 4 94 45 44 80
+opening_hours: Mo-Sa 09:30-19:00
+website: https://maxibazar.fr/

@@ -1,11 +1,11 @@
 id: 130197037
-type: way
+type: node
 latitude: 43.69536
 longitude: 7.12309
 postcode: "06570"
 city: Saint-Paul-de-Vence
-street: "Rue Grande"
-housenumber: 98
-phone: "+33 6 69 12 38 68"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://parfumsgodet.com"
+street: Rue Grande
+housenumber: "98"
+phone: +33 6 69 12 38 68
+opening_hours: Mo-Su 09:00-19:00
+website: https://parfumsgodet.com

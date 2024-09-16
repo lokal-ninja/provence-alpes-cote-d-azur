@@ -4,8 +4,8 @@ latitude: 44.12978
 longitude: 4.83806
 postcode: ""
 city: Orange
-street: "Rue du Danemark"
-housenumber: 125
-phone: "+33 4 88 84 42 22"
-opening_hours: "Tu 11:00-21:00; We-Th 11:00-22:00; Fr 11:00-01:00"
+street: Rue du Danemark
+housenumber: "125"
+phone: +33 4 88 84 42 22
+opening_hours: Tu 11:00-21:00; We-Th 11:00-22:00; Fr 11:00-01:00
 website: ""

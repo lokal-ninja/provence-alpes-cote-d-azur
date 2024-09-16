@@ -1,11 +1,11 @@
 id: 85106922
-type: way
+type: node
 latitude: 43.84384
 longitude: 5.07792
 postcode: "84300"
 city: Cavaillon
-street: "Route de Robion"
-housenumber: 1713
+street: Route de Robion
+housenumber: "1713"
 phone: ""
 opening_hours: ""
 website: ""

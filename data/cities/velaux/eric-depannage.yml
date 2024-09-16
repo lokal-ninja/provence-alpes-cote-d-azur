@@ -4,8 +4,8 @@ latitude: 43.5129
 longitude: 5.23455
 postcode: "13880"
 city: Velaux
-street: "Impasse Henri Becquerel"
-housenumber: 28
-phone: "+33 6 62 97 14 59"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+street: Impasse Henri Becquerel
+housenumber: "28"
+phone: +33 6 62 97 14 59
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

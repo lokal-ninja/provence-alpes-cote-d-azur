@@ -1,11 +1,11 @@
 id: 627179850
-type: way
+type: node
 latitude: 43.52528
 longitude: 4.96384
 postcode: "13800"
 city: Istres
-street: "Chemin du Bord de Crau"
-housenumber: 
+street: Chemin du Bord de Crau
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

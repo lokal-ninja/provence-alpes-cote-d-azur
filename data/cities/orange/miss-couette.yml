@@ -1,11 +1,11 @@
 id: 78619806
-type: way
+type: node
 latitude: 44.12207
 longitude: 4.84008
 postcode: ""
 city: Orange
-street: "Rue de Belgique"
-housenumber: 
+street: Rue de Belgique
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00"
+opening_hours: Mo-Sa 08:30-19:00
 website: ""

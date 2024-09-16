@@ -1,11 +1,11 @@
 id: 92583423
-type: way
+type: node
 latitude: 43.28413
 longitude: 5.54507
 postcode: "13400"
 city: Aubagne
-street: "route nationale 8"
-housenumber: 1465
+street: route nationale 8
+housenumber: "1465"
 phone: ""
 opening_hours: ""
 website: ""

@@ -5,7 +5,7 @@ longitude: 7.28522
 postcode: ""
 city: Nice
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 13:30-18:00"
-website: "https://monsieurstore.com/magasin/nice-06300/"
+opening_hours: Mo-Fr 08:30-12:00, 13:30-18:00
+website: https://monsieurstore.com/magasin/nice-06300/

@@ -1,11 +1,11 @@
 id: 143716997
-type: way
+type: node
 latitude: 43.66955
 longitude: 7.21698
 postcode: ""
 city: Nice
-street: "Boulevard René Cassin"
-housenumber: 125
+street: Boulevard René Cassin
+housenumber: "125"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

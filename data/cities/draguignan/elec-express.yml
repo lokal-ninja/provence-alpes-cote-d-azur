@@ -4,8 +4,8 @@ latitude: 43.53536
 longitude: 6.46647
 postcode: "83300"
 city: Draguignan
-street: "Avenue Lazare Carnot"
-housenumber: 25
-phone: "+33 4 94 85 72 55"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 08:30-12:30,14:00-18:30; Su off"
-website: "https://www.andom.fr/"
+street: Avenue Lazare Carnot
+housenumber: "25"
+phone: +33 4 94 85 72 55
+opening_hours: Mo 14:00-19:00; Tu-Sa 08:30-12:30,14:00-18:30; Su off
+website: https://www.andom.fr/

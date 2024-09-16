@@ -4,8 +4,8 @@ latitude: 43.70234
 longitude: 7.25392
 postcode: ""
 city: Nice
-street: "Rue Balzac"
-housenumber: 2
+street: Rue Balzac
+housenumber: "2"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

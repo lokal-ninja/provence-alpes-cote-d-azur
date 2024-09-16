@@ -1,11 +1,11 @@
 id: 85491772
-type: way
+type: node
 latitude: 43.64179
 longitude: 5.53414
 postcode: "13650"
 city: Meyrargues
-street: "RN96 La Coudourousse"
-housenumber: 
+street: RN96 La Coudourousse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://www.e-leclerc.com/meyrargues"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://www.e-leclerc.com/meyrargues

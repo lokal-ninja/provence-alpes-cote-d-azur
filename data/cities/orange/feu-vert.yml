@@ -1,11 +1,11 @@
 id: 78618238
-type: way
+type: node
 latitude: 44.11959
 longitude: 4.84064
 postcode: ""
 city: Orange
-street: "Avenue de l'Europe"
-housenumber: 
+street: Avenue de l'Europe
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.feuvert.fr/"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.feuvert.fr/

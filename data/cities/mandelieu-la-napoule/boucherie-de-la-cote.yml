@@ -1,11 +1,11 @@
 id: 112876217
-type: way
+type: node
 latitude: 43.54015
 longitude: 6.93651
 postcode: "06210"
 city: Mandelieu-la-Napoule
-street: "Avenue de la Mer"
-housenumber: 45
+street: Avenue de la Mer
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

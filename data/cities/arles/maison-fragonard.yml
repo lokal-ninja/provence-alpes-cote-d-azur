@@ -4,8 +4,8 @@ latitude: 43.67721
 longitude: 4.6272
 postcode: "13200"
 city: Arles
-street: "Rue du Palais"
-housenumber: 9
-phone: "+33 4 90 96 14 42"
+street: Rue du Palais
+housenumber: "9"
+phone: +33 4 90 96 14 42
 opening_hours: ""
-website: "https://www.fragonard.com/fr-int/maison-fragonard-arles"
+website: https://www.fragonard.com/fr-int/maison-fragonard-arles

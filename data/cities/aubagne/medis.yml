@@ -4,8 +4,8 @@ latitude: 43.28876
 longitude: 5.60436
 postcode: "13400"
 city: Aubagne
-street: "Avenue du Millet"
-housenumber: 5
-phone: "+33 4 86 36 70 02"
+street: Avenue du Millet
+housenumber: "5"
+phone: +33 4 86 36 70 02
 opening_hours: ""
-website: "https://www.medis-sante.fr/"
+website: https://www.medis-sante.fr/

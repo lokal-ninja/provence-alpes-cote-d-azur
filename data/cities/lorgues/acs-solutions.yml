@@ -4,8 +4,8 @@ latitude: 43.49184
 longitude: 6.35983
 postcode: "83510"
 city: Lorgues
-street: "Avenue Allongue"
-housenumber: 38
-phone: "+33 4 83 11 55 74"
-opening_hours: "Mo,Sa 08:30-12:30; Tu-Fr 08:30-12:30,14:30-18:30"
+street: Avenue Allongue
+housenumber: "38"
+phone: +33 4 83 11 55 74
+opening_hours: Mo,Sa 08:30-12:30; Tu-Fr 08:30-12:30,14:30-18:30
 website: ""

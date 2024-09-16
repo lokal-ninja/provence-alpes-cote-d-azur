@@ -1,11 +1,11 @@
 id: 270962718
-type: way
+type: node
 latitude: 43.4477
 longitude: 6.70011
 postcode: "83480"
 city: Puget-sur-Argens
-street: "Boulevard de l'Industrie"
-housenumber: 209
-phone: "+33 4 94 45 58 33"
-opening_hours: "Mo-Th 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 14:00-17:00"
+street: Boulevard de l'Industrie
+housenumber: "209"
+phone: +33 4 94 45 58 33
+opening_hours: Mo-Th 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 14:00-17:00
 website: ""

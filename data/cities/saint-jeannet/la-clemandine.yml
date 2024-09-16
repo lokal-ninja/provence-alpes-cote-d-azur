@@ -4,8 +4,8 @@ latitude: 43.75185
 longitude: 7.15944
 postcode: "06640"
 city: Saint-Jeannet
-street: "Chemin des Sausses"
-housenumber: 4136
-phone: "+33 6 07 01 15 10"
-opening_hours: "Vente directe toute l'année"
-website: "https://www.laclemandine.com/"
+street: Chemin des Sausses
+housenumber: "4136"
+phone: +33 6 07 01 15 10
+opening_hours: '"Vente directe toute l''année"'
+website: https://www.laclemandine.com/

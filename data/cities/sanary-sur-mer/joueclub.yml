@@ -4,8 +4,9 @@ latitude: 43.11798
 longitude: 5.80026
 postcode: "83110"
 city: Sanary-sur-Mer
-street: "Rue de la Prud'Homie"
-housenumber: 22
+street: Rue de la Prud'Homie
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Tu 08:00-18:00; We 08:00-12:00,14:00-19:00; Th-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Tu 08:00-18:00; We 08:00-12:00,14:00-19:00; Th-Fr 08:00-18:00; Sa
+    08:00-12:00
 website: ""

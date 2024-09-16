@@ -4,8 +4,8 @@ latitude: 43.94831
 longitude: 4.80676
 postcode: ""
 city: Avignon
-street: "Place du Change"
-housenumber: 20
-phone: "+33 4 90 84 03 58"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.delices-du-luberon.fr/"
+street: Place du Change
+housenumber: "20"
+phone: +33 4 90 84 03 58
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.delices-du-luberon.fr/

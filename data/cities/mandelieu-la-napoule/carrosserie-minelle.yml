@@ -1,11 +1,11 @@
 id: 112876204
-type: way
+type: node
 latitude: 43.53034
 longitude: 6.93214
 postcode: "06210"
 city: Mandelieu-la-Napoule
-street: "Chemin Vieille Ferme"
-housenumber: 116
+street: Chemin Vieille Ferme
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -5,7 +5,7 @@ longitude: 5.40149
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 12
-phone: "+33 9 81 85 98 99"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://www.rollernco.com/fr/"
+housenumber: "12"
+phone: +33 9 81 85 98 99
+opening_hours: Tu-Sa 11:00-19:00
+website: https://www.rollernco.com/fr/

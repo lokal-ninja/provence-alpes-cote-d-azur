@@ -1,11 +1,11 @@
 id: 89329291
-type: way
+type: node
 latitude: 43.81975
 longitude: 5.79421
 postcode: "04100"
 city: Manosque
-street: "Avenue de la Libération"
-housenumber: 274
-phone: "+33 4 92 71 09 57"
-opening_hours: "09:00-20:00"
+street: Avenue de la Libération
+housenumber: "274"
+phone: +33 4 92 71 09 57
+opening_hours: 09:00-20:00
 website: ""

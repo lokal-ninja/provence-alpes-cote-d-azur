@@ -4,8 +4,8 @@ latitude: 43.707
 longitude: 7.2573
 postcode: ""
 city: Nice
-street: "Rue Vernier"
-housenumber: 42
+street: Rue Vernier
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://nicecoop.fr/"
+website: https://nicecoop.fr/

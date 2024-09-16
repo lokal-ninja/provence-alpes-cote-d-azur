@@ -4,8 +4,8 @@ latitude: 43.4228
 longitude: 6.76783
 postcode: "83700"
 city: Saint-Raphaël
-street: "Rue Charles Gounod"
-housenumber: 58
-phone: "+33 4 94 95 11 15"
-opening_hours: "Mo 14:45-19:15; Tu-Sa 09:15-12:15,14:45-19:15"
-website: "https://www.librairieparisienne.com/"
+street: Rue Charles Gounod
+housenumber: "58"
+phone: +33 4 94 95 11 15
+opening_hours: Mo 14:45-19:15; Tu-Sa 09:15-12:15,14:45-19:15
+website: https://www.librairieparisienne.com/

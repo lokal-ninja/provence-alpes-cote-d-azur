@@ -1,11 +1,11 @@
 id: 974351963
-type: way
+type: node
 latitude: 43.86683
 longitude: 5.13978
 postcode: "84660"
 city: Maubec
-street: "Route de Cavaillon"
+street: Route de Cavaillon
 housenumber: 320bis
-phone: "+33 4 90 74 51 78"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://coustellet.biocoop.net"
+phone: +33 4 90 74 51 78
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:00-19:00
+website: https://coustellet.biocoop.net

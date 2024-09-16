@@ -4,8 +4,8 @@ latitude: 44.56646
 longitude: 6.09603
 postcode: "05000"
 city: Gap
-street: "Avenue Émile Didier"
-housenumber: 68
-phone: "+33 4 92 58 65 32"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.aalldora.fr/"
+street: Avenue Émile Didier
+housenumber: "68"
+phone: +33 4 92 58 65 32
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.aalldora.fr/

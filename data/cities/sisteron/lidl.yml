@@ -1,11 +1,11 @@
 id: 853722606
-type: way
+type: node
 latitude: 44.23523
 longitude: 5.91107
 postcode: "04200"
 city: Sisteron
-street: "Allée des Genêts"
-housenumber: 30
+street: Allée des Genêts
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

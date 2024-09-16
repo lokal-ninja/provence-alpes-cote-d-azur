@@ -1,11 +1,11 @@
 id: 134521122
-type: way
+type: node
 latitude: 44.11816
 longitude: 4.83868
 postcode: ""
 city: Orange
-street: "Rue d'Allemagne"
-housenumber: 
+street: Rue d'Allemagne
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://concessions.peugeot.fr/hpa"
+website: https://concessions.peugeot.fr/hpa

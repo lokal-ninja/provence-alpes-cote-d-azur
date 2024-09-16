@@ -5,7 +5,7 @@ longitude: 5.39393
 postcode: ""
 city: Marseille
 street: ""
-housenumber: 71
+housenumber: "71"
 phone: ""
-opening_hours: "Sa 09:00-19:00; Mo-Fr 09:00-13:00,15:00-19:20"
-website: "https://epicerie-paysanne.fr/"
+opening_hours: Sa 09:00-19:00; Mo-Fr 09:00-13:00,15:00-19:20
+website: https://epicerie-paysanne.fr/

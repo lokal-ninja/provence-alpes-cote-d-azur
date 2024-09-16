@@ -4,8 +4,8 @@ latitude: 43.71736
 longitude: 7.2568
 postcode: "06100"
 city: Nice
-street: "Boulevard de Gorbella"
-housenumber: 3
-phone: "03 59 30 59 30"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.auchan.fr/magasins/click-and-collect/auchan-pieton-nice-gorbella/s-10051"
+street: Boulevard de Gorbella
+housenumber: "3"
+phone: 03 59 30 59 30
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.auchan.fr/magasins/click-and-collect/auchan-pieton-nice-gorbella/s-10051

@@ -4,8 +4,8 @@ latitude: 43.62739
 longitude: 6.22502
 postcode: "83630"
 city: Aups
-street: "Rue Jean-Pierre Aloïsi"
-housenumber: 7
-phone: "+33 4 94 70 06 08"
-opening_hours: "Tu-Th 10:00-12:30,15:15-19:30; Fr,Sa 10:00-12:30,16:00-22:30; Su 10:00-12:30"
+street: Rue Jean-Pierre Aloïsi
+housenumber: "7"
+phone: +33 4 94 70 06 08
+opening_hours: Tu-Th 10:00-12:30,15:15-19:30; Fr,Sa 10:00-12:30,16:00-22:30; Su 10:00-12:30
 website: ""

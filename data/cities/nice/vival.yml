@@ -4,8 +4,8 @@ latitude: 43.72541
 longitude: 7.25056
 postcode: ""
 city: Nice
-street: "Avenue Saint-Sylvestre"
-housenumber: 13
-phone: "+33 4 93 52 17 72"
-opening_hours: "Mo-Su 07:30-22:00"
-website: "https://magasins.vival.fr/fr/vival-nice-saint-sylestre"
+street: Avenue Saint-Sylvestre
+housenumber: "13"
+phone: +33 4 93 52 17 72
+opening_hours: Mo-Su 07:30-22:00
+website: https://magasins.vival.fr/fr/vival-nice-saint-sylestre

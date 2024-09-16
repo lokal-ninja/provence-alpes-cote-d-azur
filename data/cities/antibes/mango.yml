@@ -4,8 +4,8 @@ latitude: 43.57976
 longitude: 7.12061
 postcode: "06600"
 city: Antibes
-street: "Boulevard du Président Wilson"
-housenumber: 4
-phone: "+33 4 92 93 01 20"
-opening_hours: "Mo-Sa 10:00-18:50; Su,PH off"
+street: Boulevard du Président Wilson
+housenumber: "4"
+phone: +33 4 92 93 01 20
+opening_hours: Mo-Sa 10:00-18:50; Su,PH off
 website: ""

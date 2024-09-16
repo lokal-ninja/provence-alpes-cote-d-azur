@@ -4,8 +4,8 @@ latitude: 43.28915
 longitude: 5.59323
 postcode: "13400"
 city: Aubagne
-street: "Avenue des Caniers"
-housenumber: 572
-phone: "+33 4 42 98 53 84"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.grandlitier.com"
+street: Avenue des Caniers
+housenumber: "572"
+phone: +33 4 42 98 53 84
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.grandlitier.com

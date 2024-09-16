@@ -1,11 +1,11 @@
 id: 69850514
-type: way
+type: node
 latitude: 43.43951
 longitude: 6.71619
 postcode: "83600"
 city: Fréjus
-street: "Rue Georges Besse"
-housenumber: 371
+street: Rue Georges Besse
+housenumber: "371"
 phone: ""
 opening_hours: ""
 website: ""

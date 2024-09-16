@@ -1,11 +1,11 @@
 id: 79253535
-type: way
+type: node
 latitude: 44.12214
 longitude: 4.83129
 postcode: ""
 city: Orange
-street: "RN7 Sud"
-housenumber: 
+street: RN7 Sud
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.reseau.citroen.fr/"
+website: http://www.reseau.citroen.fr/

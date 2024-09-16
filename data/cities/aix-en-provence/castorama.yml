@@ -1,11 +1,11 @@
 id: 88772984
-type: way
+type: node
 latitude: 43.50748
 longitude: 5.4081
 postcode: "13290"
 city: Aix-en-Provence
-street: "Rue Guillaume du Vair"
-housenumber: 
+street: Rue Guillaume du Vair
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

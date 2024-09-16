@@ -1,11 +1,11 @@
 id: 145061199
-type: way
+type: node
 latitude: 43.12809
 longitude: 5.96477
 postcode: "83100"
 city: Toulon
-street: "Avenue Colonel Picot"
-housenumber: 704
+street: Avenue Colonel Picot
+housenumber: "704"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00
 website: ""

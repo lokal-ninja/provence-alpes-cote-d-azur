@@ -1,11 +1,11 @@
 id: 84787138
-type: way
+type: node
 latitude: 43.69061
 longitude: 5.49708
 postcode: "84120"
 city: Pertuis
-street: "Rue Hoche"
-housenumber: 
+street: Rue Hoche
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

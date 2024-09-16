@@ -1,11 +1,11 @@
 id: 99122281
-type: way
+type: node
 latitude: 43.43135
 longitude: 5.04772
 postcode: "13500"
 city: Martigues
-street: "Zone d'Activités Commerciales de Figuerolles"
-housenumber: 
+street: Zone d'Activités Commerciales de Figuerolles
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_169"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_169

@@ -4,8 +4,8 @@ latitude: 43.13557
 longitude: 5.75328
 postcode: "83150"
 city: Bandol
-street: "Rue de la République"
-housenumber: 36
-phone: "+33 9 54 75 18 52;+33 6 10 30 07 62"
-opening_hours: "Tu-Sa 10:00-18:00; Su 10:00-13:00"
-website: "https://lecannelefrancais.fr/"
+street: Rue de la République
+housenumber: "36"
+phone: +33 9 54 75 18 52;+33 6 10 30 07 62
+opening_hours: Tu-Sa 10:00-18:00; Su 10:00-13:00
+website: https://lecannelefrancais.fr/

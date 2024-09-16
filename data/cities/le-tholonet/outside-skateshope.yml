@@ -1,11 +1,11 @@
 id: 1022496613
-type: way
+type: node
 latitude: 43.50865
 longitude: 5.49848
 postcode: "13100"
 city: Le Tholonet
-street: "Avenue Paul Julien"
-housenumber: 1581
+street: Avenue Paul Julien
+housenumber: "1581"
 phone: "+33442500657"
-opening_hours: "Tu-Su 09:00-19:00"
+opening_hours: Tu-Su 09:00-19:00
 website: ""

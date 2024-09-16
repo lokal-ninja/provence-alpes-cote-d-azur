@@ -4,8 +4,8 @@ latitude: 43.49259
 longitude: 6.36323
 postcode: "83510"
 city: Lorgues
-street: "Rue de l'Église"
-housenumber: 10
-phone: "+33 4 94 68 13 45"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-19:00"
+street: Rue de l'Église
+housenumber: "10"
+phone: +33 4 94 68 13 45
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00
 website: ""

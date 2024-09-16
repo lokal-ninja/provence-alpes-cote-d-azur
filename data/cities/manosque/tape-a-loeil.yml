@@ -4,8 +4,8 @@ latitude: 43.82223
 longitude: 5.79151
 postcode: "04100"
 city: Manosque
-street: "Avenue de la Libération"
-housenumber: 20
-phone: "+33 4 92 79 63 51"
-opening_hours: "Mo-Sa 9:30-19:00"
-website: "https://www.t-a-o.com/"
+street: Avenue de la Libération
+housenumber: "20"
+phone: +33 4 92 79 63 51
+opening_hours: Mo-Sa 9:30-19:00
+website: https://www.t-a-o.com/
