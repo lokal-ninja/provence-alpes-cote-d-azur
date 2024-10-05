@@ -3,9 +3,9 @@ type: node
 latitude: 44.53897
 longitude: 6.49597
 postcode: "05200"
-city: Baratier.
+city: Baratier
 street: Rue Guillaume Appolinaire
 housenumber: "91"
 phone: "+33613764155"
-opening_hours: Mo, Tu, Fr, Sa, Su 07:30-13:30
+opening_hours: Mo,Tu,Fr,Sa,Su 07:30-13:30
 website: https://baratipain.fr/
