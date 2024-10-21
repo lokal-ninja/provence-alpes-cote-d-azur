@@ -1,11 +1,11 @@
 id: 89334859
 type: node
-latitude: 43.82297
-longitude: 5.79188
+latitude: 43.8233
+longitude: 5.79222
 postcode: "04100"
 city: Manosque
 street: Place Damase Arbaud
 housenumber: 8 A
 phone: +33 4 92 87 87 59
-opening_hours: Mo-Fr 09:30-12:00, 14:00-19:00; We 09:30-19:00; Sa 09:30-19:00
+opening_hours: Mo,Tu,Th,Fr 09:30-19:00; We,Sa 09:30-19:30
 website: https://www.gemo.fr/
