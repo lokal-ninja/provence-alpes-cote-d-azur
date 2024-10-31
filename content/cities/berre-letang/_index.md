@@ -1,6 +1,6 @@
 ---
-title: Berre-l'Étang
+title: Berre l'Etang
 url: /berre-letang/
-latitude: 43.522
-longitude: 5.152
+latitude: 43.496
+longitude: 5.154
 ---
