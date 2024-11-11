@@ -1,5 +1,5 @@
 ---
-title: "Éric Kayser"
+title: "Eric Kayser"
 url: /nice/eric-kayser/
 shop: boulangerie
 ---
