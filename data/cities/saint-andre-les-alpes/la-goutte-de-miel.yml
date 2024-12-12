@@ -7,5 +7,5 @@ city: Saint-André-les-Alpes
 street: Grande Rue
 housenumber: "111"
 phone: ""
-opening_hours: Jul,Aug 11:00 || "on appointment"
+opening_hours: '"on appointment"'
 website: ""
