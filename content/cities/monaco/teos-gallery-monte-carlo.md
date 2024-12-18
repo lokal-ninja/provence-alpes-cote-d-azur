@@ -1,5 +1,5 @@
 ---
-title: "Teos gallery Monte-Carlo"
+title: "Teos Gallery Monte-Carlo"
 url: /monaco/teos-gallery-monte-carlo/
 shop: art
 ---

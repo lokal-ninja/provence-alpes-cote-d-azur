@@ -1,5 +1,5 @@
 ---
 title: "Tissus Plus"
 url: /la-garde/tissus-plus/
-shop: couture
+shop: tissu
 ---
