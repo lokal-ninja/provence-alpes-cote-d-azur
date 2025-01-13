@@ -1,5 +1,5 @@
 ---
 title: "Calderon"
 url: /saint-raphael/calderon/
-shop: boulangerie
+shop: chocolat
 ---
