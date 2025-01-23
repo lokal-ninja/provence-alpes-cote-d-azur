@@ -1,6 +1,6 @@
 ---
 title: Callian
 url: /callian/
-latitude: 43.608
+latitude: 43.623
 longitude: 6.754
 ---
