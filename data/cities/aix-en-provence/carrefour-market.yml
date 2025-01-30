@@ -1,11 +1,11 @@
 id: 4969288798
 type: node
-latitude: 43.52532
-longitude: 5.44276
+latitude: 43.52533
+longitude: 5.44275
 postcode: "13100"
 city: Aix-en-Provence
 street: Rue Lapierre
 housenumber: "1"
 phone: +33 4 42 50 39 74
-opening_hours: Mo-Sa 08:00-20:30
+opening_hours: Mo-Sa 08:00-20:30;Su 08:00-12:30
 website: https://www.carrefour.fr/magasin/market-aix-en-provence-lapierre
