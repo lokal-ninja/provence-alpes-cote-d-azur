@@ -1,6 +1,6 @@
 ---
 title: Cuers
 url: /cuers/
-latitude: 43.232
-longitude: 6.082
+latitude: 43.238
+longitude: 6.079
 ---
