@@ -1,6 +1,6 @@
 ---
 title: Régusse
 url: /regusse/
-latitude: 43.655
-longitude: 6.132
+latitude: 43.656
+longitude: 6.131
 ---
