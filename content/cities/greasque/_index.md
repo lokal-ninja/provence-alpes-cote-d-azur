@@ -1,6 +1,6 @@
 ---
 title: Gréasque
 url: /greasque/
-latitude: 43.435
-longitude: 5.541
+latitude: 43.431
+longitude: 5.545
 ---
