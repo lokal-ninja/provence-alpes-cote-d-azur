@@ -1,5 +1,5 @@
 ---
-title: "Day by Day"
+title: "day by day"
 url: /avignon/day-by-day/
 shop: commodité
 ---
