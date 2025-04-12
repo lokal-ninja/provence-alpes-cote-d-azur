@@ -7,5 +7,6 @@ city: Forcalquier
 street: Place de Verdun
 housenumber: ""
 phone: ""
-opening_hours: Th-Tu 06:00-14:00,15:00-19:00
+opening_hours: Mo,Tu,Th-Fr 06:00-14:00,15:00-19:00; Sa 06:00-13:00,15:00-19:00; Su
+    06:00-12:30
 website: ""
