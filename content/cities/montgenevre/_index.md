@@ -1,6 +1,6 @@
 ---
 title: Montgenèvre
 url: /montgenevre/
-latitude: 44.928
-longitude: 6.72
+latitude: 44.933
+longitude: 6.726
 ---
