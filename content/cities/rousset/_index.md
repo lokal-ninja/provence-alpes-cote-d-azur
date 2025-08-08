@@ -1,6 +1,6 @@
 ---
 title: Rousset
 url: /rousset/
-latitude: 43.483
-longitude: 5.624
+latitude: 43.47
+longitude: 5.655
 ---

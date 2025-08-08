@@ -7,5 +7,5 @@ city: Céreste
 street: Cours Aristide Briand
 housenumber: "303"
 phone: +33 7 66 05 03 19
-opening_hours: ""
+opening_hours: Mo,Tu,Th-Sa 07:00-12:30,16:00-19:00; Su,PH 07:00-13:00
 website: ""

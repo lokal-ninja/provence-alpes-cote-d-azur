@@ -1,5 +1,5 @@
 ---
-title: "SKODA"
+title: "Škoda"
 url: /nice/skoda/
 shop: voiture
 ---

@@ -7,5 +7,6 @@ city: Arles
 street: Rue Jean Jaurès
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Tu-Fr 10:00-13:30,14:30-19:00; Mo 14:00-19:00; Sa 09:30-13:30,14:30-19:00;
+    Su 10:00-13:30,14:00-18:30
 website: ""

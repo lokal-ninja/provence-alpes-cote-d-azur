@@ -1,6 +1,6 @@
 ---
-title: Courthézon
+title: COURTHEZON
 url: /courthezon/
-latitude: 44.094
-longitude: 4.879
+latitude: 44.086
+longitude: 4.886
 ---

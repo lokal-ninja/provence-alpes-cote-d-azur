@@ -1,6 +1,6 @@
 ---
 title: Valensole
 url: /valensole/
-latitude: 43.824
-longitude: 5.938
+latitude: 43.837
+longitude: 5.986
 ---

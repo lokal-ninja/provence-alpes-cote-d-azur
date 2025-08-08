@@ -1,6 +1,6 @@
 ---
 title: Grasse
 url: /grasse/
-latitude: 43.634
-longitude: 6.957
+latitude: 43.639
+longitude: 6.976
 ---

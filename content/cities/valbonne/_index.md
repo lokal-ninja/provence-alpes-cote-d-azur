@@ -1,6 +1,6 @@
 ---
 title: Valbonne
 url: /valbonne/
-latitude: 43.642
-longitude: 7.009
+latitude: 43.627
+longitude: 6.999
 ---
