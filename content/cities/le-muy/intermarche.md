@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /le-muy/intermarche/
-shop: supermarché
+shop: gaz
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cairanne
 url: /cairanne/
-latitude: 44.23
-longitude: 4.932
+latitude: 44.233
+longitude: 4.899
 ---

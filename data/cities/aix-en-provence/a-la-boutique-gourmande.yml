@@ -7,5 +7,6 @@ city: Aix-en-Provence
 street: Rue d'Italie
 housenumber: "61"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th-Fr 08:30-12:30,15:30-19:00; We 08:30-12:30; Sa 08:30-13:00,15:30-19:00;
+    Su 08:30-13:00
 website: ""
