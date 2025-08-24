@@ -1,6 +1,6 @@
 ---
 title: Spéracèdes
 url: /speracedes/
-latitude: 43.649
-longitude: 6.863
+latitude: 43.651
+longitude: 6.862
 ---

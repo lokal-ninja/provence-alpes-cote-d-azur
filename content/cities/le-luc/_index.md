@@ -1,6 +1,6 @@
 ---
 title: Le Luc
 url: /le-luc/
-latitude: 43.383
-longitude: 6.306
+latitude: 43.372
+longitude: 6.324
 ---
