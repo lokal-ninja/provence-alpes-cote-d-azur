@@ -1,6 +1,6 @@
 ---
 title: Velaux
 url: /velaux/
-latitude: 43.523
-longitude: 5.254
+latitude: 43.529
+longitude: 5.258
 ---
