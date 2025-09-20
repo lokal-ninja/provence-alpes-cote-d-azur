@@ -7,5 +7,5 @@ city: Gap
 street: Rue Jean Eymar
 housenumber: "33"
 phone: +33 4 92 20 98 10
-opening_hours: ""
+opening_hours: Tu,We,Sa 11:00-13:00,14:00-18:00; Fr 11:00-13:00,14:00-17:00
 website: www.facebook.com/LaCledAnkh
