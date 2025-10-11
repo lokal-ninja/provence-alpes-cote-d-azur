@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /martigues/interflora/
-shop: fleuriste
+shop: vacant
 ---
