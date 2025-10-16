@@ -1,6 +1,6 @@
 ---
 title: Vence
 url: /vence/
-latitude: 43.725
+latitude: 43.724
 longitude: 7.106
 ---

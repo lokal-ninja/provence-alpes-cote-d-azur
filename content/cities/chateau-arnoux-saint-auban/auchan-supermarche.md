@@ -1,5 +1,5 @@
 ---
 title: "Auchan Supermarché"
-url: /nice/auchan-supermarche/
+url: /chateau-arnoux-saint-auban/auchan-supermarche/
 shop: supermarché
 ---
