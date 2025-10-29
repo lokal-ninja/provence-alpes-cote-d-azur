@@ -1,6 +1,6 @@
 ---
 title: Marseille
 url: /marseille/
-latitude: 43.3
-longitude: 5.478
+latitude: 43.293
+longitude: 5.402
 ---
