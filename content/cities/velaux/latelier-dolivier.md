@@ -1,5 +1,5 @@
 ---
-title: "L'atelier d'Olivier"
+title: "L'Atelier d'Olivier"
 url: /velaux/latelier-dolivier/
 shop: boulangerie
 ---

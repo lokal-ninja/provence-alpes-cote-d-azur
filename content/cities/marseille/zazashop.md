@@ -1,5 +1,5 @@
 ---
-title: "ZAZASHOP"
+title: "Zazashop"
 url: /marseille/zazashop/
 shop: commodité
 ---

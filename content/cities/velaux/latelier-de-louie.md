@@ -1,5 +1,5 @@
 ---
-title: "L’atelier De L’ouïe"
+title: "L’Atelier de l’Ouïe"
 url: /velaux/latelier-de-louie/
 shop: les appareils auditifs
 ---
