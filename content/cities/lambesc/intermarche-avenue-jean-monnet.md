@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /lambesc/intermarche-3/
+url: /lambesc/intermarche-avenue-jean-monnet/
 shop: supermarché
 ---

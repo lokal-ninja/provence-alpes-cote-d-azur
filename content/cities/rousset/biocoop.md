@@ -1,5 +1,5 @@
 ---
-title: "Biocoop"
+title: "BioCoop"
 url: /rousset/biocoop/
 shop: commodité
 ---
