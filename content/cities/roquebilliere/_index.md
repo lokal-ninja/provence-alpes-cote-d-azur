@@ -1,6 +1,6 @@
 ---
 title: Roquebillière
 url: /roquebilliere/
-latitude: 44.018
-longitude: 7.312
+latitude: 44.012
+longitude: 7.308
 ---
