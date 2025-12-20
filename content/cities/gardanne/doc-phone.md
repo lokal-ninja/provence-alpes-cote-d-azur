@@ -1,5 +1,5 @@
 ---
 title: "Doc phone"
 url: /gardanne/doc-phone/
-shop: shop
+shop: téléphone portable
 ---
