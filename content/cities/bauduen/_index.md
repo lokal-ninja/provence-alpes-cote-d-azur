@@ -1,6 +1,6 @@
 ---
 title: Bauduen
 url: /bauduen/
-latitude: 43.733
-longitude: 6.176
+latitude: 43.734
+longitude: 6.175
 ---
