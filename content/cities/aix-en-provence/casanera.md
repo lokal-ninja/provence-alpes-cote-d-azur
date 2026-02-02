@@ -1,5 +1,5 @@
 ---
 title: "Casanera"
 url: /aix-en-provence/casanera/
-shop: shop
+shop: beauté
 ---
