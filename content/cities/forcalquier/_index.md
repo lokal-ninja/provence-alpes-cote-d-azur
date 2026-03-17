@@ -1,6 +1,6 @@
 ---
 title: Forcalquier
 url: /forcalquier/
-latitude: 43.961
-longitude: 5.779
+latitude: 43.959
+longitude: 5.782
 ---

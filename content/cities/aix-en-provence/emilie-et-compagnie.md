@@ -1,5 +1,5 @@
 ---
-title: "Emilie et compagnie"
+title: "Emilie et Compagnie"
 url: /aix-en-provence/emilie-et-compagnie/
 shop: jouets
 ---
