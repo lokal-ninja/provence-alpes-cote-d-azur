@@ -1,6 +1,6 @@
 ---
 title: Caussols
 url: /caussols/
-latitude: 43.745
-longitude: 6.912
+latitude: 43.741
+longitude: 6.9
 ---
