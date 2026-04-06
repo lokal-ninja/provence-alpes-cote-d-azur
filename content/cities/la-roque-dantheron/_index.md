@@ -1,6 +1,6 @@
 ---
-title: la roque d'anthéron
+title: La Roque-d'Anthéron
 url: /la-roque-dantheron/
-latitude: 43.72
-longitude: 5.326
+latitude: 43.716
+longitude: 5.311
 ---
