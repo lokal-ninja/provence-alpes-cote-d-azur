@@ -1,5 +1,0 @@
----
-title: "Auchan Supermarché"
-url: /nice/auchan-supermarche/
-shop: supermarché
----
