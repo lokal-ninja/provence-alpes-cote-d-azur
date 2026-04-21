@@ -1,6 +1,6 @@
 ---
 title: Avignon
 url: /avignon/
-latitude: 43.942
-longitude: 4.827
+latitude: 43.924
+longitude: 4.859
 ---
