@@ -1,6 +1,6 @@
 ---
 title: Rocbaron
 url: /rocbaron/
-latitude: 43.318
-longitude: 6.076
+latitude: 43.315
+longitude: 6.075
 ---
