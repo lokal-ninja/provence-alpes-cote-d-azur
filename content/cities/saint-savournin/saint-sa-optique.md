@@ -1,5 +1,5 @@
 ---
-title: "Saint Sa Optique"
+title: "Saint-Sa Optique"
 url: /saint-savournin/saint-sa-optique/
 shop: opticien
 ---

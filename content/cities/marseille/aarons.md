@@ -1,5 +1,5 @@
 ---
-title: "Aaron’s"
+title: "Aaron's"
 url: /marseille/aarons/
 shop: boulangerie
 ---
