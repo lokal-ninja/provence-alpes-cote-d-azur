@@ -1,11 +1,12 @@
-id: 53265760
+id: 13918296531
 type: node
-latitude: 43.65506
-longitude: 5.26195
+latitude: 43.65517
+longitude: 5.26196
 postcode: "13410"
 city: Lambesc
 street: Boulevard de la République
-housenumber: 4B
-phone: ""
-opening_hours: ""
+housenumber: "4"
+phone: +33 4 42 57 07 25
+opening_hours: Mo off; Tu-We,Fr 06:30-12:45,16:00-19:00; Th 07:30-12:45,16:00-19:00;
+    Sa 06:45-12:45,16:00-19:00; Su 07:00-12:30
 website: ""
