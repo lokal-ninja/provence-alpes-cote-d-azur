@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /lambesc/intermarche/
-shop: supermarché
+shop: gaz
 ---
