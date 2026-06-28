@@ -1,5 +1,5 @@
 ---
-title: "Rachat d'or"
+title: "Rachat d'Or"
 url: /draguignan/rachat-dor/
-shop: shop
+shop: bijoux
 ---

@@ -1,6 +1,6 @@
 ---
 title: Valréas
 url: /valreas/
-latitude: 44.385
-longitude: 4.988
+latitude: 44.383
+longitude: 4.987
 ---

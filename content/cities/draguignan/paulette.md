@@ -1,5 +1,5 @@
 ---
-title: "PAULETTE"
+title: "Paulette"
 url: /draguignan/paulette/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
-title: "L'artisan boulanger"
+title: "L'Artisan Boulanger"
 url: /draguignan/lartisan-boulanger/
 shop: boulangerie
 ---

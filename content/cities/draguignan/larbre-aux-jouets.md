@@ -1,5 +1,5 @@
 ---
-title: "L'arbre aux jouets"
+title: "L'Arbre aux Jouets"
 url: /draguignan/larbre-aux-jouets/
 shop: jouets
 ---

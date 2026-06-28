@@ -1,5 +1,5 @@
 ---
-title: "ELEC EXPRESS"
+title: "Élec Express"
 url: /draguignan/elec-express/
 shop: électronique
 ---
