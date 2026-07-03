@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /cannes/picard-avenue-du-marechal-juin/
+url: /sanary-sur-mer/picard/
 shop: aliments surgelés
 ---
