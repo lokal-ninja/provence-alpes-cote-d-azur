@@ -7,5 +7,6 @@ city: Hyères
 street: Route de la Madrague
 housenumber: "153"
 phone: +33 4 94 58 27 91
-opening_hours: Mo-Fr, Su 07:30-13:00, 16:00-19:30; Sa 07:30-19:30
+opening_hours: 'Sep-Jun: Mo-Fr,Su 07:30-13:00,16:00-19:30; Sep-Jun: Sa 07:30-19:30;
+    Jul,Aug: Mo-Su,PH 07:30-20:30'
 website: https://magasins.vival.fr/fr/s/vival-hyeres-la-madrague

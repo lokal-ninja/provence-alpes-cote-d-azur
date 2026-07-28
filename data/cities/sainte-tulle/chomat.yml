@@ -6,8 +6,6 @@ postcode: "04220"
 city: Sainte-Tulle
 street: Avenue Marcel Paul
 housenumber: ""
-phone: 04 92 78 21 01
-opening_hours: lundi 08:00 12:00-14:00 18:30 mardi 08:00 12:00-14:00 18:30 mercredi
-    08:00 12:00-14:00 18:30 jeudi 08:00 12:00-14:00 18:30 vendredi 08:00 12:00-14:00
-    18:30 samedi Fermé dimanche Fermé
+phone: +33 4 92 78 21 01
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30
 website: ""

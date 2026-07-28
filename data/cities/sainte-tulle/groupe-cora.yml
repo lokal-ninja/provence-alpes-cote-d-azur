@@ -6,9 +6,6 @@ postcode: "04220"
 city: Sainte-Tulle
 street: Avenue du Languedoc
 housenumber: ""
-phone: "0492873584"
-opening_hours: 'jeudi 08:00–12:00 13:00–17:00  vendredi 08:00–12:00 13:00–17:00 
-    samedi Fermé  dimanche Fermé  lundi 08:00–12:00 13:00–17:00  mardi (Fête Nationale
-    du 14 juillet) 08:00–12:00 13:00–17:00 Les horaires peuvent être différents 
-    mercredi 08:00–12:00 13:'
+phone: +33 4 92 87 35 84
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: https://www.groupecora.fr/

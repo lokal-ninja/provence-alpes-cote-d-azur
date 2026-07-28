@@ -6,7 +6,6 @@ postcode: "04220"
 city: Sainte-Tulle
 street: Avenue du Languedoc
 housenumber: ""
-phone: 07 84 52 77 25
-opening_hours: "Lundi\t14h00 à 19h00 Mardi\t10h00 à 19h00 Mercredi\t10h00 à 19h00
-    Jeudi\t10h00 à 19h00 Vendredi\t10h00 à 19h00 Samedi\t09h00 à 12h00 Dimanche\tFERMÉ"
+phone: +33 7 84 52 77 25
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 09:00-12:00
 website: ""
