@@ -1,5 +1,5 @@
 ---
-title: "Saveurs et couleurs"
+title: "Saveurs et Couleurs"
 url: /digne-les-bains/saveurs-et-couleurs/
 shop: charcuterie
 ---

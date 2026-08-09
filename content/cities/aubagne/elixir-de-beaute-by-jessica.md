@@ -1,5 +1,5 @@
 ---
-title: "Élixir de Beauté By Jessica"
+title: "Élixir de Beauté by Jessica"
 url: /aubagne/elixir-de-beaute-by-jessica/
 shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
-title: "L'ESTHÉTIQUE"
+title: "L'Esthétique"
 url: /molleges/lesthetique/
 shop: beauté
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grans
 url: /grans/
-latitude: 43.601
-longitude: 5.074
+latitude: 43.607
+longitude: 5.063
 ---

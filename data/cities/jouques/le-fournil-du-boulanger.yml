@@ -7,6 +7,6 @@ city: Jouques
 street: Boulevard de la République
 housenumber: "53"
 phone: +33 4 42 67 62 79
-opening_hours: 'Lundi et Mardi : 06:00 / 19:00; Jeudi : 6:00 / 13:30; Vendredi : 06:00
-    / 13:30 et 16:00 / 19:00; Samedi et Dimanche : 06:00 / 13:00'
+opening_hours: Mo,Tu 06:00-19:00; Th 06:00-13:30; Fr 06:00-13:30,16:00-19:00; Sa,Su
+    06:00-13:00
 website: ""

@@ -7,5 +7,5 @@ city: Gap
 street: Route de Saint-Jean
 housenumber: "45"
 phone: "+33492455455"
-opening_hours: Mo-Fr 08:00-12:00 14:00-18:00
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

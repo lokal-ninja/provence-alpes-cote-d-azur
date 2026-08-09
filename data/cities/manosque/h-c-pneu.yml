@@ -7,7 +7,5 @@ city: Manosque
 street: Avenue Frédéric Mistral
 housenumber: "544"
 phone: +33 6 72 18 05 56
-opening_hours: jeudi 07:30–18:30  vendredi 07:30–12:00 14:00–18:30  samedi 07:30–18:30
-     dimanche Fermé  lundi 07:30–18:30  mardi (Fête Nationale du 14 juillet) 07:30–18:30
-    Les horaires peuvent être différents  mercredi 07:30–18:30
+opening_hours: Mo-Th,Sa 07:30-18:30; Fr 07:30-12:00,14:00-18:30; Su off
 website: https://www.hcpneus.fr/
