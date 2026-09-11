@@ -1,5 +1,5 @@
 ---
-title: "Narbonne Accessoires  Aubagne"
+title: "Narbonne Accessoires Aubagne"
 url: /aubagne/narbonne-accessoires-aubagne/
 shop: shop
 ---

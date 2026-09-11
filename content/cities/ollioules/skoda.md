@@ -1,5 +1,5 @@
 ---
-title: "SKODA"
+title: "Skoda"
 url: /ollioules/skoda/
 shop: voiture
 ---

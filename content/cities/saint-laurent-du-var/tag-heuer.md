@@ -1,5 +1,5 @@
 ---
-title: "TAG Heuer"
+title: "Tag Heuer"
 url: /saint-laurent-du-var/tag-heuer/
 shop: montres
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Crau
 url: /la-crau/
-latitude: 43.156
-longitude: 6.094
+latitude: 43.12
+longitude: 6.069
 ---

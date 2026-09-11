@@ -1,5 +1,5 @@
 ---
-title: "A l'infini"
+title: "À l'Infini"
 url: /pierrevert/a-linfini/
 shop: coiffeur
 ---
