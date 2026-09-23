@@ -1,6 +1,6 @@
 ---
 title: Chorges
 url: /chorges/
-latitude: 44.545
-longitude: 6.277
+latitude: 44.534
+longitude: 6.285
 ---
