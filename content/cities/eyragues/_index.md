@@ -1,6 +1,6 @@
 ---
 title: Eyragues
 url: /eyragues/
-latitude: 43.843
-longitude: 4.84
+latitude: 43.841
+longitude: 4.839
 ---

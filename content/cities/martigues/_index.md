@@ -1,6 +1,6 @@
 ---
 title: Martigues
 url: /martigues/
-latitude: 43.409
-longitude: 5.056
+latitude: 43.4
+longitude: 5.062
 ---

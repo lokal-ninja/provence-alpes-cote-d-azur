@@ -1,6 +1,6 @@
 ---
 title: Le Rove
 url: /le-rove/
-latitude: 43.373
-longitude: 5.267
+latitude: 43.368
+longitude: 5.25
 ---

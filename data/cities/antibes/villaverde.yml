@@ -6,6 +6,7 @@ postcode: "06600"
 city: Antibes
 street: Chemin des Combes
 housenumber: "1165"
-phone: +33 4 97 21 21 77
-opening_hours: Mo-Su 09:00-19:00
-website: https://www.villaverde.fr/antibes
+phone: ""
+opening_hours: Mo-Su 09:00-19:00; 2026 Nov 01,2026 Nov 11 09:00-19:00; 2026 Dec 24,2026
+    Dec 31 09:00-18:00; 2026 Dec 25 off; 2027 Jan 01 off
+website: ""

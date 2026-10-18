@@ -1,6 +1,6 @@
 ---
 title: Trets
 url: /trets/
-latitude: 43.452
-longitude: 5.692
+latitude: 43.45
+longitude: 5.687
 ---
