@@ -1,5 +1,5 @@
 ---
-title: "SKI SERVICE MONTGENEVRE"
+title: "Ski Service Montgenèvre"
 url: /montgenevre/ski-service-montgenevre/
 shop: sports
 ---

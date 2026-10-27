@@ -1,6 +1,6 @@
 ---
 title: Saint-Andiol
 url: /saint-andiol/
-latitude: 43.837
-longitude: 4.943
+latitude: 43.836
+longitude: 4.944
 ---

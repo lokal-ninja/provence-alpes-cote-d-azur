@@ -1,5 +1,5 @@
 ---
 title: "Côté route"
 url: /orange/cote-route/
-shop: pneus
+shop: réparation de voitures
 ---

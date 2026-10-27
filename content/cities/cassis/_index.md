@@ -1,6 +1,6 @@
 ---
 title: Cassis
 url: /cassis/
-latitude: 43.215
-longitude: 5.54
+latitude: 43.214
+longitude: 5.541
 ---
