@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /cannes/picard-boulevard-de-la-republique/
+url: /cannes/picard-avenue-du-marechal-juin/
 shop: aliments surgelés
 ---
