@@ -7,5 +7,7 @@ city: Aix-en-Provence
 street: Rue Guillaume du Vair Pole
 housenumber: "330"
 phone: ""
-opening_hours: Mo-Th 10:00-12:00,14:00-19:00; Fr-Sa 10:00-19:00; 2026 Nov 16-18 off
+opening_hours: Mo 10:00-12:00,14:00-19:00; Tu-We 10:00-12:00,14:00-18:00; Th 10:00-12:00,14:00-19:00;
+    Fr-Sa 10:00-19:00; 2026 Nov 16 off; 2026 Dec 24-25 off; 2026 Dec 31-2027 Jan 01
+    off
 website: ""

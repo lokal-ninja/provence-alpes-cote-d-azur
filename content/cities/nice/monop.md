@@ -1,5 +1,5 @@
 ---
-title: "Monop'"
+title: "MONOP'"
 url: /nice/monop/
-shop: commodité
+shop: supermarché
 ---
